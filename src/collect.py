@@ -17,6 +17,7 @@ Usage
 
 The script resumes: an id already present in responses.jsonl (without error) is skipped.
 """
+import os
 import argparse, datetime as dt, hashlib, json, pathlib, random, sys, time
 
 try:
@@ -199,6 +200,13 @@ def main():
     jobs = [(q, l, s, r) for q in a.questions.split(",") for l in a.languages.split(",")
             for s in systems for r in range(1, a.runs + 1)]
     random.Random(a.seed).shuffle(jobs)   # randomised order; seed is logged
+    if not a.mock:   # fail fast instead of retrying calls without credentials
+        need = {"openai": "OPENAI_API_KEY", "anthropic": "ANTHROPIC_API_KEY"}
+        missing = sorted({need[cfg["systems"][s]["provider"]] for s in systems
+                          if not os.environ.get(need[cfg["systems"][s]["provider"]])})
+        if missing:
+            sys.exit("Missing API key(s) in the environment: " + ", ".join(missing)
+                     + ". Set them (setx ... then reopen the terminal) and run again.")
     spent, cap = prior, cfg.get("max_usd", 50)
     print(f"{len(jobs)} jobs, {len(done)} already done, already spent ${prior:.2f}, "
           f"order seed {a.seed}, cap ${cap}, prompts sha256 {prompts_sha[:12]}")
