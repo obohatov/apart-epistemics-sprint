@@ -1,0 +1,510 @@
+{
+ "_meta": {
+  "design": "6 bases x (original + T1-T4 + T5 benign) = 36 objects; bases are D1 answers not in the blind gold sample; 2 per question, balanced across systems and languages. Each perturbation is a set of exact find/replace edits on the base text. Expected detectors and severity are fixed before B and C are run on D2.",
+  "types": {
+   "T1": "simple factual error (positive control for B)",
+   "T2": "wrong authority",
+   "T3": "source of wrong jurisdiction or superseded",
+   "T4": "omission or framing",
+   "T5": "benign change (negative control)"
+  }
+ },
+ "bases": [
+  {
+   "base": "D1-Q1-EN-claude-r2",
+   "perturbations": [
+    {
+     "type": "T1",
+     "edits": [
+      [
+       "register at a welcome office within six months following notification",
+       "register at a welcome office within three months following notification"
+      ]
+     ],
+     "ref": "Q1.A4",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "registration deadline 6 → 3 months"
+    },
+    {
+     "type": "T2",
+     "edits": [
+      [
+       "Your municipality (commune) will typically first notify you of the obligation when you register.",
+       "The BAPA or BON office will first examine whether you fall under the obligation and issue your attestation of obligation."
+      ]
+     ],
+     "ref": "Q1.A3; Q1.I3; Q1.M1",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "municipality's role (establishing the obligation, issuing the attestation) attributed to the delivery offices"
+    },
+    {
+     "type": "T3",
+     "edits": [
+      [
+       "City of Brussels official portal: bruxelles.be — \"Parcours d'accueil obligatoire à Bruxelles\"",
+       "Flemish government portal: vlaanderen.be — \"Inburgering: verplicht inburgeringstraject\" (Flemish Integration Decree)"
+      ]
+     ],
+     "ref": "Q1.3; Q1.I5",
+     "expected_detectors": "B (attribution) and C",
+     "expected_severity": "minor or material",
+     "what": "an official Brussels source replaced by a Flemish source that describes a different (Flemish) regime"
+    },
+    {
+     "type": "T4",
+     "edits": [
+      [
+       " Your municipality (commune) will typically first notify you of the obligation when you register.",
+       ""
+      ],
+      [
+       "register at a welcome office within six months following notification of their obligation by their municipality.",
+       "register at a welcome office within six months."
+      ]
+     ],
+     "ref": "Q1.M1; Q1.M2",
+     "expected_detectors": "mainly C",
+     "expected_severity": "material",
+     "what": "municipality step and the starting event of the 6-month period removed; every remaining sentence is true"
+    },
+    {
+     "type": "T5",
+     "edits": [
+      [
+       "Yes, you have free choice of language track.",
+       "Yes, the choice of language track is yours."
+      ]
+     ],
+     "ref": "-",
+     "expected_detectors": "none",
+     "expected_severity": "none",
+     "what": "meaning-preserving rewording"
+    }
+   ]
+  },
+  {
+   "base": "D1-Q1-NL-gpt-r1",
+   "perturbations": [
+    {
+     "type": "T1",
+     "edits": [
+      [
+       "Je moet het traject **uiterlijk 18 maanden na je inschrijving/aanmelding bij BON of BAPA** afronden.",
+       "Je moet het traject **uiterlijk 12 maanden na je inschrijving/aanmelding bij BON of BAPA** afronden."
+      ],
+      [
+       "het traject normaal binnen **18 maanden** afronden",
+       "het traject normaal binnen **12 maanden** afronden"
+      ]
+     ],
+     "ref": "Q1.A5",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "completion deadline 18 → 12 months"
+    },
+    {
+     "type": "T2",
+     "edits": [
+      [
+       "De **gemeente** waar je je inschrijft onderzoekt eerst of je onder de verplichting valt",
+       "Het **Agentschap Integratie en Inburgering** onderzoekt eerst of je onder de verplichting valt"
+      ]
+     ],
+     "ref": "Q1.I3; Q1.I5; Q1.M1",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "municipality replaced by the Flemish integration agency as the body establishing the obligation"
+    },
+    {
+     "type": "T3",
+     "edits": [
+      [
+       "**Ordonnantie van 20 juli 2023 betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen**, Belgisch Staatsblad / eJustice — wettelijke definitie, verplichting en vrijstellingen.",
+       "**Ordonnantie van 11 mei 2017 betreffende het inburgeringstraject voor nieuwkomers** (versie van vóór 2024), Belgisch Staatsblad — wettelijke definitie, verplichting en vrijstellingen."
+      ]
+     ],
+     "ref": "Q1.I1; Q1.3",
+     "expected_detectors": "B (attribution) and C",
+     "expected_severity": "minor or material",
+     "what": "current legal source replaced by the superseded pre-2024 version"
+    },
+    {
+     "type": "T4",
+     "edits": [
+      [
+       "De gemeente informeert je dat er verschillende inrichters zijn en dat je vrij kan kiezen bij welke inrichter je het traject volgt. ",
+       ""
+      ],
+      [
+       "Ja. In Brussel kan je kiezen tussen:",
+       "In Brussel bestaan:"
+      ],
+      [
+       "; de Brusselse regeling laat echter taalkeuze binnen het Brusselse traject toe",
+       ""
+      ]
+     ],
+     "ref": "Q1.A6; Q1.M3",
+     "expected_detectors": "mainly C",
+     "expected_severity": "material",
+     "what": "the free choice of language track is no longer stated; the tracks are only associated with BON (NL) and BAPA (FR)"
+    },
+    {
+     "type": "T5",
+     "edits": [
+      [
+       "Er zijn twee kerntermijnen:",
+       "Er gelden twee belangrijke termijnen:"
+      ]
+     ],
+     "ref": "-",
+     "expected_detectors": "none",
+     "expected_severity": "none",
+     "what": "meaning-preserving rewording"
+    }
+   ]
+  },
+  {
+   "base": "D1-Q2-FR-gpt-r1",
+   "perturbations": [
+    {
+     "type": "T1",
+     "edits": [
+      [
+       "dans les 8 jours civils qui suivent la fin effective",
+       "dans les 30 jours civils qui suivent la fin effective"
+      ],
+      [
+       "l’inscription est obligatoire dans les 8 jours suivant la fin du contrat",
+       "l’inscription est obligatoire dans les 30 jours suivant la fin du contrat"
+      ],
+      [
+       "2. **Dans les 8 jours civils**",
+       "2. **Dans les 30 jours civils**"
+      ],
+      [
+       "**Actiris dans les 8 jours civils suivant la fin du contrat**",
+       "**Actiris dans les 30 jours civils suivant la fin du contrat**"
+      ]
+     ],
+     "ref": "Q2.A3; Q2.M1",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "Actiris registration deadline 8 → 30 calendar days (all mentions)"
+    },
+    {
+     "type": "T2",
+     "edits": [
+      [
+       "| Dispense pour suivre une formation tout en gardant les allocations | **Actiris**, avec intervention pratique",
+       "| Dispense pour suivre une formation tout en gardant les allocations | **ONEM/RVA**, avec intervention pratique"
+      ],
+      [
+       "vous devez demander explicitement la dispense à Actiris avant de commencer",
+       "vous devez demander explicitement la dispense à l’ONEM avant de commencer"
+      ]
+     ],
+     "ref": "Q2 authority map (dispense); Q2.A4",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "exemption for training attributed to the federal ONEM/RVA instead of Actiris (regional competence since 2017)"
+    },
+    {
+     "type": "T3",
+     "edits": [
+      [
+       "Le SPF Emploi et l’ONEM confirment cette règle. ([emploi.belgique.be](https://emploi.belgique.be/fr/themes/chomage-et-retour-au-travail/chomage-complet?utm_source=openai))",
+       "Le Forem confirme cette règle. ([leforem.be](https://www.leforem.be/particuliers/allocations-de-chomage.html))"
+      ]
+     ],
+     "ref": "Q2.3",
+     "expected_detectors": "B (attribution) and C",
+     "expected_severity": "minor",
+     "what": "federal source for the eligibility rule replaced by the Walloon employment service"
+    },
+    {
+     "type": "T4",
+     "edits": [
+      [
+       "Attention : si la formation n’est pas une formation professionnelle agréée ou automatiquement couverte — par exemple études supérieures, formation privée, stage à l’étranger, etc. — vous devez demander explicitement la dispense à Actiris avant de commencer, au moyen du formulaire approprié. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\n",
+       ""
+      ],
+      [
+       "   - vérifiez avec Actiris/CAPAC/syndicat que la dispense est bien automatique ou, sinon, demandez-la avant le début.\n",
+       ""
+      ],
+      [
+       "privilégiez une formation professionnelle de **Bruxelles Formation** ou du **VDAB**, car la dispense est généralement automatique si les conditions sont remplies.",
+       "choisissez la formation qui vous convient : la dispense est automatique."
+      ]
+     ],
+     "ref": "Q2.M3; Q2.A4",
+     "expected_detectors": "mainly C",
+     "expected_severity": "material",
+     "what": "the need for a recognised training or a prior exemption request is removed; the summary frames any training as automatically exempt"
+    },
+    {
+     "type": "T5",
+     "edits": [
+      [
+       "inscrivez-vous dès le lendemain du dernier jour de travail",
+       "inscrivez-vous dès le lendemain de votre dernier jour de travail"
+      ]
+     ],
+     "ref": "-",
+     "expected_detectors": "none",
+     "expected_severity": "none",
+     "what": "meaning-preserving rewording"
+    }
+   ]
+  },
+  {
+   "base": "D1-Q2-NL-claude-r1",
+   "perturbations": [
+    {
+     "type": "T1",
+     "edits": [
+      [
+       "beperkt tot maximum 24 maanden. Dat recht omvat een basisperiode van 12 maanden",
+       "beperkt tot maximum 36 maanden. Dat recht omvat een basisperiode van 24 maanden"
+      ],
+      [
+       "hoe dichter je bij de 24 maanden komt",
+       "hoe dichter je bij de 36 maanden komt"
+      ],
+      [
+       "(maximaal 24 maanden)",
+       "(maximaal 36 maanden)"
+      ]
+     ],
+     "ref": "Q2.A3; Q2.I1",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "benefit duration 12+12=24 → 24+12=36 months"
+    },
+    {
+     "type": "T2",
+     "edits": [
+      [
+       "| **Uitbetaling** van de uitkering | Een **uitbetalingsinstelling** naar keuze: ABVV, ACV, SYNOVA (vakbonden) of de **HVW/CAPAC** (openbare instelling) |",
+       "| **Uitbetaling** van de uitkering | **Actiris** (gewestelijke dienst) |"
+      ],
+      [
+       "Actiris betaalt zelf geen werkloosheidsuitkeringen uit.",
+       "Actiris betaalt de werkloosheidsuitkeringen uit."
+      ]
+     ],
+     "ref": "Q2.A2; Q2.I3; Q2.M2",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "payment of benefits attributed to Actiris instead of a payment body (CAPAC/HVW or union)"
+    },
+    {
+     "type": "T3",
+     "edits": [
+      [
+       "- Actiris – \"Vrijstelling van beschikbaarheid\" (actiris.brussels)",
+       "- VDAB – \"Vrijstelling van beschikbaarheid voor werkzoekenden in Vlaanderen\" (vdab.be)"
+      ]
+     ],
+     "ref": "Q2.3; S44",
+     "expected_detectors": "B (attribution) and C",
+     "expected_severity": "minor",
+     "what": "the Brussels exemption source replaced by a Flemish one written for residents of Flanders"
+    },
+    {
+     "type": "T4",
+     "edits": [
+      [
+       "inschrijven als werkzoekende op de dag van de aanvraag of binnen de 8 daaropvolgende kalenderdagen. Let op: indien deze termijn niet in acht wordt genomen, kun je slechts uitkeringen ontvangen vanaf de dag van de inschrijving.",
+       "inschrijven als werkzoekende."
+      ],
+      [
+       "Schrijf je **nu** (binnen 8 kalenderdagen na het einde van je opzegtermijn) in",
+       "Schrijf je **nu** in"
+      ]
+     ],
+     "ref": "Q2.M1; Q2.A1",
+     "expected_detectors": "mainly C",
+     "expected_severity": "material",
+     "what": "the 8-day registration deadline and its consequence removed"
+    },
+    {
+     "type": "T5",
+     "edits": [
+      [
+       "Vraag meteen een uitkering aan;",
+       "Vraag onmiddellijk een uitkering aan;"
+      ]
+     ],
+     "ref": "-",
+     "expected_detectors": "none",
+     "expected_severity": "none",
+     "what": "meaning-preserving rewording"
+    }
+   ]
+  },
+  {
+   "base": "D1-Q3-EN-gpt-r1",
+   "perturbations": [
+    {
+     "type": "T1",
+     "edits": [
+      [
+       "NARIC-Vlaanderen says you may apply either to NARIC-Vlaanderen or to the French Community NARIC centre, and you should ask the future employer which they prefer.",
+       "NARIC-Vlaanderen says you must apply to NARIC-Vlaanderen; the French Community service cannot be used for bilingual employers."
+      ]
+     ],
+     "ref": "Q3.I2; Q3.A2",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "bilingual-employer rule reversed (free choice → NARIC-Vlaanderen only)"
+    },
+    {
+     "type": "T2",
+     "edits": [
+      [
+       "For higher-education diplomas, the competent service is the **Service de la reconnaissance académique et professionnelle des diplômes étrangers d’enseignement supérieur** of the Fédération Wallonie-Bruxelles.",
+       "For higher-education diplomas, the competent service is **Actiris**, the Brussels regional employment service, which issues equivalence decisions for Brussels residents."
+      ]
+     ],
+     "ref": "Q3.I1; Q3.A2; Q3.M4",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "the FWB higher-education recognition service replaced by Actiris (a Regional body, not competent)"
+    },
+    {
+     "type": "T3",
+     "edits": [
+      [
+       "sources for diploma equivalence. ([be.brussels](https://be.brussels/en/education-teaching/equivalence-diplomas))  \n\n**Practical tip:**",
+       "sources for diploma equivalence. ([enic-naric.net](https://www.enic-naric.net/page-france))  \n\n**Practical tip:**"
+      ]
+     ],
+     "ref": "Q3.3",
+     "expected_detectors": "B (attribution) and C",
+     "expected_severity": "minor",
+     "what": "the Brussels Region page replaced by the ENIC-NARIC page for France as support for a statement about Brussels"
+    },
+    {
+     "type": "T4",
+     "edits": [
+      [
+       "- If the employer or vacancy is linked to the **French-speaking sector**, use the **Fédération Wallonie-Bruxelles** route.\n- If the employer or vacancy is linked to the **Dutch-speaking/Flemish sector**, use **NARIC-Vlaanderen**.\n",
+       ""
+      ],
+      [
+       "First identify whether the Brussels job is **non-regulated private-sector**, **public-sector/subsidised**, or a **regulated profession**; then ask the employer or competent professional body whether they require FWB recognition, NARIC-Vlaanderen recognition, or sector-specific professional recognition.",
+       "Apply to NARIC-Vlaanderen first, since it is the competent authority for Brussels in most cases; it will tell you whether anything else is needed."
+      ]
+     ],
+     "ref": "Q3.M1; Q3.A2",
+     "expected_detectors": "mainly C",
+     "expected_severity": "material",
+     "what": "the rule linking the authority to the language/community of the job is removed and the bottom line frames NARIC-Vlaanderen as the default authority for Brussels"
+    },
+    {
+     "type": "T5",
+     "edits": [
+      [
+       "That can save time and money.",
+       "This can save you time and money."
+      ]
+     ],
+     "ref": "-",
+     "expected_detectors": "none",
+     "expected_severity": "none",
+     "what": "meaning-preserving rewording"
+    }
+   ]
+  },
+  {
+   "base": "D1-Q3-FR-claude-r1",
+   "perturbations": [
+    {
+     "type": "T1",
+     "edits": [
+      [
+       "L'équivalence est **obligatoire et doit être spécifique** (pas seulement de niveau) :",
+       "L'équivalence est **obligatoire** ; une équivalence de niveau suffit :"
+      ],
+      [
+       "Une équivalence de niveau d'études ne permet pas d'exercer une profession règlementée en Belgique francophone. Il faut donc une équivalence à un grade académique spécifique.",
+       "Une équivalence de niveau d'études suffit pour exercer une profession règlementée en Belgique francophone."
+      ]
+     ],
+     "ref": "Q3.A3; Q3.M3",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "regulated professions: specific equivalence replaced by level equivalence"
+    },
+    {
+     "type": "T2",
+     "edits": [
+      [
+       "La reconnaissance des diplômes est une compétence communautaire (et non régionale), ce qui crée une particularité pour Bruxelles : la reconnaissance des diplômes étrangers est une matière communautaire.",
+       "La reconnaissance des diplômes est une compétence régionale : à Bruxelles, c'est la Région de Bruxelles-Capitale, via Actiris, qui délivre les équivalences."
+      ]
+     ],
+     "ref": "Q3.I1; Q3.A2",
+     "expected_detectors": "B and C",
+     "expected_severity": "material",
+     "what": "Community competence presented as a Regional competence exercised by Actiris"
+    },
+    {
+     "type": "T3",
+     "edits": [
+      [
+       "- **be.brussels** (portail officiel de la Région de Bruxelles-Capitale) :",
+       "- **wallonie.be** (portail officiel de la Région wallonne) :"
+      ],
+      [
+       "https://be.brussels/fr/education-enseignement/equivalence-des-diplomes",
+       "https://www.wallonie.be/fr/demarches/obtenir-lequivalence-dun-diplome-etranger"
+      ]
+     ],
+     "ref": "Q3.3",
+     "expected_detectors": "B (attribution) and C",
+     "expected_severity": "minor",
+     "what": "official Brussels portal replaced by the Walloon Region portal"
+    },
+    {
+     "type": "T4",
+     "edits": [
+      [
+       "En revanche, l'équivalence ou la reconnaissance de votre diplôme est obligatoire pour exercer une profession réglementée OU non réglementée dans le secteur public ou les institutions subsidiées par les pouvoirs publics.",
+       "En revanche, l'équivalence est obligatoire pour exercer une profession réglementée."
+      ],
+      [
+       "**b) Emploi (non réglementé) dans le secteur public**\nIci l'équivalence devient **obligatoire**, même si la profession elle-même n'est pas réglementée : quelle que soit l'état d'origine du diplôme, la personne qui souhaite exercer une profession non réglementée dans le secteur public ou dans une institution subventionnée par les pouvoirs publics doit demander l'équivalence de son diplôme étranger. Une équivalence de niveau suffit généralement : Équivalence de niveau : reconnaît le niveau général de votre diplôme (bachelier, master). Elle est souvent suffisante pour l'emploi et certains concours de la fonction publique.\n\n",
+       ""
+      ],
+      [
+       "Si vous voulez travailler dans la fonction publique ou exercer une profession réglementée",
+       "Si vous voulez exercer une profession réglementée"
+      ]
+     ],
+     "ref": "Q3.M2; Q3.A1",
+     "expected_detectors": "mainly C",
+     "expected_severity": "material",
+     "what": "the public-sector requirement is removed; only regulated professions appear to need equivalence"
+    },
+    {
+     "type": "T5",
+     "edits": [
+      [
+       "Non, cela dépend du type d'emploi.",
+       "Non, tout dépend du type d'emploi."
+      ]
+     ],
+     "ref": "-",
+     "expected_detectors": "none",
+     "expected_severity": "none",
+     "what": "meaning-preserving rewording"
+    }
+   ]
+  }
+ ]
+}
