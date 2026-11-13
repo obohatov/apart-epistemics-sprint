@@ -1,0 +1,273 @@
+{
+ "id": "resp_07feb75f4cb97a85006af764bce67887d29a008c1f39482557",
+ "access_programs": null,
+ "created_at": 1794598076.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_07feb75f4cb97a85006af764be447087d292247019d3030383",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92TaO9U6GTS7kppQSbwcQlYgpyrj0nkPn8Dt1mh8dpKFn9oPU4lOIC1pMt9mWI2cMXWvkCQjc2GrecWUz24f8r6oNwMyXkUajOnQlOwRGy2fviiapSJb1X88yDtfbU0ExB5k2nU7YWqD_SDehPT6dF1lepSwVc1dHP41H9MCSLUSCwoUXPE-nMbXAJeq-3NCqbDwkkWlYIqfzMlefJpDeav3LPFCtlmqGcOFdlXGa-0atfjOV3igmvoWmd8QiWQWVdEgSPt8DQJpwOTAo_fEttsXKOSocRLrioilWXFzqtfGHr6WitvTaREDkLzTKJZL9wuIt3a_tBsC125VE4huXfYOeVgUrPvMXbwY9t3-TMWDth9jPiZ0ee65RgSbfsbS2XD5cmdbaYQLUjkupp8tPLLT2fPvVUqeb2KkMdetMNXSDtkDiKrv7erUI5DaJGn1YzrOCvqgZvJ6PS3szEJpzl9Cqg-i3L7cVZJ0YadPvL5n50WsNuwEckIc-tPIclvXK1d-Kyr_ycl4oy9u2OM6b-PGvXFRvtAv9vx0fTzJE2eQhBx9E2XakwJxaltYTex5NCGscF3KSbwiq7QPRx7aOlycLUS1XAGmi6FwKF8Bbtb_MMw6BRqXAJ7Clh-9P5L9_mcUyKsU8Rwm6FS5virzuTl5hUek6024AAUZg0OO2AmbknLEO0IhWoqTZtrAEYGLYB5tVq8szQ6TUCZy5VnVslee-D1UCuY9HFgYmnP4-hXv2uvHANq9oOgQeDeu_dbcjEl9zhL3_F2Ay7qoNzrg_tFMd-lhgaSjBohifxIfImvBGyg1II-palEO_5J-Jb6NTk2tk1VTR3cRgwejtvSqrm9xUvHfwLbuYyqqdbYFPd0ITpO5CUAgysKpZPM1NAzJqaSoTJ2TgmIHPMl9OsKQH6v2HeHf58zZFPhKzDtbqxfXaONshd0o9Jg4BS06VYgOakaakDKZCEc_ZwVSHhakRKMI4JvPwWpR6YsUy6SlX3z-TcYZeVj1ZwaNJirPirI42nZeNL8o9Mi22IHghf8AISzX2Ss8hoxRFHYoICJI8pvH21nL3c7ThMNrptvawhH_z-Q6_ev5G7o3jViSH4Mgc6TfE_jmc4pqZVhLjbV-XEeVeuTJGbe5swqiiAwo5IaadWB7pnj21ONXP1xLbU0xxhBo0XLBMl6EEQLCEYazV4LrVF4Fi_46Z6PRhrWIDoYdi0Jd80jnOb5lVTMtgYVvRZCK6UIrNE2yOA0ZNDh8vUI14PEzfqI4PUJCPZ2JKK0OSz0clDwsvvms6pVXMNbrEfFZhixmKtpZGtnROjGSrUg-qb-9ipq-sF5R6-XrTzp6Bn9GC3gLdl2O1oA9yDNAEj38ZQ4OWx_sBo-fdEKxakHsnxHVlErrIPUY9pSxy2zUymkTZkuqtp1udByNEqbegHIZB9VqYJJIvKo5jBP9BWeC42g0R4HjVD2IKaJ9qXeadhq2gqOpSIRCaIAq_Opaziel3woGIBoI2LjXcnyZS2U00I9irgDcDZaY-azw5FcaTIX-GYUUE3YkxPnmq3pYa_zjO6MAiKpLJuUtZ7_Fwvan5DhRQfWGYZDDEIzhSTvpDqUKGXGEisDM64QxxmcWL9ek2c64C6k1d3T1Nr3pCz1xqnQOY-WS0EJYLsFDbWjK3p1lOuzwhVqvk77MtthGNN8vBbYGYx25JQfRVvOZLPOjbKhJ9zbOU-GAWLpZiOo-M8ZmnOHUSH89FLSIJgVwj_BTCGXNi2nk8fPbZfkmECSWIUQ9UKnqQ8FyZxKiB6FknH-E",
+   "status": null
+  },
+  {
+   "id": "ws_07feb75f4cb97a85006af764be895487d281ee43a2d89df052",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Bruxelles parcours accueil intégration obligatoire primo-arrivant titre séjour plus de trois mois moins de trois ans exemptions délais inscription achèvement officiel",
+     "bon.brussels inburgering verplicht Brussel termijnen 2024 nieuwkomers verplicht",
+     "Commission communautaire commune parcours accueil primo-arrivants obligatoire Bruxelles ordonnance délais"
+    ],
+    "query": "Bruxelles parcours accueil intégration obligatoire primo-arrivant titre séjour plus de trois mois moins de trois ans exemptions délais inscription achèvement officiel",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_07feb75f4cb97a85006af764c24c7487d2837a6864b9500b72",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92TaXdFqryzaNqZZWNc7uNSnt6E7M4azCPaUdLBiFSBY0OOaRQRfMsAkg7LUoDIJBXG0ul6bFU836KxLHAGzTURAGLm7fVJ22LSuuEGOVBRuggbBzEDKFAqR3wHuvbnPKsE1bhc3yU1JfVsWeesuhHZE3my4FU6Zk7ar3tEVnKhFzgp26tqdk9tMqzUoHGSucu2aMHwOHY6eLSyS91zIUSg3eR3lNByV8YEeemzQqOUw9S4QIHbVGjEXVt0ty3Yu-C0K9ABYDCnd_1SHvb_E4BLd93glvwIK5GwjZnHQ1i208vambbmC-fx6Y4UNgWOu_EaKv9exBzbHpP8haYQwq_68urx17Tcx1Wi-woxrM6Adi3zKBinLx6EBhc66JrKb9AUFQb23GcqZ9Ap6cHSZQK-L5ARKzjzAQbfZOb_7pIAH8wRd9Shcl7rY9g1SEAoebdvrtBID6pHLMMPgWEL5_gYeGf2Ay4ioTa616_A5SOnonnKRRkZrHWFrnMub0sB-2Rm1U1CokMBc-n1Ab-1Ix2Yy2FEjAdZWXDQqn9SK9dBWEK8E1Mw5d6sPQFaivGPPw9fSwxJMOdIa7FAcvPU0OP3xxNLwnimo5FSM9YZZBncdv1_GOUzvb3uZO6e1ZVSnXtiVSvhIPjzS4DCFeo-jsNhRLMCHuGSQQazErkMh052Iox7MVZGBYLlU9uwwH_EgJjj3gI2yjYkVn8pxoz--us69nBH0NLBlaa4mVp2AhrLYJEF92YvTLGTTRMQfJJPqHmg_mX7JbpokE2Yep_xDpuIyU1vRYxeGglsK2H3nzq7IuPktf8Iv295RGMcpm_W91dvfcuiMQ6LZKYw8SWO1JUdwLeIT0NsVuPqku9V8Xb66NeMeysAVNi0bOaTAlfbGNv6WEURyJVQJ7bpgMXTGWhUOS1IxNdFaz_2O_SicS449wGC2YHlmuxPDTMXDCZOiQNhcRcOF0-uKmxQInC6OETmOkHK9pNawxl-JiKiyx2lUDfzX6XVJi9Onb8o71VkU_ndEedQOl6cmIsXNPjnG4rN8eIirllQxSjda-sxndQemPFxc_M5mkvwXEed3eSMHYCHhlve__cPRYbn4yS9P46KAq33tiuCcotr_2c4-i30yDT2xIeN1MkWO8pOyKZw-E34rbmxJNy2bTWeuPfTyj8uLmXknGTFIBAfBG5V9AMBY6d8sdOlnvIShZTAHFst9SLGm9cvtspkB1Y-eJI99ylQfAkhhNUH_1R0MeG4QjHfoU7pVdo5mly19hDt3xeItJD7pPJCFY9gGF52loqZfqaztsj-dp0XlOIYK-eSfq5Q7UWOVYRdWmeYGe2pV9r20Z5RNS3WOwEEltIt1vXVT_433L4dqalAK9zgTg_iG58EHAxSPtz1e52JaNAuOpfHl9CWPV7i6svXfNUG_kiVLtm3t-2G_xjVbF0sBSXvqIy3qubKwjYHHk-FOLhvDS-nDm-2W1mFFgjZ33l_8pcD4qkKfm1CAXymZrfyYOR2DdAox0ZX7riUrYF8U7Wh0wY9mbiGdrIkDQMmx1qNDGTKWaWGmqKx_18NhTsVVWHcoUWang4Wlz8h6mLYjkwQ9PSFLkx3LkTwzJSvURmxcab-tdKleSxQTsW3o34xMJ96_HvA28bR8jq-eyor7jQlfuxEAuShpukyeavxEgGfp0-C2ttqqyUjqZKxm7aT0NvzR5C0gy0y6IuLXKfLnAnQx_RvDQvcZUMVlSztOnfoIQq6iFiuFmZP5ChsaI9Zpz3MBDropXzVRBHbXrnoaKi8AsNQPOBhQ",
+   "status": null
+  },
+  {
+   "id": "ws_07feb75f4cb97a85006af764c2648487d296c16788e6c7d6bd",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_07feb75f4cb97a85006af764c3c57087d28f0d1a96f3968ced",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92TarP8IvEfVesOup0hui_KpIe7-trnKzc7ivViOWKW-IhD2KfUfgTqXEPNn8mv5N6iL45CFEA8HezKOjYRUgF2WyxhMEUWv5RW-5_Rlp4ycs50heTkx_EAgjv9v4sqk2uq4C1IjZ9hQ69HrM0PZiZlUtBno0-MFvVU0wZKBkV4ck_SQKUkLvpPuky6DWVuGIhW0ph8pIhd6zW3m1cIIPCMAjDbkCG4sDyevQ9PItrKFCofC-Y3h9kNTKiw_Rkp87kPIEz5nm-dDqotENUj6IbFAnGwvZ60pMbw8430EGCFVowGnyOSR91P9hkII5VwgSOaK3mO0cY6Rx9cxVrmX0T3Zn2cA_6ql_31Ewaznd4G8MHB_h42Eg7pUKjIlg3Gr4bLONXf47u65-5bwZ9Xa8y6hFgzVqKF6XLRSCcY11IYVEbWy8YFjBxvsl-dP53iZ01D9tKwytVyzeJ4c8Yw-lhIIhi5ii2PGtox10EYslQo8rHlslWgKI2LbvY3i08M7Ca5-Dpr4JliKNmdP_7oRS1U7LV8cYpy3e9Des_6P3pjNFbjAUmJgbKxlSFd5qHh5Hi889-NiplZbpSwrbyWeBRMmG5LKIz5_15O9hT5fdJhXyiRvFnl8d8cuYZMmjiF47EvnSv4bj-y9JuhARyoNrXiT3KsO1rC_BljMpTPlcOc32xhAK5_MgRNL1kHlciMxHja9k105kVqxg6y38CUEAtpBMP1F0OCgDdH3k_gIMBlMxSjxO2v8ZUT-TKVZ435rbqFkpBavzd55XjKPAwVDLwPiCTezAfXoxBx-PgpbZtjS2cd5PVmCMmNo02pye7p_5s7l0adaFs9NJYgodJ8fAPKwtVXS72YcO65r9SrRp-brSNeydIAW_oevd2TK2IQmal2yjtvlDRzhd_JxU_uG9vwapUwBGppZ5Fi6SD5g2c1uYKK-CCZHPwbuG6_cjp3vpKkSI84-QYYbJCnzK-XrTQkcGFmuiBE_8VdsD7RQypxHxhBIRbsoRCdM2JY-qQhzvEc0ycgnA_b-svTQlJS4UPOHwGs5EypN1d8ZAEVNJ6NJiDct-Ekn4zYju5gkmwyuk1M4Q3uJJG2RqKG8TXiYf_TTA5F2twsSu-W6hb4SKN7q34ZECUnz08I6-xFQSP5kLzaWNb8GTQjvSDIA6_VJwrnG-8iL7P6nYwslPwoHZZFBui-k3mjnQ67Lye2923anpkct2bbb8N8G_My8QsTNn5nGArlx6_Be3_W7pBRfrzJgyoeTfNVtHWXWg3EMgmAf0JuEzmyr1eX_evYUikm4beoeOm9NI81WCvgIKPLX7LnfMxDgJGDXFJP2W5pAYxI0tosSwAVRmJ2p4sWWFZgtAGifmNmuI2vsQPdSrJojjR9bhOy_L2NVbR_qcJFInvmXlQz2Z0iH4UOydi6qoZp7PWG8PKHgfogNM-R2S-n7_bKwq2HcpHZQHwMc2z7BrxLPLelHhBajd61aa_pHqTEJd6W6Tcol5fSIUesA3qbuozpvEe_6q1cFSVuUvnR1TviiX5nRgYgGKFjj6-xHxRxSUe1dBLP0vy0p3CoJo-DBTwOTjedWsH7017JMOLJ2mZiLgVMJPGmuSxRJ2u1pfqvObaAANe-iXNrKV8yH7GyCE2I5seWe23Lx5d9V5234OLMsh15swXffg8t7bImCwyugsTOcy5wPVL99hrHIy0761e5v1ZTKakBtatch31wJlHcf897T0fd4AUsbF2gUbDPqujxhusSAnpHl63yTNMG8XpfAiPlDgZhtmeFt497t_sCIei7Jq02CEpWuv-xAqzgxoXWdtKCvsdOJn0RBqSrtP6lC4qCuofm_r0_yFrYO_OnaOnz_CNpiUnugHEhGhNg3zk00SNwztAIYwfNR5-lAFpTSjiKojobhIzTCEViO-cJlrbQXdxHGRh1vxOL2JSK7Ic3zPCz2Rg8_FSaIHMZvSNRuyLCm-GotVfRxqVWxbuq3nEyVTmoXtCWdi9J1sOHoakMPRUNXUee8Sfrt8WAahgmBse0RiKcPbt39vBAXB4tLzM-vbVEBQTaXIbFtPluYGTCDvAZ3M54lvhE2vOdJQsMeoqA=",
+   "status": null
+  },
+  {
+   "id": "msg_07feb75f4cb97a85006af764c4438487d281219191b724771c",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 641,
+       "start_index": 535,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 1234,
+       "start_index": 1128,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 2540,
+       "start_index": 2434,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 2992,
+       "start_index": 2944,
+       "title": "18 JANVIER 2024. - Arrêté du Collège réuni de la Commission communautaire commune portant exécution de l'Ordonnance du 20 juillet 2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes étrangères",
+       "type": "url_citation",
+       "url": "https://refli.be/fr/lex/2024000670"
+      },
+      {
+       "end_index": 3183,
+       "start_index": 3135,
+       "title": "18 JANVIER 2024. - Arrêté du Collège réuni de la Commission communautaire commune portant exécution de l'Ordonnance du 20 juillet 2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes étrangères",
+       "type": "url_citation",
+       "url": "https://refli.be/fr/lex/2024000670"
+      },
+      {
+       "end_index": 3620,
+       "start_index": 3548,
+       "title": "Déroulé du parcours - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/trajectory"
+      },
+      {
+       "end_index": 4013,
+       "start_index": 3814,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      },
+      {
+       "end_index": 4269,
+       "start_index": 4118,
+       "title": "Accueil et Accompagnement des primo-arrivants et des personnes étrangères < Commission communautaire française (COCOF) - Francophones Bruxelles",
+       "type": "url_citation",
+       "url": "https://ccf.brussels/nos-services/diversite-et-citoyennete/accueil-et-accompagnement-des-primo-arrivants-et-des-personnes-etrangeres/"
+      },
+      {
+       "end_index": 4795,
+       "start_index": 4596,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      },
+      {
+       "end_index": 5104,
+       "start_index": 4905,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      },
+      {
+       "end_index": 5313,
+       "start_index": 5241,
+       "title": "Déroulé du parcours - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/trajectory"
+      },
+      {
+       "end_index": 5711,
+       "start_index": 5512,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      },
+      {
+       "end_index": 6062,
+       "start_index": 5863,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      },
+      {
+       "end_index": 6619,
+       "start_index": 6420,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      }
+     ],
+     "text": "Oui — **d’après les éléments que vous donnez, le parcours d’accueil/d’intégration bruxellois est en principe obligatoire pour vous**, sauf si vous entrez dans une exemption particulière.\n\nVous êtes : ressortissant hors UE, âgé de 40 ans, inscrit pour la première fois au registre des étrangers d’une commune bruxelloise, avec un titre de séjour de plus de 3 mois, et vous séjournez légalement en Belgique depuis moins de 3 ans. Ces critères correspondent à la définition légale du **primo-arrivant visé par l’obligation** à Bruxelles. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\n## 1) Obligation et exemptions pertinentes\n\n### Obligation\n\nLe parcours est obligatoire pour une personne qui remplit cumulativement ces conditions :\n\n- être **étrangère majeure** et avoir **moins de 65 ans** ;\n- séjourner légalement en Belgique depuis **moins de 3 ans** ;\n- être inscrite **pour la première fois** avec un titre de séjour de **plus de 3 mois** au registre des étrangers d’une commune de la Région bilingue de Bruxelles-Capitale ;\n- ne pas bénéficier d’une exemption. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nÀ 40 ans, avec les autres critères que vous indiquez, vous êtes donc **dans le groupe cible obligatoire**, sauf exemption.\n\n### Exemptions principales\n\nLes exemptions prévues par l’ordonnance du 20 juillet 2023 incluent notamment :\n\n- les personnes résidant en Belgique **à titre temporaire pour maximum 1 an**, ainsi que certains membres de leur famille ;\n- les ressortissants d’un pays **UE+** — c’est-à-dire Union européenne, Espace économique européen et Suisse ;\n- certains membres de famille de citoyens UE/EEE/Suisse bénéficiant du droit de séjour fondé sur la libre circulation ;\n- certains résidents de longue durée UE qui prouvent avoir déjà rempli des conditions d’intégration dans un autre État membre ;\n- les personnes qui, pour raison médicale grave ou handicap mental/physique, prouvent qu’une participation est impossible de manière permanente ;\n- les personnes qui ont déjà obtenu une attestation de suivi d’un parcours similaire ;\n- les personnes auparavant inscrites au registre des étrangers d’une commune d’une autre région linguistique où elles étaient dispensées de l’obligation d’intégration ;\n- les personnes ayant certains diplômes ou certificats d’enseignement reconnus. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nL’arrêté d’exécution ajoute notamment que sont exemptées les personnes dont le séjour est uniquement fondé sur le **travail, les études, l’enseignement, la formation, le stage, l’échange ou le volontariat**, lorsque le droit de séjour est limité à la durée de l’activité concernée ; les bénéficiaires de la **protection temporaire** sont également exemptés en raison du caractère provisoire du séjour. ([refli.be](https://refli.be/fr/lex/2024000670))\n\nSi vous pensez relever d’une exemption, vous devez en fournir la preuve à la commune, sauf si l’exemption ressort déjà du registre national. ([refli.be](https://refli.be/fr/lex/2024000670))\n\n## 2) Autorité ou bureau à contacter\n\nLe premier interlocuteur est **votre commune bruxelloise** : lors de l’inscription au registre des étrangers, la commune vérifie si vous êtes dans le groupe cible et si une exemption ressort du registre national. Si vous êtes soumis à l’obligation, elle vous remet une brochure d’information et une attestation d’obligation. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/trajectory))\n\nPour suivre le parcours, vous devez ensuite vous adresser à un bureau d’accueil agréé :\n\n- **en néerlandais** : **BON** ;\n- **en français** : **BAPA BXL**, **BAPA Convivial** ou **BAPA VIA**. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))\n\nDepuis le 1er janvier 2024, le parcours d’accueil bruxellois est bilingue et est géré par **Vivalis**. ([ccf.brussels](https://ccf.brussels/nos-services/diversite-et-citoyennete/accueil-et-accompagnement-des-primo-arrivants-et-des-personnes-etrangeres/))\n\n## 3) Délais d’inscription et d’achèvement\n\nVous devez vous inscrire auprès de BON ou d’un BAPA **dans les 6 mois**. Les sources officielles formulent le point de départ comme suit : après réception de la carte de séjour et de l’attestation d’obligation, ou au plus tard 6 mois après réception de l’attestation d’obligation. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))\n\nAprès votre inscription auprès du bureau d’accueil, vous disposez de **18 mois** pour terminer le parcours. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))\n\nVous devez ensuite transmettre à votre commune :\n\n- l’attestation d’inscription au parcours ;\n- puis l’attestation de fin de parcours. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/trajectory))\n\nDes suspensions/prolongations peuvent être possibles si vous êtes temporairement dans l’incapacité de suivre le parcours, par exemple pour certains motifs médicaux, professionnels ou de formation. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))\n\nEn cas de non-respect, une sanction administrative est possible ; Vivalis mentionne une amende administrative pouvant aller de **100 à 2 500 euros**. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))\n\n## 4) Choix entre français et néerlandais\n\nOui. À Bruxelles, vous pouvez choisir un parcours :\n\n- **en français**, auprès d’un BAPA ;\n- **en néerlandais**, auprès de BON.\n\nLe parcours comprend notamment un accueil/diagnostic des besoins, une formation sur la citoyenneté et la société, et, si nécessaire, des cours de langue en français ou en néerlandais. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))\n\n## 5) Conclusion pratique pour votre cas\n\nSur la base des informations que vous donnez, **vous êtes soumis à l’obligation**, sauf si vous pouvez prouver une exemption spécifique — par exemple séjour strictement temporaire lié à des études ou au travail, attestation antérieure d’un parcours équivalent, exemption médicale permanente, diplôme reconnu, statut de membre de famille UE/EEE/Suisse, etc.\n\nConcrètement :\n\n1. vérifiez avec votre **commune** si elle vous considère comme soumis à l’obligation ;\n2. si oui, prenez contact avec **BON** ou un **BAPA** selon la langue choisie ;\n3. inscrivez-vous dans le délai de **6 mois** ;\n4. terminez le parcours dans les **18 mois** suivant l’inscription auprès de l’organisateur ;\n5. veillez à transmettre les attestations à votre commune.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794598105.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 19216,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 1734,
+  "output_tokens_details": {
+   "reasoning_tokens": 218
+  },
+  "total_tokens": 20950
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 1
+  }
+ }
+}

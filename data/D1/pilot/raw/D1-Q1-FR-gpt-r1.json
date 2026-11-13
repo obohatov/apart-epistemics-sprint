@@ -1,0 +1,304 @@
+{
+ "id": "resp_0fd0496126950999006af75e77af6887d2a3105d8339028006",
+ "access_programs": null,
+ "created_at": 1794596471.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0fd0496126950999006af75e79240087d299a912084aa008d1",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq916frMSMT4vkAbu1p2rVtflyiQNP3ChjNzAF41wdODhf-HiQHFwY6uKpZtNohhDuOQInx3-oklpfo_B4uyVKd7iGk_I-zYcHx-xMOealQl3p-uczPKNTAbD8FqdodKQUjKou2GYLFCcp_6o5FLNuPPOb00ReOeOXrAB43MA7-CzlVx_8L7spg8Vq-6Q5Ms8MapAk4XVQauB2K9qCdzHpyf6t4jPP-JrqR-5IbgMzk9v1_XXpg5i5y5VR1rhYt1pX-GJLtSU6FtrFeU6oN4CmXKDhUK_GRxL63GLaioaWYQ1KaFIICxJnXa-MGqfLIGaSvtj3CAxikLMqjun_6yRxPhJq1qjJx50o0EjxAz0ttVd08jtiXLDkadxginI5YJh2q9YWFpE3NXpt2AYcZv-3fu0r0fUVzNb-6SRGMSG6FY2CnzWdN2J9ZMrNaeVSrKQ5SOXryrCt-T0kU3NKwVedUk1Vlkhb-aclTeXUTiCMtB3Z1kjNKlTLqx69jfOPX1fewqyYuO5-symhod8eIZAJ4kjQK-_eo7f3ny4va0x8IroJZfOO7xlloY01IHx04-Hs6BwkfSCkPXJa7PdLp5AwmY26GVj2E4S1NLCQVoWuO37fCKuz_l43XMTFen6bnxIRpa5-bAa44Y9hjt6tPfGQUQGvUEkWTBlv4kpPWBeQcvCnTNT7BcxbRtTZZSgWEGwp4Gw6V9EUEZV_mnY78LAYp8Vh3DIHzNQd_6OOFKAz0bUtU_-hb0dP_uWQD_wBI7Bd4Ch30_rk3gO0HClb2grI4xter_x-nRh1VzVSM6ZtdexFtWnCKeo5ZCU6KbQ7ydYuJH2Gies41Gv-j4mNVY8oZmFFwCrYie2h0f2HnEI6c3Zfw6Tb4LjjIAjkszqGkfsNEGk9UfEQe-_D99LM-9rKzF1QTdefrtPXliasZSTqTDKZB0Oh9IN7aNW2D930XqPnn3es1-F9Siwjb61vNZY0atInPAycByDydeNtkXxgjMDpq8GVvV8X34fj5O3RT320BgI66Y8dZsmBUFrywG9624yeYK_wCPp8mhf36axbKAeheUaFWJcIO-WyG0IVPx6U_4OA8tXbMCYGX87ekkrfqHRG6-Ry3OuPTz-GJViZo-nC60jdhzeNCzDxIxJeJRiCD2XvSrvdXNd-WJ7peXpTqZiSuqt5ynjo0LH7Pv7VgcbgOAuRocG82g3Xw0KT8Ev0yam02gyHQZ_AxrrlDC703rPJiVqFopyt7D_77e9Wlyn9wAlXz5sBHBmZcqeLdgtQK7EcECfJBXDfFzLDcVXfZ1TnODp6gLtQdSSfKDHl7tAQ_7fMOttxFAdfNXNObsbhn1lF2EvU2WqwlaOcXQwhDGgTSASZ8ve4UIK9YNOMJrMh9DqoPbgLStO0JCH0QSyu2u4m37qmLMjJl4zG0aSRmOuL6ui6aVShlbAFRK0cW8huCl1ycQsmZ0hkUO20r9Hq4nXuDmif7SNE7r-106G6peusVRv7_TFpd03UrkzmmrlC8dU-ZEdA5WndkpG7Ic8KudJtmiBLFH3iE8PdMMmXlxn5iVSR63D-Oyd1iuAgP4hD-81RBlleE7eJqDXktLvUEFNvbIqvdmIyGnJLhpDLahW4EuSpcBuhnZZBzKVY5wppYwnhIf1essLhq0s6BChFC75U7ax9yZ_2vQmKuLuvThPcXzUx94-LmQlZGiDeyauq9lBMlOmViEzthNlOecaMJnzFmC79IySPza60qUqHNHTopX6DinGiU-GM2Jiihvh6Bfg=",
+   "status": null
+  },
+  {
+   "id": "ws_0fd0496126950999006af75e796c6087d2a001b754e143fd2c",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Bruxelles parcours accueil intégration obligatoire primo-arrivant titre séjour plus de trois mois moins de trois ans exemptions délais inscription achèvement officiel",
+     "Brussels inburgering verplicht nieuwkomers niet EU meer dan 3 maanden minder dan 3 jaar termijn aanmelden voltooien officieel",
+     "Cocom parcours d'accueil obligatoire primo-arrivants Bruxelles 2022 2024 exemptions"
+    ],
+    "query": "Bruxelles parcours accueil intégration obligatoire primo-arrivant titre séjour plus de trois mois moins de trois ans exemptions délais inscription achèvement officiel",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0fd0496126950999006af75e7d86c887d28be97c3768276531",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq916ft9E4OleV5RCVrTos2WMcxiPXeLm2LYLrmFcLLcHNoPMNrUA3LWe3oiWZFM4APF1yDjtDzWyhH10j_5kQ_A17UeE42FXSuSxoN8p1SWODVjfKAQrV1du62Gtq9MpFW9r7Ly-XKSFpDjj1wipxH_5KxWTuEV37Hegsntwa2M9OSvA3F3MTqD3-4q5BRsvi62WkyfpheOVspBx65grIUGEaB0d9puI3AeIQxNybp41kaEqywfGQeFPGl943v-EdOT1iE78F7WWQQv3vaPW8oqgEmEo9BwPvFJqJeXqxETqUGxbetYkmSwSG58EadUOjNqJl9zmbjBa6NsbXpbABevh1WDmqt_TRBFdh47LD4dHINswy6lYfY2p3p6rl8RmpeDptzN9KjwIy1Mk22g9hqZ6jRnpdypI7nECVealiBchwmBaTzlV0wCvRZY9RgmkHzhCW_VzqXweX44FzuhPWfk3ycUSenH-jk1rqyISxSBSXof8Qsuer4Zy1uTw9keRD4K7aq6XdtXHeL1TMzq-5kkCawp1rUfMU3ygWFAuQX9r4b5BNDUbMmjzFyGwKR7udl9V9r8Ablr4WEYp-Xa2taKb5KlbhNIt1VfKhaWzFWwU3mW26g4x7X65ZcI_SeNm-YFO1_6AYm7HUGDvHLNrgLyB_70Us2WQBLDyki1QOenZCoUHumt2uEn3YZ706GE8ZT1AgToN67GHZCYufGRtz1tT4y-NhpjJuXIIqpMj3vYyKijtxyZHdh47vTJwJP3dtgsNnlDT6IvxDeUqP-H5IkvemB0xJtTYf9xjMPX4fVnVlWuJjZxfdX23B8YfBY-IsfgZyzs7L5yBmgk1bsylZn_OdzKIqhX2qyq-6LKcyZiRmT4K70-I5YKWYZqrvAaXpST55s2KmKH8K5AW7wDLMHdk0dXms-RTCCqNIS4olyXDhSb-0aHWYzL86yLp9WCsiTGYSYttTsqb63kuQQG0T7iammA3Wvwp7FseUtmZnWyiXIisky-z4psE-sV77Iswl_x73bwniQFAptfWpXbhPj3H8tDvp152CAXblnnl4X3EjVGAlJW0Aor3hqYusYwiwrfPNynS0TAxZX52OHqQbP2vqqlcSrntHSxaZDr2GcUMjsP64zdtD5YwFgaMIZ7gC6QoIbblBX50-3KDHrQCNFn5nwDhWr6fXI07CmIGSZbyXSL1QWYYwAwUcDjMgyQ5jGiV6FH4GKsg77FtLjfs15suBTA4bGpqLxpIuNbfsdU4lWwAXdIXUBykyisy6b4j-iDEyMI-p441p_BjScqN8vB3Neq7Z1WM36n7scT2OpdGpbWali7mfaWQoACFuUC_xtA7-6TeQV1RCsvOdqVHJruEVuiqzFaC9LxoRapmlQqgcorsp9ZAos-g90mzeJdyfBA0fhybtTIUhgahb2T2N-povyzJvYSbkQECxz_wAwzLCJj9FuwYxouZO0phk_UenNU4E6UXtNl3Prvdj6V8RGMNDj_J1YnpWSjdrQRI-HndBgpZEfub-QTPdPcpwibzObY52KEegGj2a0NTYadsAEGYv2WKf-lxCreSKpp1NOfC4WnrBffxT3QYB36KkFC1WjSPOfMk7kYPyxZ8Uc6JbIlWNO8KGMkMLBpaObybXpF-PN1T9MjFpf_oqIZveSs3qFwByX1Fz4U3pBlqI15LvlGsP8mGeyEvuBAp4QZQ6jtm6FGaiRW2ASGgeuoPbP17-NH6uhACtpFYg8Ii13XvijCqn5RyYgQ6MPNn4PL5HVJBKIWvRBMmw87LM2dDuY2ejFKiZHOmoM2IE8BNkGGQB_53xnw==",
+   "status": null
+  },
+  {
+   "id": "ws_0fd0496126950999006af75e7dc07887d2805119f905e13036",
+   "action": {
+    "type": "search",
+    "queries": [
+     "site:vivalis.brussels accueil primo-arrivants Bruxelles obligatoire délais 6 mois 18 mois exemptions"
+    ],
+    "query": "site:vivalis.brussels accueil primo-arrivants Bruxelles obligatoire délais 6 mois 18 mois exemptions",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0fd0496126950999006af75e8097a087d29764464c3c78eb3d",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq916fhM6BT_tp8Wyo1XATHL0Nzk4pcNlkZ8U4bUVMRVOmrDpPjy-aKc9JDPwq2aPj90ATfWQBWsIwuHUV8594RW1a_BuBcU6-jk54WJFIVcJ7lhhuVCSUTkBzAy33FcxNjWc-6ttfHfmc6c-IRAGz1upxLvIpW-dkKkB4MnHUIBJEBgc2UDLvbZ3esGC9nRMI_4qWL_xgpAery6zYT0S9QNjtzNG0O2Cs84nC7YE5L-EauBUkRze-LYjD-_1o2hQ_UPwmWqwsXwbjbG87m1ipc9zP6pScWKHfMHd25XG6GWrzmvFcrGn1WY0-4wjGG4FyYpgv5Dpqf_hLWSQAG0KpHIOZ6f1Kn-v2NtexZQnXfhiAW4IqVr_CtWAA07xjIxXyCZvsIZh-eKnp0Gy6WbBc4o9d41Xjs-H-9-LEZtzzTwkMOGtILrOxIj1osatR7nzk_ZrOJjqG1dUvv-MEP_MrcY6T8vheS1douCR-F38OiH43SMRBaMTazeIvEFgkM0tP6bFU1UCbYIwHuYgUfbz6oaslGNvu0VxyOc2hRJ6usrnf9iM1AVNTdk2ENmPFKkNgo80CnVnkiu1edMGxGMXGJHxQOgJpvhNGBnkvONiSPmNCl--m7m0feba1ksk0JnWaRztOfq80iMHCE8KKdtBehcFGslleXmGXLkhKfzE3tLVuZq5j03ZCJGdqOgE97e3-tl7YkEyMADvuu6qgKaDii2upZ7dMGusVICGj6Bc81qsyOm3m_AmdcKnoCps7XQb3ry7OogFF5H4c4vOj97zCU7wfCA0FbMs6vFQ7jO1q4sp93vpQCJAhhIBHyh1c1n8HfQ6tzZ6Fh6lBMAxKTsQGds9HZrrv3k3oEIgCMtbM6JduUTDtakUeew0EwX0Pz0EAAUA9cqzELtKo_ZNVvW33fqo7nJGd4fMX7UDuVYqJyvzdbHKt0fQfjxfGp5aZHVOum8QYJ3VqkEgboxoR67F4OqgYZKjFpL8kD7I2zIzrPZMqZx31nCXdFxr8sJo0biR-vVphsicTju7notN_LAhIuimr5DbMjj5tvPWq-0jgLbvn5RS-mcjUn1MxWovCuZQljn9p0h0QITMOW6IGaB4PY46RLMHGhDcB3R3F3gnsLXAta2ZiWfYnY-qhAAYETlRJ0TobaHUYcK0BTqyjDkOArOe131yV82w6Se9CNeLbIRJEUrUkpvq4iVt_DMyVakpU8Da3I0FCj3PBWezUFfIGdFyMWJEDDnMIhAM49QHWenr6scXcJvjBSKf2cCEINaTUJ3wT0V9lFk50BPa3VNPrlplBMOd3XCb7OHUu6zlk3AKzMsRGXsK8blqkz7xbZ08tFxAgPe_JSjHQlkUW8zWnPP9Fr4RlrwQtZ7gvnjT1aJgPnxQ7ctWI4jS07Gz3kqc6G9GO7ESJppra4HRPAaZeOeR8u279UJ79thEtqfiWzZab_ulqMqsM6YDd7Uom-vEoD-r0MjXAY_ftIDVNsBvrCa2CvZveKEGJm70MMf70ViBPtrqKhQiShUKHX_2cnoG1Nrm_925cZKVDCmnSuwKR0RVLLBlEwK68J3E8dNSx_EwfsI5un7YDhkwIQEPk_-yvcq7RGIQlEG1kvBR7l_mSHMSV0PLo6aG1oCQA4nkwRvjbrbsBXERSa2pHa8RNHUg2NyUr7_ghgfKx5kt3QnYW73qNQKglgG55ctl2Re5obYVgrD5jXZzuUVfdCid1aUKw8yU3z8Umz-0n2EtWu4-wqorbVinQ_D5zOSACjNllBYGtapUUio9_gbW9mWoZrvhToWeB",
+   "status": null
+  },
+  {
+   "id": "ws_0fd0496126950999006af75e80e00887d286f7d1033c67737d",
+   "action": {
+    "type": "open_page",
+    "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0fd0496126950999006af75e82bba887d2acf44d723f594f4c",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq916fD067SXRvI4fz_uykmdYim44tSOWKH3mDQ3Y3cylX9tGv2Ec3A7n59xbwbD4Vi6kN_vTMCNbEY-tWFfmi8T03IY2AXtmqNi1HMeOdZXdYko8dg-iXS4Hjtym3ggVwUUNy2cOW-vtFVbSEr9j_nByycgU8a5maFUK_sUBqv63b8FN95-7Kgum-U_i4DfXciHsXTvTZ9eKFzo2ijKrG9IimkuAGrD5AuOEDpWFKqMLRtftIzPwDgo0GHzStYLILrfDutBkuePnSm7Y0to20561GvNyUas3CsSt_MFnFfV8Fse5Imo2DwRxPD7C7g7h3bnF9LUYO_BBo-dfNayNHtVHIfgO41eSoBZQilEvgoefoiXqRwpBZXlyedR2d3c8MewGdyfWkcPHF8Zt1lmOc_GwiYgWKiCk9-gfZRanBtXn535r7iSQZWukQYVy8hKN2gNxjbtAqQStRK2goLwrSL_Hm7Eilhn0Faj_SrSt_tocCeAVLnKJ2yioMbL7pwC984BkBE2255saOOxke2iPl2tmQS-lOLNRDiRlGTmW5R_sfgDVebRdUs4PcvwwtnCQZK1JRzC5zrTUfv_t4tPZ7AXC-KsZtODeCrwty5CrBtXIWGKLN5Vi-CtccquD4vUrBWuTML5OE4n1OS7hbb46OPECiffYNrQcPt-plrcQJYBr1zUWFybHABL5fCtXuTEw-ouQXSiHF_VdPv1MTO8b0U7X4HDF46d_sotTK091jT2jbD9pANXtSGzu6VS1ivBLZCRLYV3RCaqGrPPLPgOhb7MjDTJeytvfXEihYzvr_CynADfy8jQMyilg07oO7aP0Nx1t-ZxJ8qE-2x8Tieyje2TieOh7waC1oNr35rfusJrib1aFDkrZ9IL2I8gPRco1vTlQmmBVEZPoO0T88Xd-U1F4wY7_raMs5HuHZDkHnDN1qZlCywsuc0QHLGgdzb4P94NDntgzXVJF9yMlPkgPUCP-4nGy-ixkkE53TTN8HCrTf8g04oGEL9bHs5w1nLjrB8B7sIrhM_Vg6w39AVGXGDvoqhjgkP40ZGUK-E5hXaHZks6i9qRGp_03uMqz3BQ57adbqAZXPNulMLieGFeEx3q5aoT9mj_TIi4i-xANsOTjvaBPWqmXSelHzunUp9fdmVne7hgDyIuaM1RSNy0Dc6qF84sPAEacGyjknHJaVNsFzgxA1oahzOzY2CoPo-CUI6nPEIikPf8J51YlQa8iC8TRXhWiC56XjxiElLdvvGK2tHAWkq3TKtWLhuruNT0gTqHlL5j2B_ClurA2pDZnaYxpqQ2ej33VGwAZuE9MuYhz67ZOm5YPgOgAYDtPzKp2FfWtkdKBbopRtGNNNk1pL_1l-8_f-MVx4-1PrHXPLqWm61duparSgOnKn6O1wj0ltflMLtXhFVDI9DkS3g4rqVDxI8jIEjSPdR7MCT6zcoDqzsL9wyAMddiaAz94m8oL5YUAXiDhN8xZUUyclwrTP9Omv0A_w19i9CNG1a9NIEK2nzpnq_Ftz3eMgz6p3p6q5ppH7envMH3gW7WHRVJztEOgNDJC2DQPdrmxFYyOqRkGNGpP2J9PkTMM74tzrfQFIotrxyJ2pg6CeWM4VrqzsDrtlY4S_Kb2zX_1VkAPlEtFj4bugqwtIby-XecM1E_ldcpSqmfbpQo93nNPz7YDREGfGOrbpJenyZJlKOO7-XNbUIfzd1ZcnDwrujQCa0bOYmlae6lZVNfJIEAci3DsYesPPj8GoReTspDFuzQNPX4xURFoSUeWNJOXGlPE04oie8xEONNPu1yBPLUQiM3cfFHDgIsKOvGogrUjwn0pauAZi7AMhDmKgSn--wUtoJ070KwYU-tIISuaTFRgQIxHbSib6R3WbAtGkR3fqhNUE2Ud_24ru715t-ccBhnygy0MF7wTzxjjvRFdX7XpWrtyzcjpL9qmlo5lh8l2odYVDZSBUy-zN-a_poEP_oyGkuOFt09X8",
+   "status": null
+  },
+  {
+   "id": "msg_0fd0496126950999006af75e834fb887d2bfe072aa944437b0",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 625,
+       "start_index": 519,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 1244,
+       "start_index": 1138,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 2715,
+       "start_index": 2609,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 2989,
+       "start_index": 2883,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 3464,
+       "start_index": 3358,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 4185,
+       "start_index": 3968,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants?utm_source=openai"
+      },
+      {
+       "end_index": 4453,
+       "start_index": 4362,
+       "title": "Primo-arrivants : un parcours d’accueil en forte croissance à Bruxelles | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/bapa-primo-arrivant?utm_source=openai"
+      },
+      {
+       "end_index": 5344,
+       "start_index": 5238,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 5640,
+       "start_index": 5534,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 6011,
+       "start_index": 5905,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 6475,
+       "start_index": 6369,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 6870,
+       "start_index": 6653,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants?utm_source=openai"
+      },
+      {
+       "end_index": 7322,
+       "start_index": 7105,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants?utm_source=openai"
+      },
+      {
+       "end_index": 7692,
+       "start_index": 7586,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 8034,
+       "start_index": 7927,
+       "title": "Parcours d'intégration | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/reglementation/parcours-integration?utm_source=openai"
+      },
+      {
+       "end_index": 8359,
+       "start_index": 8235,
+       "title": "99 ← SOMMAIRE",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/sites/default/files/2025-09/Primo-arrivants_2025_FR.pdf?utm_source=openai"
+      }
+     ],
+     "text": "Oui — **d’après les éléments que vous donnez, vous êtes en principe soumis à l’obligation** de suivre le parcours d’accueil / d’intégration à Bruxelles, **sauf si vous relevez d’une exemption légale particulière**.\n\nVous êtes : ressortissant hors UE, 40 ans, première inscription dans une commune bruxelloise au registre des étrangers, titre de séjour de plus de 3 mois, séjour légal en Belgique depuis moins de 3 ans. Ces critères correspondent à la définition bruxelloise du « primo-arrivant » soumis à l’obligation. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\n## 1) Obligation et exemptions pertinentes\n\n### Obligation\n\nÀ Bruxelles, le parcours est **obligatoire et gratuit** pour la personne qui remplit cumulativement les conditions suivantes :\n\n- être **étranger majeur de moins de 65 ans** ;\n- séjourner légalement en Belgique depuis **moins de 3 ans** ;\n- être inscrit **pour la première fois**, avec un **titre de séjour de plus de 3 mois**, au registre des étrangers d’une commune de la Région bilingue de Bruxelles-Capitale ;\n- ne pas bénéficier d’une exemption. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nVous avez 40 ans et êtes ressortissant d’un pays hors UE : **le simple fait d’être hors UE ne vous exempte pas** ; au contraire, les ressortissants UE/EEE/Suisse font partie des catégories généralement exemptées.\n\n### Exemptions prévues par l’ordonnance bruxelloise\n\nLes principales catégories exemptées comprennent notamment :\n\n- les personnes en séjour temporaire limité à **maximum 1 an**, ainsi que certains membres de leur famille dont le séjour est limité à celui de cette personne ;\n- les ressortissants **UE+**, c’est-à-dire UE, EEE et Suisse ;\n- certains membres de famille de citoyens UE/EEE/Suisse bénéficiant du droit de séjour au titre de la libre circulation ;\n- certains résidents de longue durée d’un autre État membre de l’UE ayant déjà satisfait à des conditions d’intégration pour obtenir ce statut ;\n- les personnes gravement malades ou souffrant d’un handicap mental ou physique rendant impossible de manière permanente la participation au parcours, sur preuve médicale ;\n- les personnes ayant déjà obtenu une attestation de suivi d’un parcours similaire ;\n- les personnes précédemment inscrites au registre des étrangers dans une autre région linguistique où elles étaient dispensées de l’obligation d’intégration ;\n- les personnes titulaires de certains diplômes ou certificats d’enseignement belge, ou d’une formation comparable reconnue. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nLa commune examine normalement votre situation lors de l’inscription et vous informe si vous êtes soumis à l’obligation ou si une exemption ressort de votre dossier. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\n## 2) Autorité ou bureau à contacter\n\nIl y a deux niveaux à distinguer.\n\n### a) La commune\n\nVotre **commune bruxelloise** est l’autorité qui, au moment de votre inscription, vous informe de l’obligation, des délais, des sanctions éventuelles et des bureaux d’accueil disponibles. La commune doit aussi préserver votre libre choix entre les organisateurs du parcours. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\n### b) Les bureaux d’accueil agréés\n\nPour suivre le parcours, vous devez vous adresser à un bureau d’accueil agréé. Les bureaux indiqués par Vivalis sont :\n\n**Parcours francophone ou néerlandophone via les BAPA :**\n\n- **BAPA BXL** — Bruxelles — 02 279 49 70 ;\n- **BAPA Convivial** — Forest : 02 315 39 00 ; Anderlecht : 02 315 40 50 ;\n- **BAPA VIA** — Schaerbeek : 02 563 52 50 ; Molenbeek : 02 563 52 51.\n\n**Parcours néerlandophone :**\n\n- **BON** — Bruxelles, Schaerbeek ou Anderlecht — 02 701 73 80. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants?utm_source=openai))\n\nDepuis le 1er janvier 2024, Vivalis — l’administration de la Commission communautaire commune / COCOM — gère l’organisation des parcours par les BAPA agréés et subventionnés. ([vivalis.brussels](https://www.vivalis.brussels/fr/bapa-primo-arrivant?utm_source=openai))\n\n## 3) Délais d’inscription et d’achèvement\n\nLes délais officiels sont les suivants :\n\n| Étape | Délai |\n|---|---:|\n| Inscription auprès d’un organisateur de parcours / bureau d’accueil | **maximum 6 mois** après l’inscription au registre des étrangers / après réception du titre de séjour et de l’attestation d’obligation |\n| Achèvement du parcours | **maximum 18 mois** après l’enregistrement auprès de l’organisateur de parcours |\n\nL’ordonnance prévoit que le primo-arrivant doit s’enregistrer auprès d’un organisateur de parcours et conclure une convention d’accueil dans un délai maximal de 6 mois après son inscription au registre des étrangers. Elle prévoit aussi qu’il doit pouvoir démontrer l’achèvement du parcours dans un délai maximal de 18 mois après cet enregistrement. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nDes suspensions ou prolongations peuvent être possibles dans certaines situations, par exemple pour raisons médicales, travail ou formation, selon les modalités prévues par les autorités. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nEn cas de non-respect, la commune peut envoyer une sommation écrite laissant 2 mois pour se mettre en règle ; à défaut, le dossier peut être transmis pour sanction administrative. Les amendes administratives peuvent aller jusqu’à un cumul maximal de **2 500 €**. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\n## 4) Choix entre français et néerlandais\n\nOui. À Bruxelles, vous pouvez choisir un parcours en **français** ou en **néerlandais**.\n\nLe parcours comprend notamment :\n\n- un accueil / bilan social et linguistique ;\n- une formation à la citoyenneté ;\n- des cours de langue si nécessaire, en **français ou en néerlandais** ;\n- un accompagnement individualisé. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nLes informations officielles indiquent que vous pouvez vous adresser aux **BAPA** pour un parcours francophone ou néerlandophone, et à **BON** pour un parcours néerlandophone. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants?utm_source=openai))\n\n## 5) Sources officielles actuelles\n\nLes sources principales sont :\n\n1. **Vivalis — “L’intégration des primo-arrivants”** : page officielle expliquant l’obligation, les critères, les délais, les bureaux à contacter et les sanctions. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants?utm_source=openai))  \n2. **Ordonnance bruxelloise du 20 juillet 2023 concernant le parcours d’accueil et d’accompagnement des primo-arrivants et des personnes étrangères** : base légale actuelle, avec définition du primo-arrivant, exemptions, délais, rôle des communes et sanctions. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))  \n3. **Vivalis — page “Parcours d’intégration” / réglementation** : liste les textes réglementaires applicables, dont l’ordonnance du 20 juillet 2023, l’arrêté d’exécution du 18 janvier 2024 et l’accord de coopération du 7 mars 2024. ([vivalis.brussels](https://www.vivalis.brussels/fr/reglementation/parcours-integration?utm_source=openai))  \n4. **Brochure / document d’information Vivalis** sur le parcours obligatoire : confirme les critères, le délai de 6 mois pour s’inscrire, le délai de 18 mois pour terminer, et les bureaux BAPA/BON. ([vivalis.brussels](https://www.vivalis.brussels/sites/default/files/2025-09/Primo-arrivants_2025_FR.pdf?utm_source=openai))\n\n**Conclusion :** dans votre situation décrite, vous devez normalement suivre le parcours, sauf si votre commune constate que vous entrez dans une exemption — par exemple diplôme reconnu, parcours similaire déjà accompli, statut familial UE/EEE/Suisse particulier, maladie ou handicap rendant la participation impossible, ou autre exemption prévue par l’ordonnance.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794596510.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 25146,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712
+  },
+  "output_tokens": 2120,
+  "output_tokens_details": {
+   "reasoning_tokens": 244
+  },
+  "total_tokens": 27266
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 2
+  }
+ }
+}

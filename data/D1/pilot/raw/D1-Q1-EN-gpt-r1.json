@@ -1,0 +1,282 @@
+{
+ "id": "resp_08aff3e76ffe7cf5006af75ed6313c87d2a760cfd0e12d7ae1",
+ "access_programs": null,
+ "created_at": 1794596566.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_08aff3e76ffe7cf5006af75ed6ded487d29c53fb0c123d0022",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq917uWbBfDURdrOkaCXoJs1ly2eFbtWAONeM9Tl--n4XJb9fnHZ_ru1_0vEOWrhsS_aVzGcC91q_TciS3pVQjnwWIA2nCIZwaYNdrosD2k5UPQ6VJFZ_gg7BMSa1xbYgWUx9SU4Y0KcwqUlbQ3qFs4kBiHIh44VrVJvsz8QU7GwiHOKH02WvWfnV7KH1rkTeacjS9fovv6Gtaw0_AOquTOZ-RwaKg_vdTp1v1Sx4A6ZissL2mSGuXKpJDglvNP79yX1najKBmBpa1Ec-3f2_awBFH2omALETwS5jz5hnT5WJ6IrYrx7BTvnu2Q8RFsVT3lBafS6qlbqzNBUcma4-bKLexg2uWJamH3kMLIcdSh_Esn_dbPJPujq4W7kNWcAFOZjBzxWWBeB7pZZSaEWx4SyznTKu_PDRrT0Aj2IUV5pJIoCspFDMzppzIPvdCqqUux5eB4XN_8qdf41vmeqg6Xsto1S6pEpFreg7ruE4KwzB4CFygcFpPMdtaG_HjrIkUGaBd3Ok19FdI-3AYQ2enQGHNW3mxoXMoISF5sFfNJainmnnHvMw9diaS2EC16imQiwHwcZlSmn3OdTTeusl6ESD98LuMSDOMa-PpRW99JUZzs0sBZhlvxc2sQe-oVfJmOH70pW0vH163zNmvkcLrd-2oIy_WXqvWoX_UbpO9W3cvUW-W4DifcI3UqSTbsE56kg-7zjwGQa9Mg8fg3pAnp-4JPVSCzXiM4ivm95ZvuMEwzrXjhh57VmmIJ0Sj96v_Bl8yk6ejtzuSvZ8F9lQucsavdP90bFOtPhWsI1066MVEW2VJuvfGGv7-UhWQ4ZboYYrdPi1dpMUuJ7ijV6TbM3r1gPTUaiR9MeuGcd_hPHyDwF9hgdJf3xKonruJKCGxGkQ3KYZDAlGYWt6xXkdQ6LM-Yx5CBdGTj4ibC87REnXGYG6alPOf5hzBFgsoJCCthZt4GD30XBXJS9R9z8puTbQC73xEj25CQw2u-HOp_s9FdwJbP1mnTQf6eIZrwD1urR2pkhH6HRovP2Q1pK81ZJP0i__CRIJugLIlXOW4FcfZqjxtPgq3BvPvudCzAUh5wJRqNoArnMUY_Y_vEmj2CPZZhwNdmSwQVzUkYLAFfV5Z3DeOR_L7TsBD8yy7h5km-eI0I_C3RiPHSelMuRoEHFBnuc8KkRq1eq9k4j2whqaT39L6rGfY_DtGpLP_d0tPwtNoRbgH5PqKFjlq8n-W-ucY172WhQFIvHdDR5sJf1oRDnEK4UjtKGltO6lVT6Z-JG4J8OKlzwM9lG6m_MH6g8SF8rJJ43uRaoweuDt6WCQSXUWLR6TqiHVmRwrcoilopshDwXQIzawsw70A5EMr4AuWSBKLDF9uuBa0TNykhhb_SA5yOywsqHqkg2TG2pY42pc3C5jX3IrQG7A3P1gqm2FcUWkJcs0wJAu_whuzgKR3Sak862V3aC-y3oYo1p8cqvdZOsMgzdVRnGUkKimYBjqVfINAOa4L5nkY-Uxij0Pn2KoQTyWMkDA0OrUFFFLwkOuQKYA9goO2Y6a0bp8iaqrpoeuUzf7F_iX41DEbKfQUtFbnlt0uCC309v_npXe2iw6gvsZhJzcKo74HSBtInJVY__QIXa2N-AxyyksgTJrEV6HDYKi0ma_0mGP81QG-USxDXrMBZW8v_4uZsPch_GOsczbzgql_Q5sIuggV_fGccBOaaTOrmCcwCkK57FV0CSfSpxBp5-ltz-Bv8X-ksH6fLFmh1v8eFuy-t0gQ9kvrUUQ=",
+   "status": null
+  },
+  {
+   "id": "ws_08aff3e76ffe7cf5006af75ed732f087d2a2974dea896a9f3f",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussels integration programme mandatory non EU first registration residence permit more than three months less than three years deadlines 2026",
+     "Brussels compulsory integration programme primo-arrivants ordinance 11 mai 2017 deadlines 6 months 18 months",
+     "Agentschap Integratie Inburgering Brussel verplicht inburgering nieuwkomers Brussels Hoofdstedelijk Gewest"
+    ],
+    "query": "Brussels integration programme mandatory non EU first registration residence permit more than three months less than three years deadlines 2026",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_08aff3e76ffe7cf5006af75edab34487d2b6eb5efdac907772",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq917uPvO5ynTUShxBEW6TDfyHG4Rut-Y8pAGebStAftFwdXJBeRB8ZHQsPbZ4bsbuwsFlVbN-6tmPf5DE5xGFPjFmsSqQbCUdQZjoDvA8tpP0tFyEOchflLuOxiJJgKdbQ8ziqtkMkNOxy_aLeiPHjw01ccOBvjqs9Sj8gIE9dyrpcWqCjjSsqszEwDJ63aN0kbWIy8aQslZja0oQG-xCBqqH-ZScxPRQC80b-szd8c_JFJzdHxcdaDXbJSr92qH6sjpU63e_9owsF7qNZf1WfSoXhq_7MFn9o5L6MwRJE0PpZusvuhwB69Mq0rMzPGkK4iNmBCJa14NEt22kPS3BkRapYRctqR6yu0cNKfBH_ZTTXnluGC5hN8uYQznerKyko7gq1m1IZT3Rwzd0s7pS5oVVqCt1P2xDnHj7PnPn4aqkLzh5GdvoLx62ajyvL8evCtL3iRf0mN4gXtYQB1kA_tEdVxJCKk9God-c7-okMXHl8RWF_Cr7aAJV0py2zud5bI3v4L-ck8ivhm0Zt9tmnS-QPjwSh8Sld5n3ih0JFONFgjsvg-JAzH-D4s74n8tm3n5Ss_Y35NFAHkglHytk1fxQnCqMc7p6FHzs40HhYzGnefslj_M4MFjmb4ebQ0mTQL7ovAAUQzO-PbWRGkUNpAVayy8vR7zAg3_cosXa2yYm5tYlAHSSsBHoagTqudf4RDMq4ObqnLwLJtRpNgMSsZcVAaFiBvi-KbzO2RNz-DC7X1iH0n-PyLFc6HfgINDrOcde5a6Dr3hPdnhJ1GPRJeJWeOPKOM-vJaw05A-KQqhDVm0mJKth8gPriYxql7ZvyEGak51sOb3Xl2Jrh9slyW-7ipuaEXOByIxP2MT5eYCXKsntB_wD6MGUGXupRUXPkSYClDHfSEgFuMdozNUmFVIUfSLJQM3BCYI2NAI3qo3X19gb4fItApjfm__cUhYcZT6ch6aZ-2FOIHH-4e-n4ZFBYD6AWHlIdbXzpd19ds7e-mEQOza75gsMK5jiA2tV_YUXwAxTDu61uVjZG4km5ZQaJY9tAU7QkPI9WBmgxJYAEl9Hi6WxGq2_-4ePfWQFfUoVbwTgzfVOrISK9wfDcK9LEprg0nKpIIKCR0xVORrdqNBOpwLK6YYmEQ6L_q91jJdsiuKFfpxFqXG7FBrk7j-6tNgncGFB8R9-rnhtkeuq_25P-qlaPKJXDTFsgQT9itk527llVWzeELvwbhEByWHPkJB9EXpTTa0XntxjKFVE7Y5fwzkRhRT0x_W9glSTOPLUNzpLvG8gYB6_KXxsZcQ-1HdA9LcsElSj3EBJuR-PCbKqICCle1cji2JlR92dsjwfKmKCMjRj1Oj-_LKapFvcJBDXDvDNE-qJ6SHkJITd8SgJuzFnYusoiigBy2b4-CJ7CxlaFMIb6Dftcj1NzKJU4wr8elkHIKnY1CL4idrTPep-zhozvvVS7pk0po-_cbyjbR3zjkcmNyIJDBJH7c0Wj8Zr--NdZ0ci-bZ8HbONASN2NnnYQfRAst4nCMzhs_bc6YsNelsv3Am03h7fLRNwIB_Ws8339fq0tSk0jUpW-qZ3h5NKh4WwopZII1hSWhkkfsIUB9oSElDCCswAvLPIc6s5vjlITmuywIj35VD8nGyroENa_9_Jf1eGpVwCIOmiTxflULk6bTq3Rt6Ht6CBnK0eQlzB3ZOHLaRzG7XrkDm4bNNBoG3dxXDMGPxj185_VgESthbzDFq_q_y5L9KHxSyde5KQqlehYFZ0xaxnS0w=",
+   "status": null
+  },
+  {
+   "id": "ws_08aff3e76ffe7cf5006af75edb355887d2ac606ad606ed3691",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_08aff3e76ffe7cf5006af75edc9f1887d29d6059fbe46444b7",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq917uOuYEnYgpgrde0cqF0XAKqIhzxWCQjPjb9AP0-039Gml_yAznZsIm0h_paYLgKhTfQ7u2MZvXmKUFBxs8hme-XzvQF3v5x9iPAss5nyNRAyE_5DwNqMoFmxlSipG49LRFX9iPq1iR8qakmB1vBN7Ym3RShKf1CymE-lJjgHmrQpUa3GWuJXUkzIZ8d56Cg78dcgjxF2NWO5n-0j5qIbE4MC-S-JGATGApOceoAbwN6e6b8f98N8ufuWl3pGJAvHl4CqkbktJtTBG8z0fByNAcI1-cKsbh5xP1B8EqJbJMVi-jF-r3-uaFXwA0U9d1uQJ07INCqrnrKgrL_eafIp1HUMeLkG5o--ekddZJrzK01trUt_-APp6Qx5CvtfwA0xiAQMQRL2RKA3tOjQnZ8O-22BFguvCObgYXdNvbsfrMRtAhL91p__EfqBRnHtZWgAweYqhG5SqqPSjoUjWfMYxH0pCSbXaU2_7RdXu7wcpV0MB1qZFVu6tIvE00kYloM6KKRNouRSfu5AlJ0qb16XtRhxbNHM8Eh4Kze3r6HvoVlsnCDEsz1BbUpoX_hv7pQoxF-cXQa9vl-Wjn63-yq59pOUMBaNuFg5tEP0ucdNNK6j6I7_1kefCwSrbgNb7u5WGO45R6G99BNDa3Spg3B43vckmoNi1TTAEj_uTB6bqkpmVjcwQVGots6rIxlDkrYSURW9Y3hS6jXLMxQjtxt8tCPBYqjkAPiHSZLHJrMHFUSDTdcc1RQHl0tQ6pcMB7Bjy6GL8ZfbFGoaHQGSSQ0GkaXpGfMNRpixsRy2_6UxMGgnvzwFYQ1Wx_ru8Ipg4iyZQU7nSCUi1xPNk8FiSdBLqrXgjjq7sEe3LxWPyILoLUHWDWKPyIuFXy7a3RxAmEhIb_Ep9msvMHEy3LnlgxP0_b3rjJ4uZ-BqTnPQd1Rv4yebZw4a_FwQfhVvYAS587ry180egjDPm_UJvHqOCi3dhFw30PcC3gi02CaDtA-0oFtAWDCS2zCNpnGpD9uMEsrVPi2LtFmXsB4Rwelf4pjw_PXr7tiVeXggsz9KqSdJyMn_hB8UdWvSpL7vlSLY_q1JGkoiMGThgS5e3z7ZaV7oDT9Wc_d5psWMB_AWVHMM9xJJBfoTCzqB3tbig4yPOVSwT6tvQXyphdCfkX49Oiqi0gsVZ1SSH7SIp9zDBdXUvEEd4TIfnhRbusCkWdowOafeTbMVZh4taqDSLXK5bN7fo_dNwHn1gX1-vdr2vNWICBuGUtuSpUQuICVsqbq9MFcoYVyUo4e6EtKHzbvo8yx1TiuOYUTyTG6jpW2051kvvwh43L0Z62ukR639G6QNR9-FWp8BYPk5gEVipYfDfgu95Lwi60AfYZJyjvVhWAulzL0yIF2zPa7TK9suulFlvAiNvaxTfvfmFGzYZ6JVTzA3xjccgHWPdbkYxWGXQGVJICTakJCvhqdk-DOd9xlm0s0d7Bdzv78-AQC6-QPogrcJYxwcSF4wR3ER7VEhBYi7HIflhgZOAS_M1oOKoKbF6G9NNzlKI4-5LDb8VNqE2h3luZClfWD_UCGwLOV-fABmVTX0Xrw7SVDCrn4C9xkwwg_7v7ydt84vKW9cWAynNQ8IH0Ao49GEbA6fm70Ace1YgUMpxJwqn9oAlXZIE8JC_7uAzzSEjBZDOyaL4NNIrM2dq8B7PQYiBxwk6z73lVBbS2C8A3jOIVZCxb1n88UzjvqWnhBc6afzMxgi84RdUvRdphfjL3Zkcs4n6N3mRQ495qdMLksJlEzOS6ufz2lCM1vKoFkBUy9X3wW2VVVK6A3wsdJCSdA1LIcYn74s9rl979TT2mAF40sY7vt18g-OAKCBhA",
+   "status": null
+  },
+  {
+   "id": "ws_08aff3e76ffe7cf5006af75edd06ac87d2937365ece4e3d09e",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.newcomersin.brussels/en/target"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "msg_08aff3e76ffe7cf5006af75ede64b887d2a707767c38cab0ff",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 725,
+       "start_index": 657,
+       "title": "Target group - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/target"
+      },
+      {
+       "end_index": 1816,
+       "start_index": 1744,
+       "title": "Exemptions - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/exemptions"
+      },
+      {
+       "end_index": 2135,
+       "start_index": 2063,
+       "title": "Programme steps - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/trajectory"
+      },
+      {
+       "end_index": 2491,
+       "start_index": 2370,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      },
+      {
+       "end_index": 2782,
+       "start_index": 2710,
+       "title": "Contact - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/complaints"
+      },
+      {
+       "end_index": 3465,
+       "start_index": 3393,
+       "title": "Programme steps - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/trajectory"
+      },
+      {
+       "end_index": 3806,
+       "start_index": 3706,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 4186,
+       "start_index": 4065,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      },
+      {
+       "end_index": 4442,
+       "start_index": 4321,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      },
+      {
+       "end_index": 4733,
+       "start_index": 4665,
+       "title": "Target group - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/target"
+      },
+      {
+       "end_index": 4898,
+       "start_index": 4826,
+       "title": "Exemptions - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/exemptions"
+      },
+      {
+       "end_index": 5087,
+       "start_index": 5015,
+       "title": "Programme steps - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/trajectory"
+      },
+      {
+       "end_index": 5401,
+       "start_index": 5280,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      },
+      {
+       "end_index": 5658,
+       "start_index": 5558,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      }
+     ],
+     "text": "As of **13 November 2026**, based on the facts you gave, **yes — the Brussels mandatory integration / welcome programme applies to you**, unless you fall under one of the legal exemptions below.\n\n## 1) Is it mandatory for you? Exemptions?\n\n**Yes, mandatory**, because you match the Brussels target group:\n\n- you are a **foreign national / non-Belgian**;\n- you are **40**, so you are **18 or over and under 65**;\n- you are being registered **for the first time** in the **foreigners’ register** of a Brussels municipality;\n- you have a residence permit **valid for more than three months**;\n- you have lived legally in Belgium for **less than three years**. ([newcomersin.brussels](https://www.newcomersin.brussels/en/target))\n\nImportant exemptions may apply if, for example:\n\n- you are an **EU/EEA/Swiss** national — not your case if you are non-EU;\n- you are a qualifying **family member of an EU/EEA/Swiss citizen**; in some cases, family members of a Belgian citizen are exempt only if the Belgian citizen exercised EU free-movement rights;\n- your stay is for certain **temporary purposes**, such as single permit/work, studies, training, internship, exchange, voluntary work, diplomatic status, au pair/working-holiday type stay;\n- you are a **long-term resident of another EU Member State** and already fulfilled integration requirements there;\n- you have **temporary protection** as a Ukrainian refugee;\n- you already obtained an accepted **integration certificate / equivalent proof** in Belgium;\n- you were already exempted from integration in another Belgian Region;\n- you hold a Belgian primary/secondary/higher-education diploma or certificate;\n- you have a serious illness or disability making participation permanently impossible. ([newcomersin.brussels](https://www.newcomersin.brussels/en/exemptions))\n\n## 2) Which authority or office should you contact?\n\nFirst, your **Brussels municipality** determines whether you are subject to the obligation when you register. If you are, it gives you an information brochure and a certificate of obligation. ([newcomersin.brussels](https://www.newcomersin.brussels/en/trajectory))\n\nThen you enrol with **one approved organiser**, either:\n\n- **BON** — the Dutch-language integration provider for the whole Brussels Region; or\n- a **BAPA** — French-language reception office: **BAPA BXL**, **Convivial**, or **VIA**. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))\n\nYou may also use the official Brussels “Newcomers in Brussels” contact channel for questions/complaints; that site is operated for the Brussels mandatory programme and refers to Vivalis in its contact/privacy notice. ([newcomersin.brussels](https://www.newcomersin.brussels/en/complaints))\n\n## 3) Registration and completion deadlines\n\nThe practical Brussels deadlines are:\n\n1. **Register/enrol with BON or a BAPA within 6 months** after receiving the municipality’s certificate of obligation. BON/BAPA then issues a certificate of registration.  \n2. **Complete the integration programme within 18 months after registration** with BON/BAPA. BON/BAPA then issues a certificate of programme completion.  \n3. You must provide the municipality with both certificates; this can be done via BON/BAPA, in person at the municipality, or by email. Missing the deadlines can lead to an administrative penalty. ([newcomersin.brussels](https://www.newcomersin.brussels/en/trajectory))\n\nThe underlying Brussels ordinance also states that the newcomer must report to an organiser and conclude an integration contract **within a maximum of six months after registration in the foreigners’ register** of a Brussels municipality. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\n## 4) May you choose a French- or Dutch-language pathway?\n\n**Yes.** In Brussels there are both:\n\n- a **French-speaking programme**, organised through the French Community Commission / BAPA offices; and\n- a **Dutch-speaking programme**, provided by **BON**. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))\n\nThe programme includes, where needed, language courses in **French or Dutch** up to A2 level, depending on your situation and needs. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))\n\n## 5) Current official sources used\n\nThe main current sources supporting the answer are:\n\n- **Newcomers in Brussels — Target group**, which sets out who is required to follow the Brussels mandatory integration programme. ([newcomersin.brussels](https://www.newcomersin.brussels/en/target))\n- **Newcomers in Brussels — Exemptions**, which lists automatic and proof-based exemptions. ([newcomersin.brussels](https://www.newcomersin.brussels/en/exemptions))\n- **Newcomers in Brussels — Programme steps**, which gives the 6-month enrolment and 18-month completion deadlines. ([newcomersin.brussels](https://www.newcomersin.brussels/en/trajectory))\n- **Commissioner Brussels Europe & International — Integration programme in Brussels: what are your obligations?**, published 23 June 2026, summarising obligations, exemptions, and providers. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))\n- **Brussels legal text / ordinance as amended in 2023**, defining the obligated newcomer and stating the obligation and six-month reporting/contract rule. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794596589.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 23272,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 1432,
+  "output_tokens_details": {
+   "reasoning_tokens": 257
+  },
+  "total_tokens": 24704
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 1
+  }
+ }
+}

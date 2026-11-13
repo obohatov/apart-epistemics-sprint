@@ -1,0 +1,265 @@
+{
+ "id": "resp_0a6bebdcab888215006af75e2fc4ac87d296b7144ff31df5b2",
+ "access_programs": null,
+ "created_at": 1794596399.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0a6bebdcab888215006af75e3119d887d2960f3a85b1c1b4a8",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq915Rtst9CzBrD0R3J4U1FKHkSKAcFkMNMAtZFkSiGoRohABd1awKC8H7vU7FweZVQJ5RSYHh9Ej5SjK5aaN16lPA0Fa48OkJT6IWMD9XRKM8QzdM633tCMZ4Y22yiYgh75FQYuwsecqhQM3CGAXw_qcDh0u7RBJcGPmOIupNFI6Ki5QvjndIrvnu1EGkdpWqOlhV99T9wYRfICH343oUav9pQS6sdeuGgy9z4iHW7BVHjB4ifKFZkQraHdIA9iTl-G8zEOoMsqNu-uLnCccUs40c_8rQDkC7CFVNOQxrwTJ8M4avis0H1tCQb4phFz_JY1rjv3icBbzk_EU_j6AFxkhnn4HTfE1RGdaqd8IBNkITFjo5JtYijtmXYTTYfCsILkeXRBHlHPaBilSX4dQVWXJ8v7YrCyyOnKSiRebsQyaoOn9ZI6ALiBJp9t1HkQHLk2g5S9wSet2IYYIZ6RyHnZ22U1OO3L0jn81dlFuGsmbW5zrhLcWRimEnHmUeqOHcm0-GbdUTdfrD_2lFFHUrODlzsR_F1BVe4qb59wooiWBcU2VjRRWmo8dGp-hZNqdSUVEcd-tjADHd_AquEOd9uO3GtNZbMiBBEBcWbjb-LhHDRdJoapvYprfzC2-u36ZeHy8BbWZD_WetyrJiEw1GbpEKYfsNbaJ7F10oweOUVjUgXhPvrR3cq2M8-dOz0OkdejMq1_6mGf1njikHOU2hxLjvwiES0wiB7qrW-MxuP3ZkXWPFQcNAKdsS4PdRmKSPzf6Ueg3-rYlZ209VSFMib4HHLws29ObgbyoXOmEZa7oxQBTbD1oEvw9V7YDCxEKEVybtxfb3fvRSMe7hK4f69p-djRBZ2KR_-F0915arT4v2sawTXy-JKwu3m3wLj207fp6kAxirk-tgVKSbSjI4ypFgglqYYyMf4-OYQ8yyx_howKZF--x5wnOedHCEhdAkG6HouJidop1T7LREjnW7XLwW4pyoMSly1CAeDK6AJXt6LMT6ZsXk08MdeBc2PI7c3o032Psp5GyX8YRLJYn1O5TESCU0ztlZkzkK-F2xH8FcSMf1fancDp15yrPjtvQy8uC26EixUp_KAFrqpXGhpFKNN2SlKZUQG45UOSGaOpUBH2WmNrZ1zAWULO45MIl57al0NaeYk8vITrSd96cvX1D_QAQHpcs0yffcWrMBEleaphkqc_CMOQ3ENyqHQK3S4MvtPortJxDzbsJvGhN3Ukq00JUYrFaupkWKZb5CRcFV0mUA0S6pG6BiM2-w3finUvG6JbYPdyul0t82ViqHAqpQp8V6n51VFqIarwLYlUeGgBn7IwbGUXQl4GNNMWEuEbexzVegyrBnONPjoFnwXaRJvB9CN-M_tsgmOX3CbWNwH_L3RN2ExUZLIV6Sbes5bbTSM82S9aTl8Go8NaTIzhJ4wJXizz742BQ6UipO1-gWwcQfNweyitjp_-Lim4_QbT14losVAKdYiHNIAxHwlbpzecsntfzzBzVLYbpExr-4c3kbLFvduowRJXtrg2VNKjqmk8l2e0whn2tqMhz0eWBUcCBxhlw6uLP2rC8tMVzIn1n3uBo9ENLBSQThoSVHsksgnW9JfOgcWUj0IjhQIny4BQw6rfxGAeyQFOi6cB-avaj7vpxkNTbiZA158ivtt3Fqmc1Xog0EywOoNNAiJgd_qBru1sSK2TtHXFr71-I4zx8CKq1BJYjXFO7lkm265X_hZgRA_ChM0ljQc8dV2TxD8nnsXMVXSSRaRY9NQRF5jk8=",
+   "status": null
+  },
+  {
+   "id": "ws_0a6bebdcab888215006af75e315f7487d2999076ecad1c2b4f",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussels verplicht inburgeringstraject niet-EU burger minder dan drie jaar legaal verblijft termijnen 2024",
+     "Brussels onthaaltraject primo-arrivants obligatoire ressortissant pays tiers plus de trois mois délai inscription 2024",
+     "Vivalis parcours accueil primo-arrivants obligatoire Bruxelles délais inscription dispense"
+    ],
+    "query": "Brussels verplicht inburgeringstraject niet-EU burger minder dan drie jaar legaal verblijft termijnen 2024",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0a6bebdcab888215006af75e35037c87d2ba25a2a2d21ee1f2",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq915RdBrBZ8LRlPCW8luXMiOA1VEs-tcTpDajmxL9MxVPJ4J7MzI8IhRhc0v7PAgGmel6FXd4AGk5l6WPckqf1DeIvuboiGa5bVsj3qrylq3biinV__yJDUowucyT5y6_VOfa41w7kdEdFCVVFl70D5JYc-HHnSNCD6GMKb12JpE_MVjguQpQFuaDga0qb4QsJgehKfcieDK1OpFzAehPEMujW19bYR8WGWa13UMXz7HWvL8jrgder7axPbC4jEo6vFLqj9GZKKw3xseFCyOs45APRZx6TxR2Zd_qGeTQQ5NDcbs3beEiFi-gBVACOuOvy78QED-2XF3uUK3QzL4E-AWEa2-tEjLSi8JW6ZT1UjmSNYM83NMUCpTkyEq4hvSvOkVGMcBvNepCzGASW5awe72wXHsSZ--W7zXJDgTWgfZuHtzvULkO8-DbIOWQWYID7b5Lx3FXrGpzgkSiRhzPBnQRGwm-CO-b5LPWjZfDCcNb00qzjDIidfLSoOh4yXlTBlfQ2Z-ObAiwzH049nVZ7FQarf3jCP1hI3e00a9UBBVVd8NHrQdLW1PxGgygG5Rn0hrVhSQgap2aijzGxBoVjTFLB-CKHPy6SM9gtv5rCKcbKp3r_S3gl-GgMvL9M0EQe5CUfBW0LGz7CRYs0wnqTsAqkh6hb92v45PAi_VwtvtBTuPGkGcjTp-9d9TqXKQ9MHO73tI_j7ez4RsyaT5zY2E9BW9bk1ibc3a7Q0OP8vvP3k85ZlS9_daBYVBn3u3_b6Rxn3NOaCIiuEgKUC1R3XN9Wvjx2HfLqeclvH2ZpuVY1pQmCQ6wF3ljXQbUnFsoya0vxo8mhlD4eIxp46tDvLc8I3Js0WuWkNmwl0cZ5FBR4rKzC4nR3X9Rm-_68eNTcVnPOIxAroMnOmcM_ZB4ytmqten2Xqzzc3jT-fAayFDfsfo6Dwry_2ieO0zbW24i-q2XNfsY4PXWL_v719T1RfQY6hQ1w0vHldQGZqqjkFAAgz2fn-INFlWyc_0u5DK6vcip4ncYzV--rJ3ROH4W23WFzp2Knlpud31R9b2B-OQ8tmYo3x3mpZNEKV_IXXe63ntkjcJrVWfmF3feKsucBJeJdrohjpyHxxCv8hnW7wpKgtzOS3RZOzfLBD2gakkNnYYl00RYH5_gSud9Elg1osNACWlvxx_8wgisp2Edeku8a5y3pwiVYAxwFXRNmdBu-P7RsL1y7j6aSAUi83TFfaKfOiRbfSLA7DaXXIpYtS-MA27it4l0yVhMYWEwKJPig2XLfw2ZJUxk7Kal6vIAW5DNY68WBfbPdveLVdE5yKr2Mow69XwGeIBqTZKMiNK6FraF_DraD91XC-Vn4GHL0MnSbxJl3EegVmEb87c3wGAFoVXS_k3nPe9YEMQryMW86wDFqtI5WPPV6Hd2sz9O6BJVi2w-qnBkg9pE-vLPlwg4Ugim99BfXoWIQUbDfsDtqtr_AgeBVI5CnFWBPDdGOywXoM_imA0uxkybpynVwhvMVa-cThpbjGz9lPdMZeML335nNlux9grXRYpYAxH7x-MFRQeX50fCmb9e2bZxj8vn2b_4Conx7AMQ0PN7fVGixqHjhMrg3D4ljKsn0kfJ6wd5u9fErcBxMUdxK-rfWTq-RzBvVsS5RopuuCdyvu4YMlXwQKa-KROPD8yRCVqxSKzep30mKR2B8CYL9k1V3hmlUs-huybdg3-U08IncxGQhecZ0IFWykwaq_1OCSRXVihBYXfV9s7kFdFXQCAbk9bAscg=",
+   "status": null
+  },
+  {
+   "id": "ws_0a6bebdcab888215006af75e35155087d29ef737ffb0811d29",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0a6bebdcab888215006af75e36491887d281c59493dc851d0d",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq915RQig967W6RUhEB0ouuJp-oXupDRi7loUatyIx4E6Ap1lnpURA_l2WVNfMdhO_86OLccqBCSC78Rvhw8RnfPGj2wn83sH4U85D8u-iBLR7uPWCAuJCz3ck0-0utsI2OmdXYzQqu5mZoxQ9M93l9DHzM7qT43BoZU9_xmtF9rHSHuKzhzGtjcBFOLRWpHbcvqU-c8d2-rNko8I2Od2qOJ0UR8LpekTFZMsfd7LMn0vRuJSNRzsmGy7_LJtApqh6nI8SnkCeihdyAyXfUzClKG331SF8jeWddIk1CmckrP1_HGR7yrgLPpegR_NFncIY7ZMwGqT2i1LoJdIOT3fpw1cWWvAWNM0-Nw34VAsI0_e0pPEti_RHnTEXqaw-YN2b-fhAU6Tsq20YB2NazDjfGBa4bazFsyjGIqz0e3298SpJrGJ9YqVggJLJ2iPERr-D2kATsRRmATmqZaDqjYlpzCcF8TC3rQikDQBIuU2kJzdfXOKT44IvISdQBXNF3XzOcQLCDNdL-nkip6zhvXAkUsdBndtXpzjIBQNRfICFUvyD5VIyFVWZljQUioP4xur1VZR6hcZOf7YpkQVLor0C5vkAP15zWCuxdqrKlmjCg04uriUjllzGsmcx0Ae2TEJMcU4Pj80zsVnGSPP8EhpJ5C6H5tHmFG78Bx8tM6bbDqCct_K1I0jnTD0g8kLnFkYkzbsMpBzoseurWsLwmNk7QOJJp4XRD5JiusFtVymVRptT3qFZZhMfGtYugqyqlyviesyk60xLRwsrVZ0TunRCUNkgn2jexvEoL17TAfgem51vBTbnLNe0oz2DdzsHd33JlQHuir0hWTFf2sP5EvFufYIYR79Oo8xjnnfjL9UvEYcN_YWKs73jRYD_VW0K_ev6jnshcudXSWW-likffJWmKsmNczRwbjjQnn0_ULwlmunR-8YPhAeekYTGIdvnWon1ZoULZe8TcGMimoJni-bN-Y96IS9Ywq-OVhc11mu-fEY7J1AQS6v7j2F6T8ZMi6Om2eslWJYrtUacUmrbbEV-LOqrUhzYGTqtUVFru8d4yAgyAz0o0rD6gdkf9VtORq70qr-owbZRvjU7Q5BddH3g04oqsnuYeIBP0LRIZp7BmS6Xn2IN2tFBuShVwPGnUEYNVqh0SOlzk8G5yx3IlyFZCeJmtE-C1n0VQMrMcXA8eQ_WhhuJQ97UeCmmz7JdpPikMd_KgxgE6U3lEjLYOHqBj0AW_A6DbCFpv0in1-dI1a2_8nbLLF_JzI5qZo3KK3aYxbBDM-VmJNE55cP-vA6M3Gj-WUOHQSSCXlK33dHfWAKJj1N4B8JEGN0ErLwP3JGgE5vzHVTv3IhCDBniouvd74ozLBJXM_F7K1h66VRCvM6ty1h7MfB4_1G-rpiBJTDG8stD8KE0ZVpIeR1eNCa6YfEifjogGPdOekUhG7MtXTwOiarpqmNf_eWfxeoAfYqR9i2JdnsPfZu24OBMBndGW_ZbyTnwZAQuWpt_BS7_zIzhwN3ZP9KYwoj0WmN9pZ2_RGrbCL5TjBntJPEotOql4Hj0pRDvliJXBUPYbl5VZp2GjHxWPajlu075hIq58nY4WUCpqpXDwCmHvgYMEWxc3RxzB80t0mAVqhGoFislgM_QhZKbOOYXnpmMTRxZeueqG86DGZ7xevVsrDFW0rvlXedTgEvl0Q3C0QPOkISVFTrELRmZAQ5cdt9qMdkR5_-fTFoWk-uQZB-2Bsw1UieyHwtPKp1YHuqyisjNahidA2S7lhZlze1EjHlvg2NtqpshuxvIGU6CnaBh0cwZXnlXK1XloA==",
+   "status": null
+  },
+  {
+   "id": "ws_0a6bebdcab888215006af75e368f4887d296e8b67962c1d452",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0a6bebdcab888215006af75e377f1c87d2ab99d6e022e8888f",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq915Rg-sA8388FV5qqnflhJ5uw7lMMBmbGJPROG6N13glza39MEzMAVdS2tqTmUXCTEFCjSI8lbGV7bPr54vSlpItJW8yBTm0wjv3KHd40d8EyGB7POnHZOcKPlMhJ85EJvaG6JRz-hss3LKV1Q_rkxtFZdBdSH8MQsEsRlOI7EUH_jTY0tQwlKyvE2Xruonzm44z2-igQegzslYY334PJKFywOxPLj857oJnBg04BFsmZgwTHKZRyEzsGpTUl8v0T052NGmM6NeIcfwyIGHx4jJPzDpwnKj2XqPdks2Gj_d8s_zkMiHY6_RhU4VMiK29pncNmwBpdLhc8mmofXkcuMdQTFLtie5r_wqvZ69fOFfGb_sVpzqx2laXo_7nnpJmQAjizMyJJSSFKnBxoYrW-qWMRt6ZV1RDyZW04AdSDF6Ha3u4df8VqZjKMvhinZxwzMdRFQTnSYvG-yLfWOfOHQ44VYmnUogzgDRztGP1l2X5E3DBNkxCJiQqIPu5p5uih8lWfp2YNsp90-3uIW9nOvN6VzKpTZN0V_LSHpGjN_Kwi4in2AtKL40Z3G0TDZvEHH9_xwOAUGciNNi2iEf8d9VPstPmNOn7sx4xxScExCu6hPIof-eOLUdR3YWw-kQxzWHx8bn-849Hn-BhdESRY723abbjR6YASSCVkUhJDDXJHNpAkymaEQIEbb9T8T1gx_fZGosZDPL60wTC-4rCDN80B7P_Ph7MPBXT0P9jfTR93nvpVKjrJpGr2BmnlUCrqRU2MuWkwk5GOseDUrDV183nj3O84YUH2tVXbIwS2E225RftBrbiy1Q7QnZcy5ZxT8cDMnn3IwLik2lWKJep1T81blKXdRCl_OqupfGr2biPUFAv-QTHOf-sYvsRE-YLekQcYHSmRWRjSRSeSJ8hhJxmN-LOGCo1fcrMnZcsZa9-Oxc1Pq9dzRfCrbrKGuQ00chiFrAwx7KXcKg7gr9XfXloTeQeiLFbgpsR8Q3v2PDdJpwgxGwP3moDXMi4lEn-8GLA-YG0SaKIVznLnFAZ0e1K9YVtoglblt67KvdMVVEb6TzfZp1-qQJO4Fx_mkQhoLs68u3RRbgANDyBywLPqXGMw7ebRb81C5A7I9MKtABQeSZCJuKIiHGFkN9zbESKgLZwKh7JMItVr6L-5bpNuteKQFvF8GFWWX3gySCP2oumusYJg0D6oiCArirHDE3R9kXC2ZAt2XUGbA50gsBrwKgQN9L9QhM620aNfP8x_4-n8rKpQKs51r1hb2LaL9wlD2qqb-Ts40Fk_WwCt3ATU767Og-2f7RCW_7zMRNGOkwRnDSYnUIYxNqTFDpQsUDu4lNTd2ylyfsfGaQH8rN8sxOJwoBYsLm52FaG4WB2QkAtoBbCpr4S9knAMA-aF8IQ1Wo5dZ_vNO7JEBbF1znaB0oPps1_YnkNGbuTsfGnXuzDLm5ntj-IWKZDT-a-hCDe61jujF8bm4OYANrsyzTk0B1T4gQ_NeFN_Lxa7byrtyITMcdT4rET0pTgPjEmO4bGNB9gnjcokUMIfHLtjOsEOs8LWFw36iEiJaBgOE_F1uuxKqpBeQFfBiTe9RHCH2Marw8aiy0pZOyDawrfFaC5_laNqe9h7kT27wtcCnCCLzSbKYKwTdELn-pM_YYpNXGFOO3H2exlhsv0L2uvB9svZg2lbLhnk833xiJls7tQrOYecWcrxD_bCMrIHmsLoMHi08EfA3s5RZso9txA_VRC0G_9sw0F_mU67Vp-3_hHSRgf-Zf_dCoxR-BV8_73MgQ1MhXxWExdO_Q9IaacU5961mN4E1LEjypBvOF1Wet35vzuV56UkOVM1yaXbCtn6HF_MFFrNDo42tKrvMQWNOpXfey2GewAfcV3BUrnH9kCzdN_j6QzON8tPYnoDhzGb9p2mJV097I1T8dc-vdWABbH3BcuMQga1BmaGiT95_29jbpiuh18ckloQBXgU0BJtSbBfw09HTHRhvX8ctS9SmsKzhqix8k2jZrRb39YuvCDOKHLNuk1OvDJ6s4Ib_hcx9oHwWc9TdEWH1vCzQ5jMmkpdxg7mOjVe4ItRa6fmthTNccbweeJoxAh34R68GJOtmpEj6jd-0IJlnsPkI4-WDoDCLeITeSPpxRvPMJpQQJuq4g-Pqs5WkeD8Vgg3me4_9UB_AcX_UGw9QcEkjxtUa5f2Ik-d98uHH_bAEOAVipNBHwjICx4vUfzFWNyv-7QejPu_jVOktKqWm96TlCrk9UvDo38S3wpHWmnvLl6bH5n3vPKJYEwrXXXZGlDjt8PnVUGmsqfGh-V5h6o1oa_X1Au0ymKlwXowNKc8GNotfbzLndKOmBu07MTGAJk_odSrTwNnnNw3UiiSizgvZws31T1qFScynOtcQnRe3FXwAVhS_0t5mEUtyA0J6ovCUInxu8ErGSIZbb0QN4gt7J6R1Tv3yOe5X8ZmC5A89iy2AAr2q6g8f-zILIcWAa4QmSrNCbjDmOi0q4fQfaPusuwWk9O2u-VxAhYuSTjT7vGZ9PSR7DtUD27R0x7Eg3YCLujTreTzJSvHNhOYj-Tfsq1ngY01Vd7vqKszyvFWnsrtSPBTO0N94KwtJ3QTAGWGdfObP1JHRLb0n0bPV5kPxmh_jLPhs03D0qCQtFkPwRsXNvibAiQLmhr4372N2jSv6xAXpMUXr3apgNDXKejyUSuPkPAW__9ctXJgEVj8Xb0qN8J4e5h6dgO-pctSh8azniB0m0TlH9O2jTdASEGVRa4hJZAtC-5X7W2fBMmDDcCV988nniSWatf4JFsb0o6LpFWTw8ErwzDIquwnZTfWetGCwoEJBBsYjQfLPm2gXnyY58Fn_m72l5-qe4dObCDOIWE6cMZcRfgIwXZ_hmDcf23fxaNHipFTeIdogM16jG_hrLdTlWtqKw3B2N3E8KH7e1tQ6wsehysKp19MZiikTLypK-NUBcfxZ7fqpcB_2JZK5K47aQFp7yxE5KCRC3D3_bU7vjGwCnJv_on4-izMHr1X3s4DLHzaBknXyaT3S5zLkDi1ShDW4bXanEb3XNqolTE-jRsg0zpeS4nY7hT8qo3gkvdhw2UVvzLfdTa2lOZ66uXPZrEhn4adIfkU7na3yFDTr3FUPmPU92nTHdl_qFt24kJ8Lbw1g==",
+   "status": null
+  },
+  {
+   "id": "msg_0a6bebdcab888215006af75e39652487d2afc8e1036117b013",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 891,
+       "start_index": 791,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 1778,
+       "start_index": 1678,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 2337,
+       "start_index": 2237,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 2848,
+       "start_index": 2649,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      },
+      {
+       "end_index": 3264,
+       "start_index": 3164,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 3471,
+       "start_index": 3371,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 3923,
+       "start_index": 3724,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      },
+      {
+       "end_index": 4582,
+       "start_index": 4482,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 5032,
+       "start_index": 4833,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants"
+      },
+      {
+       "end_index": 5379,
+       "start_index": 5279,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 5637,
+       "start_index": 5569,
+       "title": "Doelgroep - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/target"
+      }
+     ],
+     "text": "Ja. **Op basis van de feiten die u noemt bent u in principe verplicht** om het Brusselse onthaal-/inburgeringstraject te volgen, **tenzij u onder een wettelijke vrijstelling valt**.\n\n## 1) Verplichting en vrijstellingen\n\nU voldoet aan de Brusselse definitie van een verplichte “nieuwkomer” omdat u:\n\n- **40 jaar** bent — dus meerderjarig en **jonger dan 65**;\n- **niet-EU-burger** bent;\n- **voor het eerst** wordt ingeschreven in het **vreemdelingenregister** van een gemeente in het Brussels Hoofdstedelijk Gewest;\n- een **verblijfstitel van meer dan drie maanden** hebt;\n- **minder dan drie jaar wettig in België** verblijft.  \n\nDe ordonnantie bepaalt dat zo’n nieuwkomer verplicht is het inburgeringstraject te volgen; Vivalis bevestigt dezelfde voorwaarden voor de verplichte doelgroep. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\n**Belangrijke vrijstellingen** gelden onder meer voor:\n\n- EU/EER/Zwitserse onderdanen (“EU+”);\n- bepaalde familieleden van EU/EER/Zwitserse burgers die onder het vrij verkeer vallen;\n- personen die in België verblijven voor een **tijdelijk doel van maximaal één jaar**, en hun afhankelijke familieleden;\n- langdurig ingezetenen van een andere EU-lidstaat die kunnen bewijzen dat zij daar al aan de integratievoorwaarden voldeden;\n- personen die wegens ernstige ziekte of mentale/fysieke handicap blijvend niet kunnen deelnemen;\n- personen die al een attest van een gelijkaardig traject hebben;\n- personen die voordien in een ander taalgebied waren ingeschreven en daar vrijgesteld waren van de inburgeringsplicht;\n- personen met bepaalde Belgische/erkende school- of studiedocumenten. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\nAls geen van deze vrijstellingen op u van toepassing is, bent u dus verplicht.\n\n## 2) Tot welke instantie of welk onthaalbureau moet u zich wenden?\n\nDe bevoegde Brusselse overheid is de **Gemeenschappelijke Gemeenschapscommissie (GGC)**; praktisch wordt dit opgevolgd via **Vivalis** en uw **gemeente**. De gemeente informeert u bij uw eerste inschrijving over de verplichting, sancties en beschikbare trajectinrichters, en moet uw vrije keuze respecteren. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\nVoor het traject zelf moet u zich wenden tot een erkend onthaalbureau/trajectinrichter in Brussel:\n\n- **Nederlandstalig:** **BON** — locaties in Brussel, Schaarbeek en Anderlecht;\n- **Franstalig:** **BAPA BXL** in Brussel, **BAPA Convivial** in Vorst en Anderlecht, of **BAPA VIA** in Molenbeek of Schaarbeek. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))\n\n## 3) Termijnen voor inschrijving en afronding\n\nDe termijnen zijn:\n\n- **Binnen 6 maanden** na uw inschrijving in het vreemdelingenregister — praktisch: na ontvangst van uw verblijfskaart en attest van verplichting — moet u zich aanmelden/inschrijven bij een trajectinrichter en een inburgeringscontract afsluiten. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n- **Binnen 18 maanden na die aanmelding** moet u kunnen aantonen dat u het traject hebt gevolgd/afgerond. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\nEr kunnen in bepaalde gevallen **opschortingen of verlengingen** gelden, bijvoorbeeld om medische redenen, werk of opleiding. Niet-naleving kan leiden tot een administratieve geldboete; Vivalis vermeldt een mogelijke boete van **100 tot 2.500 euro**. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))\n\n## 4) Kunt u kiezen tussen een Franstalig of Nederlandstalig traject?\n\n**Ja.** In Brussel is er vrije keuze tussen de erkende trajecten. U kunt dus kiezen voor:\n\n- een **Nederlandstalig traject** bij **BON**; of\n- een **Franstalig traject** bij een **BAPA**.\n\nHet traject omvat onder meer onthaal/begeleiding, burgerschapsvorming en — indien nodig — taallessen Nederlands of Frans. De Brusselse regelgeving vermeldt kennisverwerving van **Nederlands of Frans**, en Vivalis bevestigt dat er taalonderwijs Nederlands of Frans kan zijn naargelang de behoefte. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\n## 5) Actuele officiële bronnen\n\nDit antwoord is gebaseerd op de volgende officiële/gezaghebbende actuele bronnen:\n\n1. **Vivalis — “L’intégration des primo-arrivants”**: officiële Brusselse informatie over doelgroep, bureaus, termijnen en sancties. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants))  \n2. **Ordonnantie van 20 juli 2023 betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen**: juridische basis met definitie van nieuwkomer, verplichting, vrijstellingen, termijnen en rol van de gemeenten. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))  \n3. **Newcomers in Brussels — Doelgroep**: praktische doelgroepuitleg over eerste inschrijving, leeftijd, minder dan drie jaar wettig verblijf en verblijfstitel van meer dan drie maanden. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/target))\n\n**Conclusie:** voor uw profiel — 40 jaar, niet-EU, eerste inschrijving in een Brusselse gemeente, verblijfstitel > 3 maanden, minder dan 3 jaar wettig verblijf — is het Brusselse inburgeringstraject **verplicht**, tenzij u een specifieke vrijstelling kunt aantonen.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794596432.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 20655,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "output_tokens": 1670,
+  "output_tokens_details": {
+   "reasoning_tokens": 353
+  },
+  "total_tokens": 22325
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 1
+  }
+ }
+}

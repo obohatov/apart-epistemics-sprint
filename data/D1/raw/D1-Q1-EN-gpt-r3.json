@@ -1,0 +1,335 @@
+{
+ "id": "resp_0c8dcf3e2ab27c0e006af761eef20c87d2bb18242143b6e7a2",
+ "access_programs": null,
+ "created_at": 1794597358.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0c8dcf3e2ab27c0e006af761f0be3887d2818e690adbc43ff9",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92IO70065bVpiFXW1tXRW9KBUZGbgJFDa7eaiqlQ_Y1z4mmx0h4iQ72mnR9gk8CejUAQ9PsU7iZMtK0uPGuqRzjhrTs_pWrGjpuQUZZNs-PUUXPm-GhyrUdatoomA55jj1s7rUq5VqOktg8-eXEA7f3TxJ8v5A49BeexHaGsrrlU3kCF7FMoqFxmdnxcABva_5L-6CL7WF2X3Pmpb8_NbAbU1-L6s_ixeQwnYCPq4xEQEydxooL7J2xYcR8olP4hOhSiD94CQAW0UqHiNlDd8Gc6ZSEt5K9-99YtJWSzwPpA5eBw5geGAwkL8EC4k8BY9s7swUHbJNmylJ8A6STnY0GD3u6Vi83YXNav1rhu6Ptp55nVMutHK_SanHav0FdleyZVHWVWxuaO-QfxMZ8mTdaaaigVVihlHqV1qHhnYdzBsjf3GLxdDy5GEUOfBw6CoPvbeRl4QuV5ldyR86qkoTv9hfeYTIBJCYTKEbZu-ABCtJZ7J4GlmwYiG3isu_kpPPnrIft8pJ0szlc_JldAVQKkMIPUq4KMBGWQXwrdBlIhFFXmTriXAabBq-XqQa2ncr6mf6jGJ4AhOr6kD9uTyk3kB6wdtXTHwB0oqH-WDTHv4heagPn1f74VuAIKXChdT2KRKHaGTnvDhrXPNiUxCEl4R8UCs95y-SCKLKin-JFi-jsld-dDHMZnBE4NxYRTioYEmXWEnIAmaee4AC7uz2e5Y4pP7qgvUq1Mn6ANDIthre4DJOXiimiXPrtMPDTY2CAdriLkMVHCHNXA-pm7YQp41lUlS0Z0DmpD6zioudaPU9TUb0hrUhJDCC8_mPsDsIjExp6pHGKIxDAM4nJ2Zvp_LaUEH82XqPDWYxB_olaU2Yjy0GeSXSIy00wLg7PS-Ri0bgpfM2P2mCR7hrtKVSoC5ZIjR2tfaPxfyN6pOWO5apX12ofBJXnuRLOuhvmrICCJr5LKjlvbvD3TvEHJYMlAZ9seWpRGvW9YNCe4FVOOKVhQlnPbMsVW2Sv8OHXWmz5uy1JQ7gOkkrGniJ0irLxz6Vqib947E2PHihYRolAZwV9TVc6bJVOKMxf0f8JkIuiSeC4-PxATbeZNYva1OdmCdg5cFUMC2z1aXHF5z4sIzM2xaMkFPUKHXCQUunD8-pW_EMg-75r2KCQzvvmXhO00cD3pskKZPFGBOfUKuh-f6zfQsbgbcH_WxVThuxLQyo4If1SNpGSJ7ujrRXYOeuXDQogsUkfNHNlYwHIiecx-XyR7yJ4XngtKZfgbEb-VpWVRKxkDU0cRjv9JdZ4VfNfc_rycLyLCD59wgJUcnBMcZIiP7BlOqvUBOf0dcxHxfgYWzVvCs1wiD429WDzsGaTF6LN4Klv0Au6z7Hf81sFyeP044jiakmHCZeSCtrYhOu8mImqvqyh9Q4-f0CJGdSI_jodjG6QJcrJmF4yeQo87aNCTRroJeoFaRL8vrcO_II4mC5V9QGSgW-kyQtHAP5diSfjaPCFjQs8sEMhAIfSznVyhTLSR9jaxwG-8n-qEuU9IaZh9mzNhyJCaEwS0MvC6IibQHLNTiILwEi7xBuFB0mkHEoOHFUZ788d-ktnDp737JUjkjNA7fQPxHUyuKxK1VnDjlKkniqkFXwh0FHPyTfdVZFZoJkBv1Dagro-BStwh0hHTJ-bXWWuwEXi3q9z5tMeCi9O8GonPWEvhODDULs_JMXTZ2yoajJgzVdIha7D3vpVIkDly-e4gLiLhTPDTPfvf77USWGQcSmsGDDxyz8w=",
+   "status": null
+  },
+  {
+   "id": "ws_0c8dcf3e2ab27c0e006af761f0cdd487d2ad6331ac6fd4f3ad",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussels mandatory integration programme newcomers residence permit more than three months less than three years official",
+     "Brussels Capital Region mandatory reception programme newcomers primo-arrivants obligations deadlines official",
+     "bon.brussels mandatory integration programme newcomer Brussels 18 65 less than 3 years"
+    ],
+    "query": "Brussels mandatory integration programme newcomers residence permit more than three months less than three years official",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0c8dcf3e2ab27c0e006af761f524ac87d289a679332fb17784",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92IODjCnXaQD-SH6wjEr3QCEXopmU9A6JlJhKg2HjUtNou3XboOwOrA092jfPXJWhm-r4TVteW05kc-SbM_ed5yJGaeYuEIDeGfDp9Wg7q1h8Gn4GvMOTKJfp3YTL4PgKYDp_4zs8MzbU5J69EIiAQxOtjQvF-q9WPoKJrR1fgtF4p9NQ30thEKngu6Xn5x3bBinM4hk5fhg65NyXW1_l3WYUmhlsJ1Vc3rNHQWcNcXrMfMKl3wndgfcwDSMvg31lB6uoYBuWstVhjxyfuinVlkVFP8vPjLMj2ZfuVwfW_fxN2Nt_4TbMLK-ml_AMCRnI5hixxSPoBFJc6cMlSYSF6qptPay_b9Z4qGkoTJ1tfpyZguHDLlo-_LzYB_sKQy2_q_iH1m-OMohHITsGFBrJJAJTgs0ELayrk-xSnZpHbGj5-K_tbvdiR4hzDl-uKYAn3Ix5DIXIREBDT9qgssMSA2L5iZ9S0ZRg0HmLI49NN-vLqqwBX-1kPVPrc2dy97O58KSAnQ8NfoT3FOKUu1Q0f2y-ST2oT56fjnwwBgmg9vBdVHlDILg0gNHewvWAIw_423UOX3WRFNySYco2UcgVLNAkefSYmJNpqYmx7gsbO2Fne0w8vU_LQCkMb8iG136rEMOaODrNyhtOHnp5Ny2z409pe-NW8hThVTynekaQOUpdOn5QKozzwBQlsNJbx7BIqytGlFLbNxR3uYpvb1puWDg2iRmAJvbJEPMkFKZ-rCjSxJ8LP8OdnL_7l3s0Gn5WYPRH39VjXoOTRrO13GXsRrMe5ChiYUGHij2LHlKFyJpfMsVRK-YSThxQejNqt_0ty0lNqcDhgysNFRkoMRIOBWo5k6bMq1eOb_U8V9muYTdznhUkSOcTi1zG2a9htTX2bcGos8p7FXDyDDe8nsh7D-2zjNT7dOJuUyCjE-dhNyqLx0yBkCWxin3k6PHSVrQrj168C3GT-92Sm18Au4fatrdyr9thYvIfGtnp490GlxPLXaSitRIJmsWic56MCBCqFfhPWR9fIzxoOZZ4wpwbuGUysjFtEglL6XYF-SyimM4qJIZ1E6ya1_8VBqZTsuXZ6_ylVU3roLHiWf1-AAlQ1tnyygHTA6t8mwV_5brRKeex9tvomq-HfQruZn0LkYb66TqELwhb9cQfdAl1Kuil5WeF8P782uVp-K-BzO8mnV69eUObC5d-AxhpNh4uiE4MId_YiFkGz3aKCKxuF8QEw6kmyadRLwE4HiSo6P8XvBqd9_sO0ZRQmxbzBFkCoSjhy6U-XSBTvKmW9NvuSie21Dt49D57QSWDvMtqG3k8ZdL6-RKUbh0qHjvdwhcWNkxo4mo_lTJosQZ-Mw3vNvWkJrfx3Z_7LLvbX8qArWUKoOGggsuEXRuwXvhzYRbAqb2sGxNC4QtIEcfef_BunR5Oo6qfo-d0J9MQol6fZxZBOSXfmq_XGSXIRz6j8LWmUA_vxPvHukL0NwetHTB4OiOmyFqUNBX2ttnkT6jYA3uw93kUBPcxnIWdiD1KhFdsRUCPSG8co-7qHJQLd3Rb897vzxdtxL-e68YkuPT5-6sOtFmRVUnKHvg9VgntQ4TIur4k5VHY05zktdvbuOoQeemuljvIayFRxXZO51uzwvmEzKfB6u1ZNBnimYU_sib_8BDLbf4cCDJioJk7ZaFEgCXwPkYRx-Tzf0p5MzVkFuMEsghzbAFZL-_z_wnACdUA5BRCZ2v6_koBT0QmZ75HxRIwdW6BNSxBo-agtgQUQb3CDGUL8YqMTO8aRkuxLPw0YKEKsKz",
+   "status": null
+  },
+  {
+   "id": "ws_0c8dcf3e2ab27c0e006af761f546cc87d29fc263185eba6460",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.brussels.be/mandatory-integration-programme-newcomers-brussels"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0c8dcf3e2ab27c0e006af761f6e83487d298b20e0195feb965",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92IOtH3zIzEE5bt3oe0Af4cVvF5u0RdMSOEP2rmDHpgGsYTuWQ7N2D0f84wQy9mN8iUYwmxIx0hAkj0ihpmt4kjoWlDlvAmM5tWaYs4uffNO4heomKCRnTyCb0qU_usLrpZhf4joAAvNMtc-a7Tn4xvl9FvaYcpqZBIrEpqGo-ECRvCV6l-s_qXJeNy9XO4rqSffwmnX7PajmJlOOxx6j5gN5hnWDVxdoWm-iqr1WxPwmrCyqXpALTUJIqgwb10U2p8HdbifJBM6sMeZCKQttEaAslD6th11uwmjvhYY63seLcVb1wlGJgPcm74LsGb2YjhJATHaZmjeYYMrlcxr4Ss9EdBuf1i68eQ5hxy3gbAoXOZNz3jho3HZHH4RzoJgHpH7e42CoHqVpYMx1Zvz7Ady-1ecMuMfYZG48BauT9cdEXc4M5TpkK_iNf3BjnCl8-7rm4da-MWNnTMK7OTbTS3vI7u4IqTPASQjKuI_OuG7SXR10TabXxQzF9K5ChLpwlThRtomRheZ9MKNEkjyDbVp8LnVDJGRJsTA7XWftoL3DPffsLJBNlvqJZ2iw_fNnSVWTpStSZm9dUPB43YGGoMkB0nnPg5hIcfCgTHJuDGTlbWn3iPQ087pMnHLWBVO43nuif_5CoFmg5h8GUNS7JXG0DGwvhcyrpYAh2BPrXOJ0gh2qQ9A2hMMii7wqDLVVu43LET7vaQ-AkR9r8Lx0oaGtcca3eFPscbA-uzz_8RjVV3fP5XOMQGuSIQiD1z9CwbPcPFlmAciADLtrFgbxB5v2cayR6LUo1Bt2tkx2Dko_r5u2YtRRcZbUkbBsF7sCrcuTkUs13xmqifwarxqqJ6YnKQLvY4BfDOW3P02-4feE_Nvh46TIrComl6tkU9xyhhH2sdyUdTTlRu1r7f-2z0bIYP7nUIvnMsiO6U61vcdAovJfehGrNcQKFEqI-bk_n0fXQDBpioebfpASRQOrAPcrl2JqD7eVI1R5v6sxJQly9Wiz0Xnd1w94IUy-Kc0MkyhJkCjlICBnCsVT2qJ15YLGRsGk7sHOtZdhmzyHqv8FGgYERqwKudujFJq29R7vDKPNNdgDyj2SP2pE5ZpbgPykb5mBRDQEM6oRbYZUgYwFKITf1MwU4ASBjLoHEcni0QDoSEL4Dgt56t9o8pZJVsrjpxTQyEAs10LQIGdYQGR67eVr4qZHknsnIWu2Iz0Slrbye5rfQ9DBMX0e_UZ443VQTjc4hiGRgWJzAHBQYR0o8bicZ6Z5PVBoIiwZVppSL0SUIGyM_zG2uaBoWXiF73FgffLAdMSsdnLRyBn-MnIRfOdDEuiby7ggAnIk18LnM8rBb0Lbti7QzPidAK0Dv2VUfZk7GBulMd9W-EfqV0_D29BjR-BxVPWBdCYrKxoZmNWCETGNwSfCjBF72g2Kcep5c91taOJEWIKNo_DqGhftise1EK2F0CNaHfXiRqLZ7Zz-d48gQyF26yEkSQ12Y2hh3LgOkNKbDKwSPZk14zDpXyRQ_EJGRPk_7i7IAyQQhlGoB6xknyYbCYQEYsjG0AleOqauo4figmSy55mh11YXdL1hAhN4ed0Gi4finJ3mDGTfKCrCRgIVHZrJWD4XpNyh3fR9lPWkSddLl1joh_D8K7bEOfU5xDKvh6WnhPw6Z8EYoVyVCKF3_W5lenfGGFGLV9drKDQwvLagPIBs1w9huTcLlPoGmz2jP-XS79du62t3QuyEHDtiSL-7uyMf-p4eA==",
+   "status": null
+  },
+  {
+   "id": "ws_0c8dcf3e2ab27c0e006af761f72af087d2b1cc03da907086ea",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.newcomersin.brussels/en/target"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0c8dcf3e2ab27c0e006af761f94ad087d28324095a387b4a0c",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92IOFlMb-YRf71L38HK0bhN50Zj1xJ8FEIQIlKoqjClfBnEI1m__7dEHYtfuthnJo6j7EqBIEtMu5h6_9r6REiseagLzE_23EqCnUbTbuMSXlRIg7_Rmym5JS2NIICQDoVFgvfz-DkN7RqK63M6wD5AZ5pvY6lAPlmOS4Pw2r9lu5EZQlWiGAsPP6atfkcDJ226cSoArhjboKdxi4X4mGoqCQSQPcSiE-ioqwxUudzDs4zo5ES4PcwDWQxLVL6SoxBv5nVIuznKtlQCy4svhn4JkpnzgAuJ1YfoQM204DPecTAep4CjwJ3HmbKrq9Z-ZyAy34mXX24BFPdKfYbJ3l7cAYcmetQp6uHt-XSYv_8Ko6TbA8WkIrIOrF-Ndo1BPvMHGWdEXCmuU-JvD57az6yExYoiGu-kAzdFB6xjNldAj1u22cWXk1_nfKzlGjUMasrOOqNzr2HvHwlI9-2Nker0ZArOxbYmsSx1vzpGhWnf0EmwVVv7AdYjGnjFxsIJMDuGRXFTcPIFGsENDL15WYHMCj9aNNCTie08h1fMh3gXMsl5HJg-ucrM47xNqWDGN6OVc54kbuENr7eKcPhDIEUh-_46yf3ehnVH-jTugB4NQS1j0DULWPLkwj3RCoydDhzi2I5N6f8L_ZIu77WpL_j7B83N7-Tod0ivUD8vZBTx9sUlq4A3_Ma0l7gNPC4D3Cz6EvGAw6xcbYaUzucfM506_C7BS-wWKj5fFEVS39ykO9z_azQ_9EqjT8ndoD2S5plNIoD1vdXhYzXF_t92TgYyRSB1qr39pC8oWQCMyNUjNpAXJh-KhKT5-IIuVeFoGWGOfjrXgxByw-gwWKV7K5Dvxv5MeaVoMbGRdnd8w_CQgd5w62h6C0LlJ9wELmXdJhZTQu267ZfC3Q3OY1yl6ZoxDcVOU3rgw-bD05D6MansQ7RCMjZV8ouPSMVMRfRcZHtP6ovnyHMyUMIDDgF3PZWBzQJj73vQlm4Hb1X5iYnxJRpouucYWVUWtCetIVMqwvgjJ6ZPSRja7hgM5rdYKesSVHcNeKRdKDjL9cyV9CM4rzzqvSO9tpLDNErNp7Roao44DSAZkWeIcIcBPzvi0biJmWbqILrk4JAOhG9yOB9yRzJ0gRrHuXFMCzHWJi76VAdWaU6gqy7RGXm0EsrR605JMuSDW2l3z4nZmGkBIpjh48wrRnskCaJBpw31tqjqkUXydwLUCWX8EiLfwv8mXi2SmRLz_ySDpvSKCZXi1JkS_oFeDCyG3zREI6eeOC2veWF8NzYxgoWf4P3uMoiGA9tVx5rs63osI_wZW529Cz7r5yH6MpIThj5oTDSn0F0hPJ3z05amx4XOxI_GgVmaQ43IbMAWLwfX_NJ91F6jsF5YZeIrcBf_UNu4pKJfjkK-uiRr4mX4QgQDkAcuBleq2_oTp1KgJ-Pyz6yYwBAOZFIUsZ32gWprMD2TPS23uKMxzqu8lwhTu-aff-JWiYLfu2b0q4pnLNtsnPG0u5WeFHjzYp9J8iLsN11-Byga0gtkDbG52oTNXRw7L6GLiV82XqrVORH0NltaFsjOrRxTcLbwIOtAUSufSZrpMJ4xJ-DHRB42ruIiVVksNc8xDpA2OprK9xevRNnK2ZmAEgYGWbzSpdWW6i91m29bYBI9HZabSmEPoFZklnKZzr4hy3DMK88cefzQeow2bYMR8n_NV4_SfEcYg4aQWUb-28fQgmFJjMi_zMjNUeQiLUx7Fy1sQ0na0lL90GqKilI9LflQ74Ee9zdnhb3xpAOl_NcqMvN75le3y",
+   "status": null
+  },
+  {
+   "id": "ws_0c8dcf3e2ab27c0e006af761f9935487d2b8395a9424275f31",
+   "action": {
+    "type": "open_page",
+    "url": "https://ccf.brussels/nos-services/diversite-et-citoyennete/accueil-et-accompagnement-des-primo-arrivants-et-des-personnes-etrangeres/"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0c8dcf3e2ab27c0e006af761fab8c887d292efdf58a60682cc",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92IObS2NSYtWUt8Y4u-Dx_Kn4CrqiMObAl5DAtoCRZ_TEe3QCr1nxBvaFgxTHvPq1GmzqS-ep8o-11qqD3DVN1TTOpZ5vk8Debu5qMHCJf08TXYjVa_CpOVJH4D1nDmHocxp_a3e09OzWsKh8GYaHUvpe8PM_mkZFzmLbQPb6J4b8uUQJGCMH1kOzYe_rTEWJEYxT6iEM0zTjumxMqs2jMl4KpK3fXiNVD7-LvGPCubHrr6h8TJCLLLFWmNfYxsv-Y9sKGJRDlEVi6Ulj_PWmhTHG821RaZ3AtRmt0_M2fkCEMVrLYMOzanGS2NhQMGNu_sKdpCjW6cidnIJXI6pkrKHzwE6-2LzsSurITTXpAOA8JNZ4qVAsntdATp3PhWhnhTRrQPjIJcWYubkn40JrDzgSHpzrdGVMlgvhgLfDD5ZPdgUc2Y4RT70YaOlNb1Gcdm2m0sFqnwQTaslZBtCehIVh8BqLdj75p1WULyWAmPDDybUBfhUHdbpQBNGKR-a-x6J6SD_kYv4KrimBTG8AfoNfn_MFhjmA0YTVCzOqIvrLIgvFpFELivGO4UpYtgdbkSZCPQVfy-fwR_H8S3SvwMfQBuGLlv8OWrNcrh0MQ8chseloJb0vM0DRCaJp32VQK0wLqa3jxeyKMKEdl78Fbida5bWea7namrFHiNjLRh0ebVkasl9YQbQbgVjxLoxTg1gCu59Wd828r4t_7MO2W58DVhsEUSLgP1XsYYty_kHtMbOK27qnd7caCqfBAj3gLWjqx80OoTT2BtVEnanAfLfMUjYv76MK2EfFiFcdISWfK66mZKMQH2nM8cY3Cog3nJKw_nsgdPbVFL_E_IDi_xYZS_BEZivbaDDgjgLn7birEIPBxOyAuFIFnR2caW-L35DUYBeIKizKNbt0Y_P39UJgOrc-f6fhP7AL70ixK8bji5I-8UAHlCOdVaEYXGssWLIVu6H2DdnKFuCiqE8sfA42_V7Wp2xAHfozi0Z2ysRPFmwpTkJCpOXm-XqZS7mWaWjr7Nc6l4rf-2l5m_-Uzrq0b-KvHF60SR2OGwNRcEn-Uiuu4U4sr6oNqzIBiKjS6wwmpxO9MCDlKa0z71JeFNvkhSPfJCE-rneMi5J_7HFVCyg4HWS_zJOpqIzGd9LOHy2c5ltsbtKTS8xYtGRnOen0To_O85B6ZwyE7Fay8x_8nW91OdKTDXTqFzgdJX1XJLPsJM2xaL-UxRkVQ0KaHOGtbSPK8HjmFS__weCpFGA0Tk0WRufXVibo6szKmoKU3Wa43t8xsp9TB09Di1pd-Q5hpEBfEswyLq016fIMw7ScjYJN4AMJ64DqDm_3EvvxoQOX3x1uW4xddQV50iwgYcH0K0DaIbzw9fY_3yo0ZDdZqxmeMAVP-iRekcCcbie5bQxx3T6IuAU1LPWUb34j6nHOGVtN-drztnLotR2_v0dMqa6o9snThwa8wmzJ-AJngGswfYfT8_n-_DHQaYqmdTIZH0pNOZNieOpSGOvp3gp6FZsPp463QHrzt5FXWHbRWhN9UGD2s8zadgld7xmfVP-ctoiKqrnPdlCHLFcOwBOryrbxBrpDhtl0BmbVodsrwfqy5YbZ05lN3wCyDiZ8X7Z_G5PveJDNreOH8I9J59S_fMFE8p59YuzcUpEgOuROtHE_4xhqBEpXhYZHNhMN1gL5Oyab4_necIhkBxSCE68JaFI8ZU3pV9DPoq75gUF_CcXm15jo4axFg8sQUbnsug-6KoC0XLesT3Yp8xHclfpMNdSkYxtLf3ALi0YrI1guLeVZZHFT6kS9-mnk4YPhCdrFXj3d_s83PMuYVV0O5SsQKJwhc2tvqby89aXyK_fsW58NRJgM20YDA7yXIBZ7HG3KOzacri35ORula5lhndL4DdhkLQRAKaEzlg8zRYf--FKXCMAR2Yc6dp2g8fxqNvUh-YFi3UjJOCFSmVDDGEZr3T15EiKsqMGkASU0Ad_p36ShLDdSLfW-p5IH2NDVKa-vvihDNHDsUWQiUvrer6ClSkg_RSWcQpiU6zLU7H4pdreE8f88WfrdAO7TU_UxRWYIYwlMOJjYS22Ys9XWuJLPhBDlBEsDh-7y3eYNkLFl6ge6fghZXZ_VL21MUID-0vcW7twqxsfM8y_fRXJLeQ-qER35rAFfqAaVgxWYv_YRtCSJIUt_4IyruTw6T930QrLMapQqGTRcA6ZtgQoozGK0YZRy3BJ0_LweUM8y5AhODLx",
+   "status": null
+  },
+  {
+   "id": "msg_0c8dcf3e2ab27c0e006af761fbb90487d296f9fc32e045c60d",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 708,
+       "start_index": 640,
+       "title": "Target group - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/target"
+      },
+      {
+       "end_index": 1220,
+       "start_index": 1152,
+       "title": "Target group - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/target"
+      },
+      {
+       "end_index": 2393,
+       "start_index": 2321,
+       "title": "Exemptions - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/exemptions"
+      },
+      {
+       "end_index": 2673,
+       "start_index": 2601,
+       "title": "Exemptions - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/exemptions"
+      },
+      {
+       "end_index": 3078,
+       "start_index": 3006,
+       "title": "Programme steps - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/trajectory"
+      },
+      {
+       "end_index": 3562,
+       "start_index": 3441,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      },
+      {
+       "end_index": 3867,
+       "start_index": 3716,
+       "title": "Accueil et Accompagnement des primo-arrivants et des personnes étrangères < Commission communautaire française (COCOF) - Francophones Bruxelles",
+       "type": "url_citation",
+       "url": "https://ccf.brussels/nos-services/diversite-et-citoyennete/accueil-et-accompagnement-des-primo-arrivants-et-des-personnes-etrangeres/"
+      },
+      {
+       "end_index": 4296,
+       "start_index": 4224,
+       "title": "Programme steps - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/trajectory"
+      },
+      {
+       "end_index": 4569,
+       "start_index": 4497,
+       "title": "Programme steps - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/trajectory"
+      },
+      {
+       "end_index": 4885,
+       "start_index": 4814,
+       "title": "Penalties - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/sanctions"
+      },
+      {
+       "end_index": 5388,
+       "start_index": 5297,
+       "title": "Mandatory integration programme for newcomers in Brussels | City of Brussels",
+       "type": "url_citation",
+       "url": "https://www.brussels.be/mandatory-integration-programme-newcomers-brussels"
+      },
+      {
+       "end_index": 5587,
+       "start_index": 5496,
+       "title": "Mandatory integration programme for newcomers in Brussels | City of Brussels",
+       "type": "url_citation",
+       "url": "https://www.brussels.be/mandatory-integration-programme-newcomers-brussels"
+      },
+      {
+       "end_index": 6008,
+       "start_index": 5940,
+       "title": "Target group - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/target"
+      },
+      {
+       "end_index": 6181,
+       "start_index": 6109,
+       "title": "Exemptions - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/exemptions"
+      },
+      {
+       "end_index": 6448,
+       "start_index": 6376,
+       "title": "Programme steps - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/en/trajectory"
+      },
+      {
+       "end_index": 6741,
+       "start_index": 6650,
+       "title": "Mandatory integration programme for newcomers in Brussels | City of Brussels",
+       "type": "url_citation",
+       "url": "https://www.brussels.be/mandatory-integration-programme-newcomers-brussels"
+      },
+      {
+       "end_index": 7013,
+       "start_index": 6892,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      },
+      {
+       "end_index": 7273,
+       "start_index": 7122,
+       "title": "Accueil et Accompagnement des primo-arrivants et des personnes étrangères < Commission communautaire française (COCOF) - Francophones Bruxelles",
+       "type": "url_citation",
+       "url": "https://ccf.brussels/nos-services/diversite-et-citoyennete/accueil-et-accompagnement-des-primo-arrivants-et-des-personnes-etrangeres/"
+      }
+     ],
+     "text": "As of **13 November 2026**, based on the official Brussels/Vivalis “Newcomers in Brussels” information and Brussels municipal information:\n\n## Short answer\n\n**Yes — on the facts you give, the Brussels integration/welcome programme is mandatory for you**, **unless** you fall within a specific legal exemption.\n\nYou are **40**, a **non‑EU citizen**, registering **for the first time** in the foreigners’ register of a **Brussels-Capital Region municipality**, with a residence permit valid for **more than 3 months**, and you have lived legally in Belgium for **less than 3 years**. Those are exactly the main conditions for the obligation. ([newcomersin.brussels](https://www.newcomersin.brussels/en/target))\n\n---\n\n## 1) Is it mandatory? Relevant exemptions\n\n### Mandatory if all these conditions apply\n\nYou are required to follow the programme if:\n\n1. you are a foreign national and are registered for the first time in the **register of foreigners** of a Brussels municipality, with a residence permit valid for more than 3 months;\n2. you are **18 or older and under 65** at that time; and\n3. you have lived legally in Belgium for **under 3 years**. ([newcomersin.brussels](https://www.newcomersin.brussels/en/target))\n\nSo, **with your facts, it is mandatory**.\n\n### Important exemptions to check\n\nEven if you meet the target-group conditions, you may be exempt, for example, if:\n\n- you are an **EU/EEA/Swiss national** — not applicable if you are a non‑EU citizen;\n- you are a qualifying **family member of an EU/EEA/Swiss citizen**;\n- you have a **right of residence based solely on work, studies, training, exchange, voluntary work, diplomatic activity, etc.**, where the stay is limited to that activity — the official site gives examples such as **single permit**, student and diplomat;\n- you have a non-renewable residence of maximum one year;\n- you are a long-term resident of another EU Member State and already fulfilled integration conditions;\n- you have temporary protection, currently relevant to refugees from Ukraine;\n- you already obtained an integration/civic-integration certificate in Belgium or were exempted in another Belgian region;\n- you hold a Belgian primary/secondary/higher education certificate or diploma;\n- you have a serious illness or disability that permanently prevents participation. ([newcomersin.brussels](https://www.newcomersin.brussels/en/exemptions))\n\nIf you think an exemption applies, you should raise it with the municipality and/or the programme operator; some exemptions are checked automatically from the national register, while others require proof. ([newcomersin.brussels](https://www.newcomersin.brussels/en/exemptions))\n\n---\n\n## 2) Which authority or office should you contact?\n\n### First point: your Brussels municipality\n\nWhen you register in the foreigners’ register, **the municipality examines whether you must follow the programme**. If you are subject to the obligation, it gives you an information brochure and a **certificate of obligation**. ([newcomersin.brussels](https://www.newcomersin.brussels/en/trajectory))\n\n### Programme operators\n\nYou then register with one of the recognised operators:\n\n**French-language pathway — BAPA offices:**\n\n- **BAPA BXL** — Brussels 1000  \n- **BAPA Convivial** — Forest 1190  \n- **BAPA VIA** — Schaerbeek 1030 and Molenbeek 1080  \n\n**Dutch-language pathway:**\n\n- **BON**, which provides the Dutch-language programme for the Brussels Region. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))\n\n### Overall Brussels authority\n\nSince **1 January 2024**, the Brussels welcome/integration programme is managed by **Vivalis** rather than COCOF alone. ([ccf.brussels](https://ccf.brussels/nos-services/diversite-et-citoyennete/accueil-et-accompagnement-des-primo-arrivants-et-des-personnes-etrangeres/))\n\n---\n\n## 3) Registration and completion deadlines\n\nIf your municipality determines that you are obliged to follow the programme:\n\n1. **You must register with BON or a BAPA within 6 months** after receiving the certificate of obligation from the municipality.\n2. **You must complete the programme within 18 months after registration** with BON or the BAPA. ([newcomersin.brussels](https://www.newcomersin.brussels/en/trajectory))\n\nYou must provide the municipality with:\n\n- the certificate of registration; and\n- the certificate of programme completion.\n\nThis can be done via BON/BAPA, in person at the municipality, or by email. ([newcomersin.brussels](https://www.newcomersin.brussels/en/trajectory))\n\nIf you miss the deadlines, the municipality first issues a formal notice giving you two months to act; if you still fail to comply, the file may go to Vivalis for administrative penalty proceedings, with a possible fine of **€100 to €2,500**. ([newcomersin.brussels](https://www.newcomersin.brussels/en/sanctions))\n\n---\n\n## 4) May you choose French or Dutch?\n\n**Yes.** In Brussels there are both:\n\n- a **French-speaking** pathway, through the BAPA offices; and\n- a **Dutch-speaking** pathway, through BON.\n\nThe City of Brussels and the Commissioner Brussels Europe & International both list French and Dutch operators, and the official Brussels information describes the recognised French-language and Dutch-language offices. ([brussels.be](https://www.brussels.be/mandatory-integration-programme-newcomers-brussels))\n\nThe programme may include language lessons in **French or Dutch**, depending on your situation and level. ([brussels.be](https://www.brussels.be/mandatory-integration-programme-newcomers-brussels))\n\n---\n\n## 5) Current official sources\n\nThe main official sources supporting this answer are:\n\n- **Newcomers in Brussels / Vivalis — Target group:** sets out the obligation conditions: first registration in the foreigners’ register of a Brussels municipality, residence permit over 3 months, age 18 to under 65, legal residence in Belgium under 3 years. ([newcomersin.brussels](https://www.newcomersin.brussels/en/target))\n- **Newcomers in Brussels / Vivalis — Exemptions:** lists the automatic and proof-based exemptions. ([newcomersin.brussels](https://www.newcomersin.brussels/en/exemptions))\n- **Newcomers in Brussels / Vivalis — Programme steps:** explains the municipality’s role, the certificate of obligation, the 6-month registration deadline and the 18-month completion deadline. ([newcomersin.brussels](https://www.newcomersin.brussels/en/trajectory))\n- **City of Brussels — Mandatory integration programme for newcomers:** confirms the programme is compulsory and free, lists the same core conditions, and identifies French BAPA offices and Dutch BON. ([brussels.be](https://www.brussels.be/mandatory-integration-programme-newcomers-brussels))\n- **Commissioner Brussels Europe & International — Integration programme in Brussels:** confirms the 2026 practical rules, exemptions, and operators. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))\n- **COCOF page:** confirms that since 1 January 2024 the programme is bilingual and managed by **Vivalis**. ([ccf.brussels](https://ccf.brussels/nos-services/diversite-et-citoyennete/accueil-et-accompagnement-des-primo-arrivants-et-des-personnes-etrangeres/))",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794597389.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 25305,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 1882,
+  "output_tokens_details": {
+   "reasoning_tokens": 355
+  },
+  "total_tokens": 27187
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 1
+  }
+ }
+}

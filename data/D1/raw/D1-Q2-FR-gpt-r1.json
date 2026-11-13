@@ -1,0 +1,266 @@
+{
+ "id": "resp_08e584d0efb18bad006af7666dac9087d292a69b9ed64caf03",
+ "access_programs": null,
+ "created_at": 1794598509.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_08e584d0efb18bad006af7666e7a5487d2b368fefa5cae2f6d",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92acAcd8cGM8D52H36woIhjxRJ7XZEnX5qjcTml9wyiayzxGwmxRXmOeqAIJYl0UFlQjmU4A-QtidUQ3LohQJfUkyD4SKsbbb67fCsZeRNUSq8l0joAG-Vm7o6tIwcxEged3SE7YuHhampoDZ8XHd3p_sWTuPvK_IkS_hiXpXkYsQ_Ushk_Rt_GeyC3qVz5_ZwC2ZK3RshXcY9QrhayuEiImHDWDvIeMIU2orFUCyp30CJXDeB26QSNDbsQiM6lYcygZjUkn9ablq9eRYWvu8M5OTFn13hoRFcGWbJuQYHVrGAxUevJyLNqpmAZkl0_GzFepZ0rTbwGnZzE6uZmB2CQ4A3vXJbVjamEw74Ht_bqfp0EePwednhJpy5qUJYwHxMpNuI8vLPcD2LGH47hdARvm1mhoUaQsQCwjaeggWDIqwXhNxfORFZrxcK6Z_Qfk_ma6GFjMHzcG7zC3FZ3RO2nrXXroTV_6_PC5DLILYdq-znlnQA9UIvZcpeVhAOGH094eVOLJ-Ln02RoVxBliWyICzSfXteTOAPt9P2jyMMo0BWYByvqmDPes5CIiB-oe0oJya8w_fqkUjgceNXpYEgGXkx5NRiHk_MGlXj0RYe-InQeYP42Df_vcsFzi7YF2DRdGA7LaNU8kMTmH_M7oEttdt8bjlPmPtv5Nl5gt8-eCOd0szC8S_zSNqJIQUIPosZaKv0CFTRBJn2j4-8XE1HvW0Qsxspl7IWkXJBKsNYXsAYbXHu1AFbz7lndiWMLmVWyN6ZyBgBAnlr99Slhm9Agv9bJ2Wmhkm2Yvvz8f9dhdQszVvmaFZcos1eRzcpMFrTEj1og8jVKvvI1-vNF8VwKjK-DMHHOEADkS935ZHES0aAusSeDG4timDDafnEJ1MW4Z0QQNvKV6O546-s2MWZyLQiFTWFn-4hYyhmpqAnsfCJAJfhItS3opGkZ5viLWeslXgEJZAays0gsMFxT1nP_TpniTxt918sR7HyrnGYBT8-1It10fddBZw3FQge19WsOe1UwkrsmlX8Mjo3yX9J_AfBqDl0OHP2aFSauqGkjixY_BtaTH8UO4uODyDhH1STu2Vp-q9Qt73qVFRNAPKusIU5pZCLGWe5IAX5h0k1t39zBGUsGmC2s3q9v9n2JVEoz8qCoCeGiVX2IXuJoEMZkX5ZzXk9sIHrNKW93q2MAqA7-RJQNYa-qclg4f6TMMXogGZGyMnf1_YOSnrzHhbgkKSOgM3R2_rQVHRAp2qFHkToChjfF_7HbTc43fRwALytQPIH0K2gtMPySx4PLECLd9ncoenp76TpSqAr7u31kNVJKR4OztGyEwkn_Kx8LFXJKXsVJ9fnjzry02r7FCAE5MeUrr79T5fVqXnx8L5s54JfuZxj50aoKcJww55Vf-qsQiofBF1GaB7Cd76O2W7fwvF31aMrYKXza1v3nmYKXocOh-JdwR370UOWOYDGJK2oUItwmnZ45af07MGtplgRDXf0v9f5uStu7btd0Qr_GEJNVffQXGLJPdWhcHhTn2peP27DdgiknbStXRbo0-2EO7AQFsOVLtYo5wDDeBc2fCea_JLvmewPHLb3_V_kT1jbgKzoz_616ZzZ32gKZ7UCDZ9I8_HnVCaPCzpQcoVi7t1YXH26vmYhK4xCKbIAJlGRpFwITiQZcXFF0Xt7FMMl9ZbnT6KAwtgar_OU08hkcliNBaDVgeouaKR88D1JNpWFIG3Zy0iUK97zvknSubefIzTiyZIBQNdMwQZnth210b9BI=",
+   "status": null
+  },
+  {
+   "id": "ws_08e584d0efb18bad006af7666ec0c487d2a6353e88fc20613a",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Belgique chômage Bruxelles inscription demandeur d'emploi Actiris allocations organisme paiement ONEM CAPAC syndicat formation professionnelle dispense 2026",
+     "ONEM combien de temps allocations chômage durée illimitée Belgique réforme 2026",
+     "Actiris inscription demandeur d'emploi Bruxelles délai chômage après préavis",
+     "Bruxelles formation professionnelle demandeur emploi allocations chômage dispense Bruxelles Formation VDAB"
+    ],
+    "query": "Belgique chômage Bruxelles inscription demandeur d'emploi Actiris allocations organisme paiement ONEM CAPAC syndicat formation professionnelle dispense 2026",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_08e584d0efb18bad006af7667291d487d2953ab594b136d2aa",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92acuOZDu5AgtcIkl0qcTIild7d9DT9UkfOUb3AMzg_ZNErYKgiS6uBH2Z7LeEIE3HF8mnYhlshHUPfsfth8yTfx0mh7UNKFKBHnm42_uM4VhrJCBctkEKPvhyvHPG_Y2DETe6D4ixuRYcFtvP7IzGPEgf2IMWRAjjkQrQEF_Qd4JI3mAemZWx_wCPLsHn0GvH3tK07yaBVVFD_d0Z_oQFMVVVGkh0CIlL__UgJYE_DZ75QAG9DsNlD22PBvOuj5KSYeYIRFL1UZT1dIXx99a91bGLQxkRg3htxnLipaoSmyUNpBkGqB6RqPaMo3JFZvKItSip-9V89chfz1aG5ozsvoWXGIiTStriAzD75nOz5NNrpE-tpVbxejNN5fvK2wKslpWGqNXIlbiv26r8-QDXZZ_Gu_u-32IrYS8N8I-oxBALlt-YV2cAllBp_zJv4NrugJsqp562P1izeAroYHjDttJnf1uJIZTjdkH7SyufjME8Ay7_xrdOujRV_Kx5_Zo1k6yGGg6g0ke3cY3LGwv6YcZTbzcZb0n1f2luON_QpkLdhwd_811Bvhomx4Zqs9akAK5BnGjzkRiM7LrChSGZ9sVSG30CbDNfpyde0qqJQJhV6WMGYhceiytX77_D63ur_Uqx6ESb8YNXTwxApbwzHSLZVrlJ_lLFOGJFStj8UILpkymGrQg4xrXspDT0SQ72iWBZ08NgHrluraBbicWodG0Jxyv-OcKagughX_82qG9IkoETriaKaGrir0pPkDshKfNf58r8REC1KaBIFD7om-q-nvbvagg04qafNChUbFEzE61jPZWDWjjXC6ZOd9pz9IXfQ9Ky5am_OROIYEDiug8tcWT9apFMbr5Sh6mgQwEMA5J0c1ayGXlCFgyh19_SD1EGZCAPYNvA6SdDv0YNCHEaAeHr0pyTa4Z-dH-4uLsjm2bG7c4p9CDLK5-q-8wEuqdkLpNSl9t4NUa-1KJo5n7b1-GS-lnMfXoj5XJlWM2iVljI868TzChlY5FftewlfnzS5sMDRCgrtA5DSv5XmRE_jUro3IKk0RKJ6qNg-ekBz2kEiNMDZKd9cuO2fgvAPfExFYFNFMxAq8kPW_4ZFaCe4OG0uihjgWS8v-mMx9xjgkzSuuYSGtHxZ5ZddRzoK28m3cM9LuRtQSxbJSfq4sLF06f771wae_SAx2X-oGmlZZHcYBChdaRL9ieiBqcsQg7iGx40WZuYlLQqrMaph6QvFMvcfIOunGSTQkqmTUkH-tVFKUpYzUt_2t6h54xdqUjh50o5PvBxAWMbhULUrkmAukF_MXBg0b6LZE_28YinkJ5xxvMpwD3hC2vhZuhgR7zAILs2NBbtQIbhtLT42Lh7ENTAZh_eh2YPIM2pcsm4936RlfIvz6ES1dGUzM6Oi4ZXkNI9jWcb6c3LCtUfuLPpS6Z7ftYnsg0WpydJmih10yNJ5IfLIzcpPheLzaYWvljsgwO6yiXd-w0KhrzWgh4Q_0HrREeHOuvgWvBQbaKVtMyutHtZcYDwGZfJBEbNhc319A2j46g4vmz55XYKsWcuCeXrBJFYbKWa00A_3YWO_Pu3fFzopLGmjE97NbSaFWBPmfzKtKXlSz6YbPTDNGZKNkqh-H33118AOoMhFeqOulbLUq5Fujsles1hItEkR-ZvbESrWjYyrAS7D_LX_mHTEZpAFMGCmrn3tLKWEIq_8vTzVWvkkVGSV5TTr8xY14dyowXbVS1Q4zwofuuizvMkVHbQM9WngQl52XhRU4q5X9ESjSqs4kslcSOsTHOzwSjgjtEOBUz7-AyHWWD4JnH7moIhhkj9oqKiVEi04z3ds=",
+   "status": null
+  },
+  {
+   "id": "ws_08e584d0efb18bad006af76672b4b087d2937788836b03b3e7",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_08e584d0efb18bad006af76674049c87d299970dbed9f173f0",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92acPIGA3JdVVfuIkNbiHYjc25AZ-gb8_58aJ7JpA5BCeJ9xbmkDuB6mbiJs-7CE_c8g3TFCWZm02cv1QVSs9wZHUvvVNdVe2NuIlwXqI8a98UtYcas3Hc1_BP9zp1rodwjwYx2rZuIzghv0NuojvAhhyiCmxNYoApfUlVM5vHBgcgvMRF596GhsQRSJMgXNLB3fyTJRE56BNG8drZoFXF-kaExU_s1mUUqDL1UF-9lTaSxwlpcC--PeT5ZWyCV-CIlpfI74w3gC0Zg6E1pqNwQ3QAdtqKdikYjdLo_181MYMKd_Y_YlUr8MhJPOWR_W2dq3upjfYXxMk_h1qjFAm6Mm4JN1JgnoAQBvNMsl01OpZIhAAWrQ2tJFkKBGybv3DjvKu4lG2IwgM2fsTXRaq2UEfHFig-cpizbx5wqsyuetVQKWTFZmMQL-bfd0nPU4JxoNMUMZsbAc0jHGWuygg1SFRInFV8u8l25i5H0pp9F6SFXAFBH44KErjsPDxzSYu9aydnuVPeBWO8GWqEUEqkQbGkgrsuV0HgxPPZRjhb617EQZxvwi1bOKU_DMWRKUjWqiK5jffSZT8vTPQTUhQE7ExuvcDduDF_BfPp3c36iCZIkVlm7Mw_CVh_TJk0RglW_VBOfwJPToR9grCEQgwx56TI1ZMi9r6UvJWz153tv7XUk-7p5IfCQlm6SnQAHX0Ndv1gFLcoh_HHy1C4t2RDiX_9grMAyfYuUm8m2T-ATQhm4tCpkH8PFGXEJKdvnsVuoSb12FG3bd-P-CAPjjemcscKxhAzKZeI1kgyTlNqUVy8WUKysE2pX2e43yWUx2Hg0AteD_0T5KMDU_jiKSPPn_gl71R4EHLMIhlAiy1RFWoJARAhZQ94xLxkY1lgfAHj8Ax7wLhwhHKT9twQtibFh5vTd1F7-jt-QFIN0mLsl9KXXG04V6LqSGKu7VBxQTp0YxlGPD5uXpV6qO6b1qU6aVoV-rBGbm8Q80y9_hs8rZ3wRPZzCha-gno-NpIyvMBeRSBNryuny2_kXRlyAHgJPJX-WTu85ixhXn4yKHkAoiLS9q22zO8qAyBNlSXbJmNR9oCiFLlBpPC322kVXinsU6k7LCX1BHhLc06OYgMRTXpJXRNE4btC2zj4P_tzYdou_MT6yQNiNbUh2ruQsGLOini3Sahtk_zL4sBo11yJVNfl6bleNO2gq1jhqWb-qJZVb5f-Fi_OHyntnI5yb9WFlfpgIkxz7DZlqahe239OhaLFwiWT7VtNudZzryukpfD4ZCXeAh5o-pU6y_pMmSiR1178Uyfm0fwmlqjcv7DqdZBD24ndBoPTuX1OFso2cckIxt61FtFWPSDNm0CeZUWFYy-C3xslge8lboWJ2ydF0Tkd-9f43AeCkmeW-FQRsHcr0F9OTiwSTy7LAZmHKjHV0kKwy6LUx8mlLO5o93lf7sS0Z0n1QcFIcv57Asp_vSa4xw7hgwqBSp0JAMaUiJzNRoiykvcnuOpmbFIk1AE4Cu4ccohuVXQz4ivbIXd0De4R0aoPVufh7f4D6lAwvZzE-LC6RysyBX16dEsAX8tbNZBDValh7zOClgLdQhIlbSZBtFdnXAJnD9IqN_7cM_YuVjq6A3TDzBF1eRsT1FOMLIbI7FL5ycl7BK6Qbsga1AuFfmEfzDDJV3uta9GTOpQpmZAMALjaMYSNbGzTd7sGvsKeisRH-VYc1eRa252MEjkj7E562sdd1MweS838QOhJEddKQBBn4NRxJ7OvYV1BtIHW5pJu4tVRYZJXeJ35Spu6YOeW0d6l0jYjqLOrb6oq7rySqpvfzFe0o1O7ZuXSgv7PVIaZfCWrrQUugsN11Q_foZL6bRq9JkGmBud7RPswCCbiG8qJ4MxsieEOL7nTo-vbp35HpjyuIwWWZXEgYqbG5zg-ZH-gNsik5XbXpoY9G0xJ0xPB9P0z4bgTI5hJmiWMk=",
+   "status": null
+  },
+  {
+   "id": "ws_08e584d0efb18bad006af766748cd087d2b87d8c193a729fbf",
+   "action": {
+    "type": "search",
+    "queries": [
+     "ONEM avez-vous droit aux allocations de chômage après une occupation salarié 312 jours 36 mois 2026 demande C4 organisme paiement"
+    ],
+    "query": "ONEM avez-vous droit aux allocations de chômage après une occupation salarié 312 jours 36 mois 2026 demande C4 organisme paiement",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "msg_08e584d0efb18bad006af7667796bc87d28337dd49c1f6b4b9",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 1232,
+       "start_index": 1140,
+       "title": "Qui peut s'inscrire et quand ? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/"
+      },
+      {
+       "end_index": 2360,
+       "start_index": 2237,
+       "title": "Chômage complet | SPF Emploi - Travail et Concertation sociale",
+       "type": "url_citation",
+       "url": "https://emploi.belgique.be/fr/themes/chomage-et-retour-au-travail/chomage-complet?utm_source=openai"
+      },
+      {
+       "end_index": 3803,
+       "start_index": 3650,
+       "title": "T202 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+      },
+      {
+       "end_index": 4479,
+       "start_index": 4326,
+       "title": "T202 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+      },
+      {
+       "end_index": 5916,
+       "start_index": 5821,
+       "title": "Chômage | Région de Bruxelles-Capitale",
+       "type": "url_citation",
+       "url": "https://be.brussels/fr/emploi/out-work-career-breaks/chomage?utm_source=openai"
+      },
+      {
+       "end_index": 6762,
+       "start_index": 6648,
+       "title": "Dispense pour suivre une formation professionnelle | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/"
+      },
+      {
+       "end_index": 7261,
+       "start_index": 7147,
+       "title": "Dispense pour suivre une formation professionnelle | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/"
+      },
+      {
+       "end_index": 8390,
+       "start_index": 8298,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 8656,
+       "start_index": 8564,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 9228,
+       "start_index": 9114,
+       "title": "Dispense pour suivre une formation professionnelle | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/"
+      },
+      {
+       "end_index": 9614,
+       "start_index": 9522,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      }
+     ],
+     "text": "Voici les démarches à faire **à Bruxelles** après la fin de votre contrat salarié, en supposant que votre **titre de séjour** et votre **autorisation de travail** restent valables et que votre licenciement ne résulte pas d’une démission volontaire ou d’une faute pouvant entraîner sanction.\n\n## 1) Où, dans quel délai, et pendant combien de temps ?\n\n### A. Inscription comme demandeur d’emploi : **Actiris**\n\nComme vous habitez dans une commune de la Région de Bruxelles-Capitale, vous devez vous inscrire chez **Actiris** comme chercheur d’emploi.\n\n- Si vous avez **presté votre préavis**, vous devez faire modifier/activer votre inscription comme demandeur d’emploi **dans les 8 jours civils qui suivent la fin effective de votre contrat / la fin du préavis presté**.\n- Vous pouvez le faire via **My Actiris** ou en antenne Actiris sur rendez-vous.\n- Actiris précise que l’inscription est obligatoire dans les 8 jours suivant la fin du contrat, même si vous n’avez pas encore reçu le C4. Actiris exige aussi, pour l’inscription, que le titre de séjour soit en ordre et, le cas échéant, que le permis/autorisation de travail soit valable. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/))\n\n**Conseil pratique :** inscrivez-vous dès le lendemain du dernier jour de travail, sans attendre le C4.\n\n### B. Demande d’allocations de chômage : **CAPAC ou syndicat**\n\nVous ne demandez pas les allocations directement à Actiris ni directement à l’ONEM. Vous devez introduire votre demande auprès d’un **organisme de paiement** :\n\n- soit la **CAPAC/HVW** — organisme public ;\n- soit un organisme de paiement syndical : **CSC/ACV**, **FGTB/ABVV**, ou **CGSLB/ACLVB**.\n\nVous devrez généralement fournir :\n\n- votre **C4** remis par l’employeur ;\n- la preuve d’inscription Actiris ;\n- votre carte d’identité/titre de séjour ;\n- vos coordonnées bancaires ;\n- éventuellement d’autres documents si l’ONEM ou l’organisme de paiement les demande.\n\nDepuis le 1er mars 2026, pour ouvrir un droit aux allocations après une occupation salariée, il faut prouver **312 jours de travail ou jours assimilés dans une période de référence de 36 mois**, quel que soit l’âge. Le SPF Emploi et l’ONEM confirment cette règle. ([emploi.belgique.be](https://emploi.belgique.be/fr/themes/chomage-et-retour-au-travail/chomage-complet?utm_source=openai))\n\nAvec **4 ans de travail salarié à temps plein en Belgique**, vous devriez en principe satisfaire largement à la condition de 312 jours dans les 36 derniers mois, sous réserve de vérification concrète par l’ONEM.\n\n### C. À partir de quand serez-vous indemnisé ?\n\nEn pratique, le droit est examiné à partir de la date de votre demande et de votre inscription comme demandeur d’emploi. Vous devez donc :\n\n1. vous inscrire chez Actiris dans le délai ;\n2. introduire rapidement votre dossier auprès de la CAPAC ou d’un syndicat ;\n3. compléter chaque mois votre carte de contrôle — papier ou électronique e-C3.\n\nIl peut y avoir un délai administratif avant le premier paiement, car l’organisme de paiement transmet le dossier à l’ONEM, l’ONEM décide, puis l’organisme de paiement vous verse les allocations.\n\n### D. Pendant combien de temps pouvez-vous percevoir les allocations ?\n\nDepuis la réforme entrée en vigueur le **1er mars 2026**, les nouvelles demandes d’allocations de chômage sont **limitées dans le temps**. L’ONEM indique que, pour les demandes introduites après le 28 février 2026, le droit comprend :\n\n- une **période de base de 12 mois** ;\n- prolongée d’**1 mois supplémentaire par tranche de 104 jours de passé professionnel**, avec un maximum de **12 mois supplémentaires**. ([onem.be](https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-))\n\nDonc, dans votre cas :\n\n- 4 ans de travail à temps plein correspondent en principe à environ **4 × 312 = 1 248 jours** de passé professionnel au maximum comptabilisable ;\n- 1 248 / 104 = **12 mois supplémentaires** ;\n- vous devriez donc, en principe, avoir droit à **12 mois + 12 mois = 24 mois maximum** d’allocations de chômage.\n\nDes événements peuvent reporter la date de fin du droit — par exemple certaines reprises de travail, certaines périodes d’incapacité, etc. L’ONEM détaille ces reports dans sa feuille T202. ([onem.be](https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-))\n\n## 2) Qui fait quoi ?\n\n| Besoin | Organisme compétent | Rôle |\n|---|---|---|\n| Inscription comme demandeur d’emploi à Bruxelles | **Actiris** | Inscription, accompagnement, disponibilité sur le marché de l’emploi, contrôle régional de certaines obligations |\n| Décision sur le droit aux allocations | **ONEM/RVA** | Vérifie si vous remplissez les conditions légales, décide du droit, de la durée, du montant et d’éventuelles sanctions |\n| Paiement des allocations | **CAPAC/HVW** ou **syndicat** | Introduit votre dossier auprès de l’ONEM, paie les allocations, gère la carte de contrôle |\n| Formation professionnelle en français | **Bruxelles Formation** | Formations professionnelles francophones à Bruxelles |\n| Formation professionnelle en néerlandais | **VDAB Brussel** | Formations professionnelles néerlandophones |\n| Dispense pour suivre une formation tout en gardant les allocations | **Actiris**, avec intervention pratique de l’organisme de paiement selon le type de formation | Dispense de disponibilité/recherche active pendant la formation |\n\nLa Région bruxelloise indique aussi que, pour le chômage, Actiris intervient pour l’inscription et l’accompagnement, tandis que la demande d’allocations passe par un organisme de paiement — CAPAC ou syndicat — et que l’ONEM reste l’autorité compétente pour le droit aux allocations. ([be.brussels](https://be.brussels/fr/emploi/out-work-career-breaks/chomage?utm_source=openai))\n\n## 3) Formation professionnelle gratuite en français ou en néerlandais sans perdre vos allocations\n\n### A. Formations en français : **Bruxelles Formation**\n\nSi vous souhaitez suivre une formation professionnelle en français, adressez-vous à :\n\n- **Bruxelles Formation** ;\n- éventuellement via la **Cité des métiers de Bruxelles** ;\n- ou via votre conseiller Actiris.\n\nPour les formations professionnelles organisées ou subventionnées par **Bruxelles Formation**, la dispense de disponibilité est en principe **automatique** si vous remplissez les conditions. Actiris précise qu’il n’y a pas de démarche préalable à faire pour les formations professionnelles organisées ou subventionnées par Bruxelles Formation, le VDAB ou l’ADG. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/))\n\n### B. Formations en néerlandais : **VDAB Brussel**\n\nSi vous souhaitez suivre une formation en néerlandais, vous pouvez vous adresser au **VDAB**. À Bruxelles, un chercheur d’emploi inscrit chez Actiris peut suivre une formation VDAB.\n\nLà aussi, si la formation est organisée ou subventionnée par le **VDAB**, la dispense est en principe automatique si les conditions sont remplies. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/))\n\n### C. Conditions générales pour conserver les allocations pendant la formation\n\nPour garder vos allocations pendant une formation, vous devez obtenir une **dispense de disponibilité**. Cela signifie que, pendant la formation :\n\n- vous restez inscrit comme demandeur d’emploi ;\n- vous ne devez généralement pas rechercher activement un emploi ;\n- vous pouvez refuser un emploi proposé, dans les limites de la dispense ;\n- vous devez respecter les obligations fixées par Actiris et par votre organisme de paiement.\n\nLa CAPAC indique que, pour Bruxelles, les conditions générales de dispense sont notamment :\n\n- être domicilié en Région de Bruxelles-Capitale ;\n- être inscrit chez Actiris ;\n- percevoir des allocations de chômage ou d’insertion ;\n- demander la dispense avant de débuter la formation, sauf dispense automatique ;\n- suivre une formation qui dure au moins **4 semaines consécutives** et comporte en moyenne **20 heures par semaine** ou au moins **27 crédits**, et qui a lieu principalement du lundi au vendredi avant 17 h. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\nPour les formations professionnelles agréées de **Bruxelles Formation**, **VDAB**, **Forem** ou **ADG**, la CAPAC confirme également que la dispense peut être automatique. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\n### D. Pendant et après la formation\n\nPendant la dispense :\n\n- continuez à remplir votre **carte de contrôle** papier ou électronique ;\n- remettez-la ou confirmez-la chaque mois auprès de votre organisme de paiement ;\n- respectez les instructions d’Actiris et de l’organisme de paiement.\n\nActiris précise qu’à la fin de la formation, vous devez vous présenter à votre organisme de paiement avec le document **C91** délivré par le responsable de formation. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/))\n\nAttention : si la formation n’est pas une formation professionnelle agréée ou automatiquement couverte — par exemple études supérieures, formation privée, stage à l’étranger, etc. — vous devez demander explicitement la dispense à Actiris avant de commencer, au moyen du formulaire approprié. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\n## 4) Plan d’action concret\n\n1. **Dernier jour de contrat / fin du préavis presté** : demandez votre **C4** à l’employeur.\n2. **Dans les 8 jours civils** : inscrivez-vous ou actualisez votre statut chez **Actiris** comme demandeur d’emploi.\n3. **Le plus vite possible** : introduisez la demande d’allocations auprès de la **CAPAC** ou d’un **syndicat**.\n4. **Chaque mois** : remplissez votre carte de contrôle e-C3 ou papier.\n5. **Pour une formation** :\n   - choisissez une formation via **Bruxelles Formation** si vous voulez suivre en français ;\n   - ou via **VDAB Brussel** si vous voulez suivre en néerlandais ;\n   - vérifiez avec Actiris/CAPAC/syndicat que la dispense est bien automatique ou, sinon, demandez-la avant le début.\n6. **À la fin de la formation** : remettez le **C91** à votre organisme de paiement.\n\n## Réponse synthétique à votre situation\n\nAvec 4 ans de travail salarié à temps plein en Belgique, un titre de séjour et une autorisation de travail valables, vous devriez en principe pouvoir ouvrir un droit aux allocations de chômage, sous décision de l’ONEM. Vous devez vous inscrire chez **Actiris dans les 8 jours civils suivant la fin du contrat** et demander les allocations via la **CAPAC ou un syndicat**. Depuis la réforme applicable aux nouvelles demandes après le 28 février 2026, votre durée d’indemnisation devrait en principe être de **24 mois maximum** : 12 mois de base + 12 mois supplémentaires grâce à votre passé professionnel. Pour suivre une formation sans perdre vos allocations, privilégiez une formation professionnelle de **Bruxelles Formation** ou du **VDAB**, car la dispense est généralement automatique si les conditions sont remplies.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794598555.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 25684,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 2735,
+  "output_tokens_details": {
+   "reasoning_tokens": 270
+  },
+  "total_tokens": 28419
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 2
+  }
+ }
+}

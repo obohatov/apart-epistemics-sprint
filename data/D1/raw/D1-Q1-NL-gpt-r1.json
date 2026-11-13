@@ -1,0 +1,304 @@
+{
+ "id": "resp_02b1e8e429879933006af76452c91487d2955c44737fdc5f13",
+ "access_programs": null,
+ "created_at": 1794597970.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_02b1e8e429879933006af76454463087d29e43b8034e202e06",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92R59dBxBACQFBulODXuIF_FrISzLCkt4h89TzwYMCj9U4sr-vTH-OHIyy7qfStAFgfOtXmOpeTy9pfpM0VPYxX4DKPUI5x0z15ffugwVNg0fkbrfWAOQtnlexOZfFNXTHNIZJr36-O18twF51_EITdpZZO79vZ8NjvzJmT6DjG_eV4AAAkSCADf8gXhCIc0F6AyBFx_RO9yHbVe0_HCqnqLrjT2po0R4e9GABJjRWiIZp3m9k-7AgrBtzWlzb_h_2Lqf5qfquwajs37TxrD0VDn3OX0jksQAJ1uvxJdqpavMeHl-_9GwKiB5oUxYcH23Iqk4riO8WvKKkyWsyaHNNC04b1Oe1S3oBQgYzpqj_HHAuOFUnH1jSw4rsJqu5JdFdDziIEbTEMibkct6WMeXn5cdrNpyDg-kJMmYv6c7_uEOXaggstFdj7FNmfhJ5NALnXO1f9bfHBihdbyg2VbcPPwRYwglAJrwxPzew1FBc6L6Cy8xibzHbq0UoDnYKbDYQWbR37M4GXd7IaXlBe4YGPhJ-cSTW3UP9c4Jd0q8s8mmNBFFjyCQ_E1IGISfNdQ6p0Go28I1C2PIG6LRxxC7gq1ExOG78-Nd1m2wzLu8FAIACKSEQEsZI2yoL_lJbl2ImmZWIGbN5hiY7RnJZbyJ8LE7JYaoKEcq1F7Zt4LCezxYqV18PD7MjVtxoqGDQbpYArL54n8ZFcoP7eiX92Eo9H03AoZn9xyBOwJw6-7sWfgi9svnpAbTksB9Gr-zbeYNZka-DkZW-9tSIw7d9MpNCKnUSa91k49tu0HMfYvoesnJ9ZuPioCDL32ESJh3mFzOhURmM3xGfEbh7owM99wLHFz5QC-KmKXjuSjHvJtINWlbrqQLWU-N2w_QGE0awkp2Tqo4YkKfAmi015hgk1br8hgh_azDFyuCvCh6nsHH6EfS_G3yyLrmLltGEsqx7gJ4B5of0pcgnX4ZFeMHg07gXATSzEwHcRyoj-xlHD7LnPLaIyf5eHdWoBiZ5YCVC0ctQLKkndETIsdKaKFdQrV9y8iBEchh09-N3goBBZtYK3d2f4OF9vXNotFm_1mvNBi2E46TU7JCKh_Lo1wXF8AaV-AgykZSfreIHHFVTP8BqkW1nv2vE6kGOFHqp3Z5WDlGVEx2Dik32LMAjA0s57ZjkvZgMQPXIMmDkY2_ZAn4kMzN8HJaMM31UlysblZob7eTl7RSPappBgvIpwaG79giOZ8m-Y0eL2glORWc7XbgBeJBeeZ20D2TKc55JdDG7mIeZdIO5tLZscv7qyv2qTu-w7u3lt2K-t57sKK_6WfnlWiJo0bt1zf7tFde1bJUW4GW4VdFZzJ33B3ckhmEZQUnl0VoQqq90CuEUWwk6A9sEL3W1Pb1wB6xhiBtGxrqhpMhbOM9xfXvQx7LDbNeTMzmjzjbD1jHWq1yBJZh9OnV-N2MWj1q2iEashfh6D4hRGVRhiHUOVcHYwEmXk-IVfeuEZFVagE43C8f7w_c13oTWTfW5h6jhXZycV6ViyxparAicyab5Ig70Zru4bVHeWPRdLf6Bi8ONJ0Qt8QiaBgsKt8JX0w4E1yOzO6nQ7aZWTkWdz8Jph12ls1jNV4xZTkeayjE9wnnjXiOueBIMFAGQbRRsOMGeQJmGnZEH2XPeu_6X8mONEZsgPeCcgU7wf11h9XkdE_rrLpOltpaiolmt1nq-BCaB-6NNTz4AoLOQyDOLew-H-LfRCrp2_r9LgKvIHZk61MbNQa7AjqasGMYJExRsV4W952j-4FeUGiA8s1ToC9IgZpFLLA_ImFQVGCDKWuY4OzmgdaTAXUjo9JlHrAll4=",
+   "status": null
+  },
+  {
+   "id": "ws_02b1e8e429879933006af7645497d887d2a4a6d34660fa575d",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussels verplicht inburgeringstraject niet-EU burger minder dan drie jaar legaal België eerste inschrijving gemeente verblijfsvergunning langer dan drie maanden termijnen",
+     "Brussel verplicht inburgeringstraject nieuwkomers 2024 vrijstellingen termijnen bevoegde instantie BAPA bon",
+     "COCOM parcours d'accueil obligatoire primo-arrivants Bruxelles délai inscription 6 mois 18 mois exemptions"
+    ],
+    "query": "Brussels verplicht inburgeringstraject niet-EU burger minder dan drie jaar legaal België eerste inschrijving gemeente verblijfsvergunning langer dan drie maanden termijnen",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_02b1e8e429879933006af76458666887d29526bec9e166a282",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92R5Q_xpgyvXLl99pydhUy5b6gyEmFQiGYQl8YK-klXhGQA08D5HPeVff12ZZGlVOQxQNM-0mj9WoG7q_WUfdU_OkILJeurOoD2yAcXkV0yraFm9RWOC0MX-DaRbnPxEd-I7LjJdiAQfjcQT-s3YONCdzZnJTlzQ78cF7KL6Ics1OBLe8IDTLyxbpAS1CjmICvdwrfnpnjIL-GRXkSEMrK0s8KAX-gHKcbVZ3qQzFfBl-zMToY-UDj6-wEAiDFqhUc3XdXErxB_HgJObkt6aGBmuDEQfUQ5nzYuV73CwGuehQ0qn-m4aPDS_nyAEcYjZoiPrfHBsHzRPk9znrnWORO2OSuS-bdwwacZ0_BnbvJdVGxnoT76zQrP04G--4OG98aawI7Tjjsw24MZQ2L3Jv1I-qRauIEb3MktVNQkvQOrrYw550KzJDXjFSPDkXqlmW9dJGc0nmg6xcTp6YHyDaE0sEarU02G5zSPAZWYIyuTRLfsQogmhW8f-ASMsrNDJ7oexzSMTcMQ3vBY8HUnToEev1TeNgSYsKwPY9izAwfMTAPDBBVJ3BjhGqiHaVwZlKT7cWAfavoyBWpFX-5WcbfQKJtYfZCDGVL1tGPZ9GybYehC5_9YC71Tzmw2T0TVttUONvkG7DMFkXIJ0yW2Yjgq65RVcG4vEeHM3K2SujqPC9Vpa66QVMYy47Tfdz6BTdCUy36o3bbNeGAdEwRlNGq4R0dSYBJxxPDus75w2KeKQtaRHKHYHrzLfHUQXbO1ibhk8YUMB0x6-CGgGxsHHMYTVGTbZNb3mKOjyuQwwRXwARPNDfPMGVpEVviS6uaO6cYkbT3QGPEYzH51nCXGno2Ci-J8eKvrzagiKroccWztz3660QxYgwPLaEaFfuDUEeZ1OUaE301s-nJmwj98HGNZjk0dE0eGXzb3hA5XLNyzg66XGaBqvZhjs-1wSNy1FYbZxTylsT471ANerKqWj_7VRnf0iUn5utwd91hSDnEFi8P9ZbZVwsYObEl6lXCSSwhiwuxg-nV5cIR42QUNOWMR1UAsvWPdQhuh3bB01MMO4h9yEMAQpm9ZaMBdSOQn_8xpHKzkzFMKcPmGmwVgBgTguKy3UgGQu2pdbmeXvPHOP8B5rtBPUcbZWVeI3LVk49dBqbZGFAemDzGZynLuMNZX7J1AhD3d0t-VI2GhBbBAsFHgMaTYfhJG_-gKdBfZ98H5VW_YKQBVvCoFllEc7ldvaPmJ0sSUc0Oan_SZYc0CXW1A1hpjL0KK00uZN0kxCOtDgkiNt7eYQ7ICsalyV8S5levo7Lb2PCu6uaGmUgG4MmWSnwnE_Z5g2GAJVTdaxEZDeIk219vBDVXflibVMJ1e4J_JiMTsGeRbXttGzd5TvdVGOAybH-f5GaKrPgmLT6daQP-YpchwHF7-5fdcQZPIfndiJiyxluuXnZBtUrGhBQG-23BDUQxdQWimH3-4jjASCHhwWNnod4BtOAH_8fXFBg4wkB95FpAC6JTOMZMuwIQVb_4Uym2YPoZwUnrQWvtGHnnDZlLjnADOLxCT2dRZa6W3QqhvLP7QOSrMbSUm-R3kRqX9zJDxxYwdhrGYUM9rDLef3aIKq8TZRA-Z-RdWqcHFJEWtC9yfXdqNH5zuVckVuYv8mjulCtrBe8Er2-3MBvUfUrKckGcwgfpHmy_ZI3dioKfz6ytdiWsmC3EOpxQjEJcGy_jEWatLqXq0a99hf9loYiOc6BWnqBm6VHa2waA==",
+   "status": null
+  },
+  {
+   "id": "ws_02b1e8e429879933006af76458df3487d2bb905e23f5659d0d",
+   "action": {
+    "type": "open_page",
+    "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_02b1e8e429879933006af7645a55a487d2aeb815b802f58a0f",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92R5QKIDnHeb6NjumXfPkChs0iwQ0sjtWgyv_sBNoBG9Q7VCBu1C83sz9dutugypK-kVUuJOI_bqwPVkhndDR16XouO-vnLT-5V9p_YVLFY4Vd0w_i081EXq_NDJRRQBkPV9ubPlqlwNGvbXC-MRweZrdXE7IKXpFjkNTtY6ETqhGvV9SjMghuRBxzFVfCemyZTi33l0bCJSOcL6cT9NYneF_gV32itgzyWdgqu0k-IxaeCx2yIRyCUphCbzVO0JzOsPKPZO77PU8vLKcSkjHRPh3fi4wrfKatK4xFFpHhErYs6hu7n7XbPx9HyROrCElLRQXLtXEXJcGuJg1VTugPpQI8XHrPIdPyln9857V_ds6ApJnGDk2xGqtT8xXeeatGh8mc6uobx2tURiUA1927ARJIXnyc3sisEZ-o4N2XeuhXokjkdUWO8878jWpVJSVhmLx54rmTwBEQ0LGiIFW_z-hDj9v5eBUPI8W4ShnsGjZVSIzikN2gX9-BZiDN-3_zLJUmM58cFz_wmDnsDHGjqF6stSjVB-zNBzuWE0KUWg50j_br7YraCaesG4AXGQy-9KoI8-0B6oIvr0peDsjFIa2VfnUy--gDFaR0a0AkHHCdvkvoYs2lZ2tNOmyynblC5AwsLXikX6It0jOmbd4XK-cmw-3q7Lyx12fbL99INHF-LY1UrgroCBimXO20UxtCO7ydHlKd6zEl0iBfFFrT5PEtANb_3y6UIsE8rY5Q7J7M3rAwSoHT2yFCk18lut_CjhRcmQ9BaLhmmDQAMmfv4_B3RTfvqo-l6nonzWcoHH8SJ77Tt_PHrF5eh8bCMbjQUQd-bhx-tgJVjGCsBZswGtV-DoSJXc6bTlO2vLkgBe9CehNcH8NWXSys5XClwwdwV0qbMhUsKAez6pLbXAKiDks0kl2P5wOiUSJ2u5yTsHNyRcQODe03vqpm6PvouZZoTImTQWelTvfdvWA_FU01yi43xAuKz26ZjUKIVug96m5K3YSUQOr8DN1b3q9IrKlhucuORcGjaYNArB4SJMjovVh5i6MVZ0li2J1RyxU7-lJUQeuvq4d4lddoIvU4LI9iGwxDpQs7A3PuQGoryAgbEzdKpAMBQfdmAksFpLRjSZs-vzZynMQC6dUsy0rFkWfXAPrXApEikDr2LMqjzkF-sznttR5lAVl6kKU7tQn8q5kChSd225_E-O7ghgm4TDaNLK1qA0USZR8nURdkq0R2FhW942Q92lFxcryVdgDsuqULFfQifob2Jd1NKsColnUTf_jLGjQmkBLgmgb_CHQsW6bJLE-naRSjKdVZ3ponpWcxlQO9mQQeH90W2-Fs0TNTWr94x9Y5_e-9zMvSfol0FXWwyLJJ7AQWB2WtPPL0-Q5QE9toMWEd0DwW1V7r6TlpQALv_F_TZe7_4CYrGLDRpb_ue-lR0aekXLxByVD0e5PFRwDUEFmdIG2T92K7CxiiUBm3eTcWVA0zbGA4tiXp84X2OcwkESkxu9bRocUdknW-sxszjNyorBWAWeksJm33ruZterxIp6mPmniS1kuAT0Bw7KgvoaOtm7i7DkRRZGZFLE-3iKW1lr7WHJJUoIVP1FWoz62DWuRdubWSlmXMg0a3TUOLNtgQpXQU6mK6p2TVSoHNizjGZpq8ZR1-MFLuOQciS2S86o1Ac8upX-y3xafSFDKS4m_5qHYCPii-Y4r10JOVn1DcEoGyjVl8zVP6Ni6Pj3SAbw-j2LPHLTK8-HHm7lks_B0zQ2joxh7HW9qwb-W3_RirtIeA1IsaENi3OOFCqRGXJOR8gWBEwuFOz6JIcojitVBoS-OxsEw0L2XLwuDzhHCwFsj82CKkbacS5kMpC4n4ufLRggp6BgTy-9xhSO0cSvZROKLrxxN9QMxVFRr7ZGdfzQ-tNqu8Bx5uUUhFWeDL8kPTvGGS3TRWd2iIQ45JgqxfOd_4i67R4V25iaDroRnw189mISNMYdS23VszmuXPhiz6YJUIN6xc32Fn2vH6R4v2wrlz1jVUpm2coWENnMEslpDktmJ8LXF2WQ9rxhs89xsZS3B3MaLKIbFJyPPcwcNsZMXpceqzYqJ60yTvuSUodgxtFgl25CI5GxxpGY7TSOSE_VtFiMihCENYetF2MxKXfYIyO-CIevcRsoIbDj2d0fBhC2xzx1FB1ueQepwEzioqT385XNtISd1G3h3_ZyOm5C1v846tSAw8UALXMYkDgaAba5bbf88jEh",
+   "status": null
+  },
+  {
+   "id": "ws_02b1e8e429879933006af7645af03087d2945bb07aefa86f7b",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.vreemdelingenrecht.be/index.php/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_02b1e8e429879933006af7645c5f2487d2abc32ba35c073183",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92R5D6paTAT_PZR23I2_ePKAU_ifg1nCTXCBRM7_BaaB3_5ESE_YWB_YR8kJPjfh7Bv77OShvy2krTQcYjIEUWzbiyl9UyADLOR385Xkv63Oh2yXq9dKURiZI35136WH3ZIG2AVZYb83TbLuM4ip_lpnC9WRG9w-YcKKJB5RzdOybiki6fTXvzgmV9OxTMjtfhXbpYFlQuoAig85hxs66-aVFZQ7UXpfqp44Bu5rXu4OdSA4WRcrnBxeXAAB1BboBAlYc-uIWQtxlUGUq16PYdKyGjYdqT8QFWu96VIK44dVlkUdltumM3jZqSqXfanYF5ecp7d968vMlkTClekD0h_oI6JZedE98Tt_q3ocCbg-fK3XX1xSlKcVfNOzvrvf0V1mNYVZPY6pHJ6FyzwQAVt4V0pRF2q81C4qSswbSWut5kvdzjC4Id3mM9_8rcwCcDDRbsLw3DCxtW2X2sRCFPRpfJxpRQUKQp0GjM34hVyb6iILaIZHLEtaKYS0KtGRsNHWLyAvx4UXFRLd_KXTr7adif73tQvEHipwQnEK4uHYoKv_G-pcHDzU8ZmFXxpXPvrSBvBbiA2XzMzMW_gRfiDBMfdec56lgCri4MugxYRCzK-I8-eR4eCiuFLPX2HyfkmP-FXQPgttlQmS9nxdJDHshbq0na1O7NguI2y9cTNKOx2vtRaPcZJkzhQHIknvWH8kX5TlM0OgkjM21ztDjxLZUu_A5VpFWVmB0OShxWY4DtclmuLgES3DK6hrryaoQZE0X0sI60qn-S2veDKmM6C-sa-y9nDOyUCx5RmsqzQ8zrP6eRDGex2-X9A3TdIIMJX5MCklXMJLliN2-p8J7KpsLaFOTLH1rQG79Y2gYpWwUz03HUgf9NjQ1izy64b8N1SPLgjiTz6G6HU1w0zNJFHGgl5WCY-4y18KPGVZC0oa7IozUqAnY6SEVo1DyGr3_HwPI6fPv0n0jCYuvNA70Ags4NdqBEeqG9_csBl6N-jI0LxQ3kAOlg0z7dgWaAk7GixG2QyW35K6v2DRFcIY85teUpKMd7jXRBrIn429LMJ-9Pi9z58U1O3ulrXBweJKNG-ub41zDqikusd_oMbHxHpfjzzOzcwWq36UbGpzd5t47Vucebk-_FM0rn339iz5bdU6yYg9edk6AN-vz3Jptpxy0_Kl3OEn60qMzOXDNtPKei-cRrEokD08NU2ij0d0QTJuNbdoBk4zVhzRUPU7VPHjiEPHvVBpP6RjRJrhORW8mpE0dZf1kvD6ydMkan4SwEZXN-YRQsC_mOxWD19BXj0IIcsVTqAo20tk04A1VROCf3Zj7S1wl-t9EH6PGyOrCeSNN1MArmIiXqH1GIgWjiNQs716e5AS4LA1Y2IALOZTsEIqvmtIZaRHMs93XaJEi6Eo1S4I7Ht-cf8M-orVCsyCb_euUWFiaU1R31abpYV8VKyHYMtbh3reRBXap9gvmlYfavdUeVLFIn2uEhrGeYvi6uXqYNGot-8abBcW9O3L320X--94to0nMZQglK0l3-4TY-vwVMTcgTlvxz483PweJkTe51-ursthDRDQAom3F3yYlnbAAPIfpXzray9Y3lws4N3KkubVXmrdWO-tcd1gsttkDBtBbBfWWHqXG_42boGmEMbkmul2aEXeyvNRvU1-RS1KH5upwENLHIhjqZJuv9-fr8tpL5Bjl2t5-TXZkHww5VYTbN-PiHn1KK1Kfc1tfNW7tDpLQZbwO8yHoDTCTQ==",
+   "status": null
+  },
+  {
+   "id": "msg_02b1e8e429879933006af7645c7e5487d29386a6b6bc3264fb",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 916,
+       "start_index": 816,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 1896,
+       "start_index": 1796,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 2128,
+       "start_index": 2028,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 2534,
+       "start_index": 2462,
+       "title": "Déroulé du parcours - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/trajectory"
+      },
+      {
+       "end_index": 2926,
+       "start_index": 2805,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      },
+      {
+       "end_index": 3185,
+       "start_index": 3059,
+       "title": "Brussel: tweetalig inburgeringstraject vanaf 1 januari 2024 | Vreemdelingenrecht.be",
+       "type": "url_citation",
+       "url": "https://www.vreemdelingenrecht.be/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024"
+      },
+      {
+       "end_index": 3606,
+       "start_index": 3506,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 3842,
+       "start_index": 3770,
+       "title": "Déroulé du parcours - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/trajectory"
+      },
+      {
+       "end_index": 4142,
+       "start_index": 4070,
+       "title": "Déroulé du parcours - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/trajectory"
+      },
+      {
+       "end_index": 4459,
+       "start_index": 4387,
+       "title": "Déroulé du parcours - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/trajectory"
+      },
+      {
+       "end_index": 4889,
+       "start_index": 4763,
+       "title": "Brussel: tweetalig inburgeringstraject vanaf 1 januari 2024 | Vreemdelingenrecht.be",
+       "type": "url_citation",
+       "url": "https://www.vreemdelingenrecht.be/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024"
+      },
+      {
+       "end_index": 5226,
+       "start_index": 5100,
+       "title": "Brussel: tweetalig inburgeringstraject vanaf 1 januari 2024 | Vreemdelingenrecht.be",
+       "type": "url_citation",
+       "url": "https://www.vreemdelingenrecht.be/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024"
+      },
+      {
+       "end_index": 5666,
+       "start_index": 5566,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 5868,
+       "start_index": 5800,
+       "title": "Doelgroep - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/target"
+      },
+      {
+       "end_index": 6186,
+       "start_index": 6065,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      },
+      {
+       "end_index": 6511,
+       "start_index": 6385,
+       "title": "Brussel: tweetalig inburgeringstraject vanaf 1 januari 2024 | Vreemdelingenrecht.be",
+       "type": "url_citation",
+       "url": "https://www.vreemdelingenrecht.be/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024"
+      }
+     ],
+     "text": "Ja — **op basis van de feiten die je geeft, val je in principe onder de verplichte Brusselse inburgeringsplicht**, tenzij je onder één van de vrijstellingen valt.\n\n## 1) Is het verplicht? En welke vrijstellingen zijn relevant?\n\nJe beschrijving voldoet aan de wettelijke doelgroep van een “nieuwkomer” in Brussel:\n\n- je bent **40 jaar**: dus meerderjarig en **jonger dan 65**;\n- je bent **niet-EU-burger**;\n- je wordt **voor het eerst ingeschreven in het vreemdelingenregister** van een gemeente van het tweetalige gebied Brussel-Hoofdstad;\n- je hebt een **verblijfstitel van meer dan 3 maanden**;\n- je verblijft **minder dan 3 jaar wettig in België**.  \n\nDe ordonnantie van 20 juli 2023 bepaalt dat elke nieuwkomer die aan deze voorwaarden voldoet het inburgeringstraject moet volgen, tenzij een vrijstelling geldt. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\n**Belangrijke vrijstellingen** zijn onder meer:\n\n- EU+/EER-/Zwitserse nationaliteit — niet van toepassing als je echt niet-EU+ bent;\n- bepaalde familieleden van EU/EER/Zwitserse burgers die onder het vrij verkeer vallen;\n- verblijf in België voor een **tijdelijk doel van maximaal één jaar**, en familieleden van die categorie;\n- langdurig ingezetene in een andere EU-lidstaat die daar al aan integratievoorwaarden voldeed;\n- ernstige ziekte of mentale/fysieke handicap waardoor deelname blijvend onmogelijk is, te bewijzen met medisch attest;\n- al een attest van een gelijkaardig traject;\n- eerder ingeschreven in een ander taalgebied waar je vrijgesteld was;\n- bepaalde Belgische onderwijsbewijzen, zoals getuigschrift basisonderwijs, diploma secundair of hoger onderwijs behaald in een door een Belgische Gemeenschap erkende/gefinancierde/gesubsidieerde onderwijsinstelling. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\n**Conclusie voor jouw geval:** als geen van deze vrijstellingen op jou van toepassing is, is het traject **verplicht en gratis**. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\n## 2) Tot welke instantie of welk onthaalbureau moet je je wenden?\n\nDe **gemeente** waar je je inschrijft onderzoekt eerst of je onder de verplichting valt en geeft je, als dat zo is, een informatiebrochure en een attest van verplichting. Daarna moet je je wenden tot een erkende trajectinrichter: **BON** of één van de **BAPA’s**. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/trajectory))\n\nIn Brussel zijn de praktische opties:\n\n- **BON**: Nederlandstalig traject voor het hele Brussels Hoofdstedelijk Gewest;\n- **BAPA BXL**: Franstalig onthaalbureau, Brussel;\n- **Convivial**: BAPA, Vorst;\n- **VIA**: BAPA, met locaties in Schaarbeek en Sint-Jans-Molenbeek. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))\n\nDe gemeente informeert je dat er verschillende inrichters zijn en dat je vrij kan kiezen bij welke inrichter je het traject volgt. ([vreemdelingenrecht.be](https://www.vreemdelingenrecht.be/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024))\n\n## 3) Termijnen voor inschrijving en afronding\n\nEr zijn twee kerntermijnen:\n\n1. **Aanmelding/inschrijving bij BON of een BAPA**  \n   Volgens de ordonnantie moet je je **binnen maximaal 6 maanden na je inschrijving in het vreemdelingenregister** aanmelden bij een trajectinrichter en een inburgeringscontract afsluiten. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))  \n   De officiële praktische website vermeldt dat je je **uiterlijk 6 maanden na ontvangst van het attest van verplichting** moet inschrijven bij BON of een BAPA. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/trajectory))\n\n2. **Afronding van het traject**  \n   Je moet het traject **uiterlijk 18 maanden na je inschrijving/aanmelding bij BON of BAPA** afronden. Daarna krijg je een attest van einde traject, dat aan de gemeente moet worden bezorgd. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/trajectory))\n\nJe moet zowel het **inschrijvingsattest** als het **attest van einde traject** aan je woongemeente bezorgen; dat kan via BON/BAPA, via het gemeenteloket of per e-mail. Bij niet-naleving van de termijnen kan een administratieve sanctie volgen. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/trajectory))\n\n## 4) Kan je kiezen tussen Franstalig of Nederlandstalig?\n\nJa. In Brussel kan je kiezen tussen:\n\n- een **Nederlandstalig traject** bij **BON**; of\n- een traject bij een **BAPA**, waar volgens de nieuwe Brusselse regeling de mogelijkheid bestaat om het traject in het **Frans of Nederlands** te volgen. ([vreemdelingenrecht.be](https://www.vreemdelingenrecht.be/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024))\n\nIn de praktijk wordt het Nederlandstalige traject vooral met **BON** geassocieerd, terwijl de BAPA’s traditioneel Franstalig zijn; de Brusselse regeling laat echter taalkeuze binnen het Brusselse traject toe. ([vreemdelingenrecht.be](https://www.vreemdelingenrecht.be/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024))\n\n## 5) Actuele officiële bronnen\n\nDe belangrijkste officiële of gezaghebbende bronnen waarop dit antwoord is gebaseerd:\n\n- **Ordonnantie van 20 juli 2023 betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen**, Belgisch Staatsblad / eJustice — wettelijke definitie, verplichting en vrijstellingen. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n- **Newcomers in Brussels** — officiële praktische informatie over doelgroep, procedure, termijnen en stappen bij gemeente/BON/BAPA. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/target))\n- **Commissioner Brussels Europe & International / Expat Welcome Desk**, gepubliceerd op 23 juni 2026 — actuele praktische samenvatting van doelgroepen, vrijstellingen en bevoegde onthaalbureaus. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))\n- **Vreemdelingenrecht.be / Agentschap Integratie en Inburgering**, geactualiseerde juridische duiding over de Brusselse regeling vanaf 1 januari 2024, de keuze tussen BON en BAPA, en de termijnen. ([vreemdelingenrecht.be](https://www.vreemdelingenrecht.be/nieuws/brussel-tweetalig-inburgeringstraject-vanaf-1-januari-2024))\n\n**Kort antwoord:** voor jou als 40-jarige niet-EU-burger die voor het eerst in een Brusselse gemeente wordt ingeschreven met een verblijfstitel van meer dan 3 maanden en minder dan 3 jaar wettig in België verblijft, is het Brusselse inburgeringstraject **verplicht**, behalve als je een specifieke vrijstelling kan aantonen. Je moet je wenden tot **BON of een BAPA**, binnen de toepasselijke termijn van **6 maanden**, en het traject normaal binnen **18 maanden** afronden.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794598008.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 22137,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 1874,
+  "output_tokens_details": {
+   "reasoning_tokens": 286
+  },
+  "total_tokens": 24011
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 1
+  }
+ }
+}

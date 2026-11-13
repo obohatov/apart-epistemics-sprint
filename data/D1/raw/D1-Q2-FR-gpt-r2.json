@@ -1,0 +1,337 @@
+{
+ "id": "resp_04162050695ba96a006af7663ba12087d2a3a7de9e9b6bbf2a",
+ "access_programs": null,
+ "created_at": 1794598459.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_04162050695ba96a006af7663d39b487d29a8b04fb6d295c50",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92ZtsV-NSW_5wvBqqMAyMyuXnLJkW5rHFtpdUCP9iRyssBaduFR_Dy-YNBbgiddFRP0tM9B5hlzafTk1LnpXYGEl3CH_rfUaQl1aG-Qfw-eyx-8bBPau_NHiWZS89IY6vXftd4dH-hCt9FnR2xcqLcn9C0IoZmiw_hHhuj5EubXL2jWOFrc8rKPObqnmULcGQ7B3-UpqV5sAdY1lnSpxYKyekl8oW2ev4cJDdjtVu7pl5WVRHmE5Fm2yC_4DEsP0hFYwsseLgN9dLI-8hxCEmz8P37o1Ds-FLZL6uDEsxKiI-XBKnmtvwZklZkJ7nGny1yRyB2-WsKTAuXW2mDhVP6TyfucxtjV9qRrZVnfiA8nJdiBGEKJoe27nxgitvd7cHFpZ3Y8-vhqpAATY--OQ3M22MJszgfcBrYyIMG4998Iw9sJDGL3QNkgIlGcGx4bpDtKJi-5ef9ym-8aoSJhsX78O27ryFTrQi1vy0vEKs23aGFvktwUroSOIRUXQxg3rdSlCX60dwmNmjUgP1FxCc2lAK0_j1teF2Xlzmx5qYc0UU6-UYFEiBZXccjrp8hj44lCl6sLbtqWxrU73pRGcL2Gt7myrr96fZJL7LWVOYX_FfIdOeR9umRfMNg0fIgcNKUPJaZiZx3h8Y8haZj6T2sW7cgeRHT-JsqErRzNHcImVECF2SiqAAhyfyGsd3METjyFjWLFleU7RxN9lzoOxPRLidQj-TVuJpHJnO6Sk_BXJRisg1m9Hz_HPbLwGh7af-6KtwOOuR-6iD7-8OAO9awAbB89bGvpxHjBN3n7Jn4rpWDvE12A21sonrsBwnG3q_Reu72SGTlnymMf6l1_kAKa8oMF_5Ou-WceLVuPuIzBX12tIz9kUM0F3lhwpHL-sIo3ILkdIgOk5Ic5f44ohc-Lga-6q7TxnGKMGIqjb_IQ1RBNpq9uxhyYyq65vSoEkL5SU4CRQJYfvzqFj29HUWOxLIGd7nK7oZflCql1tA4eXFuzZelFNuyPSJw6Ci855TdnOWLLiiMGYge5IeSNoOT9Vl0sQUjRxSEUYJ7CAWuDSV9niTdpnoAQvf35ylEfkfVsrcD0cnSL56uKoYkAbklrrQAjjFXG8g_Poh2E5ca1laDbI5v6bE0X_Pw5omWrbDH5-grYaQodgOsaYe628jQxnK6QamspbbOEeEdLv3DyPXd7DrT1Dp-8tsAP3e-_VXS3Aie845bTmVprqBaA7Os1PGkogvrz_0os6FOqxETJtgKekAKtR3QCVLyYC-MGrQESWVPtsJXCrRneEFUsufrCwxc-D3fH0sLxYNMFrCMIGBU1c-_C8o7r8QgXFZWKIVjRfe55gR0gKZYplVrC7zNmiUqUlTGMUrH_SivcRsJ9ecYIUHOvVBrkpGb5SaxWE8wvowJjCgELAfOQTl1fu_jPJH26ZjvtNIZhkddE3qSShqOU3WjfFcs-duQ8qpm9PmOPYlBs5DrBw25vVZF7C367jIBlulfsZbo-JD3TOWCpDHETKZ63EvT6-z6whDsVUVaTrzktDFQRfremsvBgTxbObIulyJG7pUi7onShfmX9DoJsouo79L2-aRsvjE7nwW1Qle2pFzcyyziS_pOXEnPdjAUIFTCAp_it90auptNuS0bRIcv4PDpL42clugPIkjtit01128B7Wb-WBEFb_7CClUqo8y7LuqNJcFubpuNaYqXL4Pc4uAvzNhSimtWbfFReonM1PRwMcMDwrWcPjLkiyTMFIiCeq0DYW6js3fbBSQsfgP5uRnGapLvllVPiEdXhTxZPzIptaMnFpry3zUL8e7JSZcF3eeFauEsGLoPSYZiQ=",
+   "status": null
+  },
+  {
+   "id": "ws_04162050695ba96a006af7663d9bfc87d2b188bd57b3aaadbf",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Bruxelles inscription demandeur d'emploi délai allocations chômage Actiris organisme paiement ONEM CAPAC syndicat formation professionnelle allocation chômage dispense Bruxelles",
+     "ONEM conditions allocations chômage durée illimitée dégressivité travailleur étranger titre séjour autorisation travail",
+     "Actiris inscription chercheur emploi demande allocations chômage Bruxelles délai C4 organisme paiement",
+     "Bruxelles Formation VDAB opleiding chômage dispense allocations ONEM Actiris"
+    ],
+    "query": "Bruxelles inscription demandeur d'emploi délai allocations chômage Actiris organisme paiement ONEM CAPAC syndicat formation professionnelle allocation chômage dispense Bruxelles",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_04162050695ba96a006af766433ed887d2b48936ff7f0f7ddf",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92ZtvcqaxM7iv8soFoC4RmYoNA8cisOCsUG3QgB2JUkOaFpODivIfeZWImZMxTyy9SfCSrga7rwRNesfDX6UDri77FH0vZu-m30BgdWzqrJqTxCWqafNM3Um8F3HmELFK23WdUhWQuaI4DTY26gKLFae_mZFqcUelq_yn6aKgBUrr-b6ZoKJSlJQN0w8X6WWMuR2GyqJ-zDBTSIUmPN6uzrhcX12kW16yda1He8I60vaFw0PLmMrb-zxg050Ieteu7YltcoSkLfkQKQiDVyrrQHEAkDSZJHX03snby6FaLzcF8aLeB6_dryplavk8Ihj_a1ipuix_J77TS6J8FcK0f5OMprfg7nV-19zfsHYkm-mUHyQ7sYhGTTpxBGqinvVJkJdsqEfk9uFT7-MgOPTE2nieElg_D1qmnqRIFWqG-51wBpN1dgiGdhbz6E41DT_6AP87IZQMVMG8CWR-prjfqvtfAfZJeEiqDFPKHRceQqS6ImIRmywrBESmwgw8Jzed7Nv8jBPiytmZpQMbkpL-OEBBAfWuEgn6fzSQTPuMg7Sxx-0k9LKs3qzFjE13VRvXXr_enc0_oGFRif43xUh63mUtKlkyy-EGe_X8gb1uAgQEblQNauTrvFaFacybmfIPig8zyqL6PjtA2nDI7cz1Xx4wUTy102zwwPp0OcB331ItGoMjXIjjqvGImEa5invlDZNh0bAh552o4qjb9Y8C7080CIv0oy4jKw61bMaj_5Yrr65pY3g2zT_0I8eE77jB97CNyuMW1t5QQnS-BVX8XWv-Pf-Y2qJfVLUD0X-apJhPyIt3vSfPdNrl79tB8vx7m26TUuP5cdPAoRWFM8cQcdymVF9RjGdw2347cp9YwoZzYMbQENDiJ03rcyEQ9-cHP5Jp5cu8oHAlO_YwYXnPW0-iwA_c4uz-QDaFkLhzpmC6aIsCYDHYGD9xChumly1u3qC4jYrX9vOXfQ2pRw0g4e1vM9ei8OvQIobh_Vy9HI9JIBAgRzu4uw1InbOvmTor4eIIgBcCUWUnju4c926ATw1SD6ijQO-cmrNPuUr9H6sHLiSYGFUG4FeyE1xHRTXUl_R1xwspXD6jX0dwm4Ou4Mvuay0JCN3a_GPtwTKEQ0-Qy_8ieIj4JwE4CxRDxpnyz38P_Ldk9vQwWjBAiTVP1_jkzqXPkPbY8Jw6KWvSAziBYWn9Xy9CflTCuCkcT_2aOX9sXSPYEmEquim4_-zSTQU7Mb88VRNT0I29ngLARS8PgRAHrhznKr6FMOVDUKWzHFD03G220PsHECRpyc5enjbMWSLlgZldBSOrexWWcbSmai5trD0M7UcrEe5T89H3MuWkJN4qOJ8ITwTqXU0Vz66EU2RLGu_NMGlKoEoP1G7-LVGdN9OmpbUTaZHyqx17oh0f45JeQs_I_r4I2jinyR9GvF1gGVT12wGKr5PgVl029K1ZnaZqyFoM4i-mMTDCDNpNEKSePmy7QLUJtHayUMM-LE5uH5iUA2tQfd_BMiH_YWpVrf4ZhX4p7V8XkKHtx74ZY1QlS6_onhnIxHxBX95I33-_nRFLzF1YC0-mxaWcl23shJQq-qap5313r2nBNo-xwrsL0eHdYftN0EijWuFFs41IvY5JJ2NjHZIHDAg3Vdb_vs7gXpmVwTsJaG8946euZKBhR48Qk4MrVK3z8bCCwqHH9enUTyR3wZBrrGLFi4snupfKy-b9trO1ZknaL1Yie_4DDtAd6fzf29XMXmLCyHPRV6CBlBxM-FXvg0FJh2U1m186PQFcwmg05kZ4XMf5H142u3p222Fw7nbvx4CZlsLg8RF-ifV6R6DE_ppUnw=",
+   "status": null
+  },
+  {
+   "id": "ws_04162050695ba96a006af76643fdf487d2b87c998300815594",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.onem.be/page/avez-vous-droit-aux-allocations-de-chomage-apres-une-occupation---situation-a-partir-du-01.03.2026-"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_04162050695ba96a006af76645335887d299380205d1cffb3f",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92Zt42Q610rpRh3stzRb-v8kODuG9CJAI0uI5NAaC5McEudTeXy0FPVrjvn5fzmCG1IX9Yx0ef2aHuUYWvk4tJERr_8n8jso82aCcW2ME0V-WsC5BGO317Td72Z6pi2M_JOW1kiK11R9ayiYY4UqE3rGS7RduZiDn1P0vw5-t5ky_LtsJTBvUWdVUF9nzCfmc61JtwnQIWj85itNP6sF7yevhMC_C-nMhXlwl1_orvbE3j9Wr1yf2rfQ04eI2TxfpEfBHhPIUfmhuC_TUm7FvKNdDtpMRtmsfkbgaCVxcec3IxmJhY1qeYlhu_YX1EvajO_ESKhHqhLrkobrGrMwO3Wv-zjmZgeHoM65QDHptMLWON37i_qdzwUaQZNuYGOjc9aEfXmW2lRGk5_Zm55eeBYAMFKF-x7f_GOBU1BEGhoflioFUdNbLFPaj-eRbbksrUkmk_rAI8R1BoxpdGlfEMELi22KoIVl6sdy_CnfkAeA4G75K4MkYRdEYCF43BCzx2CawRi9CxwWjUQ-m3kig8DGp7Jk9eYxkKhIc3vKmJ9gPirG8LwqR3PDB1udppE-LZV3e78hL7bqArpiXBuf0pY5Z7FUBIobLwiwb-CQrLfuOFMRwwi9LcWKSNb0l6xdGA_2nRq2tBAD6GW2TpQ2eOasF3brGxkimZQXjT2Uj_m-3Rl1pbQTY_WEvGP1QJJzTpKlFeT5FbR6cXWxbXwpPAChbwQIXyhaT4OXsVqYnXzBGAtL42WXQ68Pabz0N9rP-mDYa_fTC6EL7ma0l2xrLtpVr3udT6Ghtf_Q5qe8Tmq32mALKeHxMOSSNlLpzym3qBNAaeMZt6zi4YcLbLsu45S1QqcBTkF7g97QDF5KqaRH7nmr0FnAlf02gCfMGiJa6S88_f3NFwmER0CNjiN0Ll13pwvefSVqnXZtcWtr0DS4WFAWo0jmrDucIL6rUV2sUgxZBBDKuSevrCsLHXr6EIkMQWHD_dkL3e2Z9vaIEJ9UxwgIie111lnKqqDmSt5aSSorGvjJRTJ8Y_2qO4WZX6TsAQ-Nop0XBKihaNojFy9rQBSNtKq_KaaOcfRtPx6i4UJp7XC9SJedxrns57X3qGVMAFhS6KeYxM1UhyDMPS5AdZa2tpsqw7pJgCJ4uYIlZGP1RfP4vLh3Jp_hYn9jqYa3YsWaxy3Q-VetGrMoHB0ujn7nD8kOVjcdpiHfGaP1sqajgiGAepJEhtFLr0QYrce2j9lwfOrrmOVQd0_T-96B4VoCQy99elMDhwD-cRtseOkwWyjnilxfJkY7tHKOGrZUo-ogBfeU134y1HWbCNQB5msGti2VwmscS84PXS_GeHVKR1y4hUfrDWLFtvAtnxldmhXmPiUPdklWRDUctsSJd7nbgq4tE_sQeiTlR647jcC5NW0IaziccADHcYt8AiTgLTFNQWbYRrOq-GCoFfJJ2NDnxxqKtbnkyZfXLDp00DayZDR20X4xB3wb4w_XEV-BirU1F_-XynK-3heZvt13xD0WFSLxWDLfzFkRVajhrU7pA3Hkkol8t5vtnbtJfSt7_ipdeSYKqMlgJApTRTEPXa52WaJzVrG20gIBPh7vHnvGRkUFM90tx_NHO4z-qfhewM17oHDoh-fdB37zMvu57b09WZ_JLwA2S76QTFkzItEXZKu5T6bOOeYgbUPUrT3-3KC94EHChnc0ZQQD5eGaENgsvVAI5thr4CzXYDhjGrRumcq5DBIO2Uvb90F9ZaPlCg==",
+   "status": null
+  },
+  {
+   "id": "ws_04162050695ba96a006af766455f0087d286d682f9b41bcbff",
+   "action": {
+    "type": "search",
+    "queries": [
+     "site:onem.be durée limitée droit allocations chômage 2026 4 ans travail 2 ans maximum"
+    ],
+    "query": "site:onem.be durée limitée droit allocations chômage 2026 4 ans travail 2 ans maximum",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_04162050695ba96a006af766488a5487d2a3be804bdb4a91e4",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92ZtB0ROvM1WwKacOgD4i9h5VQt6EFji4PBzUv5UUmmJoT2womM7cDPhQqscRlB4uZD5AcFUfUzHfqVhgIBEwpIxCcKMYzoemX60qdoKV1BLYmKT-XH2q4qn4RSKxG2lbgEZC4r2P1_7k2d2GEmhI_4DGNRWxH7VAx88IOwPJj1Kd_qE1d3yOQ7ic_kmYAceMoOoFRyVFT86R9FH906XtUjblEylkBV20PFOMdhZ3UKHRlc68C4vv28BLm3kJpovSNnnk9VjaMjdASNuk5Xxf1se9PSBtmmdtOtC_UGmwAO0WXhX9tSHdlVTq-wX9n9baypQygM1G9VOIv4GEjSiQ2PDgFAAbKhhFcrJMIYaSNyAhSfAjPGX9WsNpdwpXp_SktzCdZ7eEnh5KdTVdgZ8klMiFLFxlmepA3U_vRaKi5fs7DUgTvyPMX9s-Ty-v8jlNba4VEkLOAmhU0vDSS9FDJqYxRxEYN8Zv6YGTbySV65Oyi9MsuN4urWaXJ7TvM9W_53SsvjDrABjqd2bDKdxeOtOY3NlDzRQBSOb2HtkVakqfc0VpzKn_oqOWEHgl3QMwoLoGtLsqExIxBZcpRs0s6QgXOH9HZC30qzy1tbHRt7qkJheQAFzeHDg5cA17OGRiioPVgakOtomcsQWlqeLHVpGpFjgZLOv7tBQZMYQbrC5f9OUR7hsYuJD_H_dTsbHMSN6e22DQOXLcSrNX0FQJdWDCT-hdG_Mu3D3riw-gfpVguacG1UN8gQMMvVjue2eBs6hAKnUSpJkHIK8nGuFlZL8e6cBiWZjlarXZrwfm9Uld6WL1OzrxMK1N-AWyVnZaBDmsUbaUdwhP8P3zMt3JtKl7GIU_hdfg_9Pn6kMM6dChrZtf5oZ2TgOnx18vHr3Hg0JPKDz4GAPTV7N9SrAGU-Wqg9QJXfApj_sNzBhl8nbXi4ek7AqUba9obc_lz4YdBwk-HduIW5NeFX5_jDC-L9DMgbnmYvB9VvEBQbVyxzgnhKPDJ3ijk_N5zXVY_o5cFQfpEO0LMTKYzeQBCAnipcDLF1daCtEIw-pDjPvdZ8DbzOg5qw3x3GWyo2qNqFI_EXF_R4K-mcfehg1Xk3nqoIOKJYyiIOMJ25BQb4eg9qcVWfOcTAd5Y5L3FgjyXj-AN6Qm6RnftS5BUOxcsvrVFmBYlb9wFE2wdtKHO6OyDucrIeJC6_xeCldBD-uP1ZDSnreslaDLlAktau4-ATrNqMIGsH7mSRp9XgR0PDeOIsjuWR1tArhYxd2RQUTLARswhJAYlAF-EMFD4_zkC-es-4LACERUtNq2mv61E2pkzCygDEOMMbQY8y6fo1T_ZGFdSYbUZ5oescyzeB63rbdtopq0n-M0TqPNQlmckBk1Z7i3vKy9odEH74eI8qrGJIjIlqYOEymsATwyNbE6edaycMZkn_1iLSSBj_QIGiQgpt7qol0ao-CzUlwJVIOcH115Sev-8t2RQTajU590qSBpgDe3mU53eGyE0nFdWJKzv1AhI3i7DAR1utgUqcu7XRWmQ-W1SUqDp6NTkfaSEVQOKC2yRleKHdMwF-1OHMfcHEkBPjnnGya6mDmaJLjJlMvo7ptF6CdSA133zd9v41XArfagw7KtvdcthkjXRpq85up3V1M1xteTOCI_yCoE41t0TU2rIGcM524_BA6kiattp_RdYZzwQVlZVNUmzce-4PEbofM9uUigpDgDJl6mclK5CiHiG-it5b4YFIjQ_Yc0NfQPPL7138Kgc3HDq8E1RgRiyJY4gR3wgjvAWk38GjDE-0t8ydr3g3gAq54QFO2mia_Zs8O7n7eTxWd9wMPD8bSNJsvr_sdoZWNsd2XTdsnOS9Zlg0xV_oArmoBvKv2TkL3gJRiQ_vgMvm8lB33hZK5whM=",
+   "status": null
+  },
+  {
+   "id": "ws_04162050695ba96a006af76648f87087d29f2b6da895ba37fc",
+   "action": {
+    "type": "search",
+    "queries": [
+     "site:onem.be demande allocations chômage délai deux mois organisme paiement chômeur complet C4"
+    ],
+    "query": "site:onem.be demande allocations chômage délai deux mois organisme paiement chômeur complet C4",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_04162050695ba96a006af7664c759c87d2bd4acc5982e32e1c",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92ZtO2kMSoGFs1ah0qhdmoezNT0cOQsoLj7DabZ7pnuxa8UiU9m9PJqSuzjkKe7MlIB4j2gFTYPbzsceeW_n40rUd0muG5ODPk85DMmcUtlbMbMk5smPnjuVXXeeCv_KYfNOOEoYKHYQ2pL8ecp6wwUErzG4mtaMQ5nSL8LvI0sEM_1OL-bfU11PvJcqliwFqOmSec4Le7H-q-Dk7PVcXr-z3Wy_lCBpLtHwMA0U5bUWlxVEYlV9zsxRPN8jEndHuUbRBl80xmDJHdQ9iiQ3uc9rtVH4SeYNqYxnmmd6GOPJJQK1QPZlSdnCePrMmPIt0ENMyd0nzlD6jVpBZBMmW8N9NNL11ojPC7XztnyOIptN0HXu9UP4ur5jn22Cg-AOrGSz3sJTaJUKoLOoP5ajYN5mQlMugP3kB2-2xj-Pme07azQ7RBNd2W5PNCsJYF6r3FG12xx07dBVNmYIKFdj6HTfZ2WJqjUsZclniT6iO0XeQxAS-tLMvRUdmhpYrZHEGObR3ffe4U7FUIJ978Xf8IQ0eAuu1zV1VIZbK0wZ5XLVRKPQDrpaRZBtZjPvOdaADcqH0cVB1p3GjvmUwxiBykrgBxoZSFd19IfYkRPlQ8it8MAmfmGGol1AqTbcEI_dDeFNS4QaINtALS6OF8cs-h-xQeFIiMcyC71RiGU-YsKEA3bzk8jra7K1yRi11QJtzpRJsBqB94BVz-OEg2BrjoUI9q9hQQSF3wV3CiYpaWji_redAmqXgB96aGgHZdv4GHtIZRvFoAA760G4Pn7vqceuHbIfafPlRXw5YvFcOSblom8vKQwZIjqA5MVHcNK9YFz3weP8WdUX9OODozAfqveKjtQTxR2ITOlGIozgujiJuuJ5JOwyqaWjHhxMG9BXmCNTA6UQLa03t_3eVfAzwZ3QT026gguFuujJdsMOL8zXOO9ZTeqx4gRp8sgoN7DD53PPb5z-U9bKGX4ACzJHuUsM3tXrSp9NbMawFtnFVxQzlGcbQmLnM74C-WbAdK-b0EVc5yTOO6DVyIBCHdwfNuyMBr_venZsfWtAXtH4kTrXGAzYLxB4_bBb0VcQoHWiRcF4Eg8ZbikCB2RuEbARrMMBDbeH4WicLPH9kg9pE97k_20Ve3bRmvxKyxobLIJCQuZX9Md5Nu7HZiPqhl7YtelmAoDZ7lTVCRt94PTtXbquhdTkTY0SzqxjCXP9r5kcr1DQGkIHy_6HFasXMjeACSBgg8T1ejDBl19qgS3b7QqfIG7x261hZi-r2lCj5i7SKg5EIUJtYe3xyxcP10nazGhW6LG5o2d_P6h4t7hbULQJQVZdVC3b_QWeeLga86-OvdGFaelSFiUOur2FBQ7tcrcW7NnibEmwzPqFtHiMDp90aaXWlSnfEj79YGx4CtGrt69voIxTnGhWJ8Kxdd5iTvCJ7naHYJso6xZC29qDAcr3vo1Re_WEsIJb_u-MS6nFtSJJ8d9rhxTEnvGeT8lhYSBKkYsrw0Rj2Mh4EenWPYXs0jbkRbXtv6lAB_2m0yFqTGd9fr4AI_aaQwKxtfJdCw62I0ouZcVO1kP6KB4Xy7cerKHgO03fGikBAclmBOgYaNc4nAof_BfluwLV3JrdjtO0mLRstN5QjNotpvHd9PTXXamCS_j-68KZKOVY0oKtp9aKw9FrzMTxyPeG_8J-Ev3140-lxrX1HfpxOsd2xwjMpDNX_ayYALxPZr6uLqQP5wX_4y56UAR2x9O_mcG11KiKnv-Jan8CgHwdzjYwy0aC9CAoaLuRKXgRCQUC5VLv0atZT9NfM9Q9_duS2vONQ3LW2ahhEuW0nRYN1NpPbvSWwB6KnnTWiQ6nOobvWjFTN2uH5ScEOSHcR69Wbu_kUaonwE_pGBZ1n1gR67mgCMOQWo41HUp6SGqtJY_mKo0V58P4ONS678X5-d0NNGPL7dH0QeuCUFHktiyARVup-Z0577-H5jggY1PSzq3IZU3mRZ4Iz_n3FbXPxyEppIIETySN7nQ6aJ8NyD4rw6RphDCEN2Zk6CwwBQrgZJSOB7eW-QBzxNWck5Hf7Uevg8vE4hNmGOhCFzRZS35geYBy3NpsvxnGxPjoi9O-ZEOxgY92h3zUlmv5qmP2EDEeMlBBYUI-x-z1hvbUz8i-rIzbaXCR2bSNUNE1BbKZ2KqJtJXIq4KIRWkuWCJIbJ7ygQVP9rcBug1yw6PAhgQMMvXMBzHHSIsSUwY7yHrpUm3b4Vv_sOpMytxB0fjoE2c4Pj1Zux2TtNQloMZ1jx-kwaZ__HnmlrfnIIUAptTaEYFZFigQQix4_2Qg-nLVIZUAIng_AIpJZZfwaOfOB8e0rCtArgcuB-M=",
+   "status": null
+  },
+  {
+   "id": "msg_04162050695ba96a006af7664db81c87d2ae169a3a7aaff3cb",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 826,
+       "start_index": 734,
+       "title": "Qui peut s'inscrire et quand ? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/"
+      },
+      {
+       "end_index": 1005,
+       "start_index": 913,
+       "title": "Qui peut s'inscrire et quand ? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/"
+      },
+      {
+       "end_index": 1589,
+       "start_index": 1432,
+       "title": "A quels organismes devez-vous vous adresser ?",
+       "type": "url_citation",
+       "url": "https://www.onem.be/index.php/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/a-quels-organismes-devez-vous-vous-adresser-"
+      },
+      {
+       "end_index": 2066,
+       "start_index": 1883,
+       "title": "Comment devez-vous introduire une demande après une occupation?",
+       "type": "url_citation",
+       "url": "https://www.onem.be/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/comment-devez-vous-introduire-une-demande-apres-une-occupation?utm_source=openai"
+      },
+      {
+       "end_index": 2510,
+       "start_index": 2341,
+       "title": "Comment votre dossier sera-t-il traité?",
+       "type": "url_citation",
+       "url": "https://www.onem.be/index.php/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/comment-votre-dossier-sera-t-il-traite?utm_source=openai"
+      },
+      {
+       "end_index": 3421,
+       "start_index": 3266,
+       "title": "T200 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/avez-vous-droit-aux-allocations-de-chomage-apres-une-occupation---situation-a-partir-du-01.03.2026-?utm_source=openai"
+      },
+      {
+       "end_index": 4245,
+       "start_index": 4109,
+       "title": "Nouvelle réglementation chômage en vigueur depuis le 01.03.2026| Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/actualites/2026/03/02/nouvelle-reglementation-chomage-en-vigueur-depuis-le-01.03.2026?utm_source=openai"
+      },
+      {
+       "end_index": 4508,
+       "start_index": 4371,
+       "title": "T200 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/avez-vous-droit-aux-allocations-de-chomage-apres-une-occupation---situation-a-partir-du-01.03.2026-"
+      },
+      {
+       "end_index": 6071,
+       "start_index": 5914,
+       "title": "A quels organismes devez-vous vous adresser ?",
+       "type": "url_citation",
+       "url": "https://www.onem.be/index.php/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/a-quels-organismes-devez-vous-vous-adresser-"
+      },
+      {
+       "end_index": 6867,
+       "start_index": 6693,
+       "title": "Feuille info - Citoyens - T170 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage"
+      },
+      {
+       "end_index": 7152,
+       "start_index": 6995,
+       "title": "A quels organismes devez-vous vous adresser ?",
+       "type": "url_citation",
+       "url": "https://www.onem.be/index.php/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/a-quels-organismes-devez-vous-vous-adresser-"
+      },
+      {
+       "end_index": 7676,
+       "start_index": 7502,
+       "title": "Feuille info - Citoyens - T170 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage"
+      },
+      {
+       "end_index": 8221,
+       "start_index": 8047,
+       "title": "Feuille info - Citoyens - T170 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage"
+      },
+      {
+       "end_index": 8768,
+       "start_index": 8594,
+       "title": "Feuille info - Citoyens - T170 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage"
+      },
+      {
+       "end_index": 9141,
+       "start_index": 8967,
+       "title": "Feuille info - Citoyens - T170 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage"
+      },
+      {
+       "end_index": 9669,
+       "start_index": 9495,
+       "title": "Feuille info - Citoyens - T170 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage"
+      },
+      {
+       "end_index": 10386,
+       "start_index": 10212,
+       "title": "Feuille info - Citoyens - T170 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage"
+      }
+     ],
+     "text": "Voici la marche à suivre **en Région de Bruxelles-Capitale**, sur la base des règles en vigueur au **13 novembre 2026**.\n\n## 1) Où et dans quel délai s’inscrire / demander les allocations, et pendant combien de temps ?\n\n### A. Inscription comme demandeur d’emploi : **Actiris**\n\nComme vous habitez dans une commune bruxelloise, vous devez vous inscrire comme chercheur d’emploi auprès d’**Actiris**.\n\n- Si vous avez **presté votre préavis**, vous devez, à la fin de celui-ci, vous présenter / vous inscrire chez Actiris pour modifier ou activer votre inscription **dans les 8 jours calendrier suivant la fin effective de votre contrat**. Actiris précise que cette inscription est à faire même si vous n’avez pas encore reçu votre C4. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/))  \n- La première inscription se fait via **My Actiris** ou en antenne sur rendez-vous. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/))\n\n**Conseil pratique :** faites-le immédiatement le lendemain de la fin du contrat, et gardez la preuve d’inscription.\n\n### B. Demande d’allocations : **CAPAC ou syndicat**\n\nVous ne demandez pas les allocations directement à l’ONEM. Vous devez introduire votre demande auprès d’un **organisme de paiement** :\n\n- soit la **CAPAC** — organisme public ;\n- soit un organisme de paiement syndical : **CSC**, **FGTB** ou **SYNOVA**. ([onem.be](https://www.onem.be/index.php/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/a-quels-organismes-devez-vous-vous-adresser-))\n\nAprès une occupation salariée, la demande se fait notamment avec le **formulaire C4** remis par l’employeur. Si vous ne l’avez pas encore, introduisez quand même rapidement la demande : l’organisme de paiement pourra traiter le dossier comme incomplet et vous indiquera les pièces à fournir. ([onem.be](https://www.onem.be/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/comment-devez-vous-introduire-une-demande-apres-une-occupation?utm_source=openai))\n\nVotre organisme de paiement constitue le dossier et le transmet au bureau de chômage compétent de l’ONEM. Le dossier doit parvenir à l’ONEM **dans les 2 mois à partir de la demande**, puis l’ONEM prend en principe une décision dans le mois suivant la réception du dossier. ([onem.be](https://www.onem.be/index.php/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/comment-votre-dossier-sera-t-il-traite?utm_source=openai))\n\n### C. Avez-vous droit aux allocations ?\n\nD’après ce que vous indiquez :\n\n- vous avez travaillé **4 ans à temps plein comme salarié en Belgique** ;\n- vous avez un **titre de séjour valable** et une **autorisation de travail valable** ;\n- votre contrat a été rompu par l’employeur et vous avez presté votre préavis ;\n- vous n’avez jamais bénéficié d’allocations de chômage en Belgique auparavant.\n\nDepuis le **1er mars 2026**, pour une première demande d’allocations après occupation, l’ONEM exige en principe **312 jours de travail et/ou assimilés dans une période de référence de 36 mois**, quel que soit l’âge. Les jours doivent être des jours de travail salarié avec rémunération suffisante et cotisations sociales, y compris pour le secteur chômage. ([onem.be](https://www.onem.be/page/avez-vous-droit-aux-allocations-de-chomage-apres-une-occupation---situation-a-partir-du-01.03.2026-?utm_source=openai))\n\nAvec 4 ans de travail salarié à temps plein, vous semblez donc dépasser largement le seuil minimal, sous réserve de la vérification concrète par l’ONEM de votre dossier, de votre C4, de vos cotisations, de votre statut de séjour/travail et des circonstances de la perte d’emploi.\n\n### D. Pendant combien de temps pouvez-vous percevoir les allocations ?\n\nDepuis la réforme entrée en vigueur le **1er mars 2026**, le droit aux allocations de chômage complet est limité dans le temps :\n\n- **12 mois de base** ;\n- prolongés d’**1 mois supplémentaire par tranche de 104 jours de passé professionnel** ;\n- avec un maximum de **12 mois supplémentaires** ;\n- donc maximum **24 mois** au total. ([onem.be](https://www.onem.be/actualites/2026/03/02/nouvelle-reglementation-chomage-en-vigueur-depuis-le-01.03.2026?utm_source=openai))\n\nPour un travail à temps plein ininterrompu, l’ONEM compte **78 jours de travail par trimestre**, soit **312 jours par an**. ([onem.be](https://www.onem.be/page/avez-vous-droit-aux-allocations-de-chomage-apres-une-occupation---situation-a-partir-du-01.03.2026-))  \nAvec environ **4 ans à temps plein**, cela représente environ **1 248 jours**. Or 1 248 / 104 = **12 mois supplémentaires**. Vous devriez donc, en principe, atteindre le maximum : **12 mois de base + 12 mois supplémentaires = 24 mois d’allocations**, sous réserve de la décision de l’ONEM.\n\n## 2) Qui fait quoi ?\n\n| Démarche / décision | Organisme compétent |\n|---|---|\n| Inscription comme demandeur d’emploi à Bruxelles | **Actiris** |\n| Accompagnement, disponibilité, contrôle régional de recherche d’emploi à Bruxelles | **Actiris** |\n| Décision sur le droit aux allocations, conditions d’admission, montant, sanctions fédérales | **ONEM** |\n| Constitution du dossier, information, paiement mensuel des allocations | **CAPAC** ou syndicat — CSC, FGTB, SYNOVA |\n| Formation professionnelle en français à Bruxelles | **Bruxelles Formation** |\n| Formation professionnelle en néerlandais à Bruxelles | **VDAB** |\n| Dispense pour suivre une formation tout en conservant les allocations, pour un résident bruxellois | **Actiris**, via son service compétent, avec informations aussi via l’organisme de paiement |\n\nL’ONEM indique qu’**Actiris** est compétent pour le placement dans les 19 communes bruxelloises ; que la formation professionnelle en français à Bruxelles est organisée par **Bruxelles Formation** ; et que la formation professionnelle en néerlandais à Bruxelles est organisée par le **VDAB**. ([onem.be](https://www.onem.be/index.php/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/a-quels-organismes-devez-vous-vous-adresser-))\n\n## 3) Suivre une formation professionnelle sans perdre vos allocations\n\nVous pouvez suivre une formation professionnelle gratuite en français ou en néerlandais, mais il faut distinguer deux choses : **la formation** et **la dispense**.\n\n### A. Formation en français : Bruxelles Formation\n\nPour une formation professionnelle en français, vous devez vous orienter vers **Bruxelles Formation**, éventuellement via Actiris ou un conseiller emploi. Les formations professionnelles reconnues sont en principe organisées dans le cadre d’une convention avec le service de formation compétent, notamment **Bruxelles Formation**. ([onem.be](https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage))\n\n### B. Formation en néerlandais : VDAB\n\nPour une formation en néerlandais à Bruxelles, l’organisme compétent est le **VDAB**. ([onem.be](https://www.onem.be/index.php/citoyens/chomage-complet/comment-devez-vous-demander-les-allocations-/a-quels-organismes-devez-vous-vous-adresser-))\n\n### C. Demander une dispense avant ou au début de la formation\n\nSi vous êtes chômeur indemnisé et que vous voulez suivre une formation, vous devez vérifier si vous devez obtenir une **dispense**. Pour les habitants de Bruxelles, la compétence de dispense relève de la Région, et l’ONEM renvoie vers **Actiris** pour les conditions et la procédure. ([onem.be](https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage))\n\nAvec une dispense :\n\n- vous restez inscrit comme demandeur d’emploi à Bruxelles ;\n- vous êtes soumis à des règles spécifiques de disponibilité ;\n- vous pouvez refuser un emploi proposé ;\n- vous ne devez pas rechercher activement un emploi pendant la dispense ;\n- vous continuez à bénéficier des allocations pendant la formation, sous réserve du respect des conditions. ([onem.be](https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage))\n\n### D. Attention : la dispense ne prolonge pas automatiquement la durée de vos droits\n\nDepuis la réforme 2026, pour les allocations de chômage après occupation, la dispense **n’a pas d’effet sur la durée limitée du droit aux allocations** : la durée maximale continue à courir. L’évolution dégressive du montant des allocations se poursuit également pendant la dispense. ([onem.be](https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage))\n\nIl existe une exception spécifique pour certaines formations préparant à des fonctions critiques dans le secteur des soins de santé, notamment infirmier ou aide-soignant, sous conditions strictes. ([onem.be](https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage))\n\n### E. Risque si vous suivez une formation sans dispense\n\nL’ONEM précise que certains types d’études ou formations sans dispense peuvent entraîner la perte du droit aux allocations. En outre, si vous recevez des avantages financiers liés à une formation ou un stage sans dispense ou autorisation régionale, vous pouvez perdre le droit aux allocations. ([onem.be](https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage))\n\n**Donc, avant de commencer :**\n\n1. inscrivez-vous chez Actiris ;\n2. demandez vos allocations via CAPAC ou syndicat ;\n3. parlez de votre projet de formation à Actiris et à votre organisme de paiement ;\n4. demandez, si nécessaire, la **dispense Actiris** avant le début de la formation ou selon la procédure indiquée ;\n5. continuez à compléter votre carte de contrôle papier ou électronique chaque mois. L’ONEM précise que même avec une dispense, vous devez toujours disposer d’une carte de contrôle et la confirmer / remettre en fin de mois. ([onem.be](https://www.onem.be/page/vous-etes-un-chomeur-indemnise-demande-dallocations-a-partir-du-01.03.2026-et-vous-souhaitez-suivre-des-etudes-une-formation-ou-un-stage))\n\n## 4) Résumé pratique de vos prochaines démarches\n\n1. **Dans les 8 jours calendrier après la fin de votre contrat / préavis presté** : inscrivez-vous chez **Actiris** comme chercheur d’emploi.  \n2. **Le plus vite possible** : introduisez votre demande d’allocations auprès de la **CAPAC** ou d’un syndicat — CSC, FGTB, SYNOVA — avec votre C4 si vous l’avez.  \n3. Si le C4 manque, allez quand même à l’organisme de paiement et demandez comment compléter le dossier.  \n4. Votre organisme de paiement transmettra le dossier à l’**ONEM**, qui décidera du droit et du montant.  \n5. Vu vos 4 ans à temps plein, vous semblez en principe ouvrir un droit pouvant aller jusqu’à **24 mois**, sous réserve de la décision officielle de l’ONEM.  \n6. Pour une formation :  \n   - en français : **Bruxelles Formation** ;  \n   - en néerlandais : **VDAB** ;  \n   - pour conserver les allocations et être dispensé de certaines obligations : demandez la **dispense via Actiris** / votre organisme de paiement avant de vous engager.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794598507.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 31938,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 2654,
+  "output_tokens_details": {
+   "reasoning_tokens": 390
+  },
+  "total_tokens": 34592
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 3
+  }
+ }
+}

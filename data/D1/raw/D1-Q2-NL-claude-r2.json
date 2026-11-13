@@ -1,0 +1,759 @@
+{
+ "turns": [
+  {
+   "id": "msg_011Ch1VLYhbVDjBHShXBcFdT",
+   "container": null,
+   "content": [
+    {
+     "signature": "EqIECsQCCBMYAipAuZgDqDdlES5R6H96KE7vwwQ8hKD5bsQ8lbjG4QXvr2AjFghXJIrXyXbUNR/RS9b6MIA6Kq3W7Z09hvDcUlWIUTIPY2xhdWRlLXNvbm5ldC01OABCCHRoaW5raW5nWiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTiaAREKD2NsYXVkZS1zb25uZXQtNagBnc3d1wbCAToIBBAAGgwCRagDTzcFhKAEJq0gATIEEnHPJToEODMjikIEwGi2/koEIQN94FABWgTZBeFWYAJoAXAA2gFgChZwcmVmaXhfYmVmb3JlX2Jsb2NrX3YxEiCLbwDEIwtWzfqV9d+EARxaTEdF6syssOenABzSHw7dlSIAMiDCwBPIapyS4i+Wbz2GF3aPi3pEyQKtzAl7+h4JivtOH0gDEgy622CSqqnHKhORs2caDHSvU7DCGUsDsFhIcSIwma1mGUvHaSo+51u8g+BfV7kGvRfdbDTl+NU1toM6ntfLUthUz0IX8kfoVAwoJAuqKooBK8w+Qz4Ph74YT4n/r62U6Yw9gZYp2ZlcWYLy7kzXvDRB24Qk8brDRsZ0hBgaaSadWFA9zTl8A1V03x+gWGKoJx1rdizxlqTg5P+2h17jNRyl5azuUYqDY/zEDU8GMVgciQwSP1TOwCYUYEwH4Dy59ndWTOxkjYszgPvie7YyVjbJz6AEm0HE2u0CGAE=",
+     "thinking": "",
+     "type": "thinking"
+    },
+    {
+     "id": "srvtoolu_01NZ9Wra1ynXbTfkEpm4SdD7",
+     "caller": null,
+     "input": {
+      "query": "Actiris inschrijven werkzoekende termijn na ontslag werkloosheidsuitkering"
+     },
+     "name": "web_search",
+     "type": "server_tool_use"
+    },
+    {
+     "id": "srvtoolu_01Hhw8oh4D9vZZdWU4ErTLgv",
+     "caller": null,
+     "input": {
+      "query": "ONEM aanvraag werkloosheidsuitkering termijn C4 uitbetalingsinstelling"
+     },
+     "name": "web_search",
+     "type": "server_tool_use"
+    },
+    {
+     "caller": {
+      "type": "direct"
+     },
+     "content": [
+      {
+       "encrypted_content": "EpUGCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDGzeoc9rfMX2vtaqyRoM2FN9ha49LasQbDGVIjBGp45hO/e82+GeQz28NaSJ//S7aj4BfwDTQ7z1OgXsPrwO1h4CGlLM4E2foW+fFjwqmAXtBlT7Y3cRR86ZB+4J3l7qbfUvnTqaXNLBKOFgDjoLIWWLPrN3Q+O1Rt4qV+8NW+mZGsRLTWs0RpR4W1BKkVc60trN3C8b6wxEbyHWzAKmZUkxGND99MEf6Vr1xMctr2on/AkKcEV+ULknSAgHRze7MwzE7J79AlLicaY/dMf0X+dsbqvXocYTnRLVw8ZE3TUMF8UZUQ0FvjX/iWFCOS7svtZpjfCn0Mq1gyZaIlxA2c6TH2eZxvxDWso1685WoLzFaV926/RYY6emLGCKl6OhtQW4qjx6zb4oHNUN/gAtpB5TZkEukfV3P1UAtp+21UK1a+7p49t35MVciBNZIU/N1SkOXNA0PIMJXsxpj2SguKI42ZfbVBdz79goplOSsmHfOABDocEcevRyHtJ45d+MoWgy0VQGThS8VWagdxCl9o14Q4yhTaF2Q083KYqBo0sWb93JlzsvJe+FDw/hVRk55IQ2SBnNP7xPqyVXml8qMXg74BQvbrpQPGRyv+5jLCX8FI3JKJyALH/k9GcERan3z8OSbUonSZaPxjr4gcJEDx3X5i5Rrnz/PIeflwE9gUBrR2ZHaKANj+1a0vVY8YbTusfPOejUaIhEumalC0ELcdT0ztM4q0b3EjjgxjO0k6D6+ZLjC6HLzHT8rc7rdWXBz8xp4XPHhwLIuY1EwdO4vGHfENaVf6x3pXEBPTau+R/iJ/oUc0GkTBMm6GGQdr04exwZE6LaHPX1/YGtK9hu/1Uoih26A/LN/RegTDf8x+GtKp5cKDJlKfBR6XCCq+8dzmvnpz46UO4QtFTZQVogc4O0wHmxji57/005sexhbSgtwXN3o9DJLjgFmvn7vEjQZbsJ4FQVjuRPLwJJ3poFwMJAAPK3/zVuGAM=",
+       "page_age": null,
+       "title": "Waarom inschrijven?",
+       "type": "web_search_result",
+       "url": "https://www.actiris.brussels/nl/burgers/waarom-inschrijven/"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "Volledige werkloosheid na studies",
+       "type": "web_search_result",
+       "url": "https://www.aclvb.be/nl/volledige-werkloosheid-na-studies"
+      },
+      {
+       "encrypted_content": "EuMICioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDPOvWXaoydOodFAf/hoM0u4YkEMLv/PFHPK+IjDA5U+R3FVs5wqzbBYRhEgPZGDRqfFhEpSceiUnqXeOvJvuxlRCSoRD2GVvvIlqbwMq5gebIiebuydGcDR6m+jep+oYKRzOEcRf8vUExPRPpu7gSQBRqcpecxM1ZW4jS4uCg00+1ROeeeeIDakCXLZY265rUkQM6pOvOOGI2eLc5gYqg7bfe/IcZkMKzrybfuKmPfq1PGBsgDhYLAS+Gd1ik5lw4IDBivrwl1RNa4g3cX4QlNZlL8xsS+ljxNYI7nXIwFZl6/ECjwZG6gQKacdd2vBJTVb3x/IK9E5ZKJipRQ9IW1IEvjJY4uBavt+VPspA7vKpaf9DDYWiCzDxI/3KZvFNgZVoSxRTmnW27OEAGd6OCg+WzT7z1aBn3PkNtT7gOmlzT4FXRGcyYeqBUlmwOzA7KqTWccGQ0M2OR5o5ynykEsv4/zHFXjJco4IWNeGVrg1CLNl3zUxi0FdwOI2y/szNhHxL4YvuVdVxkHwKRw2T9i9d9Z7w3Oekj7Q7TO7senZ7y2TocqYaoscMdQ+B+GqdL1vGXYqUVzpLUe+DjEHrMzB84hTJpeACUaUyheBO4ZvuMHhJmbULFWIkgf6xzcNCQ2VjGyinSCv6576Zz3cvEj/mxhGQXdx0dITKV4PYzoE1twaLu9Fql0dJ0gmCbOf3Uy4y2aGjv0URomBIawpwYUj/h6bunGDSbQzTclp0GjCCVO90Copbtg7hS44lUcjZOY7tO8zDKUGO9dsp538wfVAluFvhcvbiCUxG+o5j9SVYtRm/llNic+OGppJXciXPrtxx+6xRq86CRNXQSacAR7YAdJkiv7TceRUmLQt2t8Sa77pK4boZdhZzXJjmAbEkGK1OuuitpMU9+MDAUfEWFYLMatBOYFBBQt6bkfwHANmb5BUuZRFJ7LM0fKbP/1aqZDT4XdPvPFPJt5/S0cchXkN0uoclaY7o/pPmq2a46XEzOaLlmZlerYX6glr8je03EOFFCAznLLl7ngi+Whn31kyTCn6sdZJoITj7HEznVHIxPKr82PhXp4eiVfnIYlHBXBpD6lNSnP6pZ0XhoUQj502j79TTlXgs7DuDMc41AjDCu/yJisfJ3pZvgvoQQNP2eZ33mKDhftqeHVDpMPu4ZeIXJT+M8EhE3Hlf854Rn1pYJgmiCmKg7j19B/o8uH4IAJ15+vAdbs3zCULr/hqzIc87QTYMlCwM8JEKJdT5I2B4OIj7VhVEQYeP3o0IF1ZJ0xOfSNd5FS4toEAbGAate3QISzQ9G5j7JxFzrCreSmBl0TAR1xNrjusXMKf3JaUgVVtyex7RQxCX4TvDslJasECp4Bi/oZWSZGwyBDQXpkAL2nmbd+2iBTwmSwmRQWAMASmNfWNzG9CMFi4+cXnX/RzzSXtzpxgD",
+       "page_age": "78 days ago",
+       "title": "Wat moet je doen na een ontslag?",
+       "type": "web_search_result",
+       "url": "https://www.wikifin.be/nl/belasting-werk-en-inkomen/ziekte-en-werkloosheid/wat-geval-van-werkloosheid/wat-moet-je-doen-na-een"
+      },
+      {
+       "encrypted_content": "EokKCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDN69NgQiBwT7i6bL/hoMOY86mKZPoJ1Sy9N0IjDKb6Xl0jetSoV0VbLUHmlB0eXcjRGXnklC2y+bkHoCJIFFUR4y7Ub7rJdDYgHJYwAqjAlN4zUiriG/361YiXEmk3IHYWxtHgr6sHo3wBRJN3zvymGPD5FkgVPuMWVaITg8xpdOzWP2x7zkrhWsu/lqe64iRvmnG1T+15GDTMpkwOpYRfzhtnpparuWQQvNeLP7lXI7WBL3Y1LBs3XSxpXCS/Gquz/Y0xu7JCUyIOEc9ZE8WN3VrbOAvZyyO9KUvUKlYL/2d3mQqACxvwEeMKBZG+D9wNnlfiX0nmUxyzpg0DuOxAaT75EpI5SBI+JhW//InHu2ZWc3KgIHjMg5JSfWv2q2S3gjF6CSwQrS1ovhMwDcrwhzq2g8KN1NXnoXIxCqLnBqmpDzAZs+82CWOkXrIVvqLnt+D9drgw3EO/cRY9NwIPk+i8CfijfZXEtMdrw6+KEydeI/F+OgoWgTK3RXPjYrbJ7KDBJDwSVHMXC7v/zeG6yGA1wpUvc+qjBn4y0SNvDU2VkYqQvyVtFMoG7Od6hv/QAZUtstteU5RjX4ZG0aoRT0GZKnfGQckNdxTqg9bEYUzkFOmtGM+YzCVyyw3xQMal0AjOhLlkB7QopC6GkEBexSxlrbRrhmw8B/fpuyBzLR58QnlV/MJRPeeFonRCJMeHUxKez0bSTsGrRSB32lemhvhKOSr6I+i3mGHCsKtjrnrmPid7zlDLnA+wg+tPOUn8nO63eEsDtc5cVok+gU3slIQWrFEkKuKx9hG7Pfy0WmJch0oc6MIho8YrAa+uaktFEKJHlJ2n38itq8AMeoWa21RDM5wtgc/62UkCY3i5ZhdyCXd44M/J9UnPwV7Th9IkW0n/iXFSXznG25c4sVitrQQBQ2rAJtcT2G6rO+Gth1ALmJ4nHM5Bxvg6tkfy2EEBN++PmFUZ+aZZ9rDvheFnjZ62qkws6Cvq33emyQwlpoFZKiztW28etArWtsvOAMdJAtfb+K/m+Ia6pHcv0XRvKws0KvzI2pMp/rV4bZm+VwniXUrH3imfySYH+1wX59L2IeNcucCVOXcNcondi5GhefYwfALlihr5M17l9Gdszgekvm1ldXhVPOtkiEx541NU4SGC09PxGG/Z7DBO8O2AsCUs5P4C2Or3HyDLz3euKOaTwDQUO0SXAl3yfQwGIQRRqZIhMJP4Ml5B5c6el0a6S98J8MDloTKCfxNMBetCQ/Bx3bPhhq8GDgEAPHaE5Upy9ll26mvoS8CqXZPRdP2u4INNY3Mhs5ALxakd4Cg6RnLEgBe5qsG76I7Lo9YpLj456E0l0TYVu/pDRRppA1itWW2o9M+SqIUBaOUWhw6CvDdrkhxJ1ox9up/DrgY3nHRIBjcKPEq+z0QSKbXRr7HzS2hUFnkKc0/uMifvWedVXUpVOPdeJTmPd4MaFR6KU5OQ9eM//Uleq0AS1CpWM+TcfN/N/YYhc/K+ODk+qnvk9gSUbXQFA1tmK7yywsGVk8GuRSRrsfcD3WK/j6SCvXreqkwuuRMwaSq01GuhMisB2AxL09zulCVx8HZHjpc1CBUH2d4mTRgrR6cR4wO28kyaM+sFRy6BKSKp+cEv7uAQO9cjDNd+rOd0xVLaQYAw==",
+       "page_age": null,
+       "title": "Geschil",
+       "type": "web_search_result",
+       "url": "https://www.actiris.brussels/nl/burgers/geschil/"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "Logboek Werkloosheid - viewstat.actiris.brussels.",
+       "type": "web_search_result",
+       "url": "https://viewstat.actiris.brussels/viewstat_werkloosheid_logboek_NL.html"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "Wie mag zich inschrijven of herinschrijven en wanneer?",
+       "type": "web_search_result",
+       "url": "https://www.actiris.brussels/nl/burgers/wie-en-wanneer-inschrijven/"
+      },
+      {
+       "encrypted_content": "EvMLCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDFwifg1t+UV47bgNjBoMEeGFGOuzuaYc4XFGIjDrUbgmXJxpVCGkrr3F8g1rh3WN6vKI4iVC2KEO2dZuBvzUQDNNieR+2/S61PFcbacq9gqhqtW2iYfa8rVbnLCTuBPpSGF9ybtpxzW/CaYGpo3yAJ+xbX6zxy52ZdNgur0p3WgLmUx8P0eV9bFtVHDSijRPX+UVbfrUxVqEnGi4HqB2b7tBQxCD2p+cKXr23co+dKtZGAI14tYW+ovFSTMyoMJkWOIcYWuh4OQOgb+rPHDkGPlTlWHM7uaElb29PpTAVVvszsdS2u8o9uhgAO9BsMrHD8vv8om/iq9Yu8qGGE8ItdQxdLGq7ZQnqi9JxDZxWATJEzsTuFu0S6J/uS9Va7vFLklVzUj6iiCbsRqtYRYszp2aSi/Zv+64PuLPnq48+44IFxiGAMQ968lOPSiLCLee826gLlgq7Z2yDYCprxv33AfcumgQcH5jMDUs8MwdfPGOLsDd9H1AeFVJzfMyhm9a5q6Ujv39VzqG7lrE6/A2f9IS8+36IHI8VyiRUDT5GVDpbbCuJ9o2hBJtbMI+qk/U/jRcjtcabjlxE3K1CBDti/yTpP9HlFsHsd/ANo/Wou+2nIys61Lb6mghurgwywHCLMazDQyNo/CKTBRaksjPAy5j38Z8wEzrAC3i6qfwPl5jIEw7KZ0u4Rnv01koXB8vV+zr2g9dvL5B7bQkoi3+2XQ0y5rGdcPiCTx332q6sjeAP14EwU+DWtHX/8Elwf07DRlXhi4sCWwALRQ64U2BvM3Zt6MX+06P7wRvRlZMPYPDb+KVtUB3X9wiwrl0fowAwFEcZ2I+78ArDzztO/GRcIl/rYrZxybkrqV/MJ4bTfT2jMTnamyQWDPYcDNvULkPR3zuVjrXyQaDxLtUbTmHRaKVBYa0SWNpKiha6K0FHYvmcIKRXHewvFccYcEJpgXENd/h9h86O1Q9FytoqFkNlcblSpwG73VxfNmxFMWutGK0+CPnJrS14tH8Fv84y4CJ3Ks63HyfJ40MjQKKz8GcT9TipGqNSB7BR3SRr4W8qMvZl3CyY7CXt0WyLGMaWlmZF/6NpC9lbBQSWN3lHBT6B6Xu4JdQ56h+zho8lChwo0Vy1x0YJy2BEk7UueKpTYFqfoyfrjmGd9LTrkMt2bZJWEwlOoSRaCFlJC35MKqqqHbYDmZf1DdqUYJQyhPtVzVSsAqim9h/7+S5U3g1LLSzDW3bm/OASHPTuIxd8+uw+A3jBHc9zWwfN9HqufGg5mlqlF2efM4nrviRAMCQ7je2yMnBXm5I1YmuocTs17LwkDWUiZPPpJfPFrsEQQ7r0u3ZQ9iB0Pgye+4BlIw/o4+Pi+NKUcU4nmfIXSThQ2HcLdFTMltZNVyywIzl1Yjsi3yDjU1lahEgYSi5XYzyS3I0MeKQcUJCYkTfWYNMHURjchcEnkNDiu0+lYy+39FmH0+yc2T4HpQHS6b6TvElbtAypC3mAHgfFPobRmVJfxzEe4zqchCjy5HF4pFQHfeY2EOp/Z4KiEXWVTfUdowMd7rs9GBUElGKdMab9ZEFNOKLnKY2uh87hgh8L81Flow0RC/uiaRtaGLnwhiEgKuPo01ps7nOnycJvTEGyhIn4ifqAd6iagjHKuIZk8M/YxvclY0Jc3YAtC+ryV9K/SVLdVusPus1EtYokzSgCr+wsJMivKQPv8R5clihfjB3wATaikrhuM69f/0ZmWWQtiETAbMczmNGD/l+WnALBDFXIQsyvvEdNf+phSRRCbnGu9adiYgKIG6fCy7kY2svDjkqwycQVf+/488oX4RksB4u/dzg8vOwtrTkMHkfBJMzymWOfOYSZu0P78xDKuf30c/3e+4IqjqIgr+hbZrE7aJeXPUUKmWsZSAb8JHXrJWtrlus07z+2jZhsVPJHOdrWoKqvW+Ihh11lPRzt63c69sgTWQMGg5pFqapAGoYAw==",
+       "page_age": null,
+       "title": "Hoe moet u een aanvraag indienen na een tewerkstelling?",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling"
+      },
+      {
+       "encrypted_content": "EtYICioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDHvERPqM5MJBgOlpAxoMxH6U083VamghOOHTIjBiaqDYuMjh7d4f8KuCGOLazPzIBCSZcQorT+lB18ElBfIv4XvGtbEU7F3ic23dS/Mq2QeOb85Cg/7YTOFYsnHYf8ScCeHNFjqmqQzR+RT5v59RrX0xmEohizm345+KVZxaL+0SlqIhEyQtBNzWIK5ODUfjn3UsVyzSqe3QmVeiGW3EjwFa7hkDccSjy6wyauK3kNG0RAHO1ynvPVi1cJ9RHb3hk+3UwRPYYPjTuWQ35eVAkJG2tdHIELYe626d6hGIXoMUp5eD6XY9xstQ8jaaqsY+VNJybnBnsNzKthN54Nk1i5KcOTULjL/w/+d0AYmTAc+8CPVU8w+yX5ZRox3jU/Wu9QjdnxIOycscz8sVfeLwYEotqCSnv+9ta/dD4A+/2OXS6Sr51w7AXM30I6DYf56L1AtlmHOk/Z5b01G5QMMWjrrp0dUdNchmOffpQLXYDAu+snrVu+4Q1hEym54xc51GPXg5olhdTs3Vy37xHqNNAxpLFx/mUF+l+xLT7lE4/WZw72DLXFiD2Bo2SMm5JZaJ754Hp4LGOaq+moRDXiuYeUwPqwbGXueKZYigwUtIo8BjWWAxMiW6Q/l+TXpRwDyxL2fbpaiIvqKXpD+3DJVYX1ry71m5oBsPh/ziQ/RymJwnPtVB1EOF0IbUt8rd/02dYhQJyzf9XIaoOKAYxMWFIz3UETHaOMfmhqOvm0B6RGMy2xWIMIkZdwCzECcDx/GQfh5JN8HQDUl1UR6OZ1PtIJnW1gtneuRWQd0E4rui5ARfIBFfsh8xbymKxLrGGcBWachiSuSWLLM9AWfFtXTG+tAjGdKOR1R9r9eXvfXGfEiT++B2fAvwh/GDSmqEWeOr2vTNbu2+idvHG9ZUkw+kKw0ma9xXds1O/Y+3ODzdsrKkiHyK2N8c7F3sKL36vIa89iiBkMnAw5iuGth4D+qhApcK0Qdm6s4qiE9b2IQCtY9yiTYwpIpLOb2kkw9dQyZdF7cf28OUw4sx34MqFxnYOwiH2tRRlBQ0lQTC/1VT13Qe9IY1MTjkuYWwVzF9k9K8YdxxvKWv4IkHA7Xo107KZyxUCWnQ1l+W2qENHUIkdg7zj5ZMme5R8zmZz3ZSesbvGVZC3ytQlKZtgNrl0nWofuYfMVPOCKsWMnkImyo9RI8k4LByl00C8JRKEhQdHBs9hOS77h1WBz8ZG5PURasvKpD6Y0sA6voSExhpANEI+BglX0P6qGAynntWQAE0V84cwZ1+i0dgZGuhvlCvGDjywv0z8ZzaxQkzYNxgOO0jyr9DO655gKxMnXLHNCBluAcCW3p4e7egY1o/0QNRMVfgYh7yXGgQZihCCHQMV7ozFSYPK9ejslOrQ05izbQqTTvAeUuHGeIAEUPkGAM=",
+       "page_age": "486 days ago",
+       "title": "Tijdelijke werkloosheid: moet jouw werknemer zich inschrijven als ...",
+       "type": "web_search_result",
+       "url": "https://www.acerta.be/nl/inspiratie/tijdelijke-werkloosheid-moet-jouw-werknemer-zich-inschrijven-als-werkzoekende"
+      },
+      {
+       "encrypted_content": "Er4ICioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDLyLNVNPG+ag+Hmo9RoM0nChglEz46bKMwfPIjCDV1pwEHRrxBFgWw/qxK/xDVJ1JLPkz4stGkHuX1WMVZk+FAEWs0vC/NW2eynZSw8qwQcRFR9tGmuhruBWGsuRQF+hnph/lDCK+CdP5jIjdUKxPWGCaH8vQISMqOxQ5n4VZouCKxQ8yQm37qcvT1oKkDlT2p6IZS7CUxoSuj9eKsJWFK1Nxf/tmaeCajmb7Kus3o83wGu4+zx9kDLZJ4Obq2ckkKefgnUoRK+o32onzbgEX9V659Gq2gsRlHRWWLrHHMa061HAlseOlpO7sQXashst9ldCYR5sx/2gy3nMMHz+5IhrRg2taOQYlC/+DFr/93Mm1wOouwy0fH6q0ljgZGHa7ewV+pNSuwQYRotho2Eaer/JtxTSlzVyZPdajtoGLV6S7AYZ+q9fJvMRCAIqe66llnKALFahNs+uo+0gkDUoBJFfIxio8QEQwN5UI5zbSpLi0qkavOX/fh5Id0T2pUFWFgSRaEVPIFs4+sfGFSnvMGgWnrByawqaxvJFoDbC3EpJWjOZsWdhKBalVx2k9qsNVxqqmVf458T4mtI/kSeaZeNDBvYozhctNQEsPs7EXTU16nSTLvzuSM3itjZwrtPrVMCkON5piWA2qemuvn93tVPJKMqd06/wZ9VYd1zHc8gIDy/MfOOaLTzk1/r/a/9LIQU+kN1K6VHQg5lmQ9nEpmk+LMiwmuciKWTidQMrdI/vwEKYKuo+uBtVvMYO/vDefyCRx3khgG/95Qr7Qx0DsGOip1/WPn+j3ZQk+kOKRgQlI5fYFbe730jI6wcytMtP10fg7lNtPUgwSouED7/q5jvRBW4BNS2PalSYBS0W7j9Rm+kHcmcMsGtYlyQA+8sIqG/cawLI3Yjh8OpB7ZAHMwvKnuKDR/RoLqw3lgm3/FXESly3RKyAIdPI3XOLKhakeZ95JOw4NVmChS9X9+hCVShnsXDDBkuWAkGDBJFIvWp0a6W2O3fFhq67sb04EdogjIeO25H30Plnvz6NFERNkcO04+tv55ghznZe71xQoJbEDuQk7k7Gh7GmuzLc4gkDo5S8TUDaiszvUy7K2te55a0KWbSrnX7UsXDMc3gZIDtTlzUL0hoFOr5FGsqKFFj5sJCxfre7UcM9XBq5CMeoMtHbHWO3MqGmP18UibcSNoxw1GAC99AhbnCLTD2hYkpmuGqJ+knLl+UyzRu+/6LzbSxaPE9ggSFZ/eIw3qfXRHtTBLn0I9QG95Wvza6PESVcp5amK+D8p+ULSUUNzbFuUWONHCjeHY2sNuQivN9LZu//GphE6Ep+ebV/kI2s1SJkyacVNmlwq6zILD/pw77uLsSGGqooTq1RS22kKoUpqdbWGAM=",
+       "page_age": null,
+       "title": "Volledig werkloos na zelfstandig werk - Hulpkas voor werkloosh...",
+       "type": "web_search_result",
+       "url": "https://hvw-capac.fgov.be/nl/uitkeringen/werkloosheid/volledig-werkloos/volledig-werkloos-na-zelfstandig-werk"
+      }
+     ],
+     "tool_use_id": "srvtoolu_01NZ9Wra1ynXbTfkEpm4SdD7",
+     "type": "web_search_tool_result"
+    },
+    {
+     "caller": {
+      "type": "direct"
+     },
+     "content": [
+      {
+       "encrypted_content": "EtgFCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDPsMeKKo7+xaSYnmCBoM05UideQiOfheIsf/IjCY2cmW2LdF587jZAbCUSPM5N8RMTY8PZfM5p3Fx6cLzeLU5DDRZQZA9sjDWtu2GaUq2wQJyCi64WehGws9w25m1kXYefH+7K+TEcz5OIT1oEKAUTvyuVK+IcZOeH/CKXcF/5B28bIjQNwyVnbh1Yoe+0uEFHZbBfgSe4sqgeSWpHFR0WCWPzFiRW78om6FuG/kwzXHRa/rmoD3TvFV9o04eH9fiWHXzToFdrp4V9ieTOSMP2JIciJZjDr3rhfKAMu4Hnlf9TCfW7AzMpvrA9rmiK5Q+t+Zk8nDQG7jXG9jJWE8uBdk3caNIUoS1tzO+f4NUbs1Oa9UJsEJpllrLjcoiMLVVgNxLN2Vwk+4/snxPPgUbks3FB6MVR89qSNjN0bWcpLezfcjICpmRB6HIXTRHnxX4H5eSrTbBFbGTgiVUwt+fGMOGFzF9BPymluqGuovV170wGqlJoJlf8CtaLwrIFZ7489u9tCdelNg+wQ3h5R2HJfzhcfAM9IGvKFPZCmwhSgeD3LQoksKR1lkpGl1T4Ct8NhPQ6fsO/+kXjT4krgujN770jlFMb9CbDDEh0/JUdQSV4pmZ24DDF0/KOJ6rZX96gT3raYTqY22ccyjiYTOWyk4ONwFIlIRven/qhIAO8h9FtLO9mJLlVntsLkvmY/3ExIzjG6NOZHSTU5CE7AJwPJgUSS7wxhh1QOUmSusgoP47hVyoc0G8zcopGEuGbKytNaIW6wwtnBbjO9PO7QnCilbXldKKs0Gv96koE5/4XSU8ZCxIYjaQjlXMpkifbMMPzYY9v0KjKoxUeNTGALv/9P6ig6aDwRkWF94QO/42r5bXwEOeIR0BBKbm0JPz4oSiwzCd91F+ew/iOMYAw==",
+       "page_age": null,
+       "title": "ASR : Werkloosheid - Scenario 1 - Aangifte einde arbeidsovereenkomst ...",
+       "type": "web_search_result",
+       "url": "https://www.socialsecurity.be/site_nl/employer/applics/drs/onem/scen1/about.htm"
+      },
+      {
+       "encrypted_content": "ErAICioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDIAeHVLE84gCFLjAfBoM0PMEB8VHJ2EqBenXIjC+bbm/hJdu7vxoRkOmXIygTQyxh3mF2PG9Guu9BKylcFn91rblOFPnPHD8GWeg0t4qswdviU5gjY8n2tyOUwF3zI4/mrl83VOGVsIYzTnf0FmAwMwwtn6uvSIK0XOYiNb6RATbnex980J29FwKqTHYvGNndU6tIvXJdBYlGkERLncNys9C6FpGYpvwDnWTjnomnnA85M3IbqQFawf4r0eGXptO9yGNC+4OuzRCYq0iqj8Qq4qCTL5dIovZ2/lZu3Ap5tIHcs0MkLhTkK5uTwzTm1fa/AFyLKpVttW8+uxtBpU9j07bG92KzrNxomrROW2nlvyZwM2cinF4Y6sVHwiEiFJWiN7wQSOSp/jmaJsGVjckAYTbmsAHNwpBwE9uIFHaIZugzNIgAF5GHc8Wc9ojUCK2Nog3P1qPrP/lxGz4GV40FAQHHV3wI1uZedczZ0Phx7qtAwJ/GTUYimGuMGxAWt3L24vWP4zy1l3swzZ7istsbNlmHbvVYLyiZfsUgYtiG41Y+HiGuk10VWHG3iviVmw+JcreRrfyCNfqI5x885X683NCe9DffTxLSLQM164KEj9Znuq70QMKCmgb0ssGUdsz12HkCc1YqinXjDuE35XLEwDCPGyReNS3Nx9T5L1jxCSsCTSCDzNUEfQlllAAqcGqfXiVyZ+2ySpDCVB4Q5CiOTu3NnWOUgs1XM9kwwYRg/EtK5V1wuEzLN5YpVbuO/jNyidn7fXBt/Wx+0g8U6F2NmwJ63s0BJrWUPdws3qoNgj6BLCHf4KW5XjR5w9Z+eAoSiCiXbwWTdj65v4vmC6WgoVaeZkJHD1z4krZDsh7YGKsx+JNTDy+PkvVMc3xhD6kkShZpHAGgm8TAKM4qdK/gVCdvFGoRSy7EhgILVeaRCtC4D41rt2LPpCBIXZ0lB0BtVP8KQeLkNSuHAlDXkzg2ve/TYzoRs/OoRyxmbmwzJi5oWv+l/8cqsA7ZbVJMIb4pzWg9JK6X6uMK2iA0VNe0wE87MAupUpIxtO+7zlZiHGy01ykw6KNI0mTpMm6lCLfT6aJsx/c29gwSe1IJXOx8j9Bx+3Krrlvdyr10x/OwArvnaJpX/7Vti3fKrUlAfGjVbYw+BpP+0ES4Kng3On/yXgL7Ro8JBNJfwnpgkjr3awBsQR2xrEUxFMbpJpuO0VQQXKjdFgoqZqjOs+X3A+2IKQ5kqxuJSg/Avn0fE6W8zkccOW8U0BwwEtyRRpPrHVaThcCxLYzcjno3tqA0bVFQZkJhzflpk/87/TOVgwQscIx6dQLzZSqq/NlVUDYB7tc9Gda/MNQxIStZrH0FQkpxHdSvBgD",
+       "page_age": null,
+       "title": "Hoe vraagt u werkloosheidsuitkeringen in het kader van een stelsel ...",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/bladzijde/hoe-vraagt-u-werkloosheidsuitkeringen-in-het-kader-van-een-stelsel-werkloosheid-met-bedrijfstoeslag-aan-swt"
+      },
+      {
+       "encrypted_content": "EroHCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDOOwcJI+TmKtn4epvRoMj0kXD+/4ydCidAauIjAhXtQ2WS6F++vtJAKkzHcAa+UB1HcC2Sek7q6IbcJwc3UjK7U/Su/aEN3T/ZQMFmoqvQZi5aHU1rnGDCH7yanyqh2tcfwa5gYEhGcow41JJOvz8UV4iVwIHt0VGmNstbQQKixe2yQmxdB4Omm/ZH93gGCdpjk4oY03PpbrF/A5O1fcuvknFW3U2Vxqn2699YwHqO7UHs49dPDb2Q6MsmKU6giTSF84T6grv4MG3Ouuoty9mOROyb03DPSK4SsoJQ7asr8GDa0QuYguuL0e1ZemX6q6lWvPtjMWm1mnFQ07RivCMRLlaILl2neMXuSXsVlVhu4yfUC7V6CcXZDDSa+qtWL9VnS2DOBp4vgdUIBmfWExPz9IRQoDnjOEIAB2kvqCfSudw0KIzzZLdTqH4oZaQbEBGxeEI41gCpTYBjn5Czzc4irzFjqhWCvTVHpXelSpIeYmX87pR4e9ERi+7u3IZGoMHr8X/xmAo/6BS8a8LbFgV+ZaQZ+Hw1KWxWIoYyA5s+jJx0D4SQvDGMmkRx43cXjs53tM0ZYMoGYBDmK+tenj92s5fOo/YFAIViedMnwxN24rlSqDH4ts6WtChKp7j6kqY/plsyYvoCkqGr0JA4IyDRwRDSsE/DfO+BEGAbXty5jiZkC9kQ9kCXJzOgZgWGm5pKMVC/jTdF4TSeHEkBzhG0udpz36dhVT6D+CU/nYrAoHvyx4ZRXUSArp6O0hFUYHbavFoF9uD2+Yt2rjoFYoYn7vAs0gYi5ANKC/NU+TR+efmdMC9G5xMqukjd7XI5XzZfwHwzfkGtO1m7sRfQF98bs5apQll4FQDLl6r5s78e+CJ8yL/86t91rHtuzFwLNMxrjXWpD4uXf+SDTusSkWjgfrzaNqe6m+eSRDQkqe01iW/SSy9LOatIR3pcy3Kx1sv6K13f1SZN+ECCD5xC5rusn8G8QZD4A9YvBrneXRrrJJIvhxFxGpvwgXOV18wDaBwxeQP582AOTurPJ+5kTOYdtktfsBzeSt60Gu8fs5GEzrVx6jjR/swByDossKc3X8Jtu9fvsucV8oofqLM46I5kiPu91K4ck8DvBc1/urIEA3u1Us1KYtgqhwS53DRHiQ01GVI60jWuDINjYtLbmy2n7M28yYr8BBxuFaSxIx/N4zDWZ0n7rTwjZMI+lrGAM=",
+       "page_age": null,
+       "title": "Het werkloosheidsbewijs C4",
+       "type": "web_search_result",
+       "url": "https://www.securex.be/nl/lex4you/werkgever/themas/ontslag-beeindiging/beeindiging-door-de-werkgever/het-werkloosheidsbewijs-c4"
+      },
+      {
+       "encrypted_content": "EqUECioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDBaTg41ZPAh5I9IugRoM0jABrGXI3O3BF2qkIjCTf3qywKk2565Isp8i6iAGdrfDyXJKzEZADUzRuqX12LYe0Nq4tPKrsGXs83RD3qAqqAPa14uPjDGbzi6P9vTW932ktn2M8c0XkCDr0fMRnNKt8rK1uA27TafSKNHDZgfq2nBk92+uvKNXwYsY2LDcZWuAja0BVktGBzOtw2AFj9nbYb1eEIpJXiq3x5UaYcCOsjxzs+rz2uYfXPfuOmBAklWx8xVdqbeA+Tr84EmJ8GhxlM9CWrUrpy7wSo9vi9arEKm+jBWQfTZDilGRq9Z14ZnQCU4YLskOWebrNuL6MQOmdTCpqTVBiUR+LiEy3DB+HWT12z3fSQkyy2iv/pQfad8IxntBjIcLA4t8ZT+0ID2fTWp4ZLj4y9G3kgewAJ+r+FlKKvoIGowTVVXk7qR49iDf5mXjsfv1frF+4ee6frd44qS8glucihcqOv/RpwOHDXY3+RqHjmFF+E5of1kl31cfo5sN9n35AcU6LN/NCQjk5o9QdUvgIpq75OzSicFJj+sORJ59g7OJ0wLg1U8EmoQ4vJQZ7WtLsQQmnDWCMVb+QTdLe8A/HXnaYHpbOJKwh/XtW2bgj2ZEqXFVgYPoORqTlaPto/bE75F3FlH3TJy+P9pOhMNR1UyTGAM=",
+       "page_age": "2234 days ago",
+       "title": "C47",
+       "type": "web_search_result",
+       "url": "https://www.onem.be/en/node/13447"
+      },
+      {
+       "encrypted_content": "EvYICioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDFj4tPWOkXImY2b6ihoMlNQ+ntpGluS6diVdIjBpQDyQWKV/riMwJxUOQN8xPtULtxs8IzCqmEMMluWmITUUitK/01O8OGRVgVPXJr8q+QdUL1GQ6B99GapEiu1YzxFxJRNn9BwTzn8YL8R5eecs9J3EIqa0BUTK6gQ5XL8CTFm3zl2tEu1s+w+xWJ74WXizNCv7FimsGVYOz6zgCGxjB5kJEflNPpncJPGGpWwGTJfcJ2vDx1Y8hPCDKW8r+PhxNpxri+clTMnJownrGr+v2d/ekgFnXaYA3jO+WyJtImEf+otpB+/ASKN+LDxnlIH8sCRueEwqDWRE4b5PjCRHhWu2CZ7fm1+MaRLxRUvl5ILPXkxRbW8bH/kp1eONnOtRYvL8Zw5DPmLvNt2atgHwuOxRydOpi7yI/IKwZmjsK+Vr4227/J5BqOQb3fpKx77WX/0UrP4RmrZy80W1Dwy9OGIhf0m6ZubvAGCuzwMGh3yj2qovDc8SMfAzMbWkBwfC/IEegHVQ0N4x5ZtoCbfgMoBlTwLrD2IIsLuprY4R9vADSLLAfoeTngI4e6bcFV9VT4p3qPlMkKlFeswyTfmCAkGIOCkggkwKzkOL45S+DEvzXRZGOSvX2WnwJjfrjFqN6zto9m54QO+d5RxD3vRaktkb4IyZ4sLrR2IUakL7nRMWPSRDyxqcdyjQawrIe/tVm7npGjeXqNctb4ZjYAYT77B9poPgxfC/JHhqXHnuN69zGVTIh54md5tJ/Hc8j3QL8qFKA8Xs7x7rv7Dcx9bQZJ/xJUbthct5bknVDlV8mC35pZ7gPv6xMyg4pAKIqpFElLK+qWp6gBGw8NfqGjanfzUWAFBGINd+QrEu6xFil2AMYlbcpjx/TF2CfJPDfn1986ewjE1c4/ReE6X8ndchips/C8G7yXMSyXdAPVChWDaF1lykRNQQGjAg8j7TqxZ9ljW/zTtOE8qXal+BPPtoQX+KG3sQvi8ZCBnQ+jZAj9LL/7KyWW1wMuTD3eI2ZMekATdVnuUxnbrVQYLSrT4qE8IMev3SZAqQOBu0eUmLJ0m/rVohetdB8l36jXF3k6/GCtSKpXNy0rk0uGAnpwipxgJWOp2MB7QMA9HrYeg0S5ekJ7IF7sHkDb0/vPuZX6d6ifwSZM/Cl4dH2LYqt9nKax2kBA+VgeY9skaLuN7H2dUtG0ynUz3yswJwyuPy/LyicVRcoy8VqfOUzmCiqQrLAXQT6di1g/Jb5S4thceAQw6CWfAEHWZQ+NxNs3suy0gnTA/AxC+3NLFBURPFcrhkZerFzSYHfjjmdaGLYKtwl9RgLMn/Hp6zLecFZYzAKaxy74N870hLdY+PFDNtVeYlGqVzrPLObZ6znl42HJWs9CaS2AkN5sR2MJ0Ki8Zrt+w5ybja6IIvJ5GJUAd2ynenHKDTZsWUul1xG/fBlBN0EairOkPEAGfgtu8YAw==",
+       "page_age": null,
+       "title": "Hoe wordt de ontslagcompensatievergoeding uitbetaald?",
+       "type": "web_search_result",
+       "url": "https://www.securex.be/nl/lex4you/werkgever/themas/ontslag-beeindiging/beeindiging-door-de-werkgever/hoe-wordt-de-ontslagcompensatievergoeding-uitbetaald"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "Hoe moet u een aanvraag indienen na een tewerkstelling?",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling"
+      },
+      {
+       "encrypted_content": "EvUICioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDHlVvjhGfmSyrVPr7xoMOprRHX0ZT8NvQrcIIjC2WgHkBlAfZlZSzPzrRx2pH4Rz5ayAJP/ui9XqC7Ea3LXaCWXef3BXoIUeDUqKkv0q+AcVFZI+J3t8FGM8uvPNDeEWffSZAg9UwoGc257l9HFLAa3GdTDmsNDLaJPv24ey0Tr7NvZmeM3DLggtizX+CfYVU4qY6gnd+rLBfrzvPVs8zaNNdDq2f2RBl0EYa75SV/q62lNT1zoBae/T1+MKPkVzfPf5pvs88LV6vpjWiBMCdWUoY3xXSu2Ews/wM4cuTe/C17YY+mvB5JFAlJNIYKUaiy0BH1IbfFpY1XK5PVGzYQ40qXJ49TtNAohR1sJerHUboKX5W3Q7wpnwiHZe0RtjJrVnPWIgil9xSgsPJOFIxr7+ln+b+QT4FzgvO4HpUPWdpEc5nUA8uuj6vhINzRQmIDE5PDwor44RVChtCCfCbkUbvfenBYKWeKflmncR8qLnz3Qk/zL0g2nlJRxg6Iq9gbixdCySsBFYEu4iUb0bHK1ZRdRtK+zaXYmLUXuz9B98rvjoOePjf+0s82+KStonu8j1BFC3m/dyyDcFerBlRlZvXN0tKWEYFuk3/qoxCFJZHRBzPbM8e5QxMsUO2jzO41+UdD4+r0wMWp5NxuG2Pt69icXAHewgaQsjma2ptSPMvLJqoWDSyCw874r0+EmG1nTnVmiKJ9TmUXIwqs/yqVT7JWp7l/Wmo51n068/qGkImnxGgfq2NdvqbYjnCgU1POD39rLTnhZSrrWSn2qCrPQMBDzaEPOGwIEGAT/N8f2mA8KlAi++I/LqR3pCCCZ4S7lyX4iyiLgd0ZVMnA6S+9+cYpXYnfeqgWgFUKHlC7KTbPujy+hDLkRSIUnc7lEBWJXyxhbJekVBsNwHytSJCnbiMHo/JJr8XCmFQ62MXKu5zH8UhWpHyJFbXIkF24GsXZBGPLvkXpJA7GKIGhp33CrsrE6+vDmPwij69+1Qti31S+M1u+BMFPW5wPUS+P43tDytzeSffWhuO0Xam2j9CazsDz0j0rkbeuw3VKCxXki3Lg8fHxz/2lrCO+cEcTwwixEQ33ZsOJg37z2tY6uFgOZ0XUAk03t1YlpmUBidnGQQg7taVxr4YKGHU+UHlQgc25P9cSn5d3pz2ohVuqM9D8stHa1rurEfQ2bsvaAhbGaBu5v0nOh5aWyYKVoIQBXuOAW07oeieKHLmt1bfoKkrulhvtGFWjiphaJg5819aH2sPg3lF1w8gAHoGlCuD+YY/uNq6WQyOOeyFLUSoHPB8ULiIkU0wwljDT1Dm336Omcm0dc2l+GWB93hdy5HaMZFFbTo6ZW6/310nIxcsJk/YxDYsBy90xYqsi/ngU735BOUjQQ1++3OoqGtVL+HMBkDwlLJ/YrWSIYKsdEZ4Al07U7ITasE6n7tZnFwiIuR8VouedI2AnMi7BgD",
+       "page_age": null,
+       "title": "Werkloosheidsuitkering en wachtuitkering",
+       "type": "web_search_result",
+       "url": "https://www.knokke-heist.be/werkloosheidsuitkering-en-wachtuitkering"
+      },
+      {
+       "encrypted_content": "EuEGCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDPr0taYB6W9suqbCMRoMmAlCsAo0VMp7BOBGIjAcvM0cyGqvmBx04DAWvHNFK0084m+inGiMg/vcXpmdUZ0Row22O/71fe/6oxhCvFsq5AXO23vinj4nQrrfaVWE2EqOwhSqdPeQYBQRZbplZ9jj05NPCwupQxCnNOr0ykNHL5Q1ayQaE+fVCZelbcR01072hmNH3MDD2BHszfbSa285SC+CRVZOx0e8LBk+/M4VzjiQZIkebYPakNC8PGZJjiOAIhQ9V4mOZu/n1Ya6n0UjNQT4T3AqWDnFEFveSIpoqNOx6kkouXVTPbNOvMYenUcyT5AsZHB4TOanjtjUvTMv/VjVdq/uMLtHGMdvrLbBP/Hyknb780zgFb8himVlJ0STDZnsYycUoArRZJyStRDrd1G5RjUzp68NzcrnBNwDx084OtP6GQyzMMEkDGdmysaN5i9YSWtgAkLPtx76gqJvJ9wgxfibC4bBMXjulZEfUGAp9i5s5/zYg29ZV/YaLOBHjQLJejDH5oeQRhjePdc16FlF/t901fV64eIlhYCHxUafbKe7lUcUw8AYVEPlRbwt4wDakQkHKwr/gn06r+wPjrvlwQCPh7kIuHTjwYwsih3rFPek3qoxIJBmYo3xlV3LCqK9hw6rKwf/G8Ixd3HLbAbzj0fS2iASdsnB2n4JjtCpuOhw3jK8V0qG5OmGhi82nt2bMxd5+JsvZcakUPQkcAoj1QDzTvDbP/QNcz1m6UUBLFMTyxwXfFIf8Z1tdbtQJIaCwxeVQQdhupTpQ7BjDP7CWsf3K8wA95e5k30tbIxcm8MD2cbUfrgUKNc9PkRbJcZZtMIfbU0N2sVIcvDWW+WlgYTsZWukFrHwpO2tzaqy11IYW8N6zOnSavfWL2dGt17MROXB4AxqzXTKaRO3Q/nns7VhB5RmIH2v2+wx2Jx90yiLB7TTj8WFjXNyOFUQRQi4ZH7ZEvZ2VbtYRlhJy7hxSmeQXRrFhhxwDrrxpIe6LWTQZFl9SXHbsScj7FLf2b3OhpOymnTe5F+vghYOkoY7RSDGHVUsL8iVO0eyqlXEfieYoiKkQHCg414O9TB2LMXIERgD",
+       "page_age": null,
+       "title": "RIJKSDIENST VOOR ARBEIDSVOORZIENING C4-WERKLOOSHEIDSBEWIJS–A...",
+       "type": "web_search_result",
+       "url": "https://wupkielce.praca.gov.pl/documents/146783/15806480/Belgia%20dokument%20C4.pdf/e37449d7-9351-406f-b19f-733153937a1e?t=1628850443000"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": "257 days ago",
+       "title": "Start u of zet u een activiteit voort tijdens uw werkloosheid? ...",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/mag-u-werken-tijdens-uw-werkloosheid/mag-u-een-activiteit-uitoefenen-tijdens-uw-volledige-werkloosheid"
+      }
+     ],
+     "tool_use_id": "srvtoolu_01Hhw8oh4D9vZZdWU4ErTLgv",
+     "type": "web_search_tool_result"
+    },
+    {
+     "signature": "EuwICpEDCBMYAipAQgSOf3I6xDC1gipEetxM0USlJxRYJNy+zuwdPAH8lrUwnIKCEKOorB3ZEyj7TP39WPs18Yd6BGDY+JsiiY4tDDIPY2xhdWRlLXNvbm5ldC01OABCCHRoaW5raW5nWiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTiaAREKD2NsYXVkZS1zb25uZXQtNagBo83d1wbCAUYICBAAGhgCRagDTzcFhKAEJq0Nb1gNItMO2bUOOJIgATIEEnHPJToEODMjikIEwGi2/koEIQN94FABWgTZBeFWYAJoAXAA2gGgAQoWcHJlZml4X2JlZm9yZV9ibG9ja192MRIg1wL1wB3Q8bglIoA96aqK1vdm1ls7APNSvCs6Ek9XMGoiQLmYA6g3ZREuUeh/eihO78MEPISg+W7EPJW4xuEF769gIxYIVySK18l21DUf0UvW+jCAOiqt1u2dPYbw3FJViFEyIMLAE8hqnJLiL5ZvPYYXdo+LekTJAq3MCXv6HgmK+04fSAMSDHhWbQD6vEknxvVxHhoM1dnQkI6AGdh+nyUaIjBO6C9OnPwiFuCAHjy9ZigpkFcI1SUKyQrPo1USqo6Y1LVYbpASbm9BTctY34rCaG4qhwUHfa3oQ7TmCxI15SHuXUd8PB6o5fUFieLBPDckusOkDliu1IFlK+HLoXnNs2rzJzVxzX5BxWm27AS8k/zgNvgMy686v+oK8O60d43Y5B9szK09R/uvd5utE2FxsG7RLMcu2/u5+v7eFp1Ck+xKaI9ab6e7+/vk9aSbQBsDL2RREg+gfycDNb1ANqmGDJdmuPETmE8E8Rza01RNJw3VMaaST2km3OVIZJtBRpWMdfK5VT8ZbcAEag9usrrG1vNHmRs8anJJX1HLGA6wPwvsHyyP9bAjPFLBBhgMlrjKH2fn9Gi91C46jtiPUy6QMEawp9LBs0XVzHzViW5/8a1mmKhxdtNeZIOegAsFPYtwQGwSkKnmSX7K9ecAjoO8w4t+Upeaszy/rd4pyNYZG3uNBCtIlBo0Ub/TGgzOeWw/a/RlynEkDso2o/Xhnnewcl5OW5+6bPVcwJCxr71DLxP0Ygsxf9m6W78+O+/+U1+33wXn4s09VO4nxoUWGsOaeqfWaDfE7iQ40/uZ8IMyNvE5H7Dl59fr886ooI21gr+JlQe/x0X/L6WxMb0xl9tt8AiUirCkALKqF65q92xSMNMODw/pu6VChUYhr5AFHlq8P4oY91ehlHuZhX7m7GBsZHSXkXW5M6f13m08vu9lLv75eW6t8ckhgDgddcRpplQHQfD8xQSXmEkBcyWLQhBUSTUgTK1OxEHaNOaPAkcxxQn0+q0oDTPCLcLpMyqSEQUAqyVxm9RvSfnkyH/L87lfyDbmUBM/JycpYkVg6cf8L/os7vTwD4QdirWjd6MwRuD0Kw4GjNdYpmxKXBehYXUKJ7XcKmC6oTc+WSTk4qLsFzO8qtDbgEKBrGxrGhgB",
+     "thinking": "",
+     "type": "thinking"
+    },
+    {
+     "id": "srvtoolu_017vW57pT796Q4S9m4GsyS6P",
+     "caller": null,
+     "input": {
+      "query": "beperking in de tijd werkloosheidsuitkeringen 2 jaar hervorming 2026 RVA"
+     },
+     "name": "web_search",
+     "type": "server_tool_use"
+    },
+    {
+     "id": "srvtoolu_01QsFNVZoQrPjBKpaHca39QE",
+     "caller": null,
+     "input": {
+      "query": "Bruxelles Formation VDAB Brussel beroepsopleiding werkloosheidsuitkering behouden vrijstelling"
+     },
+     "name": "web_search",
+     "type": "server_tool_use"
+    },
+    {
+     "caller": {
+      "type": "direct"
+     },
+     "content": [
+      {
+       "encrypted_content": "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",
+       "page_age": "500 days ago",
+       "title": "Hervorming van de werkloosheidsverzekering",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/hervorming-van-de-werkloosheidsreglementering"
+      },
+      {
+       "encrypted_content": "EqQJCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDLPgaHEk4Otrbt5SPBoMqgSlVY6oghNrmorrIjA5OhO3ZU/Jhu8HQPl5O12zDenIGHChzSQsyTs3f985dhyj1L1keqtNjMLiXUGh4wEqpwhVAPYwYRIpBO49gdY8UyvAEfcbdqXH0moGvUgtdi0l3LEz4QdCU5/s5vWYgiHfyEGl3FYVZIcMktjfF4TyIj0L/RL98c71+nVpcnts3D0BPV7gfmRbw9VKpsdQuhigZRZbojQkzNqgwmbllGTZxSbXTuWnDPryCTNF2SZEOQJFQ0pBfRvFyix+W/5hWFHR/G2nm+1/uuw7gTtOkVTl22G32nvuEI9/9tP5VdweCH6YuNTBg0jztHPymJyaRe7itUPLwz1gq/ezr548XD9svCoLiilhMXtHc6GgiDCB2fy94xn+rOqWviDdzJzO5MmazM8JQJUx3ybuzOWH+oILect6gaoF9JhlcofozE2rmayjsyLjR9fRruh1GX5AqINB7V4l1XatQJLtz395yKEuScm5xUgH6Q4Zsr8RiUMVFfzkKXipQz0VHqFmV2RPDKdhlVFRihW7V7Y2fenwpauRgI4ywWCSRiRUQx/aI/Scmle/2gbycd8wi8ygnDjHTK0H5ox9Jb76ZCLH3oLlrAtC3mu/JNSCz3cEX5td/zJyJdmKfjVDfX9qsVGtzb824p/jkn3HGx3JWBXF/ffbmsl6JvPSkBmhXubVSy2BBjn77yh0tHUEpKf7Wm6ywN5wOanfrIOlwc8yUYmutZq3sdr4ir9U5glbAm7KIJJmI+r2tvemNwLYCa63VCS4M83mG5vgniphI2Ly34v/6XJ8IlhzoVCcReHeKHabA5pMn0wIwwBfsTPZ0GehcqYGee2QdpDZtBbKcrn9ZuuDkTmdWY5jyb+C1M++k49gMgGHKxOte9/PCDzy8Yg3Vp9OpydtlC6i4NcjCrcrUxaeOaS+tXxCcf9sB0PjC5VBN6B8HlNO5qEtXDlk4hrqHbmDxHc/Y6obY3MIqEALD9Wx5PA4BxXWhnErvYF7W9xqDuzxh9tK/y/oc4EoqNfZIFHtlOHaQhcL1ih5K5Nk34L0y06oetPTroki3lm+6PzXk3iHAf5dEHfK+baO1fIyhy3MUlr9Fy6OcgFDVFnC7uNd/yAtnw5KxoddtQXFUOLDIRl0BW+ei//PAF8rkG9frl9df4gyGm8XWjLwrs/76YmPa167r0Lp6hr4ybLKZrMSFGLS6xZX1ws7+A1gtK4re9q64Nc33dhqHrZtLcUr8SkSChvguYC/NdjJKrAiwzI84jQ6ii+YdcnxuI0fIPY0HMkGfIyBGAetlg2KtQqghPIUHt1l8gNfOfdoZJyJrqa9ldqzGbFxMtbcTbrMlJTpMYfESC06C09ETcyLiHn9rl0PR5O82uxDE8V3A62VL22nuvx6NRGUOfVNX6RGNcspmsgCxOM054XzIPbqVRUL5KK63OmwcnyMI43edZPzh+ala32nzW7xkt0YYxbjjnzKuYj1f62C88Lq16rseSHJbu/LGAM=",
+       "page_age": null,
+       "title": "Hervorming van de werkloosheidsreglementering - Cijfers",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/statistieken/hervorming-van-de-werkloosheidsreglementering-cijfers"
+      },
+      {
+       "encrypted_content": "EqkJCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDPk1VOjfIcl3GnEVBRoMMARVfnmBPkwapPFyIjAGapFomrXOMwf3K7hgNBUfynDEeJ2Wl9YmI49sr1HUahCd7//FS79WUfFtNNKtsGMqrAhSbaD2Bwav4/OohEkFhTqiSR2ZoOH+CVJ97Jp5aYlAL1hQF4ItNWDZU7CSayqepHRYI3NiMtn4GumRJ4Ng0xAj2WLDPegIdMExJFg0Em5egbed4lEdqkDXjJD/ylrGZ9OTwtaaFnowl3eJPB84V1/xdPalahio3J7DBP7/xH/xBJI3eyP9cgX8VQ3gpLaAMx0dXWP+J6UDAaxK40DMI/wERecLZ3XmZCxYmC97euwTAzirdIumXq0SrBpZ2+tTI0rOloR89+krYJGk2DGqhi+lZ+MgG91l10FT3uRvDQgR9iGg99+LpPeKwg7pF6p+xqVQObovt/67V4+JWeHdxz6cAABlyP2MLL6jhBnhbYBUuyUGHLCOkaYw6WvWvN6V89JrVtJ63Puf0YKkds81pHJHNSuazo4WcNCLehoYQlqZee43VR6TkJuy6Po42DgX8bbEI7wqaxjNZlasV7SXMW5NchtLRV1Uz9IdzxDfx7ZnSSSUtv4L1UtiCjjPy2j1sUWEKwdWeATd99eCA4gg7FiyA+UaudxvdHVzYq1+A6r4lIRksS5a3nP+2kC6Ws32IeT+9DHTmT21dhoyIs12wnuFUcBxaqOwm6OE0NxAmRogocBsoY1kYZhhPb7o/qBpwu6bdlJhNAdElpBALzzP7AK8XGrKirJNe3p22CkYhTIJwPrBHN/3q7pQWHbyWWFjAyExra8wQokq8I58WA3BjouB3iNpljy220sboY1vb6n7jUUWanIqsvUfTsTdDPb3H9Va3EqcqqVpAcJjAToVQC2uG5Q9/fHgZXMOBi9EJXXIVGmV8gfH+Fci/NH4P5r87WmP3ZECanCVvRjM1tUCnBc4IAvwWHxrT87u1BcJrpgjcAv56/Eo/nHXrrEvNCwwpN2FvppH5smTqRnjCj1e15wWu6IY4vsoUO3FRzweMJ1L6ztEEf3z5jzTFFihhr2JlArcsD8YmcCl6tkqdQesUbDTN688Qrnq7g1rQGvUieKF1/E6Roa4xREsVdqc6HV0xaR/q7uIitpmF3ihPardZxl3c2hxv6cOELltILqB+PnX3Tw911fsm0/dPSYVe9WufUtRnzHmxq4U2iHWsFbObmufQa0/o0tMAFsixKqh+79sZzqIHdVAA5TdSiA+WliEDyBi+Cez55QzfK7XWD3ss2j7N0EOGD01PqNdPsy3yHf0bzaP7Ny0uwwddbmgXrQEHh9QH9nY1FDdXJlqqJ0WHdzb3eb2wv4I93i4PAhdRZncLwwhWkqj1MyOzFi504Il2f1J8QzBEhsX5pcXM6UTzHpWTM8VDu3CVYLk5iWECUpxD1ujVGBIGP8Twcqe0HQm15CRIoY46gOTcpJFQTgO7jXqOu6IejGq4h30GBJqxkC7uWMAAy3uLG8U1IL8J3dDvmQIcVB6ifgFU+s/UcAYAw==",
+       "page_age": "256 days ago",
+       "title": "Nieuwe werkloosheids- reglementering sinds 1 maart 2026| De ...",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/nieuws/2026/03/02/nieuwe-werkloosheids--reglementering-sinds-1-maart-2026"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": "257 days ago",
+       "title": "Ik heb werkloosheidsuitkeringen genoten vóór 1 maart 2026. Worden ...",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hervorming-van-de-werkloosheidsreglementering/ik-heb-werkloosheidsuitkeringen-genoten-voor-1-maart-2026-worden-mijn-uitkeringen-beperkt-in-de-tijd"
+      },
+      {
+       "encrypted_content": "EpQHCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDEZkfSzUDrg9T9Ac9xoM91ifzWBi97CzaMHiIjBNpwcuJIDn30SfX/70ezZBNAt3A5b/EqOWrX2AZETW3ePcxMFgPF3sgjDDZb/QjrYqlwZTjo9Xodf8Fx65zEWlTLcpcXVZ2WckTlfaIeYAd2a8kz78lGtGeYkkIH3sQjjxZ/n3Ss06PdgxWhRNcdq1WO8sx2m+E0YJNTFGpD+vpwXo0AB5WTkoRI9nqpblAzaWG1gsc20xwW4UnumgfUdyvmqMFjRbovptt2TUnk/zf7O9O3b8TGSYM0G8sYxWMxxABx8VwogUyU7tZhCvsTMinh1GoeNYAZQhcUBIEz/3ZSvbjSHT5Yaaixr+QE/51yLOAjM59YG7F5dsJ1h76/DAnbWfkkehE3ZQA6o/3WztrPQT5gmRNsDdoGP6Tr/jh3+zQSnjJgOQB2CMM0NdSVI09McyTRa0nCo4JfvLxPILmtEH49FgPXNEF13U2jiX8M7rhBYhOP0lQMwZJ9Xu3Q7ZvZJL3ydJxqwoQJj0/Y4e+VYcxwuT1PvP/kFDsXsJQb5JVwb641ax41O+v0+Z+4pvBrFMWZDY0Z/+FwKA0Q+TqIffwgsT/NxMQNtaEIo3nnh09Zl+v0kfB5ZgEl7k2h/Do7tI1D5tIXIdf7FcKER6gsEn2NVvUeLkEI+vArd9z06U+JzJ18v+Fj7Gz94TL6W/gE0sG9o/MKi+3TiAjLrgvUcry+niKQ1z6LUaoSTaOdwZAT+xeorIl0Vn7pfPjhLWQUID+b0XG9IjvBwpU4YpXSw1rRrhM9DQhHxEQhQE1KaHdygOCtc12tt+8lTA9XejQSNSX4x+JS9okivijaXgM+5meihdXyIWIt7GvYybzR2hd2CqbFyAoYYicHVjge8F9T2sxspu3SkFQOZbwoyKly8amz8ZYxpn+naLmlF4UWZQOF7FFyf9Ylx79SJyi3Eux8gmfHZVf4yIUGWwg+SVyGFO3O1tDqUeYZoaxkR0iPRBlQQTJZnrYxEHS4H/ZsBcXvMtpvVheLa7IsHFgvTx09N8XJxzHBwBZUxq/858gP85OKvSL5Vv+7S3aNC984cq9DvEsxu0ona4Twcbws0JOHfpgJ+wHVEBWGwfMUKhUS241w8CnRDTfQYB4yT62D1V0QcY5CccBhqnphgD",
+       "page_age": null,
+       "title": "Hervorming van de inschakelingsuitkeringen - De beperking van het ...",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hervorming-van-de-werkloosheidsreglementering/hervorming-van-de-inschakelingsuitkeringen"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "T200",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hervorming-van-de-werkloosheidsreglementering/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling-situatie-vanaf-01.03.2026"
+      },
+      {
+       "encrypted_content": "EvUECioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDBJ2Zt+DpNceM1rMOBoM5NQI6XNWnTPCOBFnIjADHYcpLqmwFmkFKFC5dNhWsAj20PwWqnsrf9gMdOQiMPWEA4MZ+CU/rWzv13YvfMsq+AN8Z7r1LsOtFoy/lCtrAmC3r4B0NtvZmuOCiSzoyDFqEXiz5A6UJIK2/JEcZml4dDNMZeEL/i3UD3C9J2q2fnkd4unsTDhoNjjrennBtr/citbGJv134/J/7suZ7yLVgHfpEta0+2LJe1tGahzKqscA5cj/vXic6l/rwHe2lcp954vrlPfwdC6Cihx2K8HDrDjxXyDwvFcKTjfOpkHC0SjuSwwGEc8TyRFLfwZPGWY8+x/AANvUU2973xAPzgiO7bKzqvZC4corMCwo3fxlKSiVVO7QIcF2rpNFlETGne1N1XngGRMGuFjIjUZMkicZ/fSmROvUUQnDRXw85jbIYIChNueoIGVpI6lBOyO0KnQ30jbCHPdVU9y9wlgE360TX7wb1nOf0tSSVwzag3N2nHCh6QTxGj8o+s5ZV7WHc+WUGCxIDlYpVYLry7wPVAk1HKF5uOrRKcTS7yy8+9LfawF2oymeTK8nKTDcXuLToFFhHfhy4Jlkkb8li9yGMpb6QrsYgNbH/mVXay7wlnqzZmB4N//7BtpUItC6DyUwBtaSyO4DIV9EF/ie7rBgR6MNRzv7810TKfQ2TEyVCL9g3cbW4eaiMlnuDXA6yfP6TT2+84M7MQe3epSt/uHkhkyN2O6l0v+zzQ7d7SODXgdXXLaG5wGLEoMDEYMYAw==",
+       "page_age": null,
+       "title": "Beperking van werkloosheid in de tijd: impact op uw recht op ...",
+       "type": "web_search_result",
+       "url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/beperking-van-werkloosheid-in-de-tijd-impact-op-uw-recht-op-arbeidsongeschiktheids-of-moederschapsuitkeringen"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": "258 days ago",
+       "title": "T202",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/bladzijde/ik-heb-werkloosheidsuitkeringen-gevraagd-na-28.02.2026.-worden-mijn-uitkeringen-beperkt-in-de-tijd"
+      },
+      {
+       "encrypted_content": "ErcFCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDExkzRQ0ZqLdnTLVbBoMYZpwOZQ3l7j52V6sIjC90yFtKOfikAwQkGxn3Wzz1mMro15ncc/vwSIQ3m9qGRsk2YEloxT30xvrIB/7zyEqugTHXrvR82ZOBja9ojaRMvBU9nAyR3mcYNa1bE4+13lROyq1376HAaO1iikN14yK51Fn1iv3UkhWTthnKxioAlR2uc8ScWOnKN9wH2DM2T0mA5f+Fe+XRK7d5eRsHzbXlhJdFS55gxrHzfE8bJmPaVwG/6lBOoFDeD00Pqzo1EbhF6ais20UnlwTrD2MfTgjaNPOkKlX/MMSzSdA0EVTU21Ggm7oRRjo/QF090Ei7N1P7893ds1PrrNYIxYk2s8siLFSReUKZl/Kys2IOWHUBf4YtCu8QwgVD8jYMNYSQAUlilr3mD1LM/dKHhe2FcrI+EU1u+axTck9ETlf3dPRRMSSzxxCxq+jwKL0/df7hIwf49uVm0FKGsU1HGpKQRqhKTBtriII/7eT0xCp6gf91PQzRJPEF+QPF+/PHNt0LFxV7kp9XlWJ03/gOS4xfoW86f4j4FuL8TdZ4baE8D0sOx3dAj7hqiINcpQgPvP8TNNlYco3DCG6PnftCCnIIar03FNYvvZlE/Z585AJ2mgp+WKa2B6jgn4MICftcrw/XAsJw+GWWGOqfiwiOLd1Nr5swYjGxyxu0IJp6eAwS/oMTKEcNWElF4q71Xw1IfSltaealqp4kUT1hjUO4HvCaKQ5sI1D8DQKhEhcgyxc6eJW4w0JhRWBuPE0TecUcMTJ9Whjqbt0JiXfs71JK8PTIBNBL0umaBwsWIyCvEfZYC23O8QIM7iof5gta8vnUdc3KYinADCuMoWc20JCOkYYAw==",
+       "page_age": "457 days ago",
+       "title": "Hervorming werkloosheidsreglementering: wat verandert er?| De ...",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/nieuws/2025/08/13/hervorming-werkloosheidsreglementering-wat-verandert-er"
+      }
+     ],
+     "tool_use_id": "srvtoolu_017vW57pT796Q4S9m4GsyS6P",
+     "type": "web_search_tool_result"
+    },
+    {
+     "caller": {
+      "type": "direct"
+     },
+     "content": [
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "Brussels Hoofdstedelijk Gewest - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "web_search_result",
+       "url": "https://hvw-capac.fgov.be/nl/ondersteuning/studies/brussels-hoofdstedelijk-gewest"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "Vrijstelling van beschikbaarheid",
+       "type": "web_search_result",
+       "url": "https://www.actiris.brussels/nl/burgers/vrijstelling-van-beschikbaarheid/"
+      },
+      {
+       "encrypted_content": "EsYJCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDF6AGl02TkjL8pdTwxoMPgxxOg6SvuL0XEdfIjDyP9FnPlkCDX4bdmoiZYhzaR86byKyFJ1Vh1rqQ7QPDTeoh0UGX58pxI2c8h8mifEqyQghvTv+9pGSgtjxJ/PIwj5ocQVzVObeuJ5d92rmX3g0F1TCZdX+eXMiSA2LUYzo+xbeZObQNPOIPIaxe25OT1tSI3YusCKoHfby13zBvGZWYSGH+mlPmXHtrwje/JdyyTEKK3G2hLq7gxgspFgq10JiKpgR4Sl4Pfw7sV4P8e76Eb2EWzizQH/KAu8WPxqOQZ14n4cavBjZSw7hS9e0Lq208QHCGemdZl4udqZiNF4+UsukDG9Dc1SZhZ950SLcG62ccSEHKUarWOwtY/sT07H7cSpRZ00WUCuQVii0eZITu1F1QdtKnZ6hRkZHWP8UHxbtjqGzbXIg4oBdfI+nLZfPOhrdUfXprTWaNTnGAyTeNqsYb9/iyFRtcAZZJYx5+ipvMuM9Tf99SzEtyvBWp0eLm/Cz2ffu54kv6E9FdI8wHqAIEHEPueYjL7BJ2B2Zgvt8sBh42uUFtBRYBeudgUZ6EDGPi+it3/iU9qDwr5pzmv/FCtcyY7HPp7Tz9NyUpxwHUqdHcUVcjCSxpjglL8xJ8EFj/T55GbF+fIqOtlwc3I2RetB18VVtFNF6e3mxLmsRC9I9Cgkt7jfgad511VE1iRK3bUwpOG12daFeUJFQjNWe3bSmQOsM2p4iAex1TmuWIly/7y0Sy9EsI7sqWdZcsHFlczQ0o9dGm/dCYlrEnEgx2thQ2t0Js1tv3OaXLScmtZUr64fGziFE6OK+Uz+aPAOd5Jpeiq6GSnMjV8yhfXoLwKfOcq4PmyxxvadwroKFQrZp4G/KKNNuOc3fzE07mz+V8DT96eVR0Fpqsg+lR0WEj+gdngQvOYA+jQMyP8MGEUMQMBnDfD2/xfnL1zQJ4NbkVH7aDqqTpUKRIDpvtot1FDYgst3steMzJJp+hKaSeVFGXpAQPKFSy+dq1k4h6Hb3qOtYdEjEJo1u1/jAi8cK8qy43qVeyAZc7620CuGWK5L1Qf9+z1Z2SLjTrrFcMwaJQ0q6FqezB1iwGkNNupYvyee9EMeB487AvEj+t4mbOvOVLiEBTy+UXxZMsckdrDhZVeZu/Fc/mHlI9Ec8DrAsTh1i685iwtlFzfz+deC66dwdfm6Jxre+pkhA9MznbOOh11Ort0CRDT6gzDZunFT8VcRv8gjSEzjECNk8eXSJkM9NsqQXvdQULSIHdqL8dW7hGGRSO9Mz+Lb3zonLGkENqajhjDzrY6+R1DDIYZ0+73dQ2boppv2FQl7F5uT/rFcSPQqyvd//87KwSlolxIGRi66pO1vii3WZ2B709LOCaIAPxidRpDvLDwFOA0cfFCCKW3WTn9xQY1WbcsMc95dVriGcHfeBtr2SigQJRchwinq30MIPLVF1bU0uMgKqEqL3p9tuyogRzTFx67hV0zvzxwPaP2cpwQMGwO79tuCBGG52CWxiWbvutrJIr2wK0S3GZv5p344diZgSzbbU0cLPfn2y+BLfRBgD",
+       "page_age": null,
+       "title": "Vrijstellingen",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/statistieken/historische-reeksen/vrijstellingen"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "Variabelen : Statuten",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/statistieken/methodologie/betaalstatistieken-federaal/variabelen-statuten"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": "193 days ago",
+       "title": "U bent een uitkeringsgerechtigd werkloze die onder de overgang...",
+       "type": "web_search_result",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/kunt-u-van-bepaalde-verplichtingen-vrijgesteld-worden/u-bent-een-uitkeringsgerechtigd-werkloze-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": null,
+       "title": "Vlaams Gewest - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "web_search_result",
+       "url": "https://hvw-capac.fgov.be/nl/ondersteuning/studies/vlaams-gewest"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": "536 days ago",
+       "title": "Actiris: ‘Werklozen kunnen uitkering behouden met opleiding in ...",
+       "type": "web_search_result",
+       "url": "https://www.bruzz.be/actua/samenleving/actiris-werklozen-kunnen-uitkering-behouden-met-opleiding-knelpuntberoep-2025-05"
+      },
+      {
+       "encrypted_content": "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",
+       "page_age": "283 days ago",
+       "title": "Studeren met een werkloosheidsuitkering - Centen voor studenten",
+       "type": "web_search_result",
+       "url": "https://centenvoorstudenten.be/studeren-met-een-werkloosheidsuitkering/"
+      },
+      {
+       "encrypted_content": "EuMICioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDJwj1esW5PTZCz2FhhoMKrNW7jVvwqE5qaUwIjCpWRhE3+HAEB5AcARjStQOrEkexLV8KgOH36J3/3IImMocs7rdklyLT1jjDWMMkFsq5gf81g38c6YRswi8Hr2WAUXQkKxIT2EGweJvUWbFckPAti9QqZ+pTjJxoXVttxzw7xoXGrOjoJh/82cVlQh5pqz4+wvrTRPICyrakJy6N4zj8KxCMLQU7+rYCgZbrP81hrmWhuPB09NnyOeP/12h+tPNownmbV/SCu0dlm9ljSflA0inKOjRkJUdsSE0N8kRMFyOp5jow1jB+dWMeNZ0Vxipr+CxvKiNSVoue10l/jF9lNToFR488TET1cflXTrleL8VsXzB++xETC121CqZhBP0Czx4517oeBjSW88iMo2JxCswCGQPD5kWbhNyb/pqkqJmkdaQcExMaco4BLqVXUIWU0BjBl45WLuqZ5lkDa6qX2QyWSx+IaIgc+JM4r0QoJgFKAgyGlgBSs/mtvIY1wambHurQNiDu/SEt8vAPeITXpf77yzsPrXglPcAqa2FuK9Dpnt1ssCArjtNtrBc+mGD+KITRi+wf1+lf5CniX1DAI9nrh206JKohAxSF4thZW/viTrtoFoBx4JzyPbAKFZL5h6rq3oyWSnTsj56br8eXdz1AV1n/nahB5ddbfb6DNP6lWyILes8HmbOoqzFEJJPBMOdM0gJHnNFj9VzuTw7NUb9KT0TazmW/5CqZlBH6krAHWqZHZnShpAUAs20Q8KGBqVpptlJoA2TAmvb+BgQg1blcPV6lTUurNHKl/FoMSDQtkZA7KzMFdggV6HG/ADsBkifuG50KCPFhShN4OcQX9+6iZUB44PVxX2aT0WUUohxD0EC8a63r8oaP+cNkqQr4vK+JUPxgZDDliwHp/rJSiAI+rLCdTXtjelBPYmsH/jBWKINZqAyW1cVfGBhMfD4t2sdBRzi/vb75Yoq3NjzgfLg3CoSHiV2yyh5iJyVbkP2+V+VQFm9eGpuBA7mTFQL6Q1YVZSsZRVHJwRyJIOGO1YHwpj/4+Je6GVmgSRk6ne6KiV3qEYPNMyH+a8XMQKf8k99Vo52bo7v81104RhILZJTEuM60TJTgsBv+y5VG9gXSiEEVzZRGF0brcOHoX0ZIT3Nbmj2Dci5AsZKeJospf0YvxlC71IVNhYdppoIhDsSxjPzKxulC5xxr0yhLR5BP0LF0ruCw71OhJc4z5dqznyAuat/hjhqP9DSnk9XBUL8qDVVLnYTXZcqOy+nN0zBipK7t6RZIIrLOZT41WuLLqCI8Z9Sigjn8DuBoZrNqJHgyHlSa9uJ5YXisqJK68e2QyQYN+XsEseqZ4IhFh1/QsU2TXqz0365p3JGjuT8dC2HlWhTKmH65qaGkdekKN29BzEmPg1IC+mo5vomauXHorTpq9TtixgD",
+       "page_age": null,
+       "title": "Verlies ik mijn werkloosheidsuitkering als ik opnieuw ga studeren?",
+       "type": "web_search_result",
+       "url": "https://www.leerwinkel.brussels/nl/node/3512"
+      }
+     ],
+     "tool_use_id": "srvtoolu_01QsFNVZoQrPjBKpaHca39QE",
+     "type": "web_search_tool_result"
+    },
+    {
+     "signature": "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",
+     "thinking": "",
+     "type": "thinking"
+    },
+    {
+     "citations": null,
+     "text": "# Werkloosheid na ontslag in het Brussels Hoofdstedelijk Gewest – praktische gids\n\n## 1. Waar en binnen welke termijn inschrijven/aanvragen, en hoe lang de uitkering loopt\n\n**Inschrijving als werkzoekende**\nOmdat u in Brussel woont, moet u zich inschrijven bij **Actiris**. ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "Om in Brussel een werkloosheidsuitkering te ontvangen, moet je je eerst verplicht inschrijven als werkzoekende bij Actiris. ",
+       "encrypted_index": "Eo8BCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDBp4MRFsX+OlaYm0MRoMQY6tJzBWnQCwMPXGIjDhOBUsacZ7uS6j1nqqE/EjQ5tIOrkQXI0heGi9nztymY/p5rT07uweb6GqfhlqVCEqE6rQrYan84KTi5VPcsHBu65mvjoYBA==",
+       "title": "Waarom inschrijven?",
+       "type": "web_search_result_location",
+       "url": "https://www.actiris.brussels/nl/burgers/waarom-inschrijven/"
+      }
+     ],
+     "text": "Om in Brussel een werkloosheidsuitkering te ontvangen, moet je je eerst verplicht inschrijven als werkzoekende bij Actiris.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": "\n\nDe termijn hangt af van uw concrete situatie tijdens de opzegtermijn:\n- Als u uw opzegtermijn volledig hebt **gepresteerd** (niet vrijgesteld van arbeid), geldt de algemene regel: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "- Wanneer je meer dan 28 opeenvolgende dagen hebt gewerkt mag je je binnen de 8 dagen na het einde van je contract inschrijven.\n",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDEPKby7GvmF0jpJ5yBoMzQs+v+fl8rnyI4OUIjBIweKT4s5k/YlJo2KbEFoX10oF8wa6eVok+zJpU4yBV2zz8UDgOQSwu7IkgwReh3IqFJo/mzIVw+GxFKymCsQ2mLezkaEfGAQ=",
+       "title": "Wie mag zich inschrijven of herinschrijven en wanneer?",
+       "type": "web_search_result_location",
+       "url": "https://www.actiris.brussels/nl/burgers/wie-en-wanneer-inschrijven/"
+      }
+     ],
+     "text": "wanneer je meer dan 28 opeenvolgende dagen hebt gewerkt mag je je binnen de 8 dagen na het einde van je contract inschrijven",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": ".\n- Was u tijdens de opzegtermijn (gedeeltelijk) vrijgesteld van prestaties, dan geldt een ruimere termijn: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "- Indien u door uw werkgever ontslagen wordt met een te presteren opzeggingstermijn en u tijdens die termijn minstens gedeeltelijk wordt vrijgesteld v...",
+       "encrypted_index": "EpEBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDPW2kSaestKDomejwxoMpPMgQvAzB9wd7usqIjBpc3pZ8HBkbttDjWwjSg1H4VKpbOs44gmrkh35cNmV6/MGGBoJt4KDNg4jzSDw4qsqFWDMpIGCZQ8T8gYatmqxUL1lthe0MBgE",
+       "title": "Hoe moet u een aanvraag indienen na een tewerkstelling?",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling"
+      }
+     ],
+     "text": "indien u door uw werkgever ontslagen wordt met een te presteren opzeggingstermijn en u tijdens die termijn minstens gedeeltelijk wordt vrijgesteld van prestaties, moet u zich inschrijven als werkzoekende binnen de 2 maanden te rekenen vanaf de eerste dag waarop u werd vrijgesteld van prestaties",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": ". U mag zich overigens ook al **tijdens** de opzegtermijn inschrijven: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "Je mag je ook inschrijven bij Actiris als je in je **opzegtermijn** zit.\n\n",
+       "encrypted_index": "Eo8BCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDBht4V7aGPCxK+SInRoMTcaX5BqCOXKWaA7/IjCYG95CehXj9EA/0JZsx+/+3DBB9FyRMlZseOStiHmY9tr3odQ8+KJ1msqJyhoGOU0qExEKPjO4+G5xGlPvH1alFvrFWPMYBA==",
+       "title": "Wie mag zich inschrijven of herinschrijven en wanneer?",
+       "type": "web_search_result_location",
+       "url": "https://www.actiris.brussels/nl/burgers/wie-en-wanneer-inschrijven/"
+      }
+     ],
+     "text": "je mag je ook inschrijven bij Actiris als je in je opzegtermijn zit",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": ".\n\n**Aanvraag van de uitkering**\n",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "Als u werkloosheidsuitkeringen wilt ontvangen, moet u:\n\n#### Zich persoonlijk aanmelden bij een uitbetalingsinstelling\n\nU moet zich persoonlijk aanmel...",
+       "encrypted_index": "EpIBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDACJV5fSTq/M8Nbs5xoMDo5/V5W2Km8O6h29IjC8PyK0YwiQs8ZmVv2vUiRJgIoYM7QZMd3had3Atgre4wpmhIvh/L9hCKHybHFU6JUqFuUxA6DytVY5O8j3PKmChUwk7lZBcNwYBA==",
+       "title": "Hoe moet u een aanvraag indienen na een tewerkstelling?",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling"
+      }
+     ],
+     "text": "Als u werkloosheidsuitkeringen wilt ontvangen, moet u zich persoonlijk aanmelden bij de uitbetalingsinstelling van uw keuze (hetzij de overheidsinstelling: de HVW, hetzij de uitbetalingsinstelling van een vakbond: het ABVV, het ACV of SYNOVA) om er een aanvraag om werkloosheidsuitkeringen in te dienen.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": " U doet dit met ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "- hetzij het door uw werkgever afgegeven formulier C4, als uw arbeidsovereenkomst beëindigd is,\n- hetzij het door uw ziekenfonds afgegeven formulier C...",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDAir7CIvQBu0PqqLUxoM2fiU+5WhTWw9JkRBIjB7GOfizxSr8uRLBpybA+1C2IynMvgWO+Rkh6H/Mao7FoKkSGpw/YC96l53Fl5+oDAqFH7mx7hQ2qM62R+ZIIujcTT2F8iSGAQ=",
+       "title": "Hoe moet u een aanvraag indienen na een tewerkstelling?",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling"
+      }
+     ],
+     "text": "het door uw werkgever afgegeven formulier C4, als uw arbeidsovereenkomst beëindigd is",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": ". De werkgever moet u dit C4-document ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "Het werkloosheidsbewijs moet uiterlijk op de laatste werkdag aan de werknemer overhandigd worden. ",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDPBLibcIkbQ5kssK1RoMpgpvWX/UzO5KxVTcIjBzB6C4Cwn5EZVoC9LsR8uILTFRV3QD9tpJpywe8SCj0Su5ins695yL4VnJrjbDV4MqFOP4+BWOQNR6EZhd8VCO2eigMegKGAQ=",
+       "title": "Het werkloosheidsbewijs C4",
+       "type": "web_search_result_location",
+       "url": "https://www.securex.be/nl/lex4you/werkgever/themas/ontslag-beeindiging/beeindiging-door-de-werkgever/het-werkloosheidsbewijs-c4"
+      }
+     ],
+     "text": "uiterlijk op de laatste werkdag",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": " overhandigen. Dien het zo snel mogelijk in: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "Als u aan de voorwaarden voldoet om uitkeringen te krijgen, zal u vergoed worden vanaf de datum van de aanvraag. ",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDKioXE7roxjnkFSQmxoMKg6W9T8qV+L/IBG+IjBcZmiZSTsNNWYadqsLcW6+WqrndNc9NdJrXc0noCQixgPrUAP8KqtrP+kh/EHY6V4qFBoEg2o469bIMeC8X28NM3SfNGZgGAQ=",
+       "title": "Hoe moet u een aanvraag indienen na een tewerkstelling?",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling"
+      }
+     ],
+     "text": "als u aan de voorwaarden voldoet om uitkeringen te krijgen, zal u vergoed worden vanaf de datum van de aanvraag",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": " – te laat indienen kost u dus uitkeringsdagen.\n\n**Hoe lang kunt u de uitkering ontvangen?**\nSinds een ingrijpende hervorming geldt een **beperking in de tijd**: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "De grootste aanpassing is de **beperking in de tijd van de werkloosheids- en inschakelingsuitkeringen**. Die is op 1 maart 2026 in werking getreden. ",
+       "encrypted_index": "EpIBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDL2Mdu/SDuIz6mRG7BoMxij7xGJQEP3mTNAbIjApICqctKUqIC2zUgdv/SWhUTawSA2F3Jucdjw+xYF0D6SWHYo7dgfQYxjocPmBoHwqFt7DPCNVtWGpayCrK2CmdCHACFFk3KkYBA==",
+       "title": "Nieuwe werkloosheids- reglementering sinds 1 maart 2026| De ...",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/nieuws/2026/03/02/nieuwe-werkloosheids--reglementering-sinds-1-maart-2026"
+      }
+     ],
+     "text": "de grootste aanpassing is de beperking in de tijd van de werkloosheids- en inschakelingsuitkeringen. Die is op 1 maart 2026 in werking getreden.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": " Concreet: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "- het recht op volledige werkloosheidsuitkeringen voortaan te beperken tot **maximum 24 maanden**. Dat recht omvat **een basisperiode van 12 maanden**...",
+       "encrypted_index": "EpIBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDEnHLj70UsNx4cY1URoMb4EDnajju28RZzf9IjDFB3gvpWHQIK6fq7oh1sJ8xLo79BckLueyxWTjrgrEYUddqiZTOO4UU78nif/HqrkqFvwCASVCupU9Qn//pBNaEvHZb8BJutIYBA==",
+       "title": "Nieuwe werkloosheids- reglementering sinds 1 maart 2026| De ...",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/nieuws/2026/03/02/nieuwe-werkloosheids--reglementering-sinds-1-maart-2026"
+      }
+     ],
+     "text": "het recht op volledige werkloosheidsuitkeringen wordt voortaan beperkt tot maximum 24 maanden. Dat recht omvat een basisperiode van 12 maanden, waarbij maximum 12 extra maanden kunnen komen, afhankelijk van het beroepsverleden.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": " Let op: door een arrest van het Grondwettelijk Hof van 10 september 2026 werd dit voor bepaalde werklozen (forfaitaire uitkeringen) verlengd: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "Dat houdt in dat voor de werklozen in de eerste drie golven (forfaitaire uitkeringen, geen inschakelingsuitkeringen) het recht verlengd wordt tot een ...",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDKlYBmV5MugYD72UdRoMEJG7J5h/yinOgnoFIjClH75XO2qA2BqW7Iq64T4QXSjTllexVWSSYEBjCvwXCH3nofCDsQgmo54WMes7ZI0qFNVUo62kNgz4PknC34rMUJENn75vGAQ=",
+       "title": "Hervorming van de werkloosheidsreglementering - Cijfers",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/statistieken/hervorming-van-de-werkloosheidsreglementering-cijfers"
+      }
+     ],
+     "text": "voor de werklozen in de eerste drie golven (forfaitaire uitkeringen, geen inschakelingsuitkeringen) wordt het recht verlengd tot een totaal van 12 maanden",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": ". Aangezien u nog nooit een uitkering ontving en pas nu werkloos wordt, valt u onder de **nieuwe regeling vanaf 1 maart 2026**, waarbij de exacte duur afhangt van uw leeftijd en beroepsverleden (met uitzonderingen voor o.a. 55-plussers met lang beroepsverleden).\n\n## 2. Welke instanties zijn bevoegd?\n\n| Taak | Bevoegde instantie |\n|---|---|\n| Inschrijving als werkzoekende, arbeidsbemiddeling, controle beschikbaarheid, vrijstellingen | **Actiris** (regionale dienst voor Brussel) |\n| Beslissing over het **recht** op uitkering, bedrag en duur | **RVA/ONEM** (federale Rijksdienst voor Arbeidsvoorziening) |\n| **Indiening** van de aanvraag en **uitbetaling** | Een **uitbetalingsinstelling**: de vakbond van uw keuze (ABVV/FGTB, ACV/CSC, ACLVB/CGSLB of SYNOVA) óf de openbare instelling **HVW/CAPAC** |\n| Organisatie van de beroepsopleiding | **Bruxelles Formation** (Franstalige opleidingen in Brussel) of **VDAB Brussel** (Nederlandstalige opleidingen in Brussel) |\n\nDit weerspiegelt de bevoegdheidsverdeling na de 6de staatshervorming: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "De bevoegdheid voor de toekenning van een vrijstelling voor het volgen van een beroepsopleiding werd door de 6de staatshervorming overgeheveld van de ...",
+       "encrypted_index": "EpIBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDAaHThf95ryMVcwDOBoMwwwY7DR8fQxloN68IjA3wMgQx7lVTEASlkdGTDK+/7jEbWJTf0Duy/4ek4F3LDHZsGsU4FukM/knWwxyeAgqFmrUyioESxvVy+yl/6wir8qoXzP0MacYBA==",
+       "title": "Vrijstellingen",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/statistieken/historische-reeksen/vrijstellingen"
+      }
+     ],
+     "text": "de bevoegdheid voor de toekenning van een vrijstelling voor het volgen van een beroepsopleiding werd door de 6de staatshervorming overgeheveld van de RVA naar het Vlaamse, Waalse en Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap. De uitbetaling van de werkloosheidsuitkering blijft wel federaal.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": " Actiris zelf keert dus niets uit: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "## Werkloosheids- en inschakelingsuitkeringen\nActiris betaalt geen werkloosheidsuitkeringen uit. ",
+       "encrypted_index": "Eo8BCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDJw9KtV69rRt6At8NxoMKynqdbC9cUzWaJ7aIjA2HGfPOs1aGHc7U/dPNbXlzYu81irDC0ybcUKnCVoL63ss7K3Ge+APGa3yKOwOyPEqEyP+DZQIgTiumFmxS9kH06rnONoYBA==",
+       "title": "Waarom inschrijven?",
+       "type": "web_search_result_location",
+       "url": "https://www.actiris.brussels/nl/burgers/waarom-inschrijven/"
+      }
+     ],
+     "text": "Actiris betaalt geen werkloosheidsuitkeringen uit.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": "\n\n## 3. Een beroepsopleiding volgen in het Frans of Nederlands zonder de uitkering te verliezen\n\nIn Brussel is samenwerking met de andere gewesten mogelijk: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "**een beroepsopleiding van Bruxelles Formation, VDAB**, Forem of Arbeitsamt (ADG) · een middenstandsopleiding van SYNTRA, IFAPME, Service formation PM...",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDDlcejhQVXBCbfMPnxoMQ7IEsolc4fhVvQN3IjBHyvCrZMqkHmU8W6oSAqMrB1f3v5qcBEUMr1C57AHACa8ij/lUKNeUemnvUsLe130qFKe7KeUOAwrrdzG9Ohkcp3vUpPUXGAQ=",
+       "title": "Brussels Hoofdstedelijk Gewest - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "web_search_result_location",
+       "url": "https://hvw-capac.fgov.be/nl/ondersteuning/studies/brussels-hoofdstedelijk-gewest"
+      }
+     ],
+     "text": "een beroepsopleiding van Bruxelles Formation, VDAB, Forem of Arbeitsamt (ADG)",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": " komt in aanmerking. U kunt dus kiezen voor:\n- **Frans**: een opleiding bij **Bruxelles Formation** (of Forem);\n- **Nederlands**: een opleiding bij **VDAB** (Brussel).\n\n**Procedure – vrijstelling van beschikbaarheid**\n",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "Met een vrijstelling krijg je de kans om een opleiding of een studie te volgen, zonder je werkloosheidsuitkering te verliezen.\n\n# Vrijstelling van bes...",
+       "encrypted_index": "EpIBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDCmBRtcrHXExtGRGTRoM7yaxIVkPNT4xJGt9IjBR4V5bJzabOeJNtE459gefvAnI58ZImRR1ClGBCOBBRngEawqLnESrGD+ozHVIkjQqFmJEpvn4BrldYHqwDFIw02N94uTxtkkYBA==",
+       "title": "Vrijstelling van beschikbaarheid",
+       "type": "web_search_result_location",
+       "url": "https://www.actiris.brussels/nl/burgers/vrijstelling-van-beschikbaarheid/"
+      }
+     ],
+     "text": "Met een vrijstelling krijg je de kans om een opleiding of een studie te volgen, zonder je werkloosheidsuitkering te verliezen. Een vrijstelling geeft je de kans om een opleiding of studie te volgen terwijl je tijdelijk werkloosheidsuitkeringen van de RVA blijft ontvangen.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": "\n\nVoorwaarden: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "- Je bent gedomicilieerd in het Brussels Hoofdstedelijk Gewest.\n- Je bent bij Actiris ingeschreven als werkzoekende.\n- Je krijgt een werkloosheidsuitk...",
+       "encrypted_index": "EpMBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDOUx9xA9maoQv1AJ1RoMlGtPvzodJT0kRaauIjA/OuE7r6/sVKcfK0jcdja1YH4zXIhqdP0vhLAQPIIfA+2M0w2XEC7uP/JR5/2kOiYqF6ZUmJMTckNHr6gh/JIvOCHG5G5OycKOGAQ=",
+       "title": "Brussels Hoofdstedelijk Gewest - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "web_search_result_location",
+       "url": "https://hvw-capac.fgov.be/nl/ondersteuning/studies/brussels-hoofdstedelijk-gewest"
+      }
+     ],
+     "text": "je bent gedomicilieerd in het Brussels Hoofdstedelijk Gewest, je bent bij Actiris ingeschreven als werkzoekende, je krijgt een werkloosheidsuitkering of een inschakelingsuitkering, je vraagt je vrijstelling aan vóór je met je opleiding of stage begint.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": "\n\nTwee scenario's:\n- **Erkende beroepsopleiding** bij Bruxelles Formation/VDAB: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "**Volg je een erkende beroepsopleiding?** Dan krijg je automatisch een vrijstelling.\n\n",
+       "encrypted_index": "EpQBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDFWYBrlIfFUvVxM8RxoMj2s5IqhKsA3UrWsRIjA3cyhcUqSrX/EroC0uLS6epMBj+QtPLFAwOrDJBGwmPT8lgQstq0r3j26On17ciqkqGK5/NBoLSMMGFJk0P965GNvhbmIs0eVVMhgE",
+       "title": "Brussels Hoofdstedelijk Gewest - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "web_search_result_location",
+       "url": "https://hvw-capac.fgov.be/nl/ondersteuning/studies/brussels-hoofdstedelijk-gewest"
+      }
+     ],
+     "text": "volg je een erkende beroepsopleiding? Dan krijg je automatisch een vrijstelling.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": "\n- **Andere opleiding of studie**: dan moet u de vrijstelling zelf aanvragen bij Actiris, via ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "… In Brussel gebruik je het formulier DV13 van Actiris.\n\n",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDBWGXT7cuGT+1U1yexoMZvZts51KleF+NbkxIjCaetd+MEZ3zGocHqSfmiVF37Isdcxt/zQo2kusgR+bKwV8a2RRkhccs9O2rd5m4qIqFEQsrtwcwa8hEtETFKZgJOnNIp46GAQ=",
+       "title": "Studeren met een werkloosheidsuitkering - Centen voor studenten",
+       "type": "web_search_result_location",
+       "url": "https://centenvoorstudenten.be/studeren-met-een-werkloosheidsuitkering/"
+      }
+     ],
+     "text": "het formulier DV13 van Actiris",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": ", en dit **vóór** de start: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "Belangrijk in dat geval is dat je de **vrijstelling aanvraagt voor de start van je opleiding bij Actiris of VDAB**.\n\n",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDLsaATM6o86lhOToLBoMbvNMzUe00wBCgiOjIjA3HGEK4XsWsHLsEcMuNMONba0RNLv/vqXeDzFJnuGGF+tGZ23DvO5SWyENtV0V5z8qFPbJ9iDVv5QoCA8ttReP+0oEPSCNGAQ=",
+       "title": "Verlies ik mijn werkloosheidsuitkering als ik opnieuw ga studeren?",
+       "type": "web_search_result_location",
+       "url": "https://www.leerwinkel.brussels/nl/node/3512"
+      }
+     ],
+     "text": "belangrijk in dat geval is dat je de vrijstelling aanvraagt voor de start van je opleiding bij Actiris of VDAB.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": "\n\nLet op: zonder vrijstelling riskeert u uw uitkering te verliezen zodra u financiële voordelen uit de opleiding ontvangt: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "- Als u financiële voordelen ontvangt in het kader van een opleiding of stage zonder dat u daarvoor een vrijstelling hebt gekregen van de gewestelijke...",
+       "encrypted_index": "EpABCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDA3GzbkDfBYipAbRbBoMnoAL+3nlfvlH55ejIjCCP1PHx6A6vraufxkAUp8dv5ZfUPgr2bKKmCHEQD2/6oE3nEqszhBHY9iMpQcuM0YqFPWAoVDaWq/6JD8QcyRtY9E4o0BkGAQ=",
+       "title": "U bent een uitkeringsgerechtigd werkloze die onder de overgang...",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/kunt-u-van-bepaalde-verplichtingen-vrijgesteld-worden/u-bent-een-uitkeringsgerechtigd-werkloze-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen"
+      }
+     ],
+     "text": "als u financiële voordelen ontvangt in het kader van een opleiding of stage zonder dat u daarvoor een vrijstelling hebt gekregen van de gewestelijke dienst (VDAB, Actiris, Bruxelles Formation, de Forem of de ADG), verliest u het recht op werkloosheidsuitkeringen.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": "\n\n**Extra bescherming bij opleiding naar een knelpuntberoep**\nAls u een opleiding volgt voor een knelpuntberoep (lijst 2026 voor Brussel), kan dit u bovendien behoeden voor de beperking in de tijd van uw uitkering: ",
+     "type": "text"
+    },
+    {
+     "citations": [
+      {
+       "cited_text": "- Werklozen die voor 1 januari 2026 zijn gestart met een opleiding in een knelpuntberoep en die zijn vrijgesteld van de beschikbaarheid voor de arbeid...",
+       "encrypted_index": "EpQBCioIFRgCIiQyMTlhZmE5NC00ZGFjLTQxZjgtOWFkMi1hYWZkYTliN2M3YTgSDPwhgrHlKw+crEgMiBoMFeYIHGgraufI42LEIjBOXatuQIEkzBa/O4vB2UmJ9Z/aLGAfpgkISVGHH9Lq+hrL8REwbjc0fkfCuLMH8lYqGEtZ0ZSbQHUZYqYo+zpqpwArUWdUM4lQzBgE",
+       "title": "Hervorming van de werkloosheidsverzekering",
+       "type": "web_search_result_location",
+       "url": "https://www.rva.be/hervorming-van-de-werkloosheidsreglementering"
+      }
+     ],
+     "text": "werklozen die voor 1 januari 2026 zijn gestart met een opleiding in een knelpuntberoep en die zijn vrijgesteld van de beschikbaarheid voor de arbeidsmarkt behouden het recht op uitkeringen voor de duur van de opleiding en zolang de vrijstelling tijdens de opleiding toegekend blijft.",
+     "type": "text"
+    },
+    {
+     "citations": null,
+     "text": " (Vanaf 2026 is deze specifieke uitzondering wel beperkter en vooral gericht op knelpuntberoepen in de zorgsector.)\n\n## 4. Officiële bronnen\n\n- Actiris – \"Waarom inschrijven?\": https://www.actiris.brussels/nl/burgers/waarom-inschrijven/\n- Actiris – \"Wie en wanneer inschrijven?\": https://www.actiris.brussels/nl/burgers/wie-en-wanneer-inschrijven/\n- Actiris – \"Vrijstelling van beschikbaarheid\": https://www.actiris.brussels/nl/burgers/vrijstelling-van-beschikbaarheid/\n- RVA/ONEM – \"Hoe moet u een aanvraag indienen na een tewerkstelling?\": https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling\n- RVA/ONEM – \"Hervorming van de werkloosheidsverzekering\" (incl. T200/T202 infobladen): https://www.rva.be/hervorming-van-de-werkloosheidsreglementering\n- RVA/ONEM – \"Nieuwe werkloosheidsreglementering sinds 1 maart 2026\": https://www.rva.be/nieuws/2026/03/02/nieuwe-werkloosheids--reglementering-sinds-1-maart-2026\n- RVA/ONEM – Cijfers hervorming (arrest Grondwettelijk Hof 10/09/2026): https://www.rva.be/statistieken/hervorming-van-de-werkloosheidsreglementering-cijfers\n- RVA/ONEM – \"U wenst studies, een opleiding of een stage te volgen\": https://www.rva.be/burgers/volledige-werkloosheid/kunt-u-van-bepaalde-verplichtingen-vrijgesteld-worden/u-bent-een-uitkeringsgerechtigd-werkloze-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen\n- HVW/CAPAC – \"Brussels Hoofdstedelijk Gewest – studies, opleiding of stage\": https://hvw-capac.fgov.be/nl/ondersteuning/studies/brussels-hoofdstedelijk-gewest\n- Securex – \"Het werkloosheidsbewijs C4\": https://www.securex.be/nl/lex4you/werkgever/themas/ontslag-beeindiging/beeindiging-door-de-werkgever/het-werkloosheidsbewijs-c4\n\n**Praktisch advies**: schrijf u zo snel mogelijk online of telefonisch in bij Actiris (binnen 8 kalenderdagen na het einde van uw arbeidsovereenkomst), dien meteen uw C4 in bij de uitbetalingsinstelling van uw keuze, en vraag — vóór u met een opleiding start — de vrijstelling van beschikbaarheid aan (automatisch bij een erkende opleiding van Bruxelles Formation/VDAB, anders via formulier DV13 bij Actiris).",
+     "type": "text"
+    }
+   ],
+   "diagnostics": null,
+   "model": "claude-sonnet-5",
+   "role": "assistant",
+   "stop_details": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "type": "message",
+   "usage": {
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 0,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "inference_geo": "global",
+    "input_tokens": 56044,
+    "output_tokens": 6364,
+    "output_tokens_details": {
+     "thinking_tokens": 1451
+    },
+    "server_tool_use": {
+     "web_fetch_requests": 0,
+     "web_search_requests": 4
+    },
+    "service_tier": "standard",
+    "speed": "standard"
+   }
+  }
+ ]
+}

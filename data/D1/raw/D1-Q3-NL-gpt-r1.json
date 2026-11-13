@@ -1,0 +1,414 @@
+{
+ "id": "resp_0952dc2287bd2be7006af76037128887d2b7c7f815aee50477",
+ "access_programs": null,
+ "created_at": 1794596919.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0952dc2287bd2be7006af7603900ac87d2ab82d717b5bdffbe",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92CFikkwXn3Dghh8qW0HaVGNV7qjEidWqdSmInxo0d3uTKWI0MkJvBZC90n-d6dL3jMYmcwX8BnniQKz13l6KHg3XAiUneWS3BPiKfQh9GihqV_9p9jF_jg5chH34nn_xoyk38aadq_OEj2vZ8amvlYURdjIFzG422h5ht5C1nfI9NPX5LGXw8UZ4E6tcggwur1eNwyoqX-Jlg8TBBh13HZVKMbPRYGJVrDxUhkyqPM8dh6x87ask6MCnxMZ5KCAaqdWsiLYvlFmNVQmWrRvtg5RL68Z6e6gNNKmfkbna6rCua5vHHj5DKX8Gipm7hdxo0AbWMNmAWrs4QKKZ0zqreEaykwQeagRHXgKx8fOQm0gUddoYy0NgGXwCZF-Q1Uxw7_mWJB-m-CqFmr1MMOpF__Dqh965haxSjLAkJW-F6LRKhQzx6SXHVgrqTKqHd5NUx7D6XbPUhiAcTi3iiFBWlfT8K4OyiLfbFfqsxmqs6-5oR6Dna3_ykXymGJU5eD0ndQ6X4BEjdOSRZ2vYLwTZBHL15-2j1ReiaWSv3rsRe0vjY6G88Slxb9n0-0hXGuiaK5l8cva2u2WqZ466aaqvIO3gqXiRwdm9ktIc2Mzq2qpBHXBMXnpg7Wz558kksdU1MoOhkZPrNvrmNUL9O5QApWMB23NdeoClhLry3BTrKOOi5210hL2-raR2uoDl5gAYmmXWnmDmawv22O5Nw06ygXQIdUcb-w5SHgiX3aYckT1ajyWSK9-MAdUivBvCFbACo0pESKf_35cCm_VH3dh6FBV_M78uTmzAG36nSsBS7_CrkUZpYSOIVBjSXx4xIvv9X_k-ldf9z5JjtJeEd5SzVSkLiatSYS40f5o8EUlQGe9cn1zYv2HA8EvgFOPTdVNxwJfAF0S7kHMk2ug6a4aJoDF6QgyGGgZ8MmXwpMLMDtydi5trGYW8WPQSFeJBFHsFPhnfvsOSicFfrw9bs94-s-guJu0Vfiy6VB1fVqdehC2RVtCYeQI2_2gQtX6tCrLu7KsWYCCUtS-d4HMQe2S76PqxQigPY3DvelO-SPWYwDzZNqi47qNAVgX5iDXENN3TBJjlCdzzO1BC2PMvNL2QbYe_jcfdDOMpPxGtCR5Fq1477El4v6FIcfcHCQQK6YvfMi0Kx2yf4txthrkyQ0WMAQ9Wz0I9DENH3uBx2DGnaM0Yv6w5VPOWdbTcKT5--czjwxAcFY4Gwk7qQNiHBX_jXD05cLpIVfDVr1eIHm4KRwgNGOFthYvCTDTiRyBSwOeCGZ6RtPBfbP50m833qbChlAFKw8Ri7EWWkRez_7WFAsXoaRo37bO1I5f8eilpnAjgp4m_pU6D6ZlhYtFbc4WcsAypDKEdC-hWd6zTrGFeqvBjC5OK0xK14YawJLqcs-IJze-ZHypPyiYaerDUkmV_hedVi6CrSnvTD5qDVqxjriku3lDQYuYDCoMhv51Xz5EDSBsPWfpkkqoJ7CkY8-ZtI87ARAbx7OJrJG_FG9zYVH3Mkyaeb1EJovfPCjW2LUEVrc8e049l47ZSdGXBNBxQPW2BKt1zEDiTVc57JJPR8-OT47fa9h-fiOZUk49_jIzepAiDDy6GFqjW9qVoXILsSZ4Ryn6gSBh7nvbLlfk0H_OPy-GoiaXj8aVkvS0PjuJXuE8dpAF164sH6QP-E5ErEpbvXDKrad11uyf3LRyrFcO0FF-ehgUe54hP865K5qAjI6WIuRuXYccJzBu7u7yDTYWABRvd0B3uhEbDU1bwgvmuHsYfixIQCcfpLThNSW-shwwBLVemU8dIbXo_8MdQeiC8u7nAE7nmk-Kmidqc_uON5EsL6libfvah9icPvJWyR1p",
+   "status": null
+  },
+  {
+   "id": "ws_0952dc2287bd2be7006af76039627487d2becf60079126b2c8",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussels diploma recognition foreign higher education non EU regulated profession official equivalence French Community Flemish Community NARIC",
+     "Belgium Brussels foreign diploma recognition work official equivalence regulated profession government"
+    ],
+    "query": "Brussels diploma recognition foreign higher education non EU regulated profession official equivalence French Community Flemish Community NARIC",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0952dc2287bd2be7006af7603bd71087d2befb2544761da3f3",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92CFXGlxkVnA-AIUNSXtHaM_Ie4DCWi79Cg95nzyNQgH-YdLVOy-DqV0bRcgMT8BdcH7fZG_NanPX9WkElStdm_MM0foZez9C4KbS_ZDv1hc137LXoxDMWd0YsyoDzuDItYovf_bGuDrHhs-rOjV2oFzh2Sm6El1sgtuhy87-qzBuQsxW-m8y9q1dSG9VCXdyDC_aOs7ijdU4jLwNLFPxT6-qRCYTLa2l8di9GZRrjJpkh5C3rwKLQl0DO84KpCTzCrYr3nrqUfjFoRxz2Dzrh4EYW9XNrb1q3NHLP_mxMYJvQiLZ06rAIVIoYY8RSvTM-x5YmLzOx0klfAz9HsNi6b1a-H5VyEzpvoO0JIhV3Y15bIKQzzmrInd4UUvRQBeghg0fotrb2NmwxA6s_U1iKBdKkcVAN-dK995d_B8L6xBR25A77C7oG_G2uG6LKGJcC0CJoxwDzG-vx_Dc5WIQgVSBCqbFV4D6eOrhcegvXVuWdJPJ-ds_fhF8ceB2z6JqvvHJdcAxpxAQNYsQkSoC-qEXbhnro5xzvKmB9JE7S3PRlRNxUv9q5FxolzJFEkRHXGPeLNhvFFzyQTojsLDyi24zIzMug_6F8H0q8I1vWskGiHjVIRTuGqyomj5Tpf7UxQQJDp2vaOW3iKLdxjJhEt3OARzCGU7PumwL81ZY_3blUotl21u9Ch2M_2xBgVSa2vh-S20-JHMbs1bcTsQGFKYe-2ykNvpC291Qv4Q2kzMqB7Aa7KblG0h5ljP96kOdL-VqWJPplswqu93IIaEqlt6ToJEaIbUNgoDVAD9hDCjWxCdCUfPJbj1MBtycufdEtQ6SVEmXtY7Z_M4W8RDR19gEGov3FSGoODv8VMa8-doWyV78kL-5K2USM7ENBTDuSFI6BPzv5ILKCJaOaD8_9aWe1e56YMKuROAgmc90c2DyFLxzUW6c4lnJyEMyQYMgAz3u55sjGq8Vr2K-876IRY1TSws0GJdWFIa-OYO7Nfu9oZjmhC1b67O8RSOFvii4tvDhzFalFIRWQski6SdT8QqugFvzJyFA6WiQELx4osd6c4WvJJB2FX7RQV4rTKx1UB82EKbGzsI7XRtrn_7cIAKwGV6zVJbcu_HGBFvaLW-ylTCw34SUYcGYTL4kmaXAxUy4fW_782SD_Px3SenyZ_anJ70G6ybSwBjs_cNwbtEMBBjNaKekmwWmezuhw4J3fSiTdRrJrfrwwyfH-wtwZcHVuHriU6IAHRzaqfVJgKuoM2dR_oRO6aibBJzXDvvBrZogp8gUbgtuAkVs0hg0cKeaY6ZBUiVQgmXwt6QKbt8f3vsK-uuC7J2NwS_lfwE6aVcAca4G0Di7CG9ykQ2xf_LFIcrizldJI9ucDpvW7x0OX0u6IOvcIv_BQ471_WQc4h6zqxeqFTnErSAps2mKDDkfskQVA_67JT-isESYgLRMX5vEiwKLHdKsgCv1T7p3NW9MjzNAPPKhAX6qEBtYlnzF6hYlNAAnv2BidGfjkT8cf2B08fdH6xl4dwPe9KVNbmvXZl6YULG_Qu2CvOqouz3Gg2XO817nzrdbJ9t3wFhMI8uIekr613oA7yfaRIzYUuHPoQN-yOzCPSsJfN1oTQ5A3CZxG2Ab_AwI8bSOAIlCgoeOW1GKY4FKLzQOLdxTMwEk2nmc25zsywcskX5MScEk3zttpdUFfxL8HQ-5gI49yjVLPim9idiPESN-Xu7YsKT",
+   "status": null
+  },
+  {
+   "id": "ws_0952dc2287bd2be7006af7603c052887d2a499112ec3f1403c",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0952dc2287bd2be7006af7603dc1c087d2bca68ca0c42034f5",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92CFH4mBfc5t3Ok2wHwP9cPXuT08rRWah_vVPpCu1QJ6sHf1qgLP2GWGH4tNIg1tRHiA2mpkOfA-wW8muBxRXU4iicdeSjlWe62GUGHlQ_OppBkGnxYf2lKOfAr38hxkCbR49MWCzvTKhju8y35layNs7NjiPoG22VeeAXyWQcos0WFss4h2x-PpPC-L7jD686Ty85amzC7RU3MN_Lb3AaQLZ0F7mfM6b9LlUbuRwzYJfVAudkv-3O1X1JD_EoMJqz6UAPCXwBALdVIRZHIE5JWjTCwezw0aVaCZ1umswhYh8-yt7ctW3nH5_szNpCMkDGS3XvncomfZ3jnBbpMDrJ12_J1tqf-aontqWNYnhj2xeiCU2GidBRD6PW6JSMbzjVEFz46SIGRu__AnJJtXPKTcqW0yDm9x7BJFA7BS3J0wsNDkvPEXSwbyTJYdoWcDjMljYLFnDVay9ILVzZ5aYIgPI0TqSI0uZVwYmUaFjMcuVsXLlSaC_xRmsCZ4WEtAOitrcYHOcLHjgJ4MlhpKx3ZZH7c6Yluitl4w39MqUr289hmJyEqPv5nLAiTQVmx6LVul5PDMLS61tPGj1ko1lfnoh5w8LwBnV54c7ri2m_nc8zd_YgH4gJWTfNdUZh6cYOMcONEoDXND25WWNkOV7JWBtoaxfgQn3eShDuZDnkFJYHuWnE1FJFFXTmsM7Tt58dWtRiHdB5rmACFcTnh0JvIbYVg1c4DXPSnVXr0BbvjcTvz-J5U4cAFZEBVZiCfmCFGmeEfEmjgC3zznD3P9hTvuYvhpGTFaYfmWo-iseoOBIfHi_j7Ra7VLx7mLg_AjXsLB22yRDKIB8u3ZMTCnvAqoncpIAcodr6Gq0oS9yrDdIUPHXf4T2ZFa-s2_w-V9hAnHrCUMt8-a57KhzlS33R_gUvcwfg55R29-LB73j3QB8cYvl3Iy_KO9bvaybPoV3HPzlxq9z7DFu2ffBSfEjM5lKLpFa01p0CQXobz1U_-w0YZXZ-m0mSp1FqKloocTVVCClirbHQ13VUJliCGk1BguWecbJ3FBJf-dht0XjSK9L3Fh0OWmYPHIZTNzcpdudxFK_oF0dJpuTtdnPmbd_aKhawqptW5fdwBOtr5uxiJfYCT5nrFzc0DjuoVNnqwhNkJHS4v-0QN0bb-JwDhI5PAQGYf_jMuH0lXbH_Llo0DCp-Oq3gQZ89Q0_ZxWqSthPoE9161XQlPqBn9S5wR7VlRGoXgTNZmK0et6TbYFFjjx5qFNjeHw54AMgklST44rI5DteW_uXdPz17zV80TaAaZAjRdhuk77eYdabq8SUxbl36wmU_m7pKm4FDoYroPxnOawlDLmfeIT-ObgQtQ9FXKkGS-q3thrRcvkDMWqDrldYiviUm3ApmUYqfVocnwBZv7xQcdeMoWhWYohnbEPcNeUao4njbaRng0-HdmnFwwdipf5_rkZ8cfC7KRdl3w-8IS5aU97_hb_7D0JlykKHkskXU9nTA1Ra-U-CUUG8cUTuTp0CVgwy_XNdERN6wXDaI27kOGjj06ejRUvYO4XljPfnWu5jItrYit1vVroE3jXDcC7hm7qjmVFfY_FDsc2YQ9uQkdevK7fJzOirZrVr7RjGqcZdyJ8G7ywN3B1BBeZRMB5V45Nzghl7FVMH8ufqU7MCN6Z8KkJPksh-ZmZYYyNUpx9pB62Fhs61sRupml6oaJceQPkt-sAm7ft16ueb64y72uUzVWRBiSU7FgmudbT2UGh3NU4JiGiCavaSpUG36Q=",
+   "status": null
+  },
+  {
+   "id": "ws_0952dc2287bd2be7006af7603e276c87d2830d26f12f3daa03",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0952dc2287bd2be7006af7603f606487d2bb56d1a8991e4cb5",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92CFVZlrH4qTzJs3XFqYrL70uwuH7jH-fyjoj-V7KJz5kJfHfLFZ7iSmwxIijzPZioUXoD6WtCxxls4YbGDU70Kvxlyx087BKDGfKzOonqjzXLlV925g59GPzppWThjoXtB1_34qTWAr19lPYPBZ9DmY5eQ0Cl-_a7HgM_nLlCRNxb0R8JMZVe-3cnuixdzLJ9LDvCTQfmoMDF2hhmSCFsk2MyO8yWUYe8zag5uIze6g8fGuYGiXj7lcDT12TEoZczgfOpUcWLjEYmr8Gn6rlcirnpOcYL7HjX65yLZJFcHwCjpJGghutqvDqfPUs1292JO0XnIogmjQnBQBDxTrtjXVwvUWbGIc46xNwnmk9tGevuUGI1Latn8y_048HRkYn-CC2pA0g9tdnuKZZonERyoCgyGGQ5lgNIPnTKLWef6cMb1CZ6hB-iejKaTFkZKoCTKL4tBpwnAwbLBAwZJBPGX0gXtbukeHFys0GVJLmcwd0YIdT3xw2kYwroaTRxm-UZn7m62X7oCDYeiMhHtolr4GNLySLuexwFVUpJHLxhfo9P_Ir8mE5nw0x4yNHz64eEduNu2rQiG_h865wKO0QiMpuZp4uMmsTZQMHU3emMrzWeO02WVyzGNYHBRJ6_RktIUGIVpiFQzrNwyynUcV5bfc8dCzu4fW27pqgPXFPwJQ49ep2Q2F7Syw_zmFqiqZT0X0_TnWKzodlAfzsLpQVy7sz0yRoYvqcZSES4SuunVz7iJ085qeF24Ed2kWmDOnMTmo7d-XET6TGZQA6k18KBzFUJwG5UstV5x2rR04V07Ql0_tsA4ukPEdlzvxCoXuEfqfUhxrTDM5NUWcsgpSzouA6zunNrVWhUrQ3we0Xd6RLusfnDj4cHSc-Ct5GigerCPeiMdC8AFIDHp2abtR-Cg1loF2as9_-rLja4QkbnpgyEx0CrCiA9yCNGgnklavb_l_RJlxOljskriy00gXcPAIH--ySX84Mb-aEok7nauzxkTcCyjlfLGfxfs8vtn8iB3NZmr__-3ndtOn8ceFVO_YFhcyZrbYTN2yusWTZd--zWAdW7_5uKHWdnL_9QK13sGNDn7lvWCMDsaUw5nvhWGewEr0r3pfNWHIipAkrtfUATDONhgdGw-HLrZ7WSMMMnxEV5qew-_5SYkawwXG5U901LHQ1ngKTV6bg3h552TBhTjnRxC2s0XUocwpM_XIrWQEhljxdzdZ-Q7jhJBg6HDTmvOUaP8RNJNxT0jXPLGF45PvwzmM9yHReD9mhWcSOTAaWa3l60c8OTtqIMYISNxyBEst2fgQHDmauN2dk-H1eYWI5la641oNIYruCZlpibeMQiNzPuMrCDmVsSuOl7xOXfzIITbcYqVB0gz71LSWQskcx8LLhOfo6Xbg3Je8wHyHv4zDY6UGt15KrvpORU9aeqZK3g9Ib0mncknwhK2dFzCyZJAgCeWq1_GwcUSp1RavuMccmsZSMc1tBlpRRv8dMonUhbl-zn8B6gb4PFmpjSdQmJHZrwocrC8zaJt8oV68js6lnSafUcOA157fA3u_Yepi4zeEguJmHoqzlpXczg78P88RvTqrj5DskufMGsOQrZyFQPSdUzwj5eVlKejXRMjENCpAVpcuEWXi88WXltVg_1J2F7l1Y-8nEZvoWOP6RSMMVXJqmtXHO0xh4_gzi8_v1CwmNUhYv2tbpgoJkJGvrfnsHBRgOb9ksvb7fdwh59xIptzRvINPfPlppSYnEA==",
+   "status": null
+  },
+  {
+   "id": "ws_0952dc2287bd2be7006af7603f9b9887d289792664936c95de",
+   "action": {
+    "type": "search",
+    "queries": [
+     "site:equivalences.cfwb.be diplôme étranger enseignement supérieur travail profession réglementée équivalence master Bruxelles"
+    ],
+    "query": "site:equivalences.cfwb.be diplôme étranger enseignement supérieur travail profession réglementée équivalence master Bruxelles",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0952dc2287bd2be7006af76041807c87d28c7dd8a03960955f",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92CFExluM39yO7PmICZpCGgqTkjB80cV-qowqNJ9veaBX-DidzXzeUGnWtQJxQAEPzlw7DmRrxgAXVjqO5g7kaEpt8IboI-5w-IaA4N-pozsAxtdF2NgG-mTXamYcVLH1RysrYrfWASSiouyTadc0rHEbWAZUrbYNP170k7Ggl2khU1WYcHm0sTXWMNz1LBQ89W6susALP8jiCssB_Dk7p3fsEPctV9I1vd8KDwtDRMYYYecmcO4get2nA11Y6CGEOj9G8zurujsFMNhXWsjTi69b5zjX3wlIJFX3nw2yaNzlVCdzA18Nm6rdGpffUwrNZz3Xi9F6Ru1Jy6dYLvaXskN-gAT676jhnB45p5J1y9FS5vw8XznjPut4HMPA_7LNaKRzowEEch6YmffsoVV17mexjTUKaNcCj2dSuSuXEED5BRIkPOUhbuytTqNKiTOa1FDlLxHWjw8mltGrCIhste7sfsi74aTDj-th4ZrdENGfW2E6URB4HLVd0gGWLJECl494thOAABpaEYGAJ76Sd9EBv_dhz5BUG8X6o0wQTDdQkAvgKhrrE7vQ4TzOu2Eg8vt0otNbPwa07mohlLyWTG5ScNtvteleEn0mpYMBjd2EaIBy4bsbbvXnLwkDfh1jze7EHRAH2dAYtK0ueQEAzwL5UF0jMiJe9DplbXB3zU0dD8vXNBDRXE2cfVfLPgeIvUJh-VaWK0-yQAQv67hNGLtApBA78PrD4XfY21ozUuT02lLgxuXP6MEPbNEVQuJhh9MDeAMr3sRsLlFhDoyiQ-8DGSHav3FT3YF94m7YPrnnOVSyjHNm3k54y4JKZDlJ1VcL0tIkQFnzjLwKG2oT8lYPqC9JqCriOAsHaObz33YDckNpqPJ8IplJmt_YCw3EL_GYCjxBkrSKybheiL3ZrZqZ9q_7vf8qHKy-N_D2awnudGWxoz15XIV_MeWcIV14WZhP9rfTR_3zsf1fDXG7on-npY_sTbQbT3R1E4fBN-UQKWUgHubb4n-1y6aCQgE9QbgEBIG99jD5ulm5jN7xU7Ve3J5mgNALi8LWYJwYAttcCeiTqLYxbNyfLkvCBsq-oryl8MdTX3xPC8uRsXXulJ6Ltg5i7g2SvcJh0qqWhM-YuJ7hcW3Rl7IW1q4VzcyZTUZqqfO64ulEzetMe3zo9UMWO8AlVBM8jcQVnqPjG_1eVSD_D7icdafNuGEeOmsl2iGQkuI69wewIpAJoneH3Zc2n64_Bhe6QR-U_JGNgUgyDjyjmq2aVI-6XXMzkbLU_0BglTI5JDPdUKqjmKdaCgxzWJ2TfOBdiJXBgk2X5uPAk-a31pZIX_K-0l838iFd6LVbAZUqeZCbMV465IpW84sgm5H_qOp4nAwvUNA_H0285qv4X4akFRTMSU3M4KKSgS0egXG7G2HoguPNsQ99rjqx4Ve55Df4e-WwWlllrRWhqcI2OA8HBeUpx_rwn_m7qSGT9f2hb4k0e4dyat17dliWirWBEml7soJjMQg7_pCace5K-iWJ9yfGavjWUJGVSczp3LAUz0ZPN0EZVvpcNsy7y8iBbsOESl_7cbmGtzAPvhCPUMrmxqIQEYyoT3wpt3OJ5q8u1SQZoSI96DujY2i1Q6ggfg8gmTI4vRUBScGlXKWjISgmSdyaGOL0JURJRm5y-oo3B9_R0oRKI_5qHJMFcb3BjzNi8G8_TeCjQlO4ujjLqfd1BOhTCOCfJ0cfBdO",
+   "status": null
+  },
+  {
+   "id": "ws_0952dc2287bd2be7006af76041c43487d2b679115f98adf7bb",
+   "action": {
+    "type": "open_page",
+    "url": "https://equisup.cfwb.be/"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0952dc2287bd2be7006af76042e0c887d2831f6a83581dee04",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92CFaQ7LvZk1vRmwDh0X9AVn24V8QvgoVwFzZOC4uMGxq4rGbg-kSbYe9PY1OckiX5zfl8L-A7oEEbzZt_uEh7R5sj_d6nzXvNVOdilJHMr2-ck2n7owCFWXrLhtHl8FKLaReTuLEhLf9cqoejiBmgjNmfOyMGJTDvpRdxHOJhLc557yDeEf4TRXcjwHOUF-xQQuIRrx8wl3mbVNPLsfqC_Eb7qOlLy-Wloaob85HvJO2vY4yoYdH8jobfo41yKtOrCTfIdWD50xqzIhy-ZjNXtl2u0SwAemTccBdh0qBwgWe-F3Ux2rpSPIH7k2D1-L98mW-8t7_uJLtfn1LLKFx_Yq_1yalTDc_KY8rp3qSrvOhk6y_T7RKkRI11iEkCpKmzKoouV5fIy6I26cCpbSwa2n2UgxnzMO95jK2RjpUb7Ma97A-U1A5iI_a3EiT4drxQOOvk4uuGAKBX3EMEshbTCsm__yLNKdUqLIs7MydjCRAC4aE8_AuhFEoq0xCZvKEtgMOsOFa3qIK9860G7bLzokEqb7m7GKWv4MpuwJzkVBoztUH3RFpjBgtt9vNJiT5SRojsVrWwy0T7vNNqlSgBHX_MGdWhVeIdufow40MUMQ-YKgOcD-TUPNq3rSSEaZNwO31GqfxsFeQLCObB7P34-zCMzwtZgd1ga3FLjiTdi9ylK-eC_nlpsi9kESabCDAnEI0AoIud6Js0ZT7LiJDTcbOpputwRnAXWIRxzQ6eEs7m8bAa3Eu6KpQ1XzJ2IH7xV7YCnrJIRMCX9ck7-Heta6MJrSwgfQmMIN8Uxc4GpQy3NYIT1YHBvdP-pXJCcrtSXPv2M6kVwuySAqV7WLQ4HnWXIgQec5_hndkF8-LhwoRDAfzu1amHtp7z0mKX-XoCrFCtPv60i9AkJRzmPZARyUbejo2-8fuH7EOH2jN_A7GRxDquoQ4oiwx1GA1c3JXn3f3Px3CED2G_Z_HGks_G1C4z6ymvN_fiF9tGQcN0SYVHmzfi_VjriGWTDxLwVex4qvqrNdEeUqiWhIiwop6_94TqC2PW2OfeAEtTNnBYww9F67RdMXAG2xZg5o-Uz5TQY7wlWDaDOQSLhTMKRfnNPsXOKoZAXNVTVuPJvfN6hfeou2rlfOCJO-mam4QK6v_kQi5KyUN2_mAztnH9_yNqooB9_m724vVlUItNWTW5e4NvU7ZrRW6UNNiBtmFxm1B3g5560EC8g25ihrmNGMZqg9vs5W8DinfphCEfvWXvrReBDuHVSXXFcJYzg8KkEI5Y97ErMEgdEiyrrM8bUf9m_BjMj0WjWb1B7yn7CKWWn37H_8aKX28-D-65kQkdoyycPtZKfsdP70qHT-T0eWy-0tf7sVFfXdAqrtT_MtrfxPJK3uboI_d_YE0uQOqTRwA8SMl8Exu4ckU07cE628pDWsKXV2JceF1rwcr3M9rpwr9CyLFKI5IK7R-rgwQCoAUYpj_bmIAoN1WMvXss7Ompaz0SsWUBK4NjclGy1FTRoLj3rBgFO5Qn4SS9mev3AooShkdOjuEQHdEetDQTqjWNnmBi0WUCtJI819_WwYkM0tOYTW4lTDocgmA1Jo5sobKl1Wp_Yz189pJIwBLIYkq2SzKVGQumqRW0W2ZmkOv8892V-lgPPtp-0YNI-LaV-CJLkcjHqoGuAQygCwelJczeGqIKTPYihGmi5bcahfWpgbNk5UVHrt3ZQR8iF8jAvYtcE4LIFsjKRHOljk2kRGfdfst57Pr7m1vGIASbCchIB1_AU=",
+   "status": null
+  },
+  {
+   "id": "ws_0952dc2287bd2be7006af7604335dc87d29821ae048ae92bb2",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.mydiploma.be/"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0952dc2287bd2be7006af760441da087d29920da84a4c9aede",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92CFQs_Zc0WXFVCVmBu3UaP2LIihVa98IpK7VthA71eNFk3bDrVs6MG7MVnSHWUpTtmDpKsjUnMtGax5Gx01Q4qEXOYsFISPslVNRZTHimdpYpXnjfoJjnbInp6a11OP9bcdDiGy8HBaiNWdIujfo2cZBN5wqYEAHd2jd8ZpAs5YeLTfA5VeapTohOP6Uyy_HRxwe02CO3Dp7aI4_aHHMBCPL_JaccdN1giTRbRmMPj9RsjgcZCz4n9pF1dx_IRo90_hOB-gCn7NfRLb5KgX4PcyuqqkyD6v2a5ILUNS_LZkxY-ro2Ujbyr7a8AIng77YTeJuPCqcKFV1NFlkpGboF-14upUSf9xqnj6RHsMt4nVgO_G3FcZ7KURw-6F0XIVBmk-vpCALZuArqwxpjc_v3DMAidj8v9HjdUVv0aE3VH4SNTollvmWJ1498WJsqueg3JWoplJHQx5eG_5HiJKFI1uHBSFaJZiZXmOgaf_MPdtgRCA5Ld0x9JkS5dL9oXgmM4j7HJiGEGeMabs1Yw_l7WORPslncXmwSGlmkNYLSqh17Qcui5REIGDkNLVUURoJn7bi_T1_hQwhKzN9jmzdqKnxNJ8animnPluHQjA0yfHSJZaWKbGBesVaLd6y0wmMa_GNdrc1oFOPEZMLEr3PbrDTdKJ2Hkhpegvr0ggxGLV3OTE_OSq4ht2oBMEIMOVdDzftO3mZ5lOuhr2hiOfNV4zinJkc9BxgUB6z0BaEkpNR6KNMdmebe9aWfowO7WsDfJ3ue1ELVEgjqdk_GZPbxI-05UWhLmTPlcotQprQhEc1e4NmR4AQhpj1Gv96_3DCfmRnvosM1_Iio-sqNQUBC5onNeljWCWRlpzHd80mfyVKaW7AGqYu6385-djDUzRRJXselFA-jc70Wxr8Q7il5WPTA1yi1w3qcjKwADlwm5CQ2MKH8FqzAdue4hi-R4xjJ5uqA4k_CQiyOyStg4sG38XFB_ubNhrysCGuNyZAZaYKd0YOPSQCFnCnmNu9a_Mk6ck6vvbRw7aJvu61DuKfs8V6OZQv2PkvCEJ7Ndbj73mHjb8hqgAsKxjrYeG1OPn5f9g9QTrw1d8xYgsapBYuqAOjnnZPbr8KlC7WLt2fXLAJLZ8JqRYEKwefVfrDjxeqvwkdOCSTnIMCPCRZs3h1pumtUma8lZOznOt_fQp3babArWSvKy2kLFKj7BCXYw91J-Q9kBnF0mPg6SL6GRxytfwgSMp-ymBIPNOliu9LYk00XewfEgcrzVhk9VEySjcyw0ojQZ5et99oYfeNA8ZkdElooawBBO3tDdshDyufUwJC-VRILZ5W_71_ZTgyBlRyI8Pmt37CNQPi0FuDijNP4-g6QJR7d-4s4FjIwyms1HPKB7nFrlhQbEDj_9fI7_cZEgDN6GJbZnpWdHBPiODAk03UG-2JszJGBdJfUkEHS1Dyp8c2jM0FsjTJDLNxv9D2y31UYkymuRwIJlKOqFr1-xqBNQu0ik4GzK_J44Sm1i4SvD6rVvNlEo_bnkzvZC3n4F_gaTvmOhZ_bOM5bxkjaZtfy5siAAGckICRLNgJ_dDRGNjDQQGH6jL0aPu-OKbzbnHuVH7alieiIIKNVEafiNfPuCQddEV4LrS7e8DIauMTygVS6ryP2lZgaSYCb-rPfrBwptYayEwNGmFXKnY2xGqUh4JzA75zltaN0IfxdlpxTnylTjMXtOrPq8RJOhpDAj8pdrwnocj90z0orBVTnycN0Ot2ifcRjTq5cOyUdHSVgCWCuJ5fY14h0a8xZ2MkCCKDc2fNsKKcafgTNU5jSXEcjniIy_9zSaOBSohUqOHe_6u3JcJhNdv81HSuHcIqjOoTS_5THMTaNVhkRGmJcSDIGfOxXE6dDDm6eLZYAK4q0gqE56nH377smMe90LEB6EXeDZZO97SfGkowmvvy1RyhfBiiZqf2wiaAQc5XX7f2lIdld69et5ToJFGQGfFsCU1a_WlN6fGYZ99gl8esC30YQAzJTnx9Zf5op8zjIrSJCu0c7OiGpEw26SJW2zThfp1pNOislRWhmSJlQ0hL7ZcMREulCaCpIKtD74CW831yHne8wy3qxqohz10EFNOiH8SFq3byaKc_IsZdPwKs0cSAKUf8roYiLmm_lrg3FWsmkfHS7IyP01swOEek9-Na6CGqPm0Lo62UqWbFfDf_nfNYjt39OOsFzsujKCvHML-fgncv-IrYqIZGNfA7Nr65Hf-_gcYtYafOMZDkUc_-_ioWevQq1iA1NF-bD8cXxxj3DLOe6_kHFbJE3c-IvceRaZdiyNyDC1gBS2LkfG9ui-vnNR6cqyERRiU-E7HD1jD-onp2CBlPLiLw4-pIE4Orn7ZYil9ETBNX9U3t4vQp2HYtKJLVKHTvhafo-5tIoPJnkEsTB0OHmh1uSjKFpGZpwpTnl9YlfS0KdfFUrBHgUIfoMDLvfMqDXGi9m3r3Y8rnwkcY6RyRftj36YqsnNd0WFdwK4dO6vGAY_7qrMg1uICg35zlBtT-BAXPnHmG-Nw9FIgga3GkKfNBJvDyU6NWoIFXFXYPjoBbkADIc6PSUTLTuyLh9ex5IR5fgumELJw1ljAfqWsgj5kez0qzykw312s_L-cm3BxetBuYAGV4rSAnvm4k2J0AdIuGEi-1U4UjaYfHNi3mfnFYjaeVHdNiPZdnMuAkvfE_4cCATjunX0_TK7AGKLodSNG2FSTV_X5PWcNWAOzn2unWicA7h-VzgNjIosCa3q9rPD8Guag4f6l25cmLtBbmOGM-m3I9yPAHnlklkmQmOMPJoZkSMo4iDSAyYgkM6eYH6Px8XmnQXCEVLRb4zFx1H0O6n2Tx2KycJ928vAbUoni2LV-FFNLQtYhsH98908CJtcoI_ps0iVLYmM45oc1bSHpAbi1XBBAY3IqzNIS6WUn_qi1w4Xe7BtsJTV668-NydP8z1v0KHOsO20YfBTOfSeylGmeIK-XFrE=",
+   "status": null
+  },
+  {
+   "id": "msg_0952dc2287bd2be7006af76046839087d2acd7498915b34e1a",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 839,
+       "start_index": 723,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/"
+      },
+      {
+       "end_index": 1585,
+       "start_index": 1542,
+       "title": "I Have Studied Abroad, Diploma Recognition May Interest Me. - Mon Diplome Mydiploma",
+       "type": "url_citation",
+       "url": "https://www.mydiploma.be/"
+      },
+      {
+       "end_index": 2082,
+       "start_index": 1966,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/"
+      },
+      {
+       "end_index": 2690,
+       "start_index": 2524,
+       "title": "Met een buitenlands diploma werken in Vlaanderen | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/met-een-buitenlands-diploma-werken-in-vlaanderen"
+      },
+      {
+       "end_index": 3539,
+       "start_index": 3423,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/"
+      },
+      {
+       "end_index": 4851,
+       "start_index": 4644,
+       "title": "Gelijkwaardigheidserkenning van een buitenlands diploma in de 3 gemeenschappen van België | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie"
+      },
+      {
+       "end_index": 5201,
+       "start_index": 5116,
+       "title": "NARIC-Vlaanderen | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/ahovoks/dienstverlening/naric-vlaanderen"
+      },
+      {
+       "end_index": 5586,
+       "start_index": 5507,
+       "title": "Equivalence of diplomas | Brussels-Capital Region",
+       "type": "url_citation",
+       "url": "https://be.brussels/en/education-teaching/equivalence-diplomas"
+      },
+      {
+       "end_index": 5908,
+       "start_index": 5829,
+       "title": "Equivalence of diplomas | Brussels-Capital Region",
+       "type": "url_citation",
+       "url": "https://be.brussels/en/education-teaching/equivalence-diplomas"
+      },
+      {
+       "end_index": 7136,
+       "start_index": 6929,
+       "title": "Gelijkwaardigheidserkenning van een buitenlands diploma in de 3 gemeenschappen van België | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie"
+      },
+      {
+       "end_index": 8228,
+       "start_index": 8112,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/"
+      },
+      {
+       "end_index": 8624,
+       "start_index": 8417,
+       "title": "Gelijkwaardigheidserkenning van een buitenlands diploma in de 3 gemeenschappen van België | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie"
+      },
+      {
+       "end_index": 9503,
+       "start_index": 9337,
+       "title": "Met een buitenlands diploma werken in Vlaanderen | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/met-een-buitenlands-diploma-werken-in-vlaanderen"
+      },
+      {
+       "end_index": 10158,
+       "start_index": 10042,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/"
+      },
+      {
+       "end_index": 10647,
+       "start_index": 10481,
+       "title": "Met een buitenlands diploma werken in Vlaanderen | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/met-een-buitenlands-diploma-werken-in-vlaanderen"
+      },
+      {
+       "end_index": 11569,
+       "start_index": 11362,
+       "title": "Gelijkwaardigheidserkenning van een buitenlands diploma in de 3 gemeenschappen van België | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie"
+      },
+      {
+       "end_index": 11945,
+       "start_index": 11860,
+       "title": "NARIC-Vlaanderen | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/ahovoks/dienstverlening/naric-vlaanderen"
+      },
+      {
+       "end_index": 12262,
+       "start_index": 12183,
+       "title": "Equivalence of diplomas | Brussels-Capital Region",
+       "type": "url_citation",
+       "url": "https://be.brussels/en/education-teaching/equivalence-diplomas"
+      },
+      {
+       "end_index": 13312,
+       "start_index": 13196,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/"
+      },
+      {
+       "end_index": 13581,
+       "start_index": 13502,
+       "title": "Equivalence of diplomas | Brussels-Capital Region",
+       "type": "url_citation",
+       "url": "https://be.brussels/en/education-teaching/equivalence-diplomas"
+      },
+      {
+       "end_index": 14067,
+       "start_index": 13860,
+       "title": "Gelijkwaardigheidserkenning van een buitenlands diploma in de 3 gemeenschappen van België | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie"
+      },
+      {
+       "end_index": 14316,
+       "start_index": 14231,
+       "title": "NARIC-Vlaanderen | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/ahovoks/dienstverlening/naric-vlaanderen"
+      },
+      {
+       "end_index": 14730,
+       "start_index": 14564,
+       "title": "Met een buitenlands diploma werken in Vlaanderen | Vlaanderen.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/met-een-buitenlands-diploma-werken-in-vlaanderen"
+      },
+      {
+       "end_index": 14940,
+       "start_index": 14897,
+       "title": "I Have Studied Abroad, Diploma Recognition May Interest Me. - Mon Diplome Mydiploma",
+       "type": "url_citation",
+       "url": "https://www.mydiploma.be/"
+      }
+     ],
+     "text": "Hier is het praktische onderscheid voor iemand die **in het Brussels Hoofdstedelijk Gewest woont** en een **masterdiploma buiten de EU/EER/Zwitserland** behaalde.\n\n## Korte conclusie\n\nEen officiële erkenning/gelijkwaardigheid is **niet altijd verplicht** om in Brussel te werken. Ze kan wel nodig of sterk aanbevolen zijn afhankelijk van **de werkgever**, **de sector** en vooral **of het beroep gereglementeerd is**. De Brusselse officiële informatie zegt dat bepaalde beroepen erkenning/gelijkwaardigheid vereisen en dat je die “waarschijnlijk” nodig hebt voor werk in de openbare sector of in een publiek gefinancierde instelling; voor gereglementeerde beroepen bestaat een aparte procedure van professionele erkenning. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/))\n\n---\n\n## 1) Is officiële erkenning/gelijkwaardigheid altijd verplicht om in Brussel te werken?\n\n**Nee.** Voor veel **niet-gereglementeerde functies in de privésector** beslist de werkgever zelf of jouw buitenlandse diploma volstaat. Diploma-erkenning kan nuttig zijn om je niveau objectief aan te tonen, maar is niet per definitie een wettelijke voorwaarde. MyDiploma — een Brusselse infowebsite over diplomagelijkschakeling — omschrijft diplomaherkenning als een officiële beslissing over de waarde van je kwalificatie ten opzichte van het Belgische onderwijssysteem, maar zegt ook expliciet dat erkenning “niet altijd essentieel” is en dat er alternatieven bestaan om competenties te laten erkennen. ([mydiploma.be](https://www.mydiploma.be/))\n\n**Wel vaak nodig of vereist** in deze situaties:\n\n- **Openbare sector / publiek gefinancierde instellingen**: vaak wordt een formeel erkend niveau gevraagd voor aanwerving, barema, graad of looninschaling. De Brusselse Commissioner-site waarschuwt dat je waarschijnlijk een erkenning nodig hebt als je in de publieke sector of in een publiek gefinancierde instelling wil werken. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/))  \n- **Gereglementeerde beroepen**: als de wet toegang tot het beroep of het gebruik van een beroepstitel beperkt — bv. arts, verpleegkundige, architect, leraar, psycholoog, vastgoedmakelaar, notaris, advocaat enz. — moet je de passende erkennings-/toelatingsprocedure volgen. Vlaanderen.be stelt bijvoorbeeld dat wie met een buitenlands diploma een gereglementeerd beroep of beschermde titel wil uitoefenen, het diploma moet laten erkennen. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/met-een-buitenlands-diploma-werken-in-vlaanderen))  \n- **Werkgever vraagt het uitdrukkelijk**: zelfs voor niet-gereglementeerde functies kan een werkgever of selectieprocedure een erkend diploma of erkend niveau eisen.\n\n---\n\n## 2) Welke instanties zijn bevoegd voor Brussel en hoe kies je?\n\nBelgië heeft geen één enkele nationale diplomadienst voor alles. **Onderwijs en diplomagelijkschakeling behoren tot de Gemeenschappen**. Voor Brussel betekent dat vooral: de **Vlaamse Gemeenschap** en de **Franse Gemeenschap / Fédération Wallonie-Bruxelles**. De Brusselse Commissioner-site bevestigt dat de taalgemeenschappen bevoegd zijn voor diplomaherkenning en verwijst naar de bevoegde diensten van de Wallonia-Brussels Federation, de Vlaamse Gemeenschap en de Duitstalige Gemeenschap. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/))\n\n### Voor Brussel zijn vooral deze twee relevant\n\n| Situatie in Brussel | Bevoegde/gebruikelijke instantie |\n|---|---|\n| Je wil werken bij een **Nederlandstalige/Vlaamse werkgever** in Brussel, of in het Nederlandstalig onderwijs | **NARIC-Vlaanderen** |\n| Je wil werken bij een **Franstalige/Fédération Wallonie-Bruxelles-omgeving** | **Service des équivalences / Fédération Wallonie-Bruxelles** |\n| Werkgever is **tweetalig** of Brussels/federaal en aanvaardt beide | Vraag aan de werkgever welke erkenning hij verkiest; soms kan je kiezen |\n\nVlaanderen.be zegt expliciet dat de plaats waar je de gelijkwaardigheid aanvraagt afhangt van waar je gaat werken of studeren, dat elke gemeenschap eigen gelijkwaardigheden aflevert, en dat een erkenning van één gemeenschap niet automatisch geldig is in de andere omdat er geen algemene wettelijke regeling voor wederzijdse erkenning bestaat. Voor een tweetalige werkgever kan je volgens Vlaanderen.be kiezen tussen NARIC-Vlaanderen en de Franse Gemeenschap/Fédération Wallonie-Bruxelles, maar je vraagt best vooraf aan de werkgever welke optie die verkiest. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie))\n\n### NARIC-Vlaanderen\n\nNARIC-Vlaanderen is de dienst die buitenlandse studiebewijzen erkent voor wie in Vlaanderen wil werken; de Vlaamse pagina vermeldt ook expliciet “werken in Vlaanderen of Brussel” en biedt een begeleidingstool om te bepalen wat je moet doen. ([vlaanderen.be](https://www.vlaanderen.be/ahovoks/dienstverlening/naric-vlaanderen))\n\n### Fédération Wallonie-Bruxelles / Service des équivalences\n\nVoor de Franstalige Gemeenschap verwijst de Brusselse officiële pagina naar de **Service des équivalences** voor secundaire en hogeronderwijsdiploma’s, en naar de Franstalige onderwijsportalen voor equivalentie, authenticatie en legalisatie. ([be.brussels](https://be.brussels/en/education-teaching/equivalence-diplomas))  \nLet op: de FWB-site voor hoger onderwijs gebruikt een afzonderlijk platform/procedure voor hogeronderwijsdiploma’s — vaak aangeduid als **equisup** — maar de officiële algemene Brusselse pagina verwijst je naar de FWB-equivalentiediensten. ([be.brussels](https://be.brussels/en/education-teaching/equivalence-diplomas))\n\n---\n\n## 3) Verschillen per soort job/procedure\n\n### A. Niet-gereglementeerde job in de privésector\n\n**Voorbeeld:** projectmanager, marketingmedewerker, data-analist, HR-consultant, softwareontwikkelaar, onderzoeker in een privébedrijf — tenzij de functie wettelijk aan een beschermde titel of gereglementeerd beroep gekoppeld is.\n\n**Wat geldt?**\n\n- Een officiële gelijkwaardigheid is **meestal niet wettelijk verplicht**.\n- De werkgever mag zelf beoordelen of je buitenlandse master voldoende is.\n- Een erkenning kan nuttig zijn om je diploma te vergelijken met een Belgisch niveau, bijvoorbeeld “master”, en om discussie over je niveau te vermijden.\n- Als je in Brussel solliciteert bij een Nederlandstalige/Vlaamse werkgever, ligt **NARIC-Vlaanderen** voor de hand; bij een Franstalige werkgever de **Fédération Wallonie-Bruxelles**; bij een tweetalige werkgever vraag je best wat men aanvaardt. Vlaanderen.be bevestigt dat elke werkgever zelf kan beslissen van welke gemeenschap je een gelijkwaardigheid nodig hebt. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie))\n\n**Praktische keuze:**  \nAls je geen concrete werkgever hebt, kies je best op basis van je doelmarkt: Nederlandstalige/Vlaamse vacatures → NARIC-Vlaanderen; Franstalige/FWB-vacatures → FWB; tweetalig of onzeker → vraag advies via MyDiploma/Actiris/bon/CIRÉ of vraag vooraf aan de werkgever.\n\n---\n\n### B. Job in de overheidssector of publiek gefinancierde sector\n\n**Voorbeeld:** gemeente, OCMW/CPAS, Gewest, Gemeenschap, federale overheid, onderwijsinstelling, ziekenhuis met publieke financiering, gesubsidieerde vzw waar barema’s aan diploma’s gekoppeld zijn.\n\n**Wat geldt?**\n\n- Een gelijkwaardigheid is hier **veel vaker nodig**, zeker voor:\n  - toegang tot een bepaald niveau of graad;\n  - loonbarema;\n  - selectievoorwaarden;\n  - statutaire benoeming;\n  - erkenning van “master”-niveau.\n- De Brusselse officiële informatie zegt dat je waarschijnlijk een diploma-erkenning moet aanvragen als je in de openbare sector of in een publiek gefinancierde instelling wil werken. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/))\n- Welke gemeenschap bevoegd is, hangt af van de organisatie/werkgever en de taalrol. Bij tweetalige werkgevers raadt Vlaanderen.be aan de werkgever te vragen welke erkenning hij verkiest. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie))\n\n**Praktisch:**  \nLees de vacature zeer precies. Staat er “masterdiploma of gelijkwaardig erkend diploma”, “niveau A”, “diploma erkend door NARIC”, of “équivalence de diplôme”? Vraag de HR-dienst welke erkenning zij aanvaarden: NARIC-Vlaanderen, Fédération Wallonie-Bruxelles, of beide.\n\n---\n\n### C. Gereglementeerd beroep of beschermde titel\n\n**Voorbeeldberoepen:** arts, tandarts, apotheker, verpleegkundige, vroedvrouw, kinesitherapeut, klinisch psycholoog, orthopedagoog, leraar, architect, advocaat, notaris, dierenarts, vastgoedmakelaar, bedrijfsrevisor, accountant, landmeter-expert, privé-detective enz. Vlaanderen.be geeft een lijst van gereglementeerde onderwijs-, gezondheidszorg- en andere beroepen. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/met-een-buitenlands-diploma-werken-in-vlaanderen))\n\n**Wat geldt?**\n\n- Hier gaat het niet alleen om “mijn diploma is gelijkwaardig aan een Belgische master”.\n- Je hebt vaak ook **professionele erkenning**, **toelating tot het beroep**, **visum**, **erkenning door een beroepsorde**, **inschrijving bij een instituut** of een andere beroepsspecifieke machtiging nodig.\n- De Brusselse Commissioner-site maakt dit onderscheid expliciet: voor gereglementeerde beroepen is er een andere procedure om erkenning te krijgen om het beroep in België uit te oefenen, namelijk professionele erkenning. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/))\n- Voor een diploma van **buiten de EER/Zwitserland** zegt Vlaanderen.be dat je, als je een gereglementeerd beroep wil uitoefenen, een gelijkwaardigheidserkenning moet aanvragen bij NARIC-Vlaanderen, behoudens specifieke uitzonderingen zoals erkenning in een ander EER-land plus minstens drie jaar beroepsuitoefening daar. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/met-een-buitenlands-diploma-werken-in-vlaanderen))\n\n**Belangrijk onderscheid:**  \nEen **academische gelijkwaardigheid** zegt iets over het onderwijsniveau of de overeenkomst met een Belgisch diploma. Een **professionele erkenning/toelating** geeft toegang tot een beroep dat wettelijk beschermd is. Voor gereglementeerde beroepen heb je vaak beide stappen of een gecombineerde beroepsspecifieke procedure nodig.\n\n---\n\n## 4) Wat moet jij concreet doen?\n\n1. **Bepaal eerst je doeljob.**\n   - Niet-gereglementeerde privéjob?\n   - Overheidsjob?\n   - Gereglementeerd beroep?\n\n2. **Vraag aan de werkgever of beroepsinstantie welke erkenning nodig is.**\n   - Voor Brussel is dit essentieel, omdat Vlaamse en Franstalige erkenningen niet automatisch onderling geldig zijn. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie))\n\n3. **Gebruik de juiste dienst:**\n   - **NARIC-Vlaanderen** als je bij een Vlaamse/Nederlandstalige werkgever in Brussel wil werken of als de werkgever die erkenning vraagt. NARIC-Vlaanderen vermeldt zelf dat je de begeleidingstool kan gebruiken als je wil werken in Vlaanderen of Brussel. ([vlaanderen.be](https://www.vlaanderen.be/ahovoks/dienstverlening/naric-vlaanderen))\n   - **Fédération Wallonie-Bruxelles / Service des équivalences** als je in de Franstalige sfeer werkt of de werkgever een FWB-equivalentie vraagt. De Brusselse officiële pagina verwijst naar deze dienst voor equivalentie van diploma’s. ([be.brussels](https://be.brussels/en/education-teaching/equivalence-diplomas))\n   - **Beroepsspecifieke instantie** voor gereglementeerde beroepen, eventueel naast NARIC/FWB. Denk aan gezondheidszorg, onderwijs, architectenorde, balie, ITAA, IBR, BIV/IPI enz., afhankelijk van het beroep.\n\n4. **Voor een niet-EU/EER-master:**  \n   Reken erop dat je documenten meestal grondig onderzocht worden: diploma, puntenlijsten, officiële vertalingen indien nodig, bewijs van erkenning van de instelling/opleiding in het land van herkomst, identiteitsdocumenten en soms programma-inhoud of syllabus.\n\n---\n\n## Officiële bronnen gebruikt\n\nDe belangrijkste actuele officiële bronnen voor dit antwoord zijn:\n\n- **Commissioner Brussels Europe & International – Recognition of foreign degrees**: bevestigt dat de taalgemeenschappen bevoegd zijn, dat procedures afhangen van diploma/beroep/land van herkomst, dat publieke sector vaak erkenning vraagt en dat gereglementeerde beroepen een aparte professionele erkenning vereisen. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/))  \n- **Brussels-Capital Region – Equivalence of diplomas**: verwijst naar belgium.be, MyDiploma, de Fédération Wallonie-Bruxelles en NARIC-Vlaanderen voor erkenning/equivalentie in Brussel. ([be.brussels](https://be.brussels/en/education-teaching/equivalence-diplomas))  \n- **Vlaanderen.be – Gelijkwaardigheidserkenning in de 3 gemeenschappen**: legt uit dat elke gemeenschap eigen erkenningen aflevert, dat die niet automatisch in de andere gemeenschappen geldig zijn, en dat je bij tweetalige werkgevers best navraagt welke erkenning gewenst is. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/gelijkwaardigheidserkenning-van-een-buitenlands-diploma-in-de-3-gemeenschappen-van-belgie))  \n- **NARIC-Vlaanderen / Vlaanderen.be**: officiële informatie over werken met een buitenlands diploma in Vlaanderen of Brussel en over de NARIC-begeleidingstool. ([vlaanderen.be](https://www.vlaanderen.be/ahovoks/dienstverlening/naric-vlaanderen))  \n- **Vlaanderen.be – Werken met een buitenlands diploma / gereglementeerde beroepen**: onderscheid tussen gereglementeerde beroepen, beschermde titels, niet-gereglementeerde beroepen, en de procedure voor diploma’s van buiten de EER/Zwitserland. ([vlaanderen.be](https://www.vlaanderen.be/onderwijs-en-vorming/diplomas-getuigschriften-certificaten-kwalificaties/met-een-buitenlands-diploma-werken-in-vlaanderen))  \n- **MyDiploma.be**: Brusselse informatie- en begeleidingssite die uitlegt wat diploma-erkenning is en dat erkenning nuttig kan zijn maar niet altijd essentieel is. ([mydiploma.be](https://www.mydiploma.be/))",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794596996.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 27656,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 3567,
+  "output_tokens_details": {
+   "reasoning_tokens": 460
+  },
+  "total_tokens": 31223
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 2
+  }
+ }
+}

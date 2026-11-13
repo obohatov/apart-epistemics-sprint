@@ -1,0 +1,372 @@
+{
+ "id": "resp_05770df75d7fcd5e006af762e937f487d2b7e2b1615de82e48",
+ "access_programs": null,
+ "created_at": 1794597609.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_05770df75d7fcd5e006af762ea416487d2ba79c85b3d2cf9dd",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92McZ1MFOYD_NsioTcE8cr6QQCLw1FyhRO9o184MDLb5N-U3cbShI8EQEDXZ872o47uT2pV8ypkTt3DKxY6iKo_wVaGK6KqeGvNI740AsAt6Zuu6mhir1E9T4npPORkXeLnZyuk-veu7QYOwRQShW_gJ23WYSTIz-OXwYhvRsvcFnLFO-M78OqSptslKaxOgcJPuEHcME3pOxippxjfD_EwRU6Li5MAUDqu-bmomlQ9Vl0zd8QTGFb_44gtaHsyyKpn8wanTUzKSo_qZUJwdsqGou5RaLOnbo4whNZ0umSEKYBDX4wUi3NlNzBJM8uMBbYOqXBEpNy3Rd0QyjWM6lNWFK1wIpS5vaQ4ORTZ8tRHBLRZ9TWC7JM-zwD7ahwxlPlKX5B6WFPrnQinAdfB2o6DuZROTj1vg1g13MfLqV_su55J6z6ARjKXSoX1WaMWxazpMq36KLdO-8Olm1gouBzhIbB2Xdu8Q_kSHLwFsH9aAiAFNnizMdCprFuQN5yifyqtBPG_yYK8ZFxQkMaxnCYVt8SXS3axmRavi_zzwz4ORqpWFhT9bgShdk_s7JVZ8e3i1yi1w-Jc6eXy9Rptf7xNDt-b9fpdFovsIzvor8D8OsIWgLWNXlTLyzERrrg1mMWD-l1m16q_GwDkkOxc3TdNHzNFE4bs4PR6XkkPHQYCHSVs26KdGx9GcWpcjcam0bueTRMEFDccuc_wRslXw-tmLDf2zmLYX1Lu1nMVaW6bhHscPjMxIh0JZrK2azVrWOZkKxs3Ld527QN2nSTCFJJHOcvq__DqKkIom0IdRSkcE9HTxv3Dn45m8EjSd4fnTDa4r10MaQs8m75nc7cnaH2Qt6K3t5r8o0-A_vY1AKXuHHQ0I1aDOekT9ksS8ktK8oOdRX4E5YKSVmdI3jsj8SfuBYCe7HyLhjhja2FWz0Qugsa6zRgLEy-aP2ELdcLfLw3X5BBW_dHRxsCh7pu0QzJCzI-VI7CjbTT95njstFqtXCQ03ewapVQJH7nM-I0uUUhNwE_5vfHelpNsy2T2QHJfcXMvgu96o0z7M4ieEZWexJoBJreOxfLmeeJNK4YHfA9hgFzq0B966cHVytdh4FuqvsnlwLS4GUV3vHfrtKMKjMwKRUEI0N-tBrSGqozvc2G_ftGTspVkPp7KWdOkb-w3wO8SDWx6PQSCdD11kODUeteodaDXpPuV8IlUvN4b3Xos-RE-1HE2GTo-xqlNbnxQ9W6TdmNY2dZT1SOVisPtDU58eVUyRiF5r5CNrqg4wfwOOzjIXR-LR_D_7oR6P3lltBM2EOoG4kuj2mrhoX6GFX_s8bgpMH1_64pMUoR8j17sEmHqYQPOz7pyUG6jTBjXmHd7uAzT5wBmAe6ClNzBMC1q_qHO3LuKMkJ6yO6kLyDdhVrGzRT9X1f4LRjW_i2S7VW9a7_TS0807k9laIS4RZIbh7b_QeGGBK0iUuMRhmaFLFBYIvm3NegRYAh0vHUFtXuVj80pYINu_spDG0tCnj-yJ6Dry6J8Xd9wSzFj8QeWgC1KO9smfZ1qDnnJaCg88hbMn9GrpFfR-WrzTeyg5BxmTIPiLH4H_Tf1EXdXBpHmGoJQQuvlFc4XUEAe73uNXxECjkra3_vRrTKLlmbpEzk9uiqX76YfPdku76DCOgVO_k4Wa2FycMtJt2jMKuKP_-PX3G2RQDyj62dnJfpqsziBD5N4R6L5F-EB07J117FYMX9Mvr-2hrOu0nhFCSgg_sI9QblBGkaEF8EXxUNk28CE=",
+   "status": null
+  },
+  {
+   "id": "ws_05770df75d7fcd5e006af762ea89e887d2912622e1fd6bbe18",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussels unemployment benefits register job seeker Actiris deadline apply Belgium ONEM 2026",
+     "ONEM complete unemployment after employment C4 application deadline benefits duration Belgium",
+     "Actiris inscription chercheur emploi délai chômage Bruxelles allocations",
+     "Bruxelles formation VDAB opleiding werkzoekende behoud allocations chômage dispense"
+    ],
+    "query": "Brussels unemployment benefits register job seeker Actiris deadline apply Belgium ONEM 2026",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_05770df75d7fcd5e006af762eea87c87d28f69d26f7d3e47c3",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92MctsVndSvD6Hpmu5eiMBHyKFBlghKAUbHBUr27pfIfmEPeUdlw1Bb7CiXI8tp6q4c5Q1IMf613nfU_AKQnsIkLJ5mmgT5h6K0gimuRRdVUnxBTVKpDrgVB5xsDAKQn786USDjK6zmC-hYaueb3-KIJcwWRviXZLNDgetHoAUa_FTX9as_PPlM0NfDmsM-MiFX6p3-xE-bIkIXF1peanHoHAyt9ruVOMaJiLX8Qvw-1uwrxkj97HOAY83WOhQKylR7Q15XUy_JKI1Tbx1aWBIZUa290s4dn2Rtyg5nBPpCLk1JKa4m6Lh_CbrP84BhQKuiaBbCwpLkw1-8VMgliK5NcPB5mJBo-P0H9Q8dmqB6KLumAEN7QlyHGBoMDbrBAAcgDpxCQGs5GJ0ZiR7O7nBHBg3E1AYUsLQnnDYdPVB7pPSNO0QAtD2qvOxdQRxCTB2GQpGxZGGSXukEx87z2IVbxyuuZ865sY6NyjKIEeF2TVKYSN47w8ocO87Otujx0Vx30TAas9tDQjhG01JJzcK0NJE8ODLiony3F5T6Xjt1t7MUV3jUwiqRglPbEPBXCi_vIl8lUPq9kpUxNsfSbTiiQZb97w7BJGkqSdJUwX3vtl-juwF9-hNY5LIbZW0jRg9Ms84FiT1_jX7CV6O7DGQOAoatHA6QdKC107DfB3y35mzJp_Lj-R2VGgpYQqUS47-g5C_jmv2iGI9S3ofzo9J9MtYtTISZY0OdTIpgW_-gIFf7glGwBLovyUYpZzFFVt8twTYxYJgMMzsO5_u-Ah3TlongQf_XcQ06414zy9QxTXoltjuXfmjq74nMFReMOiCz4gfI_hctA6les60uaKQ_pErq-6DwYJnB6kaUN_D4xT-do-bHU373eBE97ADnL0Cxut6_kw0FOoGDRwmrPqyOcGb1G1O0fNydu-2K4eU1Bu1oFvnG7dLmE4jQXRzSu3rn4TkYM__ZfBT-8ghfXIKe13SJqIJYJLZ_qOHoM55abz8yqj1SvpQSB-9c8QS1uEaE76xw_lrscFHMUDXjg5xibRDzDv9F4yvCRP51ermGyey4UfeRdPOz5dWd2dUY-0Syr3cl8F3AKAUXVFVPSAz16F-HOOvQXDbtldPXNg_TZDC19gd67qOeHCpw8bj6hdL0m4qz5qlRASv7uoZWylrsMZIn34vlR5nGtIQGerJcmcfXPv8rlxCKcb2xrBfX2_NwlbLIvNY0L6rHsU2D_Yq3UwALapsjh64_Dk25K6KfUp953i7kvQYbEAGjeWRKQIeBLRkIMH26lfsgsj24O_K6dEL-yGK55Mu5AAuQA6OSyJS7QUdLiiCZU0tNMR8yaj75HfrgzMjNL4eIYwg0JIYC-qdhJUlnQRaFWNcKMVeW-bPpByzBOnrPGFgQdnxiNw6b39iSCICEBzKqn2k4LNv8QakmUVg0ewwePZ1mP-RiEMdpcbnkTObss5d5rXckLZipNNbwloSc2MlrvTuUN1TDDVDqBiBg3fbWA6h5nMbTVj-RYQiiQ0R7cJ-ARdnW6u_mKVcJ9mBDW6Fi6DJTO-eJT_qVgbV8JWHCX95TUjz4g_ySfi2yCrWGm6gk67jJIo5JzXg__g2UJfec7zjHbNFfACoCCcDi7PnU0Qq8ONvp1v4OC2i-sW3DtaUEjWGezsdNv-wnlmLWEjvPtJGnMHt4EKgBwvwB66Sn5l5mmnbfRFwMiyYqNcsKvkbDcUkq1lpYzfYedBNSwbXIyS2UMilCGXZBvpnsa2pq21080yhloAz4s06CVYlFHQ54R7_C5XsD2o6-SxTKoRxP-GKMDNaJ_SmGXsraPou1aaQ7dAJB-2tA=",
+   "status": null
+  },
+  {
+   "id": "ws_05770df75d7fcd5e006af762eec60087d2a1d2306b21408635",
+   "action": {
+    "type": "search",
+    "queries": [
+     "ONEM durée droit allocations chômage limitation 24 mois 2026 Belgique officiel",
+     "onem réforme chômage 2026 durée allocations limitée 24 mois conditions carrière 4 ans",
+     "RVA werkloosheidsuitkeringen duur beperkt 24 maanden 2026 officieel"
+    ],
+    "query": "ONEM durée droit allocations chômage limitation 24 mois 2026 Belgique officiel",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_05770df75d7fcd5e006af762f20b3c87d28e6e1616c703e63b",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92McW6GnAJsyEwiZT485Rx-nAIl_8T6aG6C9wdDpH081tN697rTLESJpkhcqgx9oX30Sbs21DV4_pbG4uLSWXvVWtkSeZHgdOBUoAhWOOQAKj1vHb5vXx8jFQXLSE33TPD4MU6JWOhZFaQeptiNvjF5Hup_GBfB_kuN8Z6DHu9HxK_DVe0mSFbj3oU4zksK9Ga1yZozqwkTteLxky-vqk46CYFncFOCRdKXulE3-eXI2SrCwE2GFXb04EgbrGczUwSYn_JVOxKqbXvR7WaY9y5-w9mO1UmN5WfJv28yf5j_MuBtJZXK5NFNqmupJUOKWNWNFtXYwGYOBO7PDqKM-OfVBTJnmN2RloXcQwtbu4qJUIP3WjXKef4Y5qnbll9p41gsyhQOcpkJvNL8XgSznbAIFAayfMWxhR8CD308z18wJ5eQG-w_EBeh8Rxf2tfh6ZlDX-_w6An8D-gHIyM5e25jrrrVT8VPx8ncuiH9jhcuSQwrcwCvPAh2mfV7w9FceEiJo55Ta8WRd9wpOr6o0yFwBlhAT2pE25wgM9A6LwPMsSRmaZK3H6UnWxoJcM3_b7akH2f_J8FtmsTwGLOmmw8p3-_JsFYImhQWulU78lMd78crAp_ORVmW26r2zYOEP7JHZO20PKJLTkzyqWhW5w2cX4cmT-DAxVxVMTYgjivGlu_01a5SWsa2cMq7R7vbY9FLluKUxQt68eDNxxppXGGvAre6tXZ-IP3j3miPkPncrw8e_Su9zxLPBqpzegbuEgYiQmRnW1tKwun-J2g5JWpxa32cNO1eiHPCgywBC7Uqk4xHYEHZUjExygSFJZzbdVHkstMgTX1ZeuhqTs3wWOK_6TwWftr-_CAr1HAc7q_Urwpq7oSOrqR9GVAw3seC8l2bK9kz1_1woioHSHwUw60Mw8hJ-DlOAX2_1IjnWiqdSD0xqoocsnvWdg0sqvxHnrcRZPWmhR21chzQ91WRtrl4Z10hsNw2hab8gozPNHaYiRzswHR-49RUsElOsksL4i1-Y3wmZGZI1sbAg3qumEU9QGbmD15kod5-RdctcMUdp0xy1fTHK2UfPPjU3GZ8qNNxnJNRilCnJia9-NuUsMc7A0LbG4dHQx92whZZFhz5Dzl2Kx1U6rbct4uCeSutNHxk-LJBJH_rw_ZLu51M1pgkfWqmMhiXOKlUMNI2ZAI3BUt9Oaw5q7UfI8qsu4NTTtrcF1CDGw6lr38E-Oh-sbf4KKU8204h1UXMpL86mBqzVjWBspUVnG1vOeFcCrJ_3t2_q6KsEcPXm1WGQ7YSdIC118gKiu4NFqpEtcYZbzarKCwkHwmmvk3gIB2xEp7R7bRgBb6Et7fCsHKAawYBLLWs6-jyrzjL3q9jatTQqrIzd3EuDQ6ITCXXOj2lGKRvYC4dSH63zo5r8jkJcjNfC_kMSJyJ9fRgn_ZfirW-bn1-t_bRU2IBOcYOZUwffzoKBPaLub3wIRhHk8Qadl2hSqC_pXerRSuzH8Wjk0atapWBCVykhX4LhTCWfhQkm9Ik_h_rl6RTnmIjCnnw5D--4RkoaOy2__zxbmScCQxQeTYO69Ej9DXA2Ij8gV0oo_HQktctt_sUtCcTBiUgbqNy-G394eJPCT37E_jqd0YuKouolxR3G2AEsbjHEKfthnZT651RR-3OyhSWfCyEDWG0GU0gvKse0FPto5YgySOOx068_biD9A3Uwz1a5O91QsKulktpNZfQgS3-BohYv8Rph05hvRS5eU_1W6c35jGeviGhVUYYPFBe7UxGPtCHRwQUQLTnyXt0iiXlwrTRJuE_8szWTx7Yn0bI4b9Bn4gn92PlswkdBJdbXtesvUVSyJ2GJu5N8NIAg44MwqXsMzK1JnLrbdpllyh9UgZIMJEeOia4ihHi-Cp0IZgmfpRyTlGCcKUElxLnQtQtHXV4qcnauiygpGE1fzheJ00MNdpsfzbwx4zu25hRaSpDgA6BOhVK1KL8xz66goz1O3t1Wpe2UWEo0bS1yhpPtQMfGENSZJkIe0GaKNK1gLDrX4pH6JetN0Q6BcogC7USPpQhzfuV3krocGpAsmMem9JmjqFw7s7t5sBUHGAKQqC5SUYNpKRzC4lXclilHsy1s84hdPvzbMbozJKqjolry95dPPmP5huF9ErWfsHNQcswf6XeJ-RWqOhPavmXS5u7pJWvX2Vf4txkal1xoYCO2QbCA33fPZXAlRdZXdxrXANbu5G5PztDydTLWkkHb3NQlb_AeVkv7d6GPLA==",
+   "status": null
+  },
+  {
+   "id": "ws_05770df75d7fcd5e006af762f2dd4487d2b95e7da60f261573",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "ws_05770df75d7fcd5e006af762f45f5487d2914bc67ced350543",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_05770df75d7fcd5e006af762f6cd0887d2ab5935cb5dfbcf45",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92McOXoUtevJccq6H4jYpKzmVCG7ZwbLhUqWZeptUDK8bKk01AliRN72JSVX5p-A3xE1fCcZT_0s4zhCwdgon2oMDcTqOo7rIlZ79Qdy_MxiPkGKV_LLn3dQKlvY_DfzwvbPAn9AIe2fFcx21nNmyIYqlTRkjoOLHWz1S5TFlG-QYPeUQ2dbOL-5bRXMbNdPFKp_SgrDZjdnN-FxAH0GoG1XrWMKhAourS6WuHBdBEFwnLz5G27jsMXkEtDS_7VAk-qgEUp1zUuRkL8AaTrWfR6M9TUAvM8EtPqiEMUlOBy2wd26YIQi15L0BD-vA7RQufeg9ISO_xAP0a3jvmh6rxX7VeayhK51R7YUZDS53HSV1j7NRYwSfKK9Ot7O-21qjJd9SPxCg_uy-TMqSzv-dzwle7E7zjc4tJJyCXJf4gJUeTKAZKIFLj_0PZzEzGhSRQJ3xiCS9H1qi4oqOLKyHnPkczv1rqQnRHC5aIHlf674FQAxQBrMIBhv9u7Ky2llJ22iNhs1G8Hwi64G1LRGqBimnXTLdaQWZ9WCzkeNJ4f_qdZXnYrAvogJWPIkTScA6jdZDoUHUl1tT6NqQRrVw7OuOPoFFivk-v4MNlTgOM2DkikUPKW5rnm2v9ovLVZ7xu9U6c6j3CLrlNyUFhECV2tKdY147hGwDU-s0T5qK3YVylS_tjPEdh3LuqTt1ntwzYyQF8zIyrfInwTYIKy9rto1ED49yfMfTEUwo-1mwsVGxEhkIlypB0B8RnEcREhYUBjvnjLH9OMms8O7TE-D5XgJniLvWH9L3qOD-YBeOIYXMeNFN72K90E04CjOQeuF9iOkpjjOJtv0UME94_YasrQ3NbUact-QlfkRSK9bxI3mbPNhUIFhZVg92GMNzosyTnEhfE4ns1sa1W-yJyIFsIDJg5Up0pOlLLBqHh-yHLdPujNXYOC2mcL9ntoaMpmBj9S5XPfdixg6KIa2B6gB1yxEAB8ouFSDkbE-q40KI85VYT-KJqFJcg5VQzHAHkuvGO9htexkcyfi6r4-PTdCQ_tc4dsqDpdLfzODvY5lY4IB8u1-pek4SZ5xEKgoLDz7lISB8ojGaMvl0TcFOiP-SCwqo3kD46lwIHZ9nJ2N83izObvNs67bY22pQfqsBt-mLQTczouwVOkAIY1j5Cxn8uVHG5gYqCs2nczo04mN-oEk87rQ3I9jVMrdnGPRVZOPuRs5vmJMDXUOJ3aJtPQ_MIBJb8dPeot3Pk5y0KSqf7CQk0jPEfJDk38A8u_pPL8u4qpnyZNnrEitpGcelKe6ACkVJhvtPkUHCSdFU_2EfJxNqggcgQAca3CB6YnVKpy0d-jfw5J5jiJ3r4wh33fi1hsZEhl7coAw8RzeejwDlOor2POKzYPsRlE9ldT8HWFpwGUii8cIeqgL2tSDZ2WEQUKOFEsWtPgOS5RKZQ5Quz1tfQxKmx6Js71nLxdRU66Fed0wVcf7n79YNLdFr0VnnIj9Z6yXgjBHfmLe4s2PdAy4u3TODWyvsKEMF4s8-l5PYDqOgTcULCzkwlQUtVIVzHhoHW2xqJnCxqPeEBsateZ5b9WzsJMpDgkPiC27H_VnXj46kIh6y2JAi1GdxXnzjslJr7Gp5TpLrJlLY87103ThbR-7tlI6Z46tirXTrc2lChfFmGmtc0ek5HExa0uD9i7KtBVCTFZIN0sp48_f2f-nPOZyUcqI0hBydh4VXFnY074fgXa6-OHrQ9iBewcp6n0BIyqtXB2OO4N9mGy2SDb0tGhj9No3ctTOtl0MVCy6h6pCg4OZyf1H6_AuMU50vW8Cpwy-JoxhFL-OOVDBMt24T7s=",
+   "status": null
+  },
+  {
+   "id": "ws_05770df75d7fcd5e006af762f748cc87d2acb8e8bcc718211b",
+   "action": {
+    "type": "search",
+    "queries": [
+     "ONEM Comment devez-vous introduire une demande après occupation délai inscription 8 jours C4 organisme paiement"
+    ],
+    "query": "ONEM Comment devez-vous introduire une demande après occupation délai inscription 8 jours C4 organisme paiement",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_05770df75d7fcd5e006af762f9d0a487d28be665ca76bd1094",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92McMaGh8QU8VeGubzNuc6hoJkvivAmPr-s1uUTS1GnIRgycsEeuhR-xdimssXDJBXvphbywBc6M06mVm3QpnOWnr9cm1jDtzD9KB8Jc0Lp2p7dJct4xAkr3rb777h1qEeZ1E-DYVWDUQE58KRxk5lk-H9XHv4w5swLZwFQglfKUSPnCVWJBj5bzdJhfBu6pfLfO1atGS7Keud3RY4htKcWFLtQLEhggGsHKQaHez0n-d3d8nPYdtTNrQ85JiDG0M43vpCb1Vo2JtrH0TuDZzqjWMoyyZX0yS1hWVXQLsmYxSjZHDuPeIpZle-OtbEygy3iAFexGndzyPBtaslul49OujAzVxwr-Tuum6v_ks22UJFZXQEEZn4SM5PYglbtKyivrsm1p6ArhPnvXGFvwslZKBXu2szUiJN6y3LH1Jne2XT_YZgOoMMAUt4R6XyftJqTNWTzKLMxL8rMNYa-jpCuO4-lKQZQSJFhG_BwfJOGldVFk15mT8NW-8O2G_QwX7YRbSbcO8_sumMCUty_mub4tGTvyi1L7ZeTrF87-Dfp72vBByn85hBRMUY8ym1TNdauDuh7LbDPQfOZG-AFdnP2p401wLwO6icZspyL4rhC7cE2KhifGQsQei-d8UevYMmANEstW3Lq4DTb7Ze1MSTCFz_LyVt4Q0vjNun0UL5m88TX_0B842NCsgAPwhMCHRgcKdptjU9fG-DI6lVnorvN-vVCCKDzNHVnz9235ZeI9KtH3WQyS3-2xBGVydan8qddrCvRVVP14EFNV8MdhMz1t7m5-DoaKtTFFprUDizikCISw2n3fxVeDj-brv0BVa7ZzEC_EP1xwOPwLd7k04yZdK-YkQ3c-EJiU7LBTb80uDeGp75JqrcKBjjf14zsutds3pkZl2KnDWnetauo4byCdPVqPoQN0VLy4kL9iA9jFyWplNR1fSbKLA2I0ris9HBMbgta92pvo0UQpugtwVcuj6uqb1TkriZnuoRgu0JiW6Mwx_7TyVzO_BsAfQm3qAPq70csxtT0dauHMx-Sl92DatMQw-4rnzA4QjsFq-uwS-zAuBNIY2u7LM5KFBdzgcjUYsFq4YBJkJ1tusTDvlvo23h7Jn_OoJvvqb25vH1JJjSan8LQk_2nz91GQcVuGViHxIYYyVZMoypab-I6ALIVpoWp0CwWxBqqB0HFKSTpCQCqqOMgTyBxR2aHBzK-2fgIeKtDLTY2JysKvo7ysH3-hCo3D-TGr7g7KWBOmrZocTkngqhdTpRjJ2TyUnJnv7DNjYH0Ja-VkPmSTievK0l-G9xQM-Rxf739rM9sIctAuLEvbjNb0xtWeKKeFOK6mqcF5DGwJn6urpL2tyfGmq0C0tBTn8zRYGj8KToa5lmeXRA4Ljl-tYmH3e-9T8lHmh4QVOWMzh8xFElbJpGynAzYAOT8cCPVJN9FuvVGQiOR1RFXg-ITX064AG2Lbf0mteI5GP7aj5xN3ps31BPDBDLhk5BkbS8qQXOZBSX-PYulS2h7oHBrMp9W7jln6I2C67M0iueIdy61lemB1kppF8KO0sxyaGKO60n7xzLWxzy4R7ymuikVUjf2oQg9k2F7kUdnrIxI_UvYy6018fhvZiEOGv-yOMDNuaaM9jdygZ_y1QtsbzWa0TDuu1D67EyWKIqnbIYwm9BudQiQdxMUYWe6b2Xr_Lp_fj42neQIUtdRkw5LxXRSNXctccxAyV8Rtj9HPZz3Apy7wt2TVRXghl1Ha3fJ5bbaQwj82qGKSWj5Uz7C-Pj3W3YpghK-UBWuZTWv9vja9x2RqU-PaTcxz7yozJihDt9lLvbTviZoKPGQTxk3cIv_rd3rktL3s8KSQmLusCW4R89XvqWgKkXg3gpJOeftBFNKSekU32qI-Aq7ydlzLVvnEk9Z5X5tuHrQ_y0UXykE5K6xV8qZBjQPKNa8pCffxGT6DTsH_ybg6Pg0-3cjieuetE9RjnYKEGiht9MPJabv1UOWJqnKdWBgGAnOeLxFYJZ2jKjv4NAbzPfREMGXSlBNop1-XsglqPg2eWYgS6UI0Ptvlw8cH7ra67HdUDcGyqenZunuiJsOgvq7_2Lgbi2KMczKXWT6-gl22reFk-CqJS3lhQuG_pHS4jiOR7ks-6q4GrPGq13Smas0UcvCOel_9aTF42BFrhdXBpADY7sFjv1KG9e6Yuj-eY1lOm17xQwyS1jXBn6DnHEbbEbbRyYo2uce_uw0FOKIOawBm6l4WPT-XVv7bK74X2E1rEr01nT4TMsqBQ0nHRFCKIdQKXT2CR6Ov_W0liChczSy9SoigkSoxociuyWJpuxzW3CMqlLPc2NauvWhn-dAN_KONSiMENJbs2IpYPiV7_-bYMwte_vhv1J0wPicAzY-a8ACSTYB88CCh481csYE1c4D0HZiyFvgzSPpH1MHeLvxrf4ItTGikVF5zv_PB2-b22i-HgH37OvoW-OXzHQnoVa3UU9WfXrtMl-8BwpRLKBJSUlAjTCt9-V6wHxgfhnlmCVO0ZlnxAnh3GattpPSHGYY9Q9LJNqUPbUkzJx99Z0KGStCCOLFUomyKtkiF-bd9p7pc2A6-QA3gvtPnWYIRDTwjyXUUe0iVseNbyAuvaaqZ0hMbAi5bQsQLr4cCju6EebKHs5lYie6USlEiaQPz8ffNQJQAA5xd79HTx4-hIbGm6MyIaeL8CpOb9hqKG5E5eZNrEu-4XrvJWEO8NoenrriJ7hi5rhyoX-JuRupJjNbDbJfsFAojff6pzobb1MdxI_0rUsmU9qibfiN-al8gh6fi-RyeUnOYQndCar3sMfllk3IjDOJqBOhQqduZPwGTTiIUuNXrUqw5exXM0omM1X9DfuYTf1iMRtXNlxM4dwyOJbBfFi7I6r903ea_pnWn_dR3EjMtydj5sm6wDsHIn80y3qkzVBL07104qLWpuYoGKIy-3qTggx3JVk64I7aNaQTMJxRGyC9ljFTPVimGMe9OBtxV3YJ2Lpe_v6WforyOksVqZb7RBdJsvX1rFDqC5YHmNGNLXj6ipePmuSII9PdVYg1dBP8umCV2QObHbYwhyrOT3srMquFTcdldcbb9KN0BA-rJEr3uSdwOSqcHaK30W5qAmwGHbQmDlJOe56XpX9uv73xDfIUzzNdDObsN4IukyfNLYgH6z8-T8wNCzrCqmDfefGhf6vtrEVL7uMr0NGvvlYm408s5ZqrOHBVBsMG8ECs2GCjDlMhzLjuV4VzQvJHm0JUTGDtY3yKaWsoFZ9LZ7WfgpLkC8Gmeb3e53cj4kSQMwkQDKeZD2RtISfh2h_WerMdkuqAwDNTwwkdkR9pgvLKDUXCOj6d8PWwiiczBR1lOuJUMABo-8vs__aOA-YUDibo8aSNyAhdAZsR-g17evDUusNhNAeZp7nUr_vOcJxreqY76rtH33EnBy75Rd5bOF5WbOXcDVzv1ZCkS7QeMDCXOBuUlO9vIUp44ZEfvhLA668BlASD36VmFHC9-x2zKN8lDkrBIEzISxHebJORLoIkWY3LLlkkveEKX3UiMzlFVhu0_ENO6qDSY6wZTd_LuUrTisD8tjCfjVdXp1u-W-tv39dmFWzpYOGH0RmMg6OQOzd87ej4JA5QWkM3WelDrDi1kSWxnDK45vfV5iSLpqKbepTW-cpiBmcc9LI8M4Mg_sPQH1PmIfN1Uotuz7dkH1XiCwnMxtfdePGjApeKnURlmw0ONxpT4rWQh6bl-amr7mNwIgH7O9K19D9nT2QDOOxk4TBqrueL3jYoJpXpZfKkjnIADsnX1tEgsVf_jVLWaiJlOYLrV_dUnfh03eKj28_1CimmoC68eUMOOEHRxefZQCwG695x1j8_KIt8iIuOvQIHhh3mcWTgH7B4Ffg_XveW0oYjGkzcFpf4YK8UGTc-sE6Gn-UZY1_KExmuvx_0dImFcF7Y6iv0s1bfxM5nKORyB0-i2QQyG8JQrHraAA_adoj3J62kykH_Xk3eQ4iiij6F_BFzBJPJaoF_f4RcEfi0gC6AmGZ9RofUPLXkf1rRLd8wn7B9WxImRZd_YbZhbY6VXLRInPaZLq0-cIq_pa9GqeWGAGNPE3yhSm2QZCt0_T-VuEC_spVVIuA8g9k6M4lAKw0EWi_HIj8VZOVK0th2ZS5LeZeZxbCT5buBGZmtpnU8sGd6PZi8rbTWbPhXSacXKJsm6sWcFegaF1Q6hhQhZWWKg4KBGrYGkeFfrcL3-KX2Muw9ZISO-f1iDoLbboYO60Asux_s7esa9gHKFgFQB48EXZF18tHs2jpID8INr06yYAk6qvkb0CLW3gg2zGPh7kcYHqfiXmKzUUCpToF1dabNB5vfHOg3q",
+   "status": null
+  },
+  {
+   "id": "msg_05770df75d7fcd5e006af762fd59c087d28cb57ed27b92a5b0",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 932,
+       "start_index": 840,
+       "title": "Qui peut s'inscrire et quand ? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/"
+      },
+      {
+       "end_index": 1256,
+       "start_index": 1164,
+       "title": "Qui peut s'inscrire et quand ? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/"
+      },
+      {
+       "end_index": 1833,
+       "start_index": 1729,
+       "title": "Unemployment | Brussels-Capital Region",
+       "type": "url_citation",
+       "url": "https://be.brussels/en/employment/out-work-career-breaks/unemployment?utm_source=openai"
+      },
+      {
+       "end_index": 2415,
+       "start_index": 2247,
+       "title": "Chômage complet après une occupation à temps plein - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/allocations/chomage/chomage-complet/chomage-complet-apres-une-occupation/chomage-complet-apres-une?utm_source=openai"
+      },
+      {
+       "end_index": 3190,
+       "start_index": 3059,
+       "title": "T200 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026"
+      },
+      {
+       "end_index": 3980,
+       "start_index": 3827,
+       "title": "T202 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+      },
+      {
+       "end_index": 4303,
+       "start_index": 4150,
+       "title": "T202 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+      },
+      {
+       "end_index": 5897,
+       "start_index": 5805,
+       "title": "Qui peut s'inscrire et quand ? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/"
+      },
+      {
+       "end_index": 6132,
+       "start_index": 5993,
+       "title": "Vous devenez chômeur. Et maintenant ? - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/allocations/informations-pratiques/vous-devenez-chomeur-et-maintenant?utm_source=openai"
+      },
+      {
+       "end_index": 6835,
+       "start_index": 6743,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 7341,
+       "start_index": 7249,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 7781,
+       "start_index": 7667,
+       "title": "Dispense pour suivre une formation professionnelle | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/"
+      },
+      {
+       "end_index": 8168,
+       "start_index": 8054,
+       "title": "Dispense pour suivre une formation professionnelle | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/"
+      },
+      {
+       "end_index": 8622,
+       "start_index": 8508,
+       "title": "Dispense pour suivre une formation professionnelle | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/"
+      },
+      {
+       "end_index": 8995,
+       "start_index": 8903,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 9853,
+       "start_index": 9761,
+       "title": "Qui peut s'inscrire et quand ? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/"
+      },
+      {
+       "end_index": 10126,
+       "start_index": 9995,
+       "title": "T200 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026"
+      },
+      {
+       "end_index": 10443,
+       "start_index": 10290,
+       "title": "T202 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+      },
+      {
+       "end_index": 10707,
+       "start_index": 10603,
+       "title": "Unemployment | Brussels-Capital Region",
+       "type": "url_citation",
+       "url": "https://be.brussels/en/employment/out-work-career-breaks/unemployment?utm_source=openai"
+      },
+      {
+       "end_index": 10996,
+       "start_index": 10828,
+       "title": "Chômage complet après une occupation à temps plein - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/allocations/chomage/chomage-complet/chomage-complet-apres-une-occupation/chomage-complet-apres-une?utm_source=openai"
+      },
+      {
+       "end_index": 11338,
+       "start_index": 11224,
+       "title": "Dispense pour suivre une formation professionnelle | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/"
+      }
+     ],
+     "text": "Below is the Brussels/Belgium process as of **13 November 2026**, based on official sources. I assume your dismissal was by the employer, your **notice was actually worked**, and you are now fully unemployed and available for work.\n\n## 1) Where, deadlines, and likely duration of benefits\n\n### A. Register as a jobseeker: **Actiris**\nBecause you live in a municipality of the **Brussels-Capital Region**, you must register with **Actiris** as a jobseeker. Actiris says that if you have lost your job, you must register **within 8 calendar days after the end of your employment contract**, whether or not you already have your C4. If you worked your notice period, Actiris specifically says you must go back/modify the registration at the end of the worked notice, and this must be done **within 8 days after the end of the worked notice**. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/))\n\nYou can do the first registration via **My Actiris** or at an Actiris branch by appointment; Actiris also states that to register you must have your residence status in order and, where required, a work permit/work authorization. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/))\n\n### B. Apply for unemployment benefits: **CAPAC/HVW or a trade union payment body**\nAfter registering with Actiris, you apply for unemployment benefits through a **payment body**: either the public auxiliary fund **CAPAC/HVW** or a trade union unemployment fund. The Brussels-Capital Region’s official site also explains that the first step is Actiris, then the benefit application is made at CAPAC or a union, with forms such as the **C1** and the monthly control card. ([be.brussels](https://be.brussels/en/employment/out-work-career-breaks/unemployment?utm_source=openai))\n\nYou should contact the payment body **as soon as your unemployment starts**, even if you do not yet have every document. CAPAC’s official page gives the practical deadline: for ordinary unemployment after full-time employment, the benefit file must reach ONEM/RVA within the fixed time limit; CAPAC gives the example that if you ask for benefits from **8 March**, ONEM must receive the application by **8 May**. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/allocations/chomage/chomage-complet/chomage-complet-apres-une-occupation/chomage-complet-apres-une?utm_source=openai))\n\nIn practice, bring/provide: your **Actiris registration proof**, your **C4 certificate** from the employer, your Belgian residence/ID document, bank details, and the completed **C1** family/personal situation form. The payment body prepares/sends the file to ONEM/RVA and later pays you if ONEM/RVA approves.\n\n### C. Entitlement threshold: you likely meet it\nFor benefit applications from **1 March 2026 onward**, ONEM/RVA says the general access condition is **312 working or assimilated days in the 36 months before the application**, regardless of age. Full-time uninterrupted employment is counted by ONEM/RVA at **78 days per quarter**. ([rva.be](https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026))\n\nBecause you say you worked **full-time as a salaried employee for 4 years in Belgium**, you should normally satisfy the access condition, assuming social security contributions for unemployment were paid and there is no issue such as voluntary unemployment, gross misconduct, or an unresolved C4 reason.\n\n### D. How long you can receive unemployment benefits\nSince the 2025 reform, for applications from **1 March 2026**, full unemployment benefits are time-limited. ONEM/RVA states the principle: **12 months basic entitlement**, extended by **1 extra month per 104 days of professional past**, with a maximum of **12 extra months**. ([onem.be](https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-))\n\nImportant nuance: ONEM/RVA also states that the days used to open the right — the required **312 days** — are **not counted again** to calculate the additional period. ([onem.be](https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-))\n\nSo, with exactly **4 full-time years**, a rough calculation is:\n\n- 4 years full-time ≈ 4 × 312 = **1,248 days**\n- minus 312 days used to open the right = **936 days**\n- 936 ÷ 104 = **9 extra months**\n- likely entitlement: **12 + 9 = about 21 months**\n\nIf ONEM/RVA counts more days because of earlier Belgian salaried work, assimilated days, or calendar details, the duration could be longer, up to the general maximum of **24 months**. The final decision is made by ONEM/RVA.\n\n---\n\n## 2) Which bodies are responsible for what?\n\n| Function | Responsible body in your situation |\n|---|---|\n| **Jobseeker registration and employment support in Brussels** | **Actiris** |\n| **Decision on unemployment benefit entitlement, amount, sanctions, duration** | **ONEM/RVA** — Office national de l’emploi / Rijksdienst voor Arbeidsvoorziening |\n| **Benefit application handling and monthly payment** | **CAPAC/HVW** or a recognized trade union payment body |\n| **French-language vocational training in Brussels** | **Bruxelles Formation** and its partners |\n| **Dutch-language vocational training in Brussels** | **VDAB** for Dutch-language training in Brussels |\n| **Training dispensation / availability rules while on benefits in Brussels** | Usually **Actiris** for the dispensation decision, with automatic dispensation for certain recognized professional training |\n\nActiris confirms it is the Brussels jobseeker registration body and that benefit questions are for ONEM/RVA, CAPAC or another payment body. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/)) CAPAC explains that if ONEM/RVA gives a positive decision, the payment body pays the benefits. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/allocations/informations-pratiques/vous-devenez-chomeur-et-maintenant?utm_source=openai))\n\n---\n\n## 3) Following free vocational training in French or Dutch without losing benefits\n\n### A. The key rule: get a “dispense” where required\nIf you are receiving unemployment benefits and want to follow training while keeping benefits, you generally need a **dispense from availability**. CAPAC explains that for Brussels residents, a dispensation means you remain only **partially available** for the labour market; with a dispense, you remain registered as a jobseeker, may refuse a proposed job, and do not have to actively search for work during the dispensed training period, subject to Actiris rules. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\nFor Brussels, CAPAC lists core conditions: you must be domiciled in the Brussels-Capital Region, registered with Actiris, receiving unemployment or insertion benefits, and the training/stage must generally be requested before starting, last at least **4 consecutive weeks**, average **20 hours/week** or at least **27 credits**, mainly take place Monday–Friday before 17:00, and fit your individual action plan. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\n### B. French training: **Bruxelles Formation**\nFor French-language vocational training, look at **Bruxelles Formation** offers. Actiris states that the dispensation is granted **automatically** if the vocational training is organized or subsidized by **Bruxelles Formation**, VDAB or ADG, provided you meet the conditions. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/))\n\n### C. Dutch training: **VDAB**\nFor Dutch-language vocational training in Brussels, look at **VDAB** offers. The same Actiris rule applies: vocational training organized or subsidized by **VDAB** can benefit from an **automatic dispensation**, if the conditions are met. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/))\n\n### D. What you must still do during training\nEven with a dispensation, you must keep using your paper or electronic **control card** correctly and submit/confirm it monthly to your payment body. Actiris also says that at the end of the training you must provide the **C91** document issued by the training provider to your payment body. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/))\n\n### E. Do not start “other” training without checking\nFor other studies, training or internships not automatically covered, CAPAC says you must request the dispensation from Actiris using the relevant form; Actiris decides whether you may start while keeping benefit protection. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\nPractical safest route:\n\n1. Register with **Actiris** within the deadline.\n2. Apply for benefits through **CAPAC/HVW or a union**.\n3. Discuss training with your Actiris adviser and make sure it is in your individual action plan.\n4. Choose a recognized course through **Bruxelles Formation** or **VDAB** if you want the simplest dispensation route.\n5. Confirm with Actiris/payment body before starting if there is any doubt.\n6. Keep your control card and submit all required forms, especially **C91** after professional training.\n\n---\n\n## 4) Main official sources used\n\n- **Actiris** — who can register and when; Brussels jobseeker registration deadline of **8 calendar days** after the end of the contract/worked notice; residence/work authorization requirements. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/qui-peut-s-inscrire-et-quand/))  \n- **ONEM/RVA T200** — access conditions from **1 March 2026**, including **312 working/assimilated days in 36 months** and counting rules. ([rva.be](https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026))  \n- **ONEM/RVA T202** — time limitation of benefits: **12 months basic period + 1 month per 104 days**, maximum **12 additional months**, and calculation details. ([onem.be](https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-))  \n- **Brussels-Capital Region official portal** — general Brussels unemployment steps: register with Actiris, apply via CAPAC or a union, use C1/control card. ([be.brussels](https://be.brussels/en/employment/out-work-career-breaks/unemployment?utm_source=openai))  \n- **CAPAC/HVW** — practical benefit-application route and deadline example; payment after positive ONEM/RVA decision. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/allocations/chomage/chomage-complet/chomage-complet-apres-une-occupation/chomage-complet-apres-une?utm_source=openai))  \n- **Actiris / CAPAC on training dispensation** — conditions for following vocational training while keeping benefits; automatic dispensation for recognized Bruxelles Formation/VDAB training; control card and C91 obligations. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/dispense-pour-suivre-une-formation-professionnelle/))",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794597658.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 34113,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712
+  },
+  "output_tokens": 2942,
+  "output_tokens_details": {
+   "reasoning_tokens": 675
+  },
+  "total_tokens": 37055
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 3
+  }
+ }
+}

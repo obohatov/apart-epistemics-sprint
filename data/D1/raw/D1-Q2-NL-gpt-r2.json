@@ -1,0 +1,312 @@
+{
+ "id": "resp_0badb57c54efefcd006af767f1af3c87d28f2db460ca58a763",
+ "access_programs": null,
+ "created_at": 1794598899.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0badb57c54efefcd006af767f4098887d28c6ef3b05198cfcc",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92gy2auEuGBvM5l9Th9id3vMOHheVO-Gp1Q2W97_Q_v2CmmerFLLb7895naxshEY1ekw_tksSjX36CNZRj1h8yIBF4vW76p8VxLfUZgBkNxwxwUXkeOYg_eQ54oQXJUOtjtkNv2G2Jzo2u9aCTmKEIpe_lJWY5J3ypzlFtTfki-FfzqcnurYnHf8FEvNqjIcrhV0NUSy3uXnZAziw38ovBS2uUQgTTVp5fJ_HiE_cAwGEJBwYoXEYdq6-STnzCHnN6Emu_77hpx3Y2u8-KDnQQ0PCh9qqTWCnjHOb72Tw0zOTZTstp69rCzJbuRwgX6iBMPXGOihmdH6z8TZOD8dZPI9ovoSsgm1EVx9huT1gYs9yzsKX7LaTGkU3qQODAeDVwMKC4c-t_Z8BQc-Rz-tho_IDx3em4dOhg3pIu-CTTxm8sy_IsEXLyR-tyT4EACLOh0072-cgM2MCEaXtUu2naVwedxr2iwic4oOBQr6yOogqYj0jHo1ikFVwvJrxnu8gfMve5zpauNXLomMOH3YycKkwiLxbviZULPZeUpADbVmVt78Op6pyrg9exW33IpHiYZYbK0dEOCiAcRvuMhSly9LdYPfAoccYwS5jxOR65sRIEUx2DR_BEA7YU8G3OYSJVXsnf2UVEZBchrtyPxsOK3baF3fiQN40SNmuS3CDdIdOQlN-8zElWHN8dR8HATtjCD3yhkvhdor3SdG8LyZpj_10ftk-aBRKi0jS3NJAq1NJD5RPmQlsDmVwRq-4ALC5i0yX8HObV-TWsAynjjncHSGnS399B1ipbeqysFVoUhTYxyEDh5sUJGYTOu9Kgv5dIgzMcA4x2DJs--YCWpQ4Njss2tZ1ReIfA0mX1eKejJ_XWURzq4Tn_FzKULPkSaz9R9i1qvybCucGFCwxwCNfnn2XJsV6vELUD1HCybHJu-wyPStoS9G-CI5WUjcdePegCpJVNjsPFxTr8yrnNWfsjIBDSGZB6IMRzJwC9JMPFRWg5YfLC4K_jh66P5XRtCY9GEgT-7dzWgecl7DJPI8-xwpBx9tBTB747HI1cE786xFUQsGL5ctarY4KIxKbA_ZYR9DRDqf4HgpW8CupVUZuIinTqz04-pzRV3Z9t4zrRp3BWO8gtk3YFCGAF5X_JGVCza3ijVlpyzHfzd89s__qHHF_I7TaEPJgScqBANECBAjwGtV-dLgsEjt4F_L0-SRHN-946VggeKosC3581Flkj289FqkYIiOTDl1zMyJGuA-gcuzF0u6wtliBHKIvhiabJUxYgwuTy0QQKVS0KzrPtnqcFGnXUlxwrVUm9VM8pNVpfywapHMtAEPSVmZJZfAx3fuflAxo1l0mMAi5VTjSgts8QHAZq0WoMMEyTPCk-0Az6OPT5wxe5JE_5AzsdvcpnbBFRKMleUDUg9r8KIWT2bpzjEPOG_Qc90H3eaLXuQV8nH9lMtR-4gZjGOx181V8Hy0yEWXqlmvnoIgb-GcQcCkmZcfq6HsQkctczan-89BcaWUDhKdeRVsDOtWUMA0YAxgmo9Mx-Ab2J02GOczEawUghwW345Whjdp56RA8VW-PTeTDfR0n3cBl959uGi8TtVMEJZ9NZtoEsOIdMi2TJDZUyNPNrLarSZ0VYMBVtGciy33Bfs48n2rI9lwJkOwMLcE1XG9Cf2urIL76BpWNtThr1V8dMZHezyr9c3v4Jt29QmjBW8hCrTWxU4zuJ_VeU6YCum0iArHoXncv4zFDOszPSr6VUMF5w4WLhmW9vk9pALAA-hkRytaUpwS8zuwVPOrgFvt0BFYRwuw5WiAsSTvqD_KT_w84nQn0RE4ltH2ATA=",
+   "status": null
+  },
+  {
+   "id": "ws_0badb57c54efefcd006af767f4731c87d29e7d4262b233dc03",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussel inschrijven werkzoekende termijn werkloosheidsuitkering Actiris uitkering aanvragen termijn RVA uitbetalingsinstelling",
+     "RVA volledige werkloosheid aanvraag uitkering termijn C4 opzegtermijn",
+     "Actiris inschrijven als werkzoekende na ontslag termijn werkloosheidsuitkering Brussel",
+     "Bruxelles Formation VDAB Brussel opleiding werkloosheidsuitkering vrijstelling RVA Actiris"
+    ],
+    "query": "Brussel inschrijven werkzoekende termijn werkloosheidsuitkering Actiris uitkering aanvragen termijn RVA uitbetalingsinstelling",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0badb57c54efefcd006af767f9a81887d2a9b169942b0a0e76",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92gy30MZkq_6TGokMkFt4KDaeh542pa2R3Y3eTcN0pdCoK6k5I-MFPfG3m029_rcXsz4587ASmLzmhd2xkRXa9kPqiQJCe_Y8mbNPnjnsTYqEuyQjRV5Is2MLz5HlpQOlKv7A1PF8bnLcE4KAKNLkNR0uiLiPXFtH5fgl-f8IoWjt-X5ghcDvltvkunipu7RiXv_ZgNQZEZxdYNhNuHMyuQcBnEKCeRjGoQfjfTZFsx0NTbkYWvSbtd-B3lgWNawQn9kidkdCqjVpBoC_NGd7TEVRYIO6lwZ6bB6aNRVzp-fYFBeB-1zXDpPYgopDihLZrXr0Bn4JGXIfOOuWzQikbJSZhoRLHGp_mpFuh_Q34AGfOwPUcGmYrfw6wf1i7WTqrXV4k7dAWpsNvrsSQhMlMhqbWexgtaFKDZn4zc6RK94COFoXKiVuD8KPI4ouVO-EOtHx5t-2hch6Ktss9_2lih1qYdIWxTIpxrgQQilGZ31qDFO_tjAG2ZYlUPYJYgvC7A6R_Otw_8MC-8j13UKSLLnvW-x2NrosrjwV0JawX6OOUF5aTXKs1WVtzJJtT0R6bTplCeoyDo0yQbttR7qDm3rfhBCJRLPYErY7sXzypOBWWsbUT2QfYqSiQf1-0CMKJy2WEqFyyWbO2jE6IuMfLNTJYQetbBvB0LBo2rX686kNZLFJwz5t60fV1hYJGuPvOg_-sahgDxViXxyTGKc46ULCEbxMJo2363lLWHE7zd5J__0XsXBVYqNnO_1iispzl1Wms800lz0UNkEDsci57jGQFNAQ3NdygBJ_57t8dGHnULD97muBN41yMlrh8nUhEUTL7HDYYUV-ZUc7jI2HDgnuOnUStV5DQqOGc9Ho0eprusyfSn9fYnM0W7s1doHaioexMuXVH9XrX7QdxGMqVDL5NwS5g9a9_NpJ4llWrXocBwEGGih2Ag8wygCUOvMzETB8oIVB-M_oOL8kCqiVmOT_u7j5ayQ_e9uC5NYd9FOhGwEV4-QmYcQUBp_cDr48mD624hjUFWoCuAJZk_O0BiMwLNVNoSrkS47JYGcGalRsnXTYnRnrE3g_yCKZsGCSPrunCf6kC57_2_rgKYZ9G6_iXI2Inw4LfqCh8By6O3eLY8zaButnVGi140_1WhMC9uRuQeUfA0Ijfjns9fWbQvp5aUlMYpPrzEBOUtpDjyEyLUCGe7xUynsB5Bat2KbEoArFfeymjwZyd_vPJyPBMAcGjC3rba8dj18Vk-mqcAqnfmBIER_StBAitWZ01tYRJYY4-lIcvmYObYPm4_6wnxF5c7sLtesqAIS6FPEnf-If5Nx_OYYCQoQXs39WLZtFQZtYPOLO3Io5BzetDJVBZiBvfZZsQ3z-ar4x32GveCvvL_pKl5oyIaiKLX0Tw1ouJnfjOlnY1-MIXt1AhFoL8jg7V-neU9w7sxODiYwTgA70czBan9SlyV5dVdeT_5Op8kDifrdQbyRuc2Skbn4wSppzqtYctykrg_BdgOz6mMic9ViuEOGsMxtx9PKRzIV1AUsMFyc6B6zkOzePm1zbuj-xDAM0_2svE-0o_vQjau_f0DnRie4xZFGkLWFpIxVtgFh1vZt_Ph52IQSwZfRFtKrCghgSTtaao9i9QHwfhSLI0nBZnlBIO4xg5Klm74V8dJHC6n8C67TobN8cUwjrioS20MP5hCqDB7Kcsw2zeKolEwc1gG2zTwiiK9cwrPN6qJw1QzzjO9tNNIX5kSJgVOgrCIq1yLuVVyOJKi-M9F65l8RjWR4cVU7p6ZS3ljAuhv30_-EHeayGXhje2XQdc7HqwNPaNrNK-1IJlVMrwy1l0M=",
+   "status": null
+  },
+  {
+   "id": "ws_0badb57c54efefcd006af767fa154487d2a725d1df499b7324",
+   "action": {
+    "type": "search",
+    "queries": [
+     "RVA duur werkloosheidsuitkering beperkt vanaf 2026 4 jaar gewerkt België hoe lang uitkering",
+     "RVA hervorming werkloosheidsuitkeringen duur 2026 volledige werkloosheid 4 jaar loopbaan",
+     "rva.be werkloosheidsuitkeringen beperkt in de tijd 2026 duur loopbaanjaren"
+    ],
+    "query": "RVA duur werkloosheidsuitkering beperkt vanaf 2026 4 jaar gewerkt België hoe lang uitkering",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0badb57c54efefcd006af767fdd09c87d283c65d48bc10fc3e",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92gyba_yxka4IRG_jXGT-ySUtScL9x4Px9vxdJvS2XC8dt6a8OwC2RUWPhtmbWBNRz-bd9t0l99sv00Pc2QM19racVAPKBcgDn3KGdf5ASGarvwsEKYvJnsAzV8UcNJ4kJbuA8LeafZMsjmPZL5rsxmRiTlv4xtJgUkaNEgXGT-mzMMHUovEy4pmfXIzsFazU7556hT4X1w7x9lOc2ebSl622nnFQgJbBe5lGwA3qMEsISiRt-jlOa0sBZX_gJrJau8m0g6uhjhETCg5COxyDEufI_w-QUAKJ-VqRvjAczzJ2ZJCemcDJ0sKuHcG3cPMoNwcIQ1sFA-hBnfI1FfLs4-VSZwiNaFxSgiYGYyXlSk0Sd4F5OvPaqRRR9WuZN9MDW_0x2_vMIvUYKYzKS6O9eVgUzW4VeOgUEsKwatAnjRoh5KupFBo4ydMP6f4C4bwaqxkVlu1qsFk3xbdcbqyQlOXb0pDk-t28R16H1UVn7i5OyicgMwLSHDGjOx_t-sMkM8c-eIvF9yIqFbjKXDve8QEK1GXePYwx9E_R9lBsCe2yAEsmX0X-jGnWj5yvqcmucs027JC4AJdnTFJ0UoAcW6uwNhIk8FudbF-oeznrKfNOlBIGvlaUR8hp7wn0XkvyNeiYz2EYZ71AigLQNvEL4aLk9hPqDCF0AfhmuAkGhuQ3LJObJiX4lYaag-VDkWWYiUwNzO5MnNgQVXEmUdjfL_WIS7q1C_NlMwWV6mS6A8zbvR82-C17Nbi-XB2hmz7Fkl3Pk1796WGJb8XVBy5EuJKEeDUuNNEQvsapvGWq5d7eO8QyqjXLbp0lB7y2YZGlsUSSorTF7Lb4HlgBT_lkwUELsiI2lx_o5ohMaKunfWCKHF_Y4XMa1D5AFocfAR_AuFYh6NpCPE55gCBq-Rpokj40yVC7HyYBsnzULzkb44OkCj-sZVUznHZ5LnMTx5hbbRRpK-S86EC5GrHnLFmqs6GdG7fu3jedtq529ccM5Upd-hHx5AM5AP4fBSDk7PlHjpiFS_YnrWQSsPDgt2snyw78QNz2ikGuLnwDx00ITw9g_pdL-lOjYhw1_i-wyr7-Bv0cokg5MHz5oAju4FrGuTFtEL3IgGL2HCvmxPQiUAY3wkxLvqFCMtKK03K4mKYhAgHG3GR6v-hK9_wv8MYYXgL6xY2bboKTXe_jrl-A4F0wwJnTCiGgkQQmQWCCAdQBvM-5tO9kzWCLOraTwxvjgFj1ynWQoSt3kfSV55TPxNACm3sOEU9LblhnqdO4xTi8KsTaXytyjT8bCFWQrkFWUP9n6nVt45FHEfDiZV9U2VFbAwE-uWk5hk0uCVmVWALyX6_KCu6d4-aLZhVlLxFyT4J6lpdGEUD3_R62C5xRFiakEc-3zAsIRABs-vOdrccCnwL5t2ZkludW_kHhyeSrBJhp9DgfyJW7nxfIcEJH8T3OVfL9XcoGxkj40CgXkthlnrN6b4ntU_JwLgUGOn3r7GQTCTJKA_g7l1MLYr_NqfEDsjry1QI5YYCkXbegCiVgCr5Li1yXHj_1g2gtW3SfR1KlACI0TK8PYRPon87ptp3RWxBfoX4WQ1TiSm1XITlw4ZN0stOH3tcVHmuQsvnwICFFx9MZkhGvVPJcqiIcMTu74mPya-hHPT5g_q444tIKdYu4XDS2728E5BQL36rmN4LWLg-MfAHLEF8UMZejaaid0ZqQ20NDL9HiPmNnCR042GVYRZOIoNBfWSoj6jlpr4V9XnYaJR_NqUiyg-5cDbIxf-SdMQgG2NvxDrNlVCaQNVBITP-zgVMjnntP1zZ-Lj0sulWi7bHtQl0BiGEmoQc44EM_EunSlSXdP77T2mxVRhCrPmcupd-kpZaMPViBALcAfI81KK0uQTjg-7dbxeQrzWpBlCu_-fbnQmpjGoIYxV91dXT_rli6E6cVSKoGPwY9jprj8DlnnDzoUcsqRJL23SwCYuJwyG9wQ7XxEx9mbb_JmytMGoxO-z4PXvP-aNdJw==",
+   "status": null
+  },
+  {
+   "id": "ws_0badb57c54efefcd006af767fe5d6887d28f37841a65e66ee1",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.rva.be/bladzijde/ik-heb-werkloosheidsuitkeringen-gevraagd-na-28.02.2026.-worden-mijn-uitkeringen-beperkt-in-de-tijd"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0badb57c54efefcd006af767ffa1bc87d28787a3e401398fe5",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92gy1MIAdcpfpZ6jxo38ch6XRkmetkd0ymaUZJoJtCmM1UcuY0OlR9WJEdg21CHK2uz0S0OMkdKdj0fmMwrIBkBuhI1tbcZp3Y2QH6xeVDGrVd2KoR9ZelZnsD951fSM7lAvdOFaFaqGYvELhHxIYkqgwoRWU0egz6rJA0YWDgYdepNStNeSlE5Q62dEUXQwHH6euPcjmQLDNA-7eeTxafKPde_fo1pZCJUxI-XW7votjMoQe1EsLb03E5FLSoHOFKzWhhempzoL-Jiomgj1t-dGFJh7h4SRkVkYh5390O_ETpSqoquJB43eBzWttgdPUgg6EVMwbHS42cnTYZpol__DaQ3gv4470cn-L4QG7DGHWjmCud5N0zDzDUTfZk8o4Ion3HzKqafr3dzgnvn35WkW1rcDzAYBhVuLJqn3D78raSnNU0ot5uma_1RVSSKN6VB_RxHQp3aa_X7qWDG_q9qVXzarEftoVmI3erTWNuT_ip3iYIlfBP7VzBSpDMcMp2GFo6aHws37UZkDEj_2Fj4NGX8g5kqUSyt9ZaD70Ul_dTgkM2z_scM2QxhskfMxjWUtDAaSXHbRPBpmd7Ic4L4_w_ZTun0YKuulIYfolMJiJgl1ZnjhxO8oqhgl9J6OlIhkK-FLYpZN3Zn6aj8P4iGQQXHygBKjm9nlZRHM9l-4fwKv4fLTioe9BNLrV9xs0GA0lrzoI_EvjOYBwfcTr0ijVLRkGrEeL2H_-UHTsUyk1meKF0RsxJCoF3cEPlEUfqcVAIHLck3uzuD1ORBA6SJmpXtRSjOSm9plTD7yQiSi1MI9HJeQA53hEWt8e8yd6Dtt1ALRfo3MnBV9IKn2V64T8wshwL7vGt_nBkJCaeiZJMPgegvK_A6-1D0EkoNsBlvQUQidCbuTcU0OA8DJ2BKLVPgQJq1horYpklyzG9BzVOxNoxyES9-EzJugh_FNHpQ3Q-ROb15gB3cIpJehzEUW_CfGGVNt4UWKtSM_oOkqkflizbY_wJuwNGEgvQmlsBOssw2KOd5eoPiwzxyJYnS3tEaloKzdsYpbMAZfvhtPNDF7QGj1qKHrUFSy7klNuRppA04mYY6ALUXWKK9-NNoHSmBkKL56FKfiPTsvgjBFUXQWkleiKuIvBrs4ZeE5XvY5Y-tpWjFqyd8o8GCRdX_n1ktiLSv7_cS_BCxJKKrYFJF60c99e3DHMljk4JmbXn1huulnItbfExKQwWPScTTH_URJSQk5LYOsVaZytBTRd7yqRncSwx0Kh6yCzYErM4JtrazvRzy1AvQmgPUgWmqMf-89_Eg63EzPCbvunYxODo5CDmtbGe0HwEtFGCLPLXbvpVorUPGlGme6Autpq2Dc9Tmm-nGhfUH7yBcd9lTf3gtyh7rw-ySleOcpEJfXUb_t7mGgiDVWaB57F6yVFd4Z5vV_4uuuAF414HQTEh5NpBWTO0yeoQOAQQcgygPufPHJzwximqnQdRxoRELKWruG_F21velBilpupGwMqKYc6ucE6NG-ecq9tNXEsbj5kbmKyxktwh-2hUyV3dBWqdmjyAiXYYyTNgH74kyPqU2cElwJK1IKJxVeB3_KmGedjTkOtGb29u2fTKouC6dtGyhAohSYpRqBHhP7FlxSO0OiI9-J0GAnO_BnxOBSbrN7OQNKIP8izvcem--gMAACMH6r10XP9o_SH8PM1GpMZsozA_OOOqFY13EyKcP9hLw5u4IAZfRftQPt-57onNsW4l2ukV56SADlvRyEDiCmSq8I-Q1FTZPDuZNchXByF39UcvoC",
+   "status": null
+  },
+  {
+   "id": "ws_0badb57c54efefcd006af767ffe7bc87d289daa621f3df8b16",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Actiris vrijstelling opleiding werkloosheidsuitkering Brussel beroepsopleiding VDAB Bruxelles Formation",
+     "Actiris dispense formation allocations chômage Bruxelles Formation VDAB demande dispense"
+    ],
+    "query": "Actiris vrijstelling opleiding werkloosheidsuitkering Brussel beroepsopleiding VDAB Bruxelles Formation",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0badb57c54efefcd006af76803260c87d2a4e9ed26edcb2f77",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92gynpI6H1XPud3WzlLJX6dYKdXq1FBwZnpQydcKpDtHZJpWY4Mr_DVqR49_GQoEwBwYyw2ie4wxB89ADcb-LPti0cKcB3xXbrmOB84QUbY02HJM38Q9JCEx5kGcMuXgVv-jJxI0wDNGZtsNnsRwnwggmx1uNcBlpMqw0mNTLEicI8F7KaszbR3CA9xfjhX-T9W9XFmG02c4_StUIaNBB3RzF6b3mCugFl01UeELzWRi0ND2Rps23g4qj2844x-YefUecS-aW72C5Uf03K3NVIOR5OrQ2Ztk-gblWI_h1nyEdFtHn3JBu58GtsXYDfdn9jvQQvpcLUJgYvnl7QBUHq8sz7NwZc64MALOzBo29tG2627POX-dJBX7Tx4p2oCe7WkIY5BPgZALAsW7zXHiSVfYoO44k3UrEv6wrQl9JK0Pi1NHD5iHQjVCSVAxmYljWsdIh_tezk7Bc5LnhqEucDQPDLWGNqHsUEdGVk7t-Y1ZvHrXHdrY8LRmA0b-0PRxc2obJCAd6FKHKzmau7CrnhlJBlUufEMxrngAdoMHDl7x0r8r-9safUVbREZdyT5FCs8Ys6lbB-PyG3CYFC1_XlJ5-3z1cgErRdPKp-qi87BI6jbdLfLgCTx_NVQ57gYvY5GtH0XFvy96jJ3CHuXWex07lbMh5G6bNYqWu2nwZr5TKPSlTFKgPx7H9CBXb3FIuJGbNPoBMDOVvL1J8Y19Jbk_5NmeESDLVaU5C-7neJElxbwaDAY5vS_fdWHMZk7KEkhQvMhDFTpFJUKTfpJnTnm2XVhyRupMZQAuUcg6Ljd-rzGZd7H01aMjab_twatKTDuohkxRCsu2vSemmFGxYyUA9W4_wCMyb6hAj6LOwXGX12PRd_MrD3fclXkiAKNNBz_bnI_83dSwOzR6IJ1ZyrvD27iRUan_hg6nsrFgu5oF26bcyarQxKDANhplCEu6zxUAA39EgXuSiCAPtexM2_fjSYGrplXLuj4ipnlWwx7T6WZWH8IlM3eLQBSVFhQJ-6p4MWwkmR8FkxnCMHxvYcZuwgjBPqOb7UyDuO7OodR7EH0jQ_LjZTExtj7PJcGyMHeXpTMitY6McgzJXm0H2Qc17gYnIFn4KZeiUrfrL4GTshc8fzMDh-K9gR1AwFk9iZWJ_oF6fIDiGr51gRHWSmalVQ0Cp6g_e_lVZjx9o0boGp8zel7Il4KrPEFB1LYT82Mv9WpDjE_dUKYJ5q9GAPA5RJvhIfV-ND85atT9LI1UXoF21XtZttS_U4TAOCk6ZqnK0RXJqa93m5S4gK7lJ22eEMgiE1-vClZdVmVtr1PcLVe1TEIBhaJ_mqH3lD9aS8hq_f2YTbfefyjToZ4DL6o2yAJwnxFkrxE7WSr33OA7hJZ7I7xYF2DuL11WeOvIKXRDviJtmU9-dKAmylpjEDqoELwUfGjAEsfjKv_L8ex4FHZ6i6BtS1mj-s7WTN6K9yPJANOCUzDs6uOxcVwpjyFIxpvY7qbdME92evUM5ra6WVke7FryiVPQZKkW7VgLdCao1bhOxI_qZ1gpP_KZXAOXLt6jlb8WfP6KrWVgP7bHMiDUQ15O1q_dvpZIOMgw9HnkfWIuAEdp1V4ZID0VFWEQ-Wsx5Hnv675Yf4tr7whuCQ6mTSYWcbk6oa_6nbNx3ntvCGrZ58bVgz8iT86Xcc-63-Thv0cwbJCAoE5sfkiiunyy-bvz6EcpwgBjn11FW900gUErHxzIhXOZFlDudqjt_hLvQx_0U_JmCOR-3EdgldMGhqsDIAklPGZRq0QHk4d7FNMsUGRYHGMWrY8WFA3-k9OxrhytwRujy942nfCFxQqCnlWAEPyq6Ri9blwgr5Zt2kHbEAI_geKQRmBgXG96myjtE8EZzSIwo9hGba1Ca3wAneSpviixAFcNzvLdlDcDkqKWhFMmI2EGIJElTzI_zVmvmd0yHrnrO9YwDT2gn37rdHq4tFjZkby8pr-0oA4KjjVrdG-V-xLU5Q5zR-11GORLDDibfaKOhcOxP-SdD5HaPSGUbKeGvc6ZS9E7Xi93YSpmnWPN9IycOlcOX0vc5yktCr1-6NnqdCA9GhYXpAs0A48rCLiu5DIslYbrRrNRPmtTlBC1EgCodLROamw8PAYDiCx33VB2BduPKRjxlnq9CXD2_KCEokk4hSwKnqlDRrOGTjlxQiS26Okl7GFmoy2u7DTkHM1DQopNgkR5NBmFXq4SL6iQiQXf9tdJG0JLl2wOr31iaSjIfug0VZQcI5X5czQt8ryUHR9Gkyn2tUB_1AY7YlQ8C4vKHZ0_BfxoFmtCiZJyBI4OTM1X3INBtbb_sG_D9cSGWKlw3qtmgFnmuK5mGEeCQz7-Ow-FpQAvhcTJEhQflBHu0zha0HxtwteyONJU_af5r66doIIsvBetgL-7UHL932CD4FDh7aDxygH4sS8ljBpT1uxsIZL3V_pPfGKo_0bH474yARSaEoiQZ6xc3C4mv9iCZ66-QE06G2JQ_XFs-iTXvTyCmvVutyH59wFazbaPY4vb4JSjFashK_4s4vF3Zyy23AgYiLqFjrUryW81caSyt2x6KrjTCzr_U3LX0ZLNxHpzMT8DZYpyCg8EPdtqbXLC6dYXc6CsYB6TWtqpuPZFUfcsU-8aomlSoFO8ODkG_Mv93WaJj4FnUCNRcJQLrVW0jwfmywEYoRW9dIOW2RbQMDoC6rqpBU2IDNTXDzypQK5kfGhL5n0CAsJuLWQMlk0dhPDzAC50_7mDpZ5VDVyBsMobSiyWFIZfwbqdrGAv5jl8YbE8vG5n0_mTstPaboBE0w9BV-_dmjGOzoLvTwLMjjN9pMgBhnWjcsYdPPgigDO1nXQNDar5uouRolkNh2hAyApDqyiuLPNYTZNRssNUciqnXs__r0_BoFUhF37YWP1TFyMBjlJ2WKqrdG8mLRKrpXImTFcgNy2lqUycsOGSuOSv_8i0QGmii5DdZ8QG8E8g-4527dKy15LQ_eh2ZhALmYB2ur3-DTywb0roULDQrVKDhMnfGkdF48XMwKrRCzL7Tw4xnK-GDa45BUDcTusJa1WffT6vw-NjgbnUyp9u2DwsR2iystdr2R18PvemQydPgsC3SuLhyt1AhYtEgesOhRbaHwwsDWHCcP3IzCMGM8IOwgQIrXRQr8PcPPYQnztYQ9eF9CALH6F8hPE5R3_z1uqIriuOzZbaXOW-KUVLX3IrhXKyk_M6a5mmK7SXiTQINPxFBoI=",
+   "status": null
+  },
+  {
+   "id": "msg_0badb57c54efefcd006af76805066087d2841e6a704f656357",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 1141,
+       "start_index": 1034,
+       "title": "Wie en wanneer inschrijven? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/nl/burgers/wie-en-wanneer-inschrijven/?utm_source=openai"
+      },
+      {
+       "end_index": 2513,
+       "start_index": 2343,
+       "title": "Hoe moet u een aanvraag indienen na een tewerkstelling?",
+       "type": "url_citation",
+       "url": "https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling?utm_source=openai"
+      },
+      {
+       "end_index": 3096,
+       "start_index": 2965,
+       "title": "T200 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026"
+      },
+      {
+       "end_index": 3846,
+       "start_index": 3707,
+       "title": "T202 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/ik-heb-werkloosheidsuitkeringen-gevraagd-na-28.02.2026.-worden-mijn-uitkeringen-beperkt-in-de-tijd"
+      },
+      {
+       "end_index": 4483,
+       "start_index": 4344,
+       "title": "T202 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/ik-heb-werkloosheidsuitkeringen-gevraagd-na-28.02.2026.-worden-mijn-uitkeringen-beperkt-in-de-tijd"
+      },
+      {
+       "end_index": 5724,
+       "start_index": 5589,
+       "title": "Gewestelijke diensten voor arbeidsbemiddeling | Belgium.be",
+       "type": "url_citation",
+       "url": "https://www.belgium.be/nl/werk/werk_zoeken/arbeidsmarkt/gewestelijke_diensten_voor_arbeidsbemiddeling?utm_source=openai"
+      },
+      {
+       "end_index": 6268,
+       "start_index": 6133,
+       "title": "Gewestelijke diensten voor arbeidsbemiddeling | Belgium.be",
+       "type": "url_citation",
+       "url": "https://www.belgium.be/nl/werk/werk_zoeken/arbeidsmarkt/gewestelijke_diensten_voor_arbeidsbemiddeling?utm_source=openai"
+      },
+      {
+       "end_index": 7009,
+       "start_index": 6812,
+       "title": "U bent een uitkeringsgerechtigd werkloze die onder de overgangsmaatregelen valt en u wil studies, een opleiding of een stage volgen?",
+       "type": "url_citation",
+       "url": "https://www.rva.be/burgers/tewerkstelling---opleiding/beroepsopleiding/u-bent-een-uitkeringsgerechtigd-werkloze-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen?utm_source=openai"
+      },
+      {
+       "end_index": 7562,
+       "start_index": 7455,
+       "title": "Dispense de disponibilité | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/dispense-de-disponibilite/?utm_source=openai"
+      },
+      {
+       "end_index": 8165,
+       "start_index": 7992,
+       "title": "T170 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/u-bent-een-uitkeringsgerechtigd-werkloze-uitkeringsaanvraag-vanaf-01.03.2026-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen"
+      },
+      {
+       "end_index": 8622,
+       "start_index": 8449,
+       "title": "T170 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/u-bent-een-uitkeringsgerechtigd-werkloze-uitkeringsaanvraag-vanaf-01.03.2026-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen"
+      },
+      {
+       "end_index": 9243,
+       "start_index": 9070,
+       "title": "T170 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/u-bent-een-uitkeringsgerechtigd-werkloze-uitkeringsaanvraag-vanaf-01.03.2026-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen"
+      },
+      {
+       "end_index": 9808,
+       "start_index": 9669,
+       "title": "T202 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/ik-heb-werkloosheidsuitkeringen-gevraagd-na-28.02.2026.-worden-mijn-uitkeringen-beperkt-in-de-tijd"
+      }
+     ],
+     "text": "Hieronder ga ik uit van uw situatie **vandaag: 13 november 2026**: u woont in een Brusselse gemeente, uw opzegtermijn is volledig gepresteerd, uw arbeidsovereenkomst is geëindigd, u vraagt **voor het eerst** werkloosheidsuitkeringen aan na **28 februari 2026**, en u hebt ongeveer **4 jaar voltijds als loontrekkende in België** gewerkt.\n\n## 1) Waar en binnen welke termijn inschrijven/aanvragen — en hoe lang u uitkering kunt krijgen\n\n### A. Inschrijving als werkzoekende: **Actiris, binnen 8 kalenderdagen**\n\nOmdat u in het **Brussels Hoofdstedelijk Gewest** woont, moet u zich als werkzoekende inschrijven bij **Actiris**. Na een ontslag met een **gepresteerde opzegtermijn** moet u zich **binnen 8 kalenderdagen na het einde van uw arbeidsovereenkomst / na het verstrijken van uw gepresteerde opzegtermijn** inschrijven. Dat kan online of bij een Actiris-agentschap. Actiris vermeldt ook dat u zich moet inschrijven binnen 8 kalenderdagen na het einde van uw arbeidsovereenkomst om een werkloosheidsuitkering te kunnen aanvragen. ([actiris.brussels](https://www.actiris.brussels/nl/burgers/wie-en-wanneer-inschrijven/?utm_source=openai))\n\n**Praktisch:** doe dit meteen, ook als u nog niet alle documenten hebt. Als u de termijn niet respecteert, kan dit de startdatum van uw uitkering beïnvloeden.\n\n### B. Uitkeringsaanvraag: **bij een uitbetalingsinstelling, zo snel mogelijk vanaf het begin van de werkloosheid**\n\nDe aanvraag om werkloosheidsuitkeringen dient u **niet** rechtstreeks bij Actiris of de RVA in, maar bij een **uitbetalingsinstelling** naar keuze:\n\n- de **HVW/CAPAC** — openbare Hulpkas voor Werkloosheidsuitkeringen; of\n- de werkloosheidsdienst van een vakbond: **ACV/CSC**, **ABVV/FGTB**, of **ACLVB/CGSLB/SYNOVA**.\n\nDe RVA zegt dat u zich persoonlijk moet aanmelden bij uw uitbetalingsinstelling om de uitkeringsaanvraag in te dienen. Als u voldoet aan de voorwaarden, wordt u vergoed **vanaf de datum van de aanvraag**, zodat het belangrijk is om u vanaf het begin van uw werkloosheid aan te melden, zelfs als u nog niet alle documenten hebt. U moet zich bovendien inschrijven bij de bevoegde gewestelijke dienst voor arbeidsbemiddeling — in uw geval Actiris — **op de dag van de aanvraag of binnen de 8 daaropvolgende kalenderdagen**; doet u dat niet, dan kunt u pas uitkeringen krijgen vanaf de dag van inschrijving. ([rva.be](https://www.rva.be/burgers/volledige-werkloosheid/hoe-moet-u-de-uitkeringen-aanvragen/hoe-moet-u-een-aanvraag-indienen-na-een-tewerkstelling?utm_source=openai))\n\n### C. Voldoet u waarschijnlijk aan de arbeidsvoorwaarde?\n\nSinds de hervorming vanaf **1 maart 2026** moet u voor een eerste toelating tot volledige werkloosheid in principe **312 arbeidsdagen en/of gelijkgestelde dagen** bewijzen in een referteperiode van **36 maanden** vóór de aanvraag, ongeacht uw leeftijd. Arbeidsdagen zijn loondagen waarop voldoende loon werd betaald en RSZ-inhoudingen voor onder meer de sector werkloosheid werden verricht. ([rva.be](https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026))\n\nMet **4 jaar voltijdse loondienst in België** lijkt u in principe ruimschoots aan de arbeidsvoorwaarde te voldoen, maar de **RVA beslist uiteindelijk** op basis van uw dossier, C4, DMFA/RSZ-gegevens en eventuele gelijkgestelde dagen.\n\n### D. Hoe lang kunt u de werkloosheidsuitkering ontvangen?\n\nVoor aanvragen vanaf **1 maart 2026** zijn werkloosheidsuitkeringen in de tijd beperkt. De basisduur is **12 maanden**, verlengd met **1 maand per 104 dagen beroepsverleden**, met een maximumverlenging van **12 maanden**. De totale duur is dus in gewone gevallen minimum **12 maanden** en maximum **24 maanden**. ([rva.be](https://www.rva.be/bladzijde/ik-heb-werkloosheidsuitkeringen-gevraagd-na-28.02.2026.-worden-mijn-uitkeringen-beperkt-in-de-tijd))\n\nBelangrijk detail: de RVA vermeldt dat de **312 dagen die gebruikt worden om uw recht te openen niet meetellen** voor de verlenging van de duur. Bij ongeveer **4 jaar voltijds beroepsverleden** rekent men ruwweg met 4 × 312 = 1.248 dagen; na aftrek van de 312 dagen voor de opening van het recht blijven ongeveer 936 dagen over. 936 / 104 = 9 maanden verlenging. **Indicatief** komt dat neer op **12 + 9 = ongeveer 21 maanden** uitkering. De exacte einddatum en duur worden door de RVA berekend. ([rva.be](https://www.rva.be/bladzijde/ik-heb-werkloosheidsuitkeringen-gevraagd-na-28.02.2026.-worden-mijn-uitkeringen-beperkt-in-de-tijd))\n\n## 2) Welke instanties zijn waarvoor bevoegd?\n\n| Onderwerp | Bevoegde instantie |\n|---|---|\n| **Inschrijving als werkzoekende in Brussel** | **Actiris** |\n| **Begeleiding naar werk / beschikbaarheid in Brussel** | **Actiris** |\n| **Beslissing over het recht op werkloosheidsuitkering** | **RVA/ONEM** |\n| **Indiening dossier en maandelijkse uitbetaling** | **HVW/CAPAC** of vakbond — ACV/CSC, ABVV/FGTB, ACLVB/CGSLB/SYNOVA |\n| **Franstalige beroepsopleiding in Brussel** | **Bruxelles Formation** |\n| **Nederlandstalige beroepsopleiding in Brussel** | **VDAB Brussel** |\n| **Vrijstelling om opleiding/studies/stage te volgen met behoud van uitkering, als Brusselse werkloze** | **Actiris**, Dienst Vrijstellingen / Dispenses |\n\nOfficieel wordt bevestigd dat **Actiris** de Brusselse dienst voor arbeidsbemiddeling is, terwijl **Bruxelles Formation** bevoegd is voor Franstalige beroepsopleiding in Brussel en **VDAB** voor Nederlandstalige beroepsopleiding in Brussel. Om werkloosheidsuitkeringen te kunnen aanvragen, moet u zich inschrijven bij de arbeidsbemiddelingsdienst van het gewest waar u woont. ([belgium.be](https://www.belgium.be/nl/werk/werk_zoeken/arbeidsmarkt/gewestelijke_diensten_voor_arbeidsbemiddeling?utm_source=openai))\n\n## 3) Opleiding volgen in het Frans of Nederlands zonder uw uitkering te verliezen\n\n### A. Kies de opleiding via de juiste opleidingsinstelling\n\nVoor een **Franstalige beroepsopleiding** in Brussel kijkt u bij **Bruxelles Formation**. Voor een **Nederlandstalige beroepsopleiding** in Brussel kijkt u bij **VDAB Brussel**. Belgium.be bevestigt deze bevoegdheidsverdeling voor beroepsopleidingen in Brussel. ([belgium.be](https://www.belgium.be/nl/werk/werk_zoeken/arbeidsmarkt/gewestelijke_diensten_voor_arbeidsbemiddeling?utm_source=openai))\n\n### B. Vraag tijdig een vrijstelling aan bij Actiris\n\nAls uitkeringsgerechtigde werkloze mag u niet zomaar elke opleiding volgen zonder gevolgen. Om een beroepsopleiding, studie of stage te volgen en uw werkloosheidsuitkering te behouden, moet u in de gevallen waarin een vrijstelling vereist is een **vrijstelling van beschikbaarheid** krijgen. Voor Brusselse inwoners is **Actiris** bevoegd voor de aanvraagprocedure en de vrijstelling; voor vragen over het bedrag, de controlekaart en de betaling blijft uw uitbetalingsinstelling bevoegd. ([rva.be](https://www.rva.be/burgers/tewerkstelling---opleiding/beroepsopleiding/u-bent-een-uitkeringsgerechtigd-werkloze-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen?utm_source=openai))\n\nActiris omschrijft zo’n vrijstelling als een maatregel waarmee u een beroepsopleiding kunt volgen **met behoud van werkloosheidsuitkeringen** en vrijstelling van bepaalde verplichtingen. Voor voltijdse beroepsopleidingen georganiseerd door **Bruxelles Formation** of de **VDAB** bestaan er volgens Actiris geautomatiseerde vrijstellingen, maar u moet toch controleren met Actiris/uw uitbetalingsinstelling wat voor uw concrete opleiding geldt. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/dispense-de-disponibilite/?utm_source=openai))\n\n### C. Wat gebeurt er tijdens de vrijstelling?\n\nAls u een vrijstelling krijgt:\n\n- blijft u in Brussel **ingeschreven als werkzoekende**;\n- bent u onderworpen aan specifieke beschikbaarheidsregels;\n- hoeft u in principe niet actief naar werk te zoeken;\n- mag u een voorgestelde job weigeren binnen de regels van de vrijstelling;\n- blijft u uw werkloosheidsuitkering ontvangen tijdens de opleiding waarvoor de vrijstelling geldt. ([rva.be](https://www.rva.be/bladzijde/u-bent-een-uitkeringsgerechtigd-werkloze-uitkeringsaanvraag-vanaf-01.03.2026-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen))\n\nU moet wel nog steeds een **controlekaart** bijhouden, elektronisch of op papier, en op het einde van de maand bevestigen of indienen via uw uitbetalingsinstelling. De RVA waarschuwt dat fouten of het niet aanduiden van arbeid/ziekte op de controlekaart tot sancties kunnen leiden. ([rva.be](https://www.rva.be/bladzijde/u-bent-een-uitkeringsgerechtigd-werkloze-uitkeringsaanvraag-vanaf-01.03.2026-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen))\n\n### D. Let op voor financiële voordelen of opleidingen zonder vrijstelling\n\nAls u financiële voordelen ontvangt in het kader van een opleiding of stage **zonder** vrijstelling of toelating van de bevoegde gewestelijke dienst, kunt u het recht op uitkeringen verliezen. Ook bepaalde studies of opleidingen met volledig leerplan, opleidingen tot zelfstandige of alternerende opleidingen kunnen zonder vrijstelling tot verlies van uitkering leiden. ([rva.be](https://www.rva.be/bladzijde/u-bent-een-uitkeringsgerechtigd-werkloze-uitkeringsaanvraag-vanaf-01.03.2026-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen))\n\n### E. Uitzondering/extra bescherming voor bepaalde zorgopleidingen\n\nAls u op de einddatum van uw recht op werkloosheidsuitkeringen een opleiding volgt die voorbereidt op een kritische zorgfunctie als **verpleegkundige of zorgkundige**, en u daarvoor een gewestelijke vrijstelling kreeg, kan uw recht op uitkeringen onder voorwaarden behouden blijven tijdens de ononderbroken duur van die opleiding, met wettelijke grenzen. ([rva.be](https://www.rva.be/bladzijde/ik-heb-werkloosheidsuitkeringen-gevraagd-na-28.02.2026.-worden-mijn-uitkeringen-beperkt-in-de-tijd))\n\n## 4) Concreet stappenplan voor u\n\n1. **Schrijf u onmiddellijk in bij Actiris** als werkzoekende, uiterlijk binnen **8 kalenderdagen** na het einde van uw gepresteerde opzegtermijn.  \n2. **Dien meteen uw uitkeringsaanvraag in** bij de HVW/CAPAC of een vakbond. Wacht niet tot u alle documenten hebt.  \n3. Vraag uw werkgever om uw **C4** als u dat nog niet hebt.  \n4. Bezorg uw uitbetalingsinstelling alle gevraagde documenten; zij maakt uw dossier over aan de **RVA**, die beslist over uw recht.  \n5. Bespreek een opleiding met **Actiris** en kies eventueel een opleiding bij **Bruxelles Formation** of **VDAB Brussel**.  \n6. **Vraag vóór de start** van de opleiding na of u een vrijstelling nodig hebt en laat die tijdig regelen via **Actiris / uw uitbetalingsinstelling**.  \n7. Blijf uw controlekaart correct invullen en indienen zolang u uitkeringen ontvangt.  \n\n**Kort samengevat:** in Brussel schrijft u zich in bij **Actiris** en vraagt u de uitkering aan via **HVW/CAPAC of een vakbond**. De **RVA** beslist over uw recht. Met 4 jaar voltijds werk lijkt u in principe aan de toegangsvoorwaarde te voldoen; indicatief kan de duur rond **21 maanden** liggen, maar de RVA berekent dit definitief. Voor gratis beroepsopleiding: Frans via **Bruxelles Formation**, Nederlands via **VDAB Brussel**, en voor behoud van uw uitkering moet u waar nodig een **vrijstelling via Actiris** hebben.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794598960.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 31799,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 3024,
+  "output_tokens_details": {
+   "reasoning_tokens": 550
+  },
+  "total_tokens": 34823
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 3
+  }
+ }
+}
