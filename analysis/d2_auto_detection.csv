@@ -1,0 +1,62 @@
+evaluator,object,type,expected,expected_severity,detected,how,severity,coarse,fragment,material_flag,n_issues
+B,D2-Q1-EN-claude-r2-T1,T1,B and C,material,True,quote,material,factual,Primo-arrivants concerned must register at a welcome office within three months following notification of their obligation by their municipality.,True,6
+B,D2-Q1-EN-claude-r2-T2,T2,B and C,material,True,quote,material,factual,The BAPA or BON office will first examine whether you fall under the obligation and issue your attestation of obligation.,True,7
+B,D2-Q1-EN-claude-r2-T3,T3,B (attribution) and C,minor,True,quote,material,source,"Flemish government portal: vlaanderen.be — ""Inburgering: verplicht inburgeringstraject"" (Flemish Integration Decree)",True,5
+B,D2-Q1-EN-claude-r2-T4,T4,mainly C,material,True,quote,material,omission_or_framing,Primo-arrivants concerned must register at a welcome office within six months.,True,4
+B,D2-Q1-EN-claude-r2-T5,T5,none,none,False,,,,,True,4
+B,D2-Q1-NL-gpt-r1-T1,T1,B and C,material,True,quote,material,factual,Je moet het traject **uiterlijk 12 maanden na je inschrijving/aanmelding bij BON of BAPA** afronden.,True,5
+B,D2-Q1-NL-gpt-r1-T2,T2,B and C,material,True,quote,material,factual,"Het Agentschap Integratie en Inburgering onderzoekt eerst of je onder de verplichting valt en geeft je, als dat zo is, een informatiebrochure en een a",True,5
+B,D2-Q1-NL-gpt-r1-T3,T3,B (attribution) and C,minor,True,quote,material,factual,"**Ordonnantie van 11 mei 2017 betreffende het inburgeringstraject voor nieuwkomers** (versie van vóór 2024), Belgisch Staatsblad — wettelijke definiti",True,6
+B,D2-Q1-NL-gpt-r1-T4,T4,mainly C,material,False,,,,,False,3
+B,D2-Q1-NL-gpt-r1-T5,T5,none,none,False,,,,,False,5
+B,D2-Q2-FR-gpt-r1-T1,T1,B and C,material,True,quote,material,factual,vous devez faire modifier/activer votre inscription comme demandeur d’emploi **dans les 30 jours civils qui suivent la fin effective de votre contrat ,True,3
+B,D2-Q2-FR-gpt-r1-T2,T2,B and C,material,True,quote,material,factual,"Dispense pour suivre une formation tout en gardant les allocations | ONEM/RVA, avec intervention pratique de l'organisme de paiement selon le type de ",True,3
+B,D2-Q2-FR-gpt-r1-T3,T3,B (attribution) and C,minor,True,quote,minor,source,Le Forem confirme cette règle. ([leforem.be](https://www.leforem.be/particuliers/allocations-de-chomage.html)),False,1
+B,D2-Q2-FR-gpt-r1-T4,T4,mainly C,material,False,,,,,False,3
+B,D2-Q2-FR-gpt-r1-T5,T5,none,none,False,,,,,False,4
+B,D2-Q2-NL-claude-r1-T1,T1,B and C,material,True,quote,material,factual,"Het recht op volledige werkloosheidsuitkeringen wordt voortaan beperkt tot maximum 36 maanden. Dat recht omvat een basisperiode van 24 maanden, waarbi",True,1
+B,D2-Q2-NL-claude-r1-T2,T2,B and C,material,True,quote,material,factual,Actiris betaalt de werkloosheidsuitkeringen uit.,True,4
+B,D2-Q2-NL-claude-r1-T3,T3,B (attribution) and C,minor,False,,,,,False,3
+B,D2-Q2-NL-claude-r1-T4,T4,mainly C,material,True,quote,material,omission_or_framing,geldt de algemene termijn: je moet je bij de voor je woonplaats bevoegde gewestelijke dienst voor arbeidsbemiddeling (in jouw geval Actiris) inschrijv,True,2
+B,D2-Q2-NL-claude-r1-T5,T5,none,none,False,,,,,True,3
+B,D2-Q3-EN-gpt-r1-T1,T1,B and C,material,True,quote,material,factual,"If the employer is bilingual Dutch/French, NARIC-Vlaanderen says you must apply to NARIC-Vlaanderen; the French Community service cannot be used for b",True,3
+B,D2-Q3-EN-gpt-r1-T2,T2,B and C,material,True,quote,material,factual,"the competent service is **Actiris**, the Brussels regional employment service, which issues equivalence decisions for Brussels residents",True,3
+B,D2-Q3-EN-gpt-r1-T3,T3,B (attribution) and C,minor,True,quote,minor,source,The Brussels-Capital Region’s own information page directs people to both French Community and Flemish Community/NARIC-Vlaanderen sources for diploma ,True,3
+B,D2-Q3-EN-gpt-r1-T4,T4,mainly C,material,True,ref,material,factual,"NARIC-Vlaanderen says you may apply either to NARIC-Vlaanderen or to the French Community NARIC centre, and you should ask the future employer which t",True,2
+B,D2-Q3-EN-gpt-r1-T5,T5,none,none,False,,,,,True,2
+B,D2-Q3-FR-claude-r1-T1,T1,B and C,material,True,quote,material,factual,Une équivalence de niveau d'études suffit p[our exercer une profession réglementée en Belgique francophone.],True,3
+B,D2-Q3-FR-claude-r1-T2,T2,B and C,material,True,quote,material,factual,"La reconnaissance des diplômes est une compétence régionale : à Bruxelles, c'est la Région de Bruxelles-Capitale, via Actiris, qui délivre les équival",True,6
+B,D2-Q3-FR-claude-r1-T3,T3,B (attribution) and C,minor,True,quote,minor,source,wallonie.be (portail officiel de la Région wallonne) ... https://www.wallonie.be/fr/demarches/obtenir-lequivalence-dun-diplome-etranger,True,6
+B,D2-Q3-FR-claude-r1-T4,T4,mainly C,material,True,quote,material,omission_or_framing,a) Emploi non réglementé dans le secteur privé ... c) Profession réglementée,True,5
+B,D2-Q3-FR-claude-r1-T5,T5,none,none,False,,,,,True,4
+C,D2-Q1-EN-claude-r2-T1,T1,B and C,material,True,quote,material,factual,Primo-arrivants concerned must register at a welcome office within three months following notification of their obligation by their municipality.,True,5
+C,D2-Q1-EN-claude-r2-T2,T2,B and C,material,True,quote,material,factual,The BAPA or BON office will first examine whether you fall under the obligation and issue your attestation of obligation.,True,6
+C,D2-Q1-EN-claude-r2-T3,T3,B (attribution) and C,minor,True,quote,material,source,"Flemish government portal: vlaanderen.be — ""Inburgering: verplicht inburgeringstraject"" (Flemish Integration Decree)",True,6
+C,D2-Q1-EN-claude-r2-T4,T4,mainly C,material,True,quote,material,omission_or_framing,Primo-arrivants concerned must register at a welcome office within six months.,True,5
+C,D2-Q1-EN-claude-r2-T5,T5,none,none,False,,,,,True,5
+C,D2-Q1-NL-gpt-r1-T1,T1,B and C,material,True,quote,material,factual,Je moet het traject **uiterlijk 12 maanden na je inschrijving/aanmelding bij BON of BAPA** afronden.,True,5
+C,D2-Q1-NL-gpt-r1-T2,T2,B and C,material,True,quote,material,factual,"Het Agentschap Integratie en Inburgering onderzoekt eerst of je onder de verplichting valt en geeft je, als dat zo is, een informatiebrochure en een a",True,6
+C,D2-Q1-NL-gpt-r1-T3,T3,B (attribution) and C,minor,True,quote,minor,source,"Ordonnantie van 11 mei 2017 betreffende het inburgeringstraject voor nieuwkomers (versie van vóór 2024), Belgisch Staatsblad",False,4
+C,D2-Q1-NL-gpt-r1-T4,T4,mainly C,material,True,ref,minor,omission_or_framing,waar volgens de nieuwe Brusselse regeling de mogelijkheid bestaat om het traject in het Frans of Nederlands te volgen... terwijl de BAPA’s traditionee,False,5
+C,D2-Q1-NL-gpt-r1-T5,T5,none,none,False,,,,,True,4
+C,D2-Q2-FR-gpt-r1-T1,T1,B and C,material,True,quote,material,factual,vous devez faire modifier/activer votre inscription comme demandeur d’emploi **dans les 30 jours civils qui suivent la fin effective de votre contrat ,True,2
+C,D2-Q2-FR-gpt-r1-T2,T2,B and C,material,True,quote,material,factual,"Dispense pour suivre une formation tout en gardant les allocations | **ONEM/RVA**, avec intervention pratique de l’organisme de paiement selon le type",True,3
+C,D2-Q2-FR-gpt-r1-T3,T3,B (attribution) and C,minor,True,quote,minor,source,Le Forem confirme cette règle. ([leforem.be](https://www.leforem.be/particuliers/allocations-de-chomage.html)),False,2
+C,D2-Q2-FR-gpt-r1-T4,T4,mainly C,material,False,,,,,False,3
+C,D2-Q2-FR-gpt-r1-T5,T5,none,none,False,,,,,False,2
+C,D2-Q2-NL-claude-r1-T1,T1,B and C,material,True,quote,material,factual,"Het recht op volledige werkloosheidsuitkeringen wordt voortaan beperkt tot maximum 36 maanden. Dat recht omvat een basisperiode van 24 maanden, waarbi",True,4
+C,D2-Q2-NL-claude-r1-T2,T2,B and C,material,True,quote,material,factual,Actiris betaalt de werkloosheidsuitkeringen uit.,True,3
+C,D2-Q2-NL-claude-r1-T3,T3,B (attribution) and C,minor,False,,,,,False,3
+C,D2-Q2-NL-claude-r1-T4,T4,mainly C,material,True,quote,material,omission_or_framing,je moet je bij de voor je woonplaats bevoegde gewestelijke dienst voor arbeidsbemiddeling (in jouw geval Actiris) inschrijven als werkzoekende.,True,4
+C,D2-Q2-NL-claude-r1-T5,T5,none,none,False,,,,,False,3
+C,D2-Q3-EN-gpt-r1-T1,T1,B and C,material,True,quote,material,factual,NARIC-Vlaanderen says you must apply to NARIC-Vlaanderen; the French Community service cannot be used for bilingual employers.,True,2
+C,D2-Q3-EN-gpt-r1-T2,T2,B and C,material,True,quote,material,factual,"For higher-education diplomas, the competent service is **Actiris**, the Brussels regional employment service, which issues equivalence decisions for ",True,3
+C,D2-Q3-EN-gpt-r1-T3,T3,B (attribution) and C,minor,True,quote,minor,source,The Brussels-Capital Region’s own information page directs people to both French Community and Flemish Community/NARIC-Vlaanderen sources for diploma ,True,2
+C,D2-Q3-EN-gpt-r1-T4,T4,mainly C,material,False,,,,,True,2
+C,D2-Q3-EN-gpt-r1-T5,T5,none,none,False,,,,,True,1
+C,D2-Q3-FR-claude-r1-T1,T1,B and C,material,True,quote,material,factual,"une équivalence de niveau suffit :
+- Si vous voulez travailler dans la fonction publique ou exercer une profession réglementée ... Une équivalence de ",True,6
+C,D2-Q3-FR-claude-r1-T2,T2,B and C,material,True,quote,material,factual,"La reconnaissance des diplômes est une compétence régionale : à Bruxelles, c'est la Région de Bruxelles-Capitale, via Actiris, qui délivre les équival",True,6
+C,D2-Q3-FR-claude-r1-T3,T3,B (attribution) and C,minor,True,quote,minor,source,wallonie.be (portail officiel de la Région wallonne) : si vous souhaitez entamer des études ou travailler dans la Région de Bruxelles-Capitale ... htt,True,5
+C,D2-Q3-FR-claude-r1-T4,T4,mainly C,material,True,quote,material,omission_or_framing,"[omission] — the answer only presents sections ""a) Emploi non réglementé dans le secteur privé"" and ""c) Profession réglementée"", with no explicit ""b)""",True,5
+C,D2-Q3-FR-claude-r1-T5,T5,none,none,False,,,,,True,4
