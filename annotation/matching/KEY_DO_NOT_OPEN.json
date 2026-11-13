@@ -1,0 +1,1762 @@
+{
+"F001": {
+"evaluator": "B",
+"object": "D1-Q1-NL-gpt-r3",
+"issue_index": 0
+},
+"F002": {
+"evaluator": "C",
+"object": "D1-Q1-NL-gpt-r3",
+"issue_index": 1
+},
+"F003": {
+"evaluator": "C",
+"object": "D1-Q1-NL-gpt-r3",
+"issue_index": 0
+},
+"F004": {
+"evaluator": "C",
+"object": "D1-Q1-NL-gpt-r3",
+"issue_index": 2
+},
+"F005": {
+"evaluator": "B",
+"object": "D1-Q1-NL-gpt-r3",
+"issue_index": 1
+},
+"F006": {
+"evaluator": "B",
+"object": "D1-Q1-EN-gpt-r2",
+"issue_index": 1
+},
+"F007": {
+"evaluator": "B",
+"object": "D1-Q1-EN-gpt-r2",
+"issue_index": 3
+},
+"F008": {
+"evaluator": "C",
+"object": "D1-Q1-EN-gpt-r2",
+"issue_index": 2
+},
+"F009": {
+"evaluator": "B",
+"object": "D1-Q1-EN-gpt-r2",
+"issue_index": 0
+},
+"F010": {
+"evaluator": "B",
+"object": "D1-Q1-EN-gpt-r2",
+"issue_index": 2
+},
+"F011": {
+"evaluator": "C",
+"object": "D1-Q1-EN-gpt-r2",
+"issue_index": 3
+},
+"F012": {
+"evaluator": "C",
+"object": "D1-Q1-EN-gpt-r2",
+"issue_index": 0
+},
+"F013": {
+"evaluator": "C",
+"object": "D1-Q1-EN-gpt-r2",
+"issue_index": 1
+},
+"F014": {
+"evaluator": "B",
+"object": "D1-Q2-NL-claude-r3",
+"issue_index": 1
+},
+"F015": {
+"evaluator": "C",
+"object": "D1-Q2-NL-claude-r3",
+"issue_index": 2
+},
+"F016": {
+"evaluator": "B",
+"object": "D1-Q2-NL-claude-r3",
+"issue_index": 3
+},
+"F017": {
+"evaluator": "B",
+"object": "D1-Q2-NL-claude-r3",
+"issue_index": 2
+},
+"F018": {
+"evaluator": "C",
+"object": "D1-Q2-NL-claude-r3",
+"issue_index": 0
+},
+"F019": {
+"evaluator": "B",
+"object": "D1-Q2-NL-claude-r3",
+"issue_index": 4
+},
+"F020": {
+"evaluator": "C",
+"object": "D1-Q2-NL-claude-r3",
+"issue_index": 1
+},
+"F021": {
+"evaluator": "B",
+"object": "D1-Q2-NL-claude-r3",
+"issue_index": 0
+},
+"F022": {
+"evaluator": "B",
+"object": "D1-Q1-FR-claude-r3",
+"issue_index": 0
+},
+"F023": {
+"evaluator": "B",
+"object": "D1-Q1-FR-claude-r3",
+"issue_index": 1
+},
+"F024": {
+"evaluator": "C",
+"object": "D1-Q1-FR-claude-r3",
+"issue_index": 2
+},
+"F025": {
+"evaluator": "B",
+"object": "D1-Q1-FR-claude-r3",
+"issue_index": 2
+},
+"F026": {
+"evaluator": "C",
+"object": "D1-Q1-FR-claude-r3",
+"issue_index": 0
+},
+"F027": {
+"evaluator": "C",
+"object": "D1-Q1-FR-claude-r3",
+"issue_index": 3
+},
+"F028": {
+"evaluator": "C",
+"object": "D1-Q1-FR-claude-r3",
+"issue_index": 1
+},
+"F029": {
+"evaluator": "B",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 1
+},
+"F030": {
+"evaluator": "B",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 2
+},
+"F031": {
+"evaluator": "C",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 0
+},
+"F032": {
+"evaluator": "C",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 1
+},
+"F033": {
+"evaluator": "C",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 5
+},
+"F034": {
+"evaluator": "C",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 3
+},
+"F035": {
+"evaluator": "C",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 4
+},
+"F036": {
+"evaluator": "C",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 2
+},
+"F037": {
+"evaluator": "B",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 3
+},
+"F038": {
+"evaluator": "B",
+"object": "D1-Q2-NL-gpt-r3",
+"issue_index": 0
+},
+"F039": {
+"evaluator": "B",
+"object": "D1-Q3-EN-claude-r3",
+"issue_index": 2
+},
+"F040": {
+"evaluator": "B",
+"object": "D1-Q3-EN-claude-r3",
+"issue_index": 1
+},
+"F041": {
+"evaluator": "C",
+"object": "D1-Q3-EN-claude-r3",
+"issue_index": 4
+},
+"F042": {
+"evaluator": "C",
+"object": "D1-Q3-EN-claude-r3",
+"issue_index": 2
+},
+"F043": {
+"evaluator": "B",
+"object": "D1-Q3-EN-claude-r3",
+"issue_index": 0
+},
+"F044": {
+"evaluator": "C",
+"object": "D1-Q3-EN-claude-r3",
+"issue_index": 1
+},
+"F045": {
+"evaluator": "C",
+"object": "D1-Q3-EN-claude-r3",
+"issue_index": 3
+},
+"F046": {
+"evaluator": "C",
+"object": "D1-Q3-EN-claude-r3",
+"issue_index": 0
+},
+"F047": {
+"evaluator": "C",
+"object": "D1-Q2-EN-gpt-r3",
+"issue_index": 2
+},
+"F048": {
+"evaluator": "C",
+"object": "D1-Q2-EN-gpt-r3",
+"issue_index": 0
+},
+"F049": {
+"evaluator": "B",
+"object": "D1-Q2-EN-gpt-r3",
+"issue_index": 0
+},
+"F050": {
+"evaluator": "B",
+"object": "D1-Q2-EN-gpt-r3",
+"issue_index": 1
+},
+"F051": {
+"evaluator": "C",
+"object": "D1-Q2-EN-gpt-r3",
+"issue_index": 1
+},
+"F052": {
+"evaluator": "C",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 0
+},
+"F053": {
+"evaluator": "B",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 4
+},
+"F054": {
+"evaluator": "B",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 2
+},
+"F055": {
+"evaluator": "B",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 1
+},
+"F056": {
+"evaluator": "B",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 0
+},
+"F057": {
+"evaluator": "C",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 2
+},
+"F058": {
+"evaluator": "C",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 1
+},
+"F059": {
+"evaluator": "C",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 3
+},
+"F060": {
+"evaluator": "B",
+"object": "D1-Q2-FR-claude-r1",
+"issue_index": 3
+},
+"F061": {
+"evaluator": "B",
+"object": "D1-Q3-FR-claude-r3",
+"issue_index": 2
+},
+"F062": {
+"evaluator": "C",
+"object": "D1-Q3-FR-claude-r3",
+"issue_index": 0
+},
+"F063": {
+"evaluator": "C",
+"object": "D1-Q3-FR-claude-r3",
+"issue_index": 1
+},
+"F064": {
+"evaluator": "B",
+"object": "D1-Q3-FR-claude-r3",
+"issue_index": 0
+},
+"F065": {
+"evaluator": "C",
+"object": "D1-Q3-FR-claude-r3",
+"issue_index": 2
+},
+"F066": {
+"evaluator": "B",
+"object": "D1-Q3-FR-claude-r3",
+"issue_index": 1
+},
+"F067": {
+"evaluator": "C",
+"object": "D1-Q3-FR-claude-r3",
+"issue_index": 3
+},
+"F068": {
+"evaluator": "B",
+"object": "D1-Q3-FR-claude-r3",
+"issue_index": 3
+},
+"F069": {
+"evaluator": "B",
+"object": "D1-Q3-EN-gpt-r2",
+"issue_index": 0
+},
+"F070": {
+"evaluator": "C",
+"object": "D1-Q3-EN-gpt-r2",
+"issue_index": 1
+},
+"F071": {
+"evaluator": "C",
+"object": "D1-Q3-EN-gpt-r2",
+"issue_index": 0
+},
+"F072": {
+"evaluator": "B",
+"object": "D1-Q3-EN-gpt-r2",
+"issue_index": 1
+},
+"F073": {
+"evaluator": "B",
+"object": "D1-Q3-FR-gpt-r1",
+"issue_index": 0
+},
+"F074": {
+"evaluator": "C",
+"object": "D1-Q3-FR-gpt-r1",
+"issue_index": 2
+},
+"F075": {
+"evaluator": "C",
+"object": "D1-Q3-FR-gpt-r1",
+"issue_index": 0
+},
+"F076": {
+"evaluator": "B",
+"object": "D1-Q3-FR-gpt-r1",
+"issue_index": 1
+},
+"F077": {
+"evaluator": "B",
+"object": "D1-Q3-FR-gpt-r1",
+"issue_index": 3
+},
+"F078": {
+"evaluator": "C",
+"object": "D1-Q3-FR-gpt-r1",
+"issue_index": 1
+},
+"F079": {
+"evaluator": "B",
+"object": "D1-Q3-FR-gpt-r1",
+"issue_index": 2
+},
+"F080": {
+"evaluator": "C",
+"object": "D1-Q3-NL-claude-r1",
+"issue_index": 1
+},
+"F081": {
+"evaluator": "B",
+"object": "D1-Q3-NL-claude-r1",
+"issue_index": 2
+},
+"F082": {
+"evaluator": "B",
+"object": "D1-Q3-NL-claude-r1",
+"issue_index": 1
+},
+"F083": {
+"evaluator": "C",
+"object": "D1-Q3-NL-claude-r1",
+"issue_index": 2
+},
+"F084": {
+"evaluator": "C",
+"object": "D1-Q3-NL-claude-r1",
+"issue_index": 0
+},
+"F085": {
+"evaluator": "B",
+"object": "D1-Q3-NL-claude-r1",
+"issue_index": 0
+},
+"F086": {
+"evaluator": "B",
+"object": "D1-Q2-FR-gpt-r2",
+"issue_index": 1
+},
+"F087": {
+"evaluator": "B",
+"object": "D1-Q2-FR-gpt-r2",
+"issue_index": 0
+},
+"F088": {
+"evaluator": "C",
+"object": "D1-Q2-FR-gpt-r2",
+"issue_index": 0
+},
+"F089": {
+"evaluator": "C",
+"object": "D1-Q2-FR-gpt-r2",
+"issue_index": 1
+},
+"F090": {
+"evaluator": "B",
+"object": "D1-Q1-EN-claude-r1",
+"issue_index": 2
+},
+"F091": {
+"evaluator": "B",
+"object": "D1-Q1-EN-claude-r1",
+"issue_index": 3
+},
+"F092": {
+"evaluator": "C",
+"object": "D1-Q1-EN-claude-r1",
+"issue_index": 1
+},
+"F093": {
+"evaluator": "B",
+"object": "D1-Q1-EN-claude-r1",
+"issue_index": 4
+},
+"F094": {
+"evaluator": "C",
+"object": "D1-Q1-EN-claude-r1",
+"issue_index": 0
+},
+"F095": {
+"evaluator": "B",
+"object": "D1-Q1-EN-claude-r1",
+"issue_index": 0
+},
+"F096": {
+"evaluator": "B",
+"object": "D1-Q1-EN-claude-r1",
+"issue_index": 1
+},
+"F097": {
+"evaluator": "C",
+"object": "D1-Q1-EN-claude-r1",
+"issue_index": 2
+},
+"F098": {
+"evaluator": "B",
+"object": "D1-Q1-FR-gpt-r2",
+"issue_index": 1
+},
+"F099": {
+"evaluator": "C",
+"object": "D1-Q1-FR-gpt-r2",
+"issue_index": 0
+},
+"F100": {
+"evaluator": "C",
+"object": "D1-Q1-FR-gpt-r2",
+"issue_index": 1
+},
+"F101": {
+"evaluator": "B",
+"object": "D1-Q1-FR-gpt-r2",
+"issue_index": 0
+},
+"F102": {
+"evaluator": "B",
+"object": "D1-Q1-NL-claude-r3",
+"issue_index": 0
+},
+"F103": {
+"evaluator": "B",
+"object": "D1-Q1-NL-claude-r3",
+"issue_index": 2
+},
+"F104": {
+"evaluator": "C",
+"object": "D1-Q1-NL-claude-r3",
+"issue_index": 0
+},
+"F105": {
+"evaluator": "B",
+"object": "D1-Q1-NL-claude-r3",
+"issue_index": 1
+},
+"F106": {
+"evaluator": "C",
+"object": "D1-Q1-NL-claude-r3",
+"issue_index": 1
+},
+"F107": {
+"evaluator": "C",
+"object": "D1-Q3-NL-gpt-r1",
+"issue_index": 1
+},
+"F108": {
+"evaluator": "B",
+"object": "D1-Q3-NL-gpt-r1",
+"issue_index": 0
+},
+"F109": {
+"evaluator": "C",
+"object": "D1-Q3-NL-gpt-r1",
+"issue_index": 0
+},
+"F110": {
+"evaluator": "B",
+"object": "D1-Q3-NL-gpt-r1",
+"issue_index": 2
+},
+"F111": {
+"evaluator": "B",
+"object": "D1-Q3-NL-gpt-r1",
+"issue_index": 1
+},
+"F112": {
+"evaluator": "C",
+"object": "D1-Q3-NL-gpt-r1",
+"issue_index": 3
+},
+"F113": {
+"evaluator": "C",
+"object": "D1-Q3-NL-gpt-r1",
+"issue_index": 2
+},
+"F114": {
+"evaluator": "C",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 0
+},
+"F115": {
+"evaluator": "B",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 1
+},
+"F116": {
+"evaluator": "B",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 2
+},
+"F117": {
+"evaluator": "C",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 2
+},
+"F118": {
+"evaluator": "B",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 0
+},
+"F119": {
+"evaluator": "C",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 3
+},
+"F120": {
+"evaluator": "B",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 3
+},
+"F121": {
+"evaluator": "B",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 4
+},
+"F122": {
+"evaluator": "C",
+"object": "D1-Q2-EN-claude-r1",
+"issue_index": 1
+},
+"F123": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T5",
+"issue_index": 2
+},
+"F124": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T5",
+"issue_index": 3
+},
+"F125": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T5",
+"issue_index": 1
+},
+"F126": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T5",
+"issue_index": 1
+},
+"F127": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T5",
+"issue_index": 0
+},
+"F128": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T5",
+"issue_index": 0
+},
+"F129": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 2
+},
+"F130": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 3
+},
+"F131": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 4
+},
+"F132": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 2
+},
+"F133": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 0
+},
+"F134": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 0
+},
+"F135": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 1
+},
+"F136": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 1
+},
+"F137": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T5",
+"issue_index": 3
+},
+"F138": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 5
+},
+"F139": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 2
+},
+"F140": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 0
+},
+"F141": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 3
+},
+"F142": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 1
+},
+"F143": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 4
+},
+"F144": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 2
+},
+"F145": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 0
+},
+"F146": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 1
+},
+"F147": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 3
+},
+"F148": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T3",
+"issue_index": 4
+},
+"F149": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T2",
+"issue_index": 2
+},
+"F150": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T2",
+"issue_index": 1
+},
+"F151": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T2",
+"issue_index": 1
+},
+"F152": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T2",
+"issue_index": 0
+},
+"F153": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T2",
+"issue_index": 2
+},
+"F154": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T2",
+"issue_index": 0
+},
+"F155": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T4",
+"issue_index": 1
+},
+"F156": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T4",
+"issue_index": 1
+},
+"F157": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T4",
+"issue_index": 0
+},
+"F158": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T4",
+"issue_index": 0
+},
+"F159": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T3",
+"issue_index": 1
+},
+"F160": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T3",
+"issue_index": 1
+},
+"F161": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T3",
+"issue_index": 0
+},
+"F162": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T3",
+"issue_index": 0
+},
+"F163": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T3",
+"issue_index": 2
+},
+"F164": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T2",
+"issue_index": 1
+},
+"F165": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T2",
+"issue_index": 1
+},
+"F166": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T2",
+"issue_index": 2
+},
+"F167": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T2",
+"issue_index": 0
+},
+"F168": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T2",
+"issue_index": 0
+},
+"F169": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T2",
+"issue_index": 2
+},
+"F170": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 0
+},
+"F171": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 2
+},
+"F172": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 3
+},
+"F173": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 4
+},
+"F174": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 4
+},
+"F175": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 2
+},
+"F176": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 3
+},
+"F177": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 1
+},
+"F178": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 0
+},
+"F179": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T1",
+"issue_index": 1
+},
+"F180": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T4",
+"issue_index": 2
+},
+"F181": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T4",
+"issue_index": 0
+},
+"F182": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T4",
+"issue_index": 3
+},
+"F183": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T4",
+"issue_index": 1
+},
+"F184": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T4",
+"issue_index": 0
+},
+"F185": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T4",
+"issue_index": 4
+},
+"F186": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T4",
+"issue_index": 1
+},
+"F187": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T4",
+"issue_index": 2
+},
+"F188": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T1",
+"issue_index": 0
+},
+"F189": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T1",
+"issue_index": 2
+},
+"F190": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T1",
+"issue_index": 0
+},
+"F191": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T1",
+"issue_index": 3
+},
+"F192": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T1",
+"issue_index": 1
+},
+"F193": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 3
+},
+"F194": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 0
+},
+"F195": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 3
+},
+"F196": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 1
+},
+"F197": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 2
+},
+"F198": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 2
+},
+"F199": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 4
+},
+"F200": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 5
+},
+"F201": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 1
+},
+"F202": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T3",
+"issue_index": 0
+},
+"F203": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T1",
+"issue_index": 1
+},
+"F204": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T1",
+"issue_index": 2
+},
+"F205": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T1",
+"issue_index": 1
+},
+"F206": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T1",
+"issue_index": 0
+},
+"F207": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T1",
+"issue_index": 0
+},
+"F208": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 1
+},
+"F209": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 5
+},
+"F210": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 1
+},
+"F211": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 3
+},
+"F212": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 0
+},
+"F213": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 4
+},
+"F214": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 2
+},
+"F215": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 4
+},
+"F216": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 2
+},
+"F217": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 0
+},
+"F218": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T2",
+"issue_index": 3
+},
+"F219": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 2
+},
+"F220": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 3
+},
+"F221": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 1
+},
+"F222": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 4
+},
+"F223": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 2
+},
+"F224": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 1
+},
+"F225": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 0
+},
+"F226": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 4
+},
+"F227": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 3
+},
+"F228": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T4",
+"issue_index": 0
+},
+"F229": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 4
+},
+"F230": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 1
+},
+"F231": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 3
+},
+"F232": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 0
+},
+"F233": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 2
+},
+"F234": {
+"evaluator": "B",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 0
+},
+"F235": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 3
+},
+"F236": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 2
+},
+"F237": {
+"evaluator": "C",
+"object": "D2-Q1-NL-gpt-r1-T5",
+"issue_index": 1
+},
+"F238": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T5",
+"issue_index": 0
+},
+"F239": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T5",
+"issue_index": 1
+},
+"F240": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T5",
+"issue_index": 0
+},
+"F241": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T5",
+"issue_index": 0
+},
+"F242": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T5",
+"issue_index": 1
+},
+"F243": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T5",
+"issue_index": 1
+},
+"F244": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T5",
+"issue_index": 0
+},
+"F245": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T5",
+"issue_index": 2
+},
+"F246": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T5",
+"issue_index": 3
+},
+"F247": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T5",
+"issue_index": 3
+},
+"F248": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T5",
+"issue_index": 2
+},
+"F249": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T4",
+"issue_index": 0
+},
+"F250": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T4",
+"issue_index": 1
+},
+"F251": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T4",
+"issue_index": 2
+},
+"F252": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T4",
+"issue_index": 0
+},
+"F253": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T4",
+"issue_index": 2
+},
+"F254": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T4",
+"issue_index": 1
+},
+"F255": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T4",
+"issue_index": 2
+},
+"F256": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T4",
+"issue_index": 1
+},
+"F257": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T4",
+"issue_index": 0
+},
+"F258": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T4",
+"issue_index": 1
+},
+"F259": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T4",
+"issue_index": 0
+},
+"F260": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T4",
+"issue_index": 3
+},
+"F261": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T5",
+"issue_index": 1
+},
+"F262": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T5",
+"issue_index": 2
+},
+"F263": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T5",
+"issue_index": 2
+},
+"F264": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T5",
+"issue_index": 0
+},
+"F265": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T5",
+"issue_index": 1
+},
+"F266": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T5",
+"issue_index": 0
+},
+"F267": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 0
+},
+"F268": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 5
+},
+"F269": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 2
+},
+"F270": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 1
+},
+"F271": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 0
+},
+"F272": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 4
+},
+"F273": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 2
+},
+"F274": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 5
+},
+"F275": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 4
+},
+"F276": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 1
+},
+"F277": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 3
+},
+"F278": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T2",
+"issue_index": 3
+},
+"F279": {
+"evaluator": "B",
+"object": "D2-Q2-FR-gpt-r1-T3",
+"issue_index": 0
+},
+"F280": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T3",
+"issue_index": 0
+},
+"F281": {
+"evaluator": "C",
+"object": "D2-Q2-FR-gpt-r1-T3",
+"issue_index": 1
+},
+"F282": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 5
+},
+"F283": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 3
+},
+"F284": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 2
+},
+"F285": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 1
+},
+"F286": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 0
+},
+"F287": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 4
+},
+"F288": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 0
+},
+"F289": {
+"evaluator": "C",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 2
+},
+"F290": {
+"evaluator": "B",
+"object": "D2-Q3-FR-claude-r1-T1",
+"issue_index": 1
+},
+"F291": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T1",
+"issue_index": 0
+},
+"F292": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T1",
+"issue_index": 1
+},
+"F293": {
+"evaluator": "C",
+"object": "D2-Q3-EN-gpt-r1-T1",
+"issue_index": 0
+},
+"F294": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T1",
+"issue_index": 1
+},
+"F295": {
+"evaluator": "B",
+"object": "D2-Q3-EN-gpt-r1-T1",
+"issue_index": 2
+},
+"F296": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 2
+},
+"F297": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 4
+},
+"F298": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 1
+},
+"F299": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 0
+},
+"F300": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 0
+},
+"F301": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 2
+},
+"F302": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 3
+},
+"F303": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 3
+},
+"F304": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T4",
+"issue_index": 1
+},
+"F305": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T2",
+"issue_index": 0
+},
+"F306": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T2",
+"issue_index": 2
+},
+"F307": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T2",
+"issue_index": 2
+},
+"F308": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T2",
+"issue_index": 3
+},
+"F309": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T2",
+"issue_index": 1
+},
+"F310": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T2",
+"issue_index": 0
+},
+"F311": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T2",
+"issue_index": 1
+},
+"F312": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 0
+},
+"F313": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 0
+},
+"F314": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 2
+},
+"F315": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 1
+},
+"F316": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 3
+},
+"F317": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 2
+},
+"F318": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 3
+},
+"F319": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 4
+},
+"F320": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 5
+},
+"F321": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 1
+},
+"F322": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T3",
+"issue_index": 4
+},
+"F323": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 3
+},
+"F324": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 1
+},
+"F325": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 1
+},
+"F326": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 0
+},
+"F327": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 5
+},
+"F328": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 2
+},
+"F329": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 5
+},
+"F330": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 4
+},
+"F331": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 2
+},
+"F332": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 3
+},
+"F333": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 6
+},
+"F334": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 0
+},
+"F335": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T2",
+"issue_index": 4
+},
+"F336": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T3",
+"issue_index": 1
+},
+"F337": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T3",
+"issue_index": 1
+},
+"F338": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T3",
+"issue_index": 0
+},
+"F339": {
+"evaluator": "C",
+"object": "D2-Q2-NL-claude-r1-T3",
+"issue_index": 2
+},
+"F340": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T3",
+"issue_index": 2
+},
+"F341": {
+"evaluator": "B",
+"object": "D2-Q2-NL-claude-r1-T3",
+"issue_index": 0
+},
+"F342": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 4
+},
+"F343": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 5
+},
+"F344": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 1
+},
+"F345": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 3
+},
+"F346": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 2
+},
+"F347": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 3
+},
+"F348": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 0
+},
+"F349": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 4
+},
+"F350": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 1
+},
+"F351": {
+"evaluator": "C",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 2
+},
+"F352": {
+"evaluator": "B",
+"object": "D2-Q1-EN-claude-r2-T1",
+"issue_index": 0
+}
+}
