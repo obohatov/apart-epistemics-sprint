@@ -1,6 +1,6 @@
-# D2 perturbation cards — for author approval
+# D2 perturbation cards — for author approval (v2)
 
-Fixed before B and C are run on D2. Each card: what changes, exact edits (before → after), reference-key items, expected detectors and severity.
+Bases are D1 answers **outside** the blind gold sample, so they do not appear in `D1_gold_booklet.md`; every `Before` fragment is checked by `src/build_d2.py` to occur exactly once in `data/D1/responses.jsonl`. T4 edits are deletions only. All T3 cards: expected severity minor.
 
 
 ## Base D1-Q1-EN-claude-r2
@@ -21,7 +21,7 @@ Fixed before B and C are run on D2. Each card: what changes, exact edits (before
 
 ### T3 — an official Brussels source replaced by a Flemish source that describes a different (Flemish) regime
 
-- Reference: Q1.3; Q1.I5 · Expected detectors: **B (attribution) and C** · Expected severity: **minor or material**
+- Reference: Q1.3; Q1.I5 · Expected detectors: **B (attribution) and C** · Expected severity: **minor**
 
 - Before: «City of Brussels official portal: bruxelles.be — "Parcours d'accueil obligatoire à Bruxelles"»
   After: «Flemish government portal: vlaanderen.be — "Inburgering: verplicht inburgeringstraject" (Flemish Integration Decree)»
@@ -65,7 +65,7 @@ Fixed before B and C are run on D2. Each card: what changes, exact edits (before
 
 ### T3 — current legal source replaced by the superseded pre-2024 version
 
-- Reference: Q1.I1; Q1.3 · Expected detectors: **B (attribution) and C** · Expected severity: **minor or material**
+- Reference: Q1.I1; Q1.3 · Expected detectors: **B (attribution) and C** · Expected severity: **minor**
 
 - Before: «**Ordonnantie van 20 juli 2023 betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen**, Belgisch Staatsblad / eJustice — wettelijke definitie, verplichting en vrijstellingen.»
   After: «**Ordonnantie van 11 mei 2017 betreffende het inburgeringstraject voor nieuwkomers** (versie van vóór 2024), Belgisch Staatsblad — wettelijke definitie, verplichting en vrijstellingen.»
@@ -126,7 +126,7 @@ Fixed before B and C are run on D2. Each card: what changes, exact edits (before
 - Before: «Le SPF Emploi et l’ONEM confirment cette règle. ([emploi.belgique.be](https://emploi.belgique.be/fr/themes/chomage-et-retour-au-travail/chomage-complet?utm_source=openai))»
   After: «Le Forem confirme cette règle. ([leforem.be](https://www.leforem.be/particuliers/allocations-de-chomage.html))»
 
-### T4 — the need for a recognised training or a prior exemption request is removed; the summary frames any training as automatically exempt
+### T4 — the need for a recognised training or a prior exemption request is removed (deletions only)
 
 - Reference: Q2.M3; Q2.A4 · Expected detectors: **mainly C** · Expected severity: **material**
 
@@ -135,9 +135,6 @@ Fixed before B and C are run on D2. Each card: what changes, exact edits (before
 
 - Before: «- vérifiez avec Actiris/CAPAC/syndicat que la dispense est bien automatique ou, sinon, demandez-la avant le début.»
   After: «(deleted)»
-
-- Before: «privilégiez une formation professionnelle de **Bruxelles Formation** ou du **VDAB**, car la dispense est généralement automatique si les conditions sont remplies.»
-  After: «choisissez la formation qui vous convient : la dispense est automatique.»
 
 ### T5 — meaning-preserving rewording
 
@@ -220,15 +217,15 @@ Fixed before B and C are run on D2. Each card: what changes, exact edits (before
 - Before: «sources for diploma equivalence. ([be.brussels](https://be.brussels/en/education-teaching/equivalence-diplomas))   ⏎  ⏎ **Practical tip:**»
   After: «sources for diploma equivalence. ([enic-naric.net](https://www.enic-naric.net/page-france))   ⏎  ⏎ **Practical tip:**»
 
-### T4 — the rule linking the authority to the language/community of the job is removed and the bottom line frames NARIC-Vlaanderen as the default authority for Brussels
+### T4 — the rule linking the authority to the language/community of the job and the instruction to identify the job type are removed (deletions only)
 
 - Reference: Q3.M1; Q3.A2 · Expected detectors: **mainly C** · Expected severity: **material**
 
 - Before: «- If the employer or vacancy is linked to the **French-speaking sector**, use the **Fédération Wallonie-Bruxelles** route. ⏎ - If the employer or vacancy is linked to the **Dutch-speaking/Flemish sector**, use **NARIC-Vlaanderen**.»
   After: «(deleted)»
 
-- Before: «First identify whether the Brussels job is **non-regulated private-sector**, **public-sector/subsidised**, or a **regulated profession**; then ask the employer or competent professional body whether they require FWB recognition, NARIC-Vlaanderen recognition, or sector-specific professional recognition.»
-  After: «Apply to NARIC-Vlaanderen first, since it is the competent authority for Brussels in most cases; it will tell you whether anything else is needed.»
+- Before: «First identify whether the Brussels job is **non-regulated private-sector**, **public-sector/subsidised**, or a **regulated profession**; then ask»
+  After: «Ask»
 
 ### T5 — meaning-preserving rewording
 
@@ -267,18 +264,18 @@ Fixed before B and C are run on D2. Each card: what changes, exact edits (before
 - Before: «https://be.brussels/fr/education-enseignement/equivalence-des-diplomes»
   After: «https://www.wallonie.be/fr/demarches/obtenir-lequivalence-dun-diplome-etranger»
 
-### T4 — the public-sector requirement is removed; only regulated professions appear to need equivalence
+### T4 — the public-sector requirement is removed (deletions only)
 
 - Reference: Q3.M2; Q3.A1 · Expected detectors: **mainly C** · Expected severity: **material**
 
 - Before: «En revanche, l'équivalence ou la reconnaissance de votre diplôme est obligatoire pour exercer une profession réglementée OU non réglementée dans le secteur public ou les institutions subsidiées par les pouvoirs publics.»
-  After: «En revanche, l'équivalence est obligatoire pour exercer une profession réglementée.»
+  After: «(deleted)»
 
 - Before: «**b) Emploi (non réglementé) dans le secteur public** ⏎ Ici l'équivalence devient **obligatoire**, même si la profession elle-même n'est pas réglementée : quelle que soit l'état d'origine du diplôme, la personne qui souhaite exercer une profession non réglementée dans le secteur public ou dans une institution subventionnée par les pouvoirs publics doit demander l'équivalence de son diplôme étrange …»
   After: «(deleted)»
 
-- Before: «Si vous voulez travailler dans la fonction publique ou exercer une profession réglementée»
-  After: «Si vous voulez exercer une profession réglementée»
+- Before: «travailler dans la fonction publique ou exercer une profession réglementée»
+  After: «exercer une profession réglementée»
 
 ### T5 — meaning-preserving rewording
 

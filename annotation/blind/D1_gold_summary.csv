@@ -1,0 +1,19 @@
+answer_id,question,language,action_level,material_issue,checklist_missing_wrong,note
+G01,Q1,NL,correct,no,,Practical path and deadlines correct; unofficial legal reproduction labelled as official.
+G02,Q1,EN,correct,no,,Practical steps correct; minor COCOF/Flemish governance misattribution.
+G03,Q2,NL,partly correct,no,Q2.A3; Q2.A4,Correct authorities and registration step; incomplete personal duration calculation and contradictory blanket individual-dispense instruction.
+G04,Q1,FR,partly correct,yes,Q1.A2,Materially over-restricts possible exemptions; wrong Vivalis/COCOF institutional identity.
+G05,Q2,NL,partly correct,yes,Q2.A1; Q2.A3,Off-by-one-risk registration trigger; wrongly casts full 24-month entitlement as uncertain with 4 full-time years.
+G06,Q3,EN,partly correct,yes,Q3.A3,Good distinction between Communities and job sectors but tells regulated-profession applicant to begin with generic recognition.
+G07,Q2,EN,correct,no,,No actionable issue found against Q2 key; correct personalized 24-month calculation and automatic training exemption.
+G08,Q2,FR,partly correct,yes,Q2.A3; Q2.A4,Incorrect extra-month inference and harmful assertions on degressivity and benefit extension.
+G09,Q3,FR,incorrect,yes,Q3.A1; Q3.A2; Q3.A3; Q3.A4,"Contradictory mandatory-equivalence claim, wrong FWB portal and barriers to NARIC admission; missing specific-equivalence explanation."
+G10,Q3,EN,correct,no,,"Correct FWB/EQUSUP and NARIC routes, sector distinctions and EU/third-country caveat."
+G11,Q3,FR,correct,no,Q3.A4 (minor),"Correct practical route; FWB ENIC-NARIC and adjudicating service conflated, Equisup URL omitted."
+G12,Q3,NL,partly correct,yes,Q3.A2; Q3.A4,Correct job-sector logic but sends higher-education diploma applicants to FWB secondary equivalence portal.
+G13,Q2,FR,correct,no,,"Covers personalized duration, Actiris/payment bodies, French/Dutch training and distinction between automatic/requested exemption."
+G14,Q1,EN,correct,no,,Correct next steps and deadlines; minor Flemish regime/Brussels authority attribution imprecision.
+G15,Q1,FR,correct,no,,"No issue found against the key; correct obligations, exemptions, municipality, operators and deadlines."
+G16,Q1,NL,correct,no,,"No issue found against the key; correct municipality first, dates, language choice and sources."
+G17,Q3,NL,partly correct,yes,Q3.A2; Q3.A3,"Good distinctions for sectors, but higher-ed FWB service confused with secondary equivalences; weak level/specific contrast."
+G18,Q2,EN,partly correct,yes,Q2.A3; Q2.A4,Authorities mostly correct; post-2026 degressivity statement materially wrong; several minor timeline and procedure errors.

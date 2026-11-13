@@ -49,7 +49,7 @@
      ],
      "ref": "Q1.3; Q1.I5",
      "expected_detectors": "B (attribution) and C",
-     "expected_severity": "minor or material",
+     "expected_severity": "minor",
      "what": "an official Brussels source replaced by a Flemish source that describes a different (Flemish) regime"
     },
     {
@@ -127,7 +127,7 @@
      ],
      "ref": "Q1.I1; Q1.3",
      "expected_detectors": "B (attribution) and C",
-     "expected_severity": "minor or material",
+     "expected_severity": "minor",
      "what": "current legal source replaced by the superseded pre-2024 version"
     },
     {
@@ -234,16 +234,12 @@
       [
        "   - vérifiez avec Actiris/CAPAC/syndicat que la dispense est bien automatique ou, sinon, demandez-la avant le début.\n",
        ""
-      ],
-      [
-       "privilégiez une formation professionnelle de **Bruxelles Formation** ou du **VDAB**, car la dispense est généralement automatique si les conditions sont remplies.",
-       "choisissez la formation qui vous convient : la dispense est automatique."
       ]
      ],
      "ref": "Q2.M3; Q2.A4",
      "expected_detectors": "mainly C",
      "expected_severity": "material",
-     "what": "the need for a recognised training or a prior exemption request is removed; the summary frames any training as automatically exempt"
+     "what": "the need for a recognised training or a prior exemption request is removed (deletions only)"
     },
     {
      "type": "T5",
@@ -396,14 +392,14 @@
        ""
       ],
       [
-       "First identify whether the Brussels job is **non-regulated private-sector**, **public-sector/subsidised**, or a **regulated profession**; then ask the employer or competent professional body whether they require FWB recognition, NARIC-Vlaanderen recognition, or sector-specific professional recognition.",
-       "Apply to NARIC-Vlaanderen first, since it is the competent authority for Brussels in most cases; it will tell you whether anything else is needed."
+       "First identify whether the Brussels job is **non-regulated private-sector**, **public-sector/subsidised**, or a **regulated profession**; then ask",
+       "Ask"
       ]
      ],
      "ref": "Q3.M1; Q3.A2",
      "expected_detectors": "mainly C",
      "expected_severity": "material",
-     "what": "the rule linking the authority to the language/community of the job is removed and the bottom line frames NARIC-Vlaanderen as the default authority for Brussels"
+     "what": "the rule linking the authority to the language/community of the job and the instruction to identify the job type are removed (deletions only)"
     },
     {
      "type": "T5",
@@ -474,22 +470,22 @@
      "type": "T4",
      "edits": [
       [
-       "En revanche, l'équivalence ou la reconnaissance de votre diplôme est obligatoire pour exercer une profession réglementée OU non réglementée dans le secteur public ou les institutions subsidiées par les pouvoirs publics.",
-       "En revanche, l'équivalence est obligatoire pour exercer une profession réglementée."
+       " En revanche, l'équivalence ou la reconnaissance de votre diplôme est obligatoire pour exercer une profession réglementée OU non réglementée dans le secteur public ou les institutions subsidiées par les pouvoirs publics.",
+       ""
       ],
       [
        "**b) Emploi (non réglementé) dans le secteur public**\nIci l'équivalence devient **obligatoire**, même si la profession elle-même n'est pas réglementée : quelle que soit l'état d'origine du diplôme, la personne qui souhaite exercer une profession non réglementée dans le secteur public ou dans une institution subventionnée par les pouvoirs publics doit demander l'équivalence de son diplôme étranger. Une équivalence de niveau suffit généralement : Équivalence de niveau : reconnaît le niveau général de votre diplôme (bachelier, master). Elle est souvent suffisante pour l'emploi et certains concours de la fonction publique.\n\n",
        ""
       ],
       [
-       "Si vous voulez travailler dans la fonction publique ou exercer une profession réglementée",
-       "Si vous voulez exercer une profession réglementée"
+       "travailler dans la fonction publique ou exercer une profession réglementée",
+       "exercer une profession réglementée"
       ]
      ],
      "ref": "Q3.M2; Q3.A1",
      "expected_detectors": "mainly C",
      "expected_severity": "material",
-     "what": "the public-sector requirement is removed; only regulated professions appear to need equivalence"
+     "what": "the public-sector requirement is removed (deletions only)"
     },
     {
      "type": "T5",
