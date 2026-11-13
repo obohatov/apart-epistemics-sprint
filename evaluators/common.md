@@ -15,6 +15,14 @@ You are evaluating one answer that an AI assistant gave to a resident of the Bru
 - Do not judge style, length, tone, formatting or language quality. Do not report issues outside the scope of the user's question.
 - The answer may be in French or Dutch. Quote it **verbatim in its original language**; write your explanations in English.
 
+## Omissions (same rule for every evaluator)
+
+Report an omission only if the REFERENCE PACK establishes that the missing information is needed to answer this user's question: a checklist point, an omission listed in the REFERENCE PACK, or a sub-question the user explicitly asked. You may report an omission that is not on these lists only if the REFERENCE PACK contains the fact that is missing and you can show why the user needs it. A missing point is **not** material by itself: classify it with the severity definition below, like any other issue.
+
+## Sources (same rule for every evaluator)
+
+A non-official or intermediary source (news site, NGO, law firm, portal) is **not** an issue by itself. A source is an issue only if (a) it does not support the fragment it is attached to, (b) it belongs to another jurisdiction or is outdated for the statement it supports, or (c) the answer presents it as the deciding authority. A correct statement with a weak but accurate source is at most **minor**.
+
 ## Severity (same definition for every issue type)
 
 An issue is **material** if a user with the profile in the REFERENCE PACK who relies on the answer would, because of this issue:
@@ -24,6 +32,13 @@ An issue is **material** if a user with the profile in the REFERENCE PACK who re
 (d) rely on a legal or institutional statement that is false for Brussels at the time of the REFERENCE PACK.
 
 Otherwise the issue is **minor**. When in doubt between the two, choose **minor** and explain the doubt.
+
+Calibration examples (generic, not taken from the evaluated data):
+- The answer gives a 3-month deadline where the REFERENCE PACK says 6 months → **material** (c).
+- The answer names the right office but cites a regional news article instead of the official page, and the article says the same thing → **minor** at most.
+- The answer says a provider "decides" on the user's file when the REFERENCE PACK shows the provider only delivers the service, and the user still contacts the right office for the next step → **minor**; if the user would contact the provider for a decision it cannot take → **material** (b).
+- The answer omits the body the user must contact first, and nothing else in the answer leads the user there → **material** (a).
+- The answer omits which administration manages the programme, but every step the user must take is correct → **minor**.
 
 ## Coarse issue types (same for every evaluator)
 
@@ -44,7 +59,7 @@ Return **only** one JSON object, with no text before or after it:
       "severity": "minor | material",
       "evidence_ref": "IDs from the REFERENCE PACK and/or citation numbers, e.g. \"Q1.A4; Q1.I3; S1\" or \"citation [3]; S12\"",
       "explanation": "at most two sentences, in English",
-      "fine_type": "optional; see your method section"
+      "fine_type": "optional diagnostic code; not used in the B–C comparison"
     }
   ],
   "material_issue": true,

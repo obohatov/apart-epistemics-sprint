@@ -157,16 +157,17 @@ def main():
     (out / "raw").mkdir(parents=True, exist_ok=True)
     name = f"{a.dataset}_{a.evaluator}{('_' + a.tag) if a.tag else ''}"
     log_path = out / f"{name}.jsonl"
+    cap = cfg.get("max_usd_eval", 25)
+    common_sha = sha((ROOT / "evaluators/common.md").read_text(encoding="utf-8"))
+    method_sha = sha((ROOT / f"evaluators/{a.evaluator}/method.md").read_text(encoding="utf-8"))
     done, spent = set(), 0.0
     if log_path.exists():
         for l in open(log_path, encoding="utf-8"):
             r = json.loads(l)
             spent += r.get("cost_usd_est") or 0
-            if not r.get("error"):
-                done.add(r["id"])
-    cap = cfg.get("max_usd_eval", 25)
-    common_sha = sha((ROOT / "evaluators/common.md").read_text(encoding="utf-8"))
-    method_sha = sha((ROOT / f"evaluators/{a.evaluator}/method.md").read_text(encoding="utf-8"))
+            same = r.get("common_sha256") == common_sha and r.get("method_sha256") == method_sha
+            if not r.get("error") and same:
+                done.add(r["id"])  # records from older instruction versions are re-run, not reused
     print(f"{name}: {len(items)} items, {len(done)} done, spent ${spent:.2f}, cap ${cap}, "
           f"common {common_sha[:10]}, method {method_sha[:10]}")
 

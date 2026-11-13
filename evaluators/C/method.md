@@ -8,9 +8,9 @@ Read the ANSWER as the user would act on it, and test whether it gives a faithfu
 
 **C3. Deadlines, exemptions and language regime (`DLN`, `EXM`, `LANG`).** Are deadlines anchored to the correct starting event? Are exemptions and suspensions kept distinct? Is the user's choice between French- and Dutch-language services stated correctly?
 
-**C4. Sources (`SRC-A`, `SRC-J`, `SRC-D`).** Does each cited or recommended source support its fragment (`SRC-A`)? Is it a source of the right jurisdiction (`SRC-J`), and current rather than superseded (`SRC-D`)? Is a non-official or intermediary source presented as the authority?
+**C4. Sources (`SRC-A`, `SRC-J`, `SRC-D`).** Does each cited or recommended source support its fragment (`SRC-A`)? Is it a source of the right jurisdiction (`SRC-J`), and current rather than superseded (`SRC-D`)? Apply the shared source rule: a non-official source is not an issue by itself.
 
-**C5. Necessity test for omissions (`OMIT`).** For each omission listed in the REFERENCE PACK, and for any other gap you find, ask: without this information, can the user still take the correct next step and approach the right body? Report an omission only if the answer is no (material) or if the gap is clearly misleading but survivable (minor).
+**C5. Necessity test for omissions (`OMIT`).** Apply the shared omission rule. For each omission you report, ask: without this information, can the user still take the correct next step and approach the right body? Classify severity with the shared definition.
 
 **C6. Framing and certainty (`FRAME`, `CERT`).** Do true statements combine into a misleading picture, for example a provider presented as the decision-maker, a conditional rule presented as universal, or confident language where the REFERENCE PACK shows the matter depends on the user's situation?
 
