@@ -5,19 +5,22 @@ max_usd: 50          # the script stops when its own cost estimate reaches this
 systems:
   gpt:
     provider: openai
-    model: "SET-ME"               # the model closest to the ChatGPT default at collection time
+    # ICML used ChatGPT "GPT-5.5 Instant". The API alias chat-latest no longer points to it,
+    # so we pin gpt-5.5 with low reasoning effort (closest Instant-like setting; see CHANGELOG).
+    model: "gpt-5.5"
     search_tool_type: web_search  # check the current tool name in the OpenAI docs
     user_location: {country: BE, city: Brussels, region: Brussels}
     max_cost_per_call: 0.5      # reserve checked before each call
-    params: {}                    # e.g. reasoning settings, if used; recorded in the log
-    price: {input_per_mtok: 5.0, output_per_mtok: 30.0, per_search: 0.01}   # verify before pilot
+    params: {reasoning: {effort: low}}   # recorded in the log
+    price: {input_per_mtok: 5.0, output_per_mtok: 30.0, per_search: 0.01}   # conservative; budget guard only
   claude:
     provider: anthropic
-    model: "SET-ME"               # e.g. the Sonnet model closest to the claude.ai default
+    # ICML used claude.ai "Claude Sonnet 5 (effort: Medium, interface default)".
+    model: "claude-sonnet-5"
     search_tool_type: web_search_20250305   # check the current tool version in the Anthropic docs
     max_searches: 8
     max_cost_per_call: 0.5      # reserve checked before each call
-    max_tokens: 4096
+    max_tokens: 16000
     user_location: {country: BE, city: Brussels, region: Brussels, timezone: Europe/Brussels}
-    params: {}
-    price: {input_per_mtok: 2.0, output_per_mtok: 10.0, per_search: 0.01}  # verify before pilot
+    params: {extra_body: {output_config: {effort: medium}}}   # matches the ICML interface setting
+    price: {input_per_mtok: 3.0, output_per_mtok: 15.0, per_search: 0.01}  # conservative; budget guard only
