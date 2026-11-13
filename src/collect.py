@@ -77,13 +77,16 @@ def call_anthropic(cfg, prompt):
 
 # ----------------------------------------------------------------------------- parsers
 def parse_openai(raw):
-    text, citations, queries, n_search = "", [], [], 0
+    text, citations, queries, n_search, opened = "", [], [], 0, []
     for item in raw.get("output", []):
         if item.get("type") == "web_search_call":
-            n_search += 1
-            q = (item.get("action") or {}).get("query")
-            if q:
-                queries.append(q)
+            n_search += 1   # every hosted-tool action (search, open_page, find_in_page)
+            act = item.get("action") or {}
+            if act.get("type") == "open_page" and act.get("url"):
+                opened.append(act["url"])
+            for q in (act.get("queries") or ([act["query"]] if act.get("query") else [])):
+                if q not in queries:
+                    queries.append(q)
         elif item.get("type") == "message":
             for part in item.get("content", []):
                 if part.get("type") != "output_text":
@@ -98,7 +101,7 @@ def parse_openai(raw):
                                           "cited_text": None})
     u = raw.get("usage") or {}
     return {"model_returned": raw.get("model"), "response_text": text, "citations": citations,
-            "n_searches": n_search, "search_queries": queries,
+            "n_searches": n_search, "search_queries": queries, "opened_pages": opened,
             "usage": {"input_tokens": u.get("input_tokens"), "output_tokens": u.get("output_tokens")},
             "stop_reason": raw.get("status")}
 
