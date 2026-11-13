@@ -1,0 +1,23 @@
+# Copy to config.yaml (git-ignored) and adjust. API keys are NOT stored here:
+#   export OPENAI_API_KEY=...   export ANTHROPIC_API_KEY=...
+max_usd: 50          # the script stops when its own cost estimate reaches this
+
+systems:
+  gpt:
+    provider: openai
+    model: "SET-ME"               # the model closest to the ChatGPT default at collection time
+    search_tool_type: web_search  # check the current tool name in the OpenAI docs
+    user_location: {country: BE, city: Brussels, region: Brussels}
+    max_cost_per_call: 0.5      # reserve checked before each call
+    params: {}                    # e.g. reasoning settings, if used; recorded in the log
+    price: {input_per_mtok: 5.0, output_per_mtok: 30.0, per_search: 0.01}   # verify before pilot
+  claude:
+    provider: anthropic
+    model: "SET-ME"               # e.g. the Sonnet model closest to the claude.ai default
+    search_tool_type: web_search_20250305   # check the current tool version in the Anthropic docs
+    max_searches: 8
+    max_cost_per_call: 0.5      # reserve checked before each call
+    max_tokens: 4096
+    user_location: {country: BE, city: Brussels, region: Brussels, timezone: Europe/Brussels}
+    params: {}
+    price: {input_per_mtok: 2.0, output_per_mtok: 10.0, per_search: 0.01}  # verify before pilot
