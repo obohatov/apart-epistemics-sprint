@@ -24,3 +24,11 @@ systems:
     user_location: {country: BE, city: Brussels, region: Brussels, timezone: Europe/Brussels}
     params: {extra_body: {output_config: {effort: medium}}}   # matches the ICML interface setting
     price: {input_per_mtok: 3.0, output_per_mtok: 15.0, per_search: 0.01}  # conservative; budget guard only
+
+# Evaluators B and C: same base model and parameters for both; no web search (evidence = reference pack + citations).
+max_usd_eval: 25
+evaluator:
+  model: "claude-sonnet-5"
+  max_tokens: 16000
+  params: {extra_body: {output_config: {effort: medium}}}
+  price: {input_per_mtok: 2.0, output_per_mtok: 10.0}   # matched the Anthropic dashboard for D1
