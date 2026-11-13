@@ -1,0 +1,24 @@
+{
+ "seed": 20261115,
+ "rule": "one run per (question, language, system) cell, run drawn uniformly; order shuffled",
+ "key": {
+  "G01": "D1-Q1-NL-gpt-r3",
+  "G02": "D1-Q1-EN-gpt-r2",
+  "G03": "D1-Q2-NL-claude-r3",
+  "G04": "D1-Q1-FR-claude-r3",
+  "G05": "D1-Q2-NL-gpt-r3",
+  "G06": "D1-Q3-EN-claude-r3",
+  "G07": "D1-Q2-EN-gpt-r3",
+  "G08": "D1-Q2-FR-claude-r1",
+  "G09": "D1-Q3-FR-claude-r3",
+  "G10": "D1-Q3-EN-gpt-r2",
+  "G11": "D1-Q3-FR-gpt-r1",
+  "G12": "D1-Q3-NL-claude-r1",
+  "G13": "D1-Q2-FR-gpt-r2",
+  "G14": "D1-Q1-EN-claude-r1",
+  "G15": "D1-Q1-FR-gpt-r2",
+  "G16": "D1-Q1-NL-claude-r3",
+  "G17": "D1-Q3-NL-gpt-r1",
+  "G18": "D1-Q2-EN-claude-r1"
+ }
+}
