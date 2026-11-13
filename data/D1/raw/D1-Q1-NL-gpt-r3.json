@@ -1,0 +1,311 @@
+{
+ "id": "resp_0a4c5c7b14cdae10006af765f25d1c87d298c177bba9ecbe59",
+ "access_programs": null,
+ "created_at": 1794598386.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0a4c5c7b14cdae10006af765f3347487d2a557961d785f8f9d",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92YWy6LXofMt9Sq-8YNDW2PkJ9AgyxCEcvFd07zb-PlZ5tO9tzB_wl_bBjAjkXFZmuF1PkwINAUiBIuK7s2JeLS9ajLJTV39dTZ7UPbrQnkj5hKvtHqm659KJRrlOF3aW3yBgdU9AlQ62Zk-ZI4ms7jgr7CNa8_rObM1FrXffuFAfYm_Mn0IgSMWrwH6P6GACmPfLZhtbIks5tORgXc6A3bCgyytfZPUOvQ3yyshWJR7LtimpQ1Jyxa2ktrnXc_KHkNw7EQdnjeYGXTuMlUK1vESaKqu3vCcUd1SJv-iJUU0Az_TX5kXvxKfndz_3sMPb_YwlUpSPWd_mxxmJrqEgu8CW2ZS35leRnKBkPzOmqB7yRcYmLqigi_mofFLmULX6cAF0PSrZe3zKAJ7vc7Kq6FQclV1GO1oaewa3Wb9qOLZnRsqbQoJthUYKzuXgfPWoSFSIovARTuWWk-UAfcRJSUZflGFCKvotew7HfL0OTyrXnENUMbPem9DWIvjuwNitSol3WjywK810WFujWMyZB40uKGwaiXZTOE73RAg3GVgQ_Rk7ttLc7zdX0rsg7VGcLGGMgMVb_8Ct4Mz907l6j21CLiFN6udZ8GZswtM6oKLpJzWtYJTn_pgXxV7r-QVPdH_IMP8cpYCBo0wBksRc5haVJUip8GLtdo2OSE6vBsr4JdybgSo4KcrWNytwKWtvRzd6xGf1y8xzHuASvEmY1dU_iEQjw3Jwu84WPR9EeThygYYlbMVaGt1a9zs3mJFQHEx3aQS3II9n0_f2SqqMmnBb1ncUNUpmn363ThcJ0dvpc3OgzRl25FK9pl5lA0mIWm6ejr50wQcPd5Hd3VxpLiKKGWRmeiehTVruKmRYL4BuZd0_wNV8ZVqwPK3-f88XOJmB5jsM3zIG6lD3oaPlYXkUIZiABDT8prJRE3JJo_-zk0QAjXyiuzMx95szkqGx3bJn6DmomCbMRQat5eupgR4aJ3R5Sv4WwHAVBkzGNEPEdVHyv-zr_O_GD07bta5WC1DL6YyiBwBYVzTQAuRe5C6qqpht2sc4fb2Opex9MHo1wzSF2gOM-PzptbvihKMeF93Nccsp4wbQSfwfZJ3tUt2Hf48VjB2HZJGDh_Rt45rNzYuYYHTBfAPhzCWwC_IDhZ4WHDycYSP4vnUrsZW4hVn7U7FziuY_JGgaJqBpl7EAAExEfXAcZHpmXL_JzDQNOVMBCHPgkd-6sPPdMVKswGs0JcpAzQe62G6LYR8ejTc8myTqj_ty0u4Qm7YNRNyetnTMvYgdgMdgtDvyV3vZszk3tOkBgzuzWUBEQ2-lRpFlL60hxlePzafPU76wqK5k2AgjUhao0HZm4_G17rd8SfdUVrXU5hSGbk8_5hTXjnMjrWLluAtR2gCZrQ_sGF_rDqWEQhN_3y4og0BZ2Vbr6GFsA-AHKjpT0De2PPu67uyFokeBJuEoi74zhb00LX9B03jqry4Mir8PwEbtAwOHx2zx1uLtFCeX8aqiOjtYICNSZSjMmKZZl3svSH55rx-Bgrz9slW5C8WPu0ULwOxWvYCRl38zfg3Hga98_xiTGdAV936C87n-yOJe-guoLSnU6kOghpuCsK1DqTkndHqs5ylxEa3bmhiSWmeDlI5vqWwulImwC0nCpcKbyXeuLibXdiooZ2Ot_xjNrHGVu54PR2SEFJWN0orAFWVsDPfCx2wIXndw0nBjt2XnoBrhA7EecfOL-NH8JDAtDAECBdJd7PaT4R12Za8PMOwJgXMuYQGwm_BKH4WuA4uxuzU6kgdWcuC5MBIxUjtQjGGE2UAAvRzWw==",
+   "status": null
+  },
+  {
+   "id": "ws_0a4c5c7b14cdae10006af765f38bf087d28103696f342d7d49",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussel inburgering verplicht niet-EU nieuwkomer minder dan 3 jaar verblijfsvergunning langer dan 3 maanden termijnen 2026",
+     "Brussels verplicht inburgeringstraject primo-arrivants termijnen inschrijving afronding COCOM",
+     "Commission communautaire commune parcours accueil obligatoire primo-arrivants Bruxelles délai inscription 6 mois 18 mois"
+    ],
+    "query": "Brussel inburgering verplicht niet-EU nieuwkomer minder dan 3 jaar verblijfsvergunning langer dan 3 maanden termijnen 2026",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0a4c5c7b14cdae10006af765f7631c87d2bb8b89af7c8fb648",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92YWEVJzqGVW-rpKVLtxRylLj8f-0utMi3ovYa4rVWCgHt9cNNDPWXZt0jaxKlKtZ30GzKYYX1Av67QO9q4tj3g9PM0MjK9_hB7A6mSicv3xuFlaS6La8Pbqpaf2eTYJTOPVkwwg4J1Xww7bcFV5uhGP-oFfC0pt7vyPI0hJi-p-TiJ6xpLDdNBF45loKnlnNQSCWZVwhzi_V4LbUsR5peNq7TI9goJ5YFQFyQbS6Wu6wD_gOYbeHjBZf80et6khSY_P-Vn4FiYFVnV7YgTuw_Z8YB9GDIxISayaJ1E6QLnnhEd7gq3YRDxFnGmnc3tSyhvXEv05YcO86HfBH4S-RCqREKvCXx6H5PV14jXIIjGMURDUpg6e1AMLDtH211E7W6S419mLh20MCZxyFwmSvzON4Q4Etx1UWAYlHl1m-8aRfmPXfXz0Nf78mTKrnnFTVYTYz9DLZauhWSQqIgpc1XD7gvI5paVOin-7xQp0-yz2rd8kQrKaRaLgx3TTNig-acTqIjvkIbznQfzQE0CmbhaVpseq-0_NzXoShVVn-vh4QesKuMdcmDARZVGq7Sz6oL-Y52jBo28RJMm6kbXD4gYxpALW8k81Tu0m1SJuSAfEWtDOx4Ami4ChTcK-HvGgMHr_ANPwy4PhmVJQvHM6WERRtxhA2lP-JjGthuNms950CCamROi1fEP3j3W1ZgoDphBEz9k4jdGtSaG0Cf3TVRDVGCYWmtUx8zA7b4N51-o2YAKyS4I63yfBntZAuflNNITG_cg6lLwyPsAcg3WFosZAcS3pFHvh6_g36RGdqNwBli776f43GWCpJjJESP1IDsPUq0DD27FG6pURq6sG7yBMQq9C_gPe5IKmbgraGOQlUTIoidn0MAJ7IuvXeqRPgmqrX42Wb-09naaDcHq3P4OT6r_vp-g7fmNfHNok2Czj3z6BKWHbgt_Y0OaqQtuhShmfWykMfIgNYCpp8ga4c9H2l-c9vrelk7cPdDKq4x9kZyQxDPYYFRF5PrXyjdB7JrQzFLyHUKcUVMZlFF9nGrNNeN6g8JTTuh3SY2DprPrFvLf2KZv0_uVvReg6M1jsRFpLl8TrHfmV5SNlA79r1pfZ4D7HyUTPNmQp1-2yMhtDstX50j7ahNIa-1GPzJG9I_QSFgSHVUkhRhEe_gcKQjhYO1zykUIiwpvG3DJjay4LsZDR7hylrTc7_pgkFuUxdbTUaU470I3WLvMNZVYJn82Ol8oT2-aQYdu2zY7gptWimRZSgvWA1XCaKLr8yMvDIlB5GxUuepBtdCqJhK-NNoS7982q_KJZwDYu6P_drWiGdbcEEVsHE_ItamXYcWBCMgbD0Sexkii7Nkl31L-uWzMEMW-hN3RrlWcygAukimVra7dWi46-ZLyn1XdLI3bmOrQ6GQN2qTm4_KyCLpkScAGaFaR7h6DhQLKAiFEvm1fNNWKECx5gosWVrSvlPfhUuMtp7_AtcSjhlk4d_RHguqjmvHPr2IEq2J4svhyTytj0qOHpbGLH0CQ2ZjfaAussGjsjgpScf7BoCjz6TbOEhZfXJGoOpMJ-GTJkJvL5DPW4vO8pkpU4oGFZezo8GPXxbVFcb5GT2dEf4lEbjL1iNRmD4EyfouT54RShwUEzNn-cDRjTM7YpF0oTltPC5LXRRjttSdclB8BwTT4CMwOkFlyX-KNjok9XgqYhd3UtpSGjnpGj1Ib6-w37veb3OXNscg6EaYIP1iowDyjDUysqSzVPaIsHDMRB12Yd9bxCkcZjVuc=",
+   "status": null
+  },
+  {
+   "id": "ws_0a4c5c7b14cdae10006af765f77edc87d282ba2e8234b749bb",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.brussel.be/verplichte-inburgering-voor-nieuwkomers-brussel"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0a4c5c7b14cdae10006af765f8ee2c87d28033828dcef8b90e",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92YWX3TnhSrK1QlQAxJGooBVVsx-md7PtT7AKxNDfgpHRbMG93uhzPR7i76SpHgoxvIWpjFFaBHka1v97GBc_oHFrcRnQttdRTGRFHs_Rsq0FS50sMeF3UVRtwU6jw_aNuALqk9ojPWISQyjqbmMyF5PPjI-MUUGSrx2_u1rMiZY5G2Eg3hZLRruKTYIIikvAvBbTZqJh8JYVdDxs3nHXEgcaTzeDGs8jlc38wixPQ5t17sArSiKHsWj5ejQYXWnNQcVHbnqHjTVcwIfwvs8ysK3F1YnN-OlOWRoGwk7Rs0cmdZQjr5lRXQFkg_30dg5pka3RSlhLCEcmelDNFC_iy1_t2471WHWK1hs-yCddL57RvppaFwMe_f4p5GMHivbZFLJI4xzmpUhcK5DhIFgexMr3xfbBYIyzotcfjRSEyMoTZan1F2EdbsLuyp2_32wI3RpE12Id73dfcy6nGdMKs9amzHTznV0gbWN0xGC05JmJDULqB3sIcv7kLgvyxYXntJGSuZxCa4NsNOYPQbZOsjNF0PKGC0g2HPG5iRsD6CVOIJSC6AZ9LQpNKAIZEyKbYs_PkMpFBPJ5xquM2g-RJolCiKo2V1qU1VoidUT0Z2npLWJIUE0pPK-AccIX88dVAhtPfkHo7rvJJOIOjCJBTBkvIdXuFel9s4UsKtxDEI-QDZLEufJiP_zIqjarw-uG9Ip_wYmI3SmbGH3KVJdeWrrM4PmW_iJyZzx6HG8HvBSM9LstiKhno_ohqi0NZaJrHkIH_m92BmVV33k9LDCnDQl_TIPa_virx83Fjz4pKhmvWBw_yjaGeYpIrTj4N8GTi-2WjiYFBrVXx2hz1nXWyd7NGXJgzUfSaRmXlW6uQ7D6Fse7lsIgEM341kQREtvOe6xx5qNLgly-2Iad06gOtATitfgsTATg9SNWVL036Zp4lInRvPz23W1DwBmBiQoagBGGd55SthGkEJYF958L4OEtlpFwZCNUzruwWZY0YabxwB07SeWS1yW-1afzL5PlSou_X493JqkKumHvf36wr0A8WL_1-0e2PtNIPkmtBSIGL7aBaxgfNqzFZg-Yu2O4jTMYFCSbhnJNu-lbBvlZRrbd0b5qkhMivxmcPCz82YT7pTh0J-dceBdTNodlhb-pcIQhODE7T35ewkgc9VZlF-xYEJc5uLo0mNk-2xRp1we17bcGo_f8M0HUngZqolwHEv6HmbdiH_nPyLSy96Zz3eMYJAdbGimmVfA1jvX9A1RpzKL7bwJueJxG8ystj0RDiC8f_3RBhwocH29iWB2AlwYz8GqhxlamcIxBM0DWGJbdDM5uSSt0z3tH-etfcIO4AbZs0IZxjMYw9jA51LVb6UElz9VxhqszT3VSoYsr-qijyflc9ZMspXBTWhlvz9OCZK1uHVGfVC2uhzPohw0OWk5NaoUw6f62wd4o_3erANVKTRvHoLkHPuITRYxp0TDYVU8KzllJr_suDNwRJScuWksdqxp8dx7LIj_q8zWw3BGZhGVoTtWCLJWY8d6knInJBwPl1FubXldd3ZVO1KMuoCuw8uVMfYemnFJJyBQpRfvR2UmlebptefFK1BLh_MNq1BTYwVQvIljJwMDZVEkhQUqAfwI0SOB-gQXxNF6LSNjG-xUruUZxSifN3iyae2JAEP3M0UqpumOUnuFK2j0Qt7iejtDEfLFtqwuFBU-gBmoaChLKtaj_VZ2IbE7f_XAjMxV9dXl2BGPcSuD6OR1K4yk-da9q-B-uSKw8cIDIfHsfP8wU-KYXxe8sKndVUx-kCsn",
+   "status": null
+  },
+  {
+   "id": "ws_0a4c5c7b14cdae10006af765f9369087d2bb102299aa8c2a66",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.newcomersin.brussels/nl/trajectory"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0a4c5c7b14cdae10006af765fab30887d292a17dce57b54e82",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92YWid-9us4grphYyMUkCKTSR9Kl67A1kk0dGqL_58n_5bJQ14lrcJGAaEv_I_Y7IQiNvRKpjkaEMZRCe8eTDJh-X7a8h_4fi9m56-_r0g8YvVuEluyTXdSiPsysDvxPbauMKcG7uB_LEdavk1LZXOrRhs5kP7TPPyFpI537nw1fN_m_Z2T7dVQNiZTp0L5Px48jIJF6jUAFd5DJamSngqRbEHTy7zN5kBige09Uj7KRT19-8vS5GEIW5DX4_Kav4IFrUCBAUq2ObZwuENhITEsQj0Xxk0j37Phd2TtqtfzxYPSrHnld97gwtPXnlx5WEa6A9gBllRrgjVYgocqgUEONhiyTrO6Ep-Xca0wr1AK4vSm6nj8bIY13zBvhiJWCuifXZtnAUW-ertm5hoV0RL1Bm2NNpRcAJhnyoHxUlzVTETPnHuAaLhlpGohhL_Uci1wtTiLlJjlR8LRTpkQMS7IfxVTDBDxcyMaBEP4lXxK3PN8QXjeOJbjenGy0MLdhKzEr5CApCBs7o2m_RgNvoMIJoIfL4LYwUArQ62ZXxBmJtCqho8HYGa8A8uvJogdbQ7khjHLkxamXxwLgRq8Kg-KjoGa5VFrPjI6jFmx6_33r0iUdXkKG91wV1iiUtaW5nv5TsqGjv1peRcVzT9tcxtZhT13WrKjpmpJcYNHfwlcQzou0h6AvwhBgtjhxowJnWaCfkZdVKkLHJ7L8Y4dklp3a0epgnOUx-iazg3bVBcROCUkTGMLy9MYMTTVeWsBv4Mm6_ywkM06OTe-tnuOJycZxaLVi4P08BKi8WIDgsJZqjd4wM9tQ7e2VQYutGcvgTNxK-JN0fSiHnFzpiXZS0DXoknG2WEH6pxknwew61L9b6So80ewOWCqMQRVWwxo6eR9KnZ4AhcmiXzChlHpa8JuQW8TJ9xLVtv-RuvMVVGTUQUekqXjnynQo5bZhwVyG6RZnNS4isDFVQcHNvPBks6Bpo0dR_5bdcpASlNL7LC3JhP1XDP6FgYml-GI6-MB4-9fYUFIfYl5UjeG9f7sGHVci3qPeV3uRiTzi633UD59L6Y3UNaqfNAaagPnpApV69G4JDlorT_L79UE3zYgrMzejF9R5kGP7Dk5jzn8-QBVMO9RWQK4Ht39vBMJO2UNwn7q_nwlOUOjYiM-1OhqV4RbWP0gvHK2RH-xwaQ5Oxu0Pjp8jWQf-yWq_mmM0g-DML8KkCUYe0RCjWX7pFcGvwYol_mIAP0BdDY1CbMxMlWWk0nl5A4KdiHcRxhFw4A9_AfPaaWsCZLhjwNi0YSZ_ZG4zRissHP66liSXno58kEyNi_Vq6R50QnLVaKlO7jtnU6DMLNKyMF8sA5NsTZFHjFh5NQ4JzyB5FqlSsks52csGI5r0J9CcLowTPn6CnNALKyIIR5HU_xv_j9RB-Lhqw_c7qncfmBwegziFlQAZQcYQEEd4iDSf6O2HG1-HFYiyrkPfu6xdw1KBuO6ta4fT9vsNoSPDb3vsSdAgWH_kEuYz0EuAhGhapidjEzhoq0ZjgVqYOW2Q3OKvWEm1Y_ouJmqRw1dVQW1U5p_RZLhYe61KscjEl63-tE9qh7RbNfj_vU996JuuMkB78Oy3nUl16m3pxyCMDMi-qxQ1lBmMYS1acLmB_yMtLH-3thnL_A_y8036hipU3oiQO7ntFKS_HIjr9B3Pl7p9uRpfFcceQy2ss-UGH_qgMgiSqGoHOMscGx0ap13CACWcQMqH5ZJRQ71NPagonGfb4NkqBgXcVilZGC7SYBG_uSWU1Z3OsQpvVVVUvFrRfySF-JqNH8Oyd7cQn3Gfoo0aiV9EukSoje-bwng1lge7VGKXseSwu9z8SVknv1zSoxATCHkC9bYgh5BIMv79h6bVknzLtJF1-MbcoXm4Z5H9qQAbQy8FhviV9xdrHq5MLiROq9LX0HbZvCUNl4yGpZtUU3HD48KP9xzQ0bH5pr1XEyeG0kAdL77ud-MltXF8ArHJFsvAMkxrqrolQd1is_ouH_7-vLQC9kXnQ9tVoS7Q2N2RozRfgdfTnGPJ9DUmZsDwJ6cdDODGwC7My1DgNwN6jFeV6EM1nZMJx1acsaYZAm-3mGiCkUJxWsPxmHUsab-Hr8iyOrIENcds_EbAPH7WcT00zgFPbVGOaCZMGXaso9ls4lz6qxu_wb87AOJ3JQi4qXKWUISglxLAeID4DBzlhPV3lFzPF3eNFMh0QH2fzMTdZlQCfdDfRmGTXm9_bcCicy57iwJ8V4ZjFYf4vLyhfb0hf_zh6Nhr43TNwi65iYeNcyBV2CUVRtS3Dbx-rWRI_xkoygAPkyPbgkyA3rak9_zqP4vczxgDXk52_Iiyy0HjulgZZ9cwXtuTAMjN4KgNIvk_SEHkgFlSkAmQnEmTpwATUKtrjXt7mWmXLP1UHAkpcSBsW4HWySejarNLqHFIW2bnUmsVHacNrD8gHBBlbij0ILlS71hrfYUMmMvN3fBUgxO7-dAsjDdEfdH20a502Xv427PWkeX_NgTqWlH4OH6tTG-fB1tHjQGZwPvjTvd8nlM-I3sqKa9Y",
+   "status": null
+  },
+  {
+   "id": "msg_0a4c5c7b14cdae10006af765fbd0b487d297c4d90e03b9ea8b",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 734,
+       "start_index": 666,
+       "title": "Doelgroep - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/target"
+      },
+      {
+       "end_index": 1110,
+       "start_index": 1042,
+       "title": "Doelgroep - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/target"
+      },
+      {
+       "end_index": 2292,
+       "start_index": 2220,
+       "title": "Vrijstellingen - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/exemptions"
+      },
+      {
+       "end_index": 2819,
+       "start_index": 2747,
+       "title": "Trajectverloop - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/trajectory"
+      },
+      {
+       "end_index": 3042,
+       "start_index": 2973,
+       "title": "Contact - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/contact"
+      },
+      {
+       "end_index": 3244,
+       "start_index": 3175,
+       "title": "Contact - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/contact"
+      },
+      {
+       "end_index": 3580,
+       "start_index": 3508,
+       "title": "Trajectverloop - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/trajectory"
+      },
+      {
+       "end_index": 3788,
+       "start_index": 3716,
+       "title": "Trajectverloop - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/trajectory"
+      },
+      {
+       "end_index": 4009,
+       "start_index": 3937,
+       "title": "Trajectverloop - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/trajectory"
+      },
+      {
+       "end_index": 4244,
+       "start_index": 4172,
+       "title": "Trajectverloop - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/trajectory"
+      },
+      {
+       "end_index": 4848,
+       "start_index": 4748,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 5133,
+       "start_index": 5065,
+       "title": "Doelgroep - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/target"
+      },
+      {
+       "end_index": 5290,
+       "start_index": 5218,
+       "title": "Vrijstellingen - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/exemptions"
+      },
+      {
+       "end_index": 5445,
+       "start_index": 5373,
+       "title": "Trajectverloop - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/trajectory"
+      },
+      {
+       "end_index": 5601,
+       "start_index": 5532,
+       "title": "Contact - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/nl/contact"
+      },
+      {
+       "end_index": 5926,
+       "start_index": 5826,
+       "title": "Beschikking van 20/07/2023 ordonnantie betreffende het inburgerings- en begeleidingstraject voor nieuwkomers en buitenlandse personen",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135"
+      },
+      {
+       "end_index": 6244,
+       "start_index": 6123,
+       "title": "Integration programme in Brussels: what are your obligations? - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/"
+      }
+     ],
+     "text": "Ja — **op basis van de gegevens die je geeft ben je in Brussel in principe verplicht** om het onthaal-/inburgeringstraject voor nieuwkomers te volgen, **tenzij je onder een wettelijke vrijstelling valt**.\n\n## 1) Verplicht? En welke vrijstellingen zijn relevant?\n\nJe valt onder de Brusselse verplichting als je **cumulatief**:\n\n- een **vreemdeling/niet-Belg** bent;\n- **18 jaar of ouder en jonger dan 65** bent;\n- **voor het eerst** wordt ingeschreven in het **vreemdelingenregister** van een Brusselse gemeente met een **verblijfstitel van meer dan drie maanden**;\n- op dat moment **minder dan drie jaar wettig in België** verblijft;\n- **geen vrijstelling** geniet. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/target))\n\nAls **40-jarige niet-EU-burger** die zich voor het eerst in een Brusselse gemeente inschrijft met een verblijfstitel van meer dan drie maanden en minder dan drie jaar wettig in België verblijft, voldoe je dus aan de basisvoorwaarden. De verplichting geldt voor eerste inschrijvingen vanaf **1 juni 2022**. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/target))\n\n**Belangrijkste vrijstellingen die je situatie kunnen beïnvloeden:**\n\n- je bent EU/EER/Zwitserse onderdaan — niet van toepassing als je echt niet-EU bent;\n- je bent familielid van een EU+-burger in de zin van het vrij verkeer; ook bepaalde familieleden van Belgen zijn alleen vrijgesteld als de Belg eerder vrij verkeer in een andere EU+-staat heeft gebruikt;\n- je verblijfsrecht is **niet-verlengbaar en maximaal één jaar**;\n- je verblijfsrecht is **uitsluitend gebaseerd op werk, studie, onderwijs, opleiding, stage, uitwisseling of vrijwilligerswerk** — bv. gecombineerde vergunning/single permit, student, diplomaat;\n- je bent langdurig ingezetene in een andere EU-lidstaat én je voldeed daar aan integratievoorwaarden;\n- je geniet tijdelijke bescherming als vluchteling uit Oekraïne;\n- je hebt al een erkend inburgerings-/integratieattest of gelijkwaardig traject gevolgd;\n- je was al vrijgesteld in een ander gewest;\n- je hebt een Belgisch diploma/getuigschrift basis-, secundair of hoger onderwijs;\n- je bent ernstig ziek of hebt een mentale/fysieke handicap waardoor deelname blijvend onmogelijk is. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/exemptions))\n\nKort gezegd: **ja, verplicht**, tenzij bijvoorbeeld je verblijfstitel uitsluitend voor **werk of studie** is, of een andere vrijstelling op jou van toepassing is.\n\n## 2) Tot welke instantie of welk onthaalbureau moet je je wenden?\n\nDe **gemeente** waar je je inschrijft onderzoekt eerst of je verplicht bent. Als dat zo is, krijg je een **informatiebrochure** en een **attest tot verplichting**. Daarna moet je je aanmelden bij **BON** of een **BAPA**. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/trajectory))\n\nJe kan terecht bij:\n\n**Nederlandstalig traject**\n- **AgII–Bon / BON**\n  - Brussel, Schaarbeek, Anderlecht\n  - tel. 02 701 73 80\n  - e-mail: info@bon.be ([newcomersin.brussels](https://www.newcomersin.brussels/nl/contact))\n\n**Franstalig traject — BAPA’s**\n- **BAPA BXL** — Brussel\n- **Convivial** — Vorst en Anderlecht\n- **VIA** — Molenbeek en Schaarbeek ([newcomersin.brussels](https://www.newcomersin.brussels/nl/contact))\n\n## 3) Termijnen voor inschrijving en afronding\n\nDe officiële termijnen zijn:\n\n1. **Binnen 6 maanden** na ontvangst van het **attest tot verplichting** moet je je aanmelden/inschrijven bij **BON of een BAPA**. Zij geven je een attest van aanmelding/inschrijving. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/trajectory))  \n2. **Binnen 18 maanden na je aanmelding** moet je het traject beëindigen. BON of de BAPA geeft je daarna een attest van beëindiging. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/trajectory))  \n3. Je moet de attesten van aanmelding en beëindiging bezorgen aan je **woongemeente**; dat kan via BON/BAPA, aan het gemeenteloket of per e-mail. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/trajectory))\n\nAls je tijdelijk niet kan deelnemen, kan je een **verlenging/opschorting** vragen. Als je de termijnen niet naleeft, riskeer je een **administratieve sanctie**. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/trajectory))\n\n## 4) Kan je kiezen tussen Franstalig en Nederlandstalig?\n\nJa. In Brussel kan je de verplichting invullen via:\n\n- het **Nederlandstalige traject** bij **BON**; of\n- het **Franstalige traject** bij een **BAPA**.\n\nHet traject omvat onder meer onthaal/begeleiding, informatie over rechten en plichten, burgerschapsvorming en — indien nodig — lessen **Nederlands of Frans als vreemde taal**. De Brusselse regelgeving vermeldt ook kennisverwerving van **Nederlands of Frans** als onderdeel van het traject. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))\n\n## 5) Actuele officiële bronnen\n\nDit antwoord is gebaseerd op de volgende actuele officiële of institutionele bronnen:\n\n- **Newcomers in Brussels — Doelgroep**, officiële Brusselse informatie over wie verplicht is. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/target))  \n- **Newcomers in Brussels — Vrijstellingen**, officiële lijst van vrijstellingen. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/exemptions))  \n- **Newcomers in Brussels — Trajectverloop**, officiële termijnen en procedure. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/trajectory))  \n- **Newcomers in Brussels — Contact**, officiële contactgegevens van BON en BAPA’s. ([newcomersin.brussels](https://www.newcomersin.brussels/nl/contact))  \n- **Ordonnantie van 20 juli 2023 betreffende het inburgerings- en begeleidingstraject**, gepubliceerd via het Belgisch Staatsblad/OpenJustice, met de wettelijke definitie van “nieuwkomer”, trajectinhoud en vrijstellingen. ([etaamb.openjustice.be](https://etaamb.openjustice.be/nl/beschikking-van-20-juli-2023_n2023044135))  \n- **Commissioner Brussels Europe & International**, institutionele Brusselse toelichting, gepubliceerd op 23 juni 2026, met overzicht van de bevoegde Franstalige en Nederlandstalige operatoren. ([commissioner.brussels](https://www.commissioner.brussels/integration-programme-in-brussels-what-are-your-obligations/))",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794598421.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 23870,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 1877,
+  "output_tokens_details": {
+   "reasoning_tokens": 361
+  },
+  "total_tokens": 25747
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 1
+  }
+ }
+}

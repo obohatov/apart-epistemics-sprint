@@ -1,0 +1,341 @@
+{
+ "id": "resp_0ec4d8b4ce4e08a2006af762ba57b487d28848c63eac68e9b5",
+ "access_programs": null,
+ "created_at": 1794597562.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0ec4d8b4ce4e08a2006af762baf27487d2af433e81608f8fa2",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92LoKvo_YRuOBoaDEutTMt_g3hHfJRZQIN8meLCeHdd1Xa2r75JCN9zYFeovkwZvaUNGrC2vSDCW5irVWtM1a-6QOXk1U3eihogDePxZrfib1XTm9PWxuSrtue-9djK-i1jqDKnae5YRj7DgzwhQP1jorA_6SCGKy2F_AZpxocf7o9SFQJCYw23LK--ssMDzXlyMghd6SrdRQrW7-iD33MjA8JAnsJH_s3lW12uEBHwDg1uJ1s6ilZdk-y8U_GYsW73GG2TCCGmMRZZBvT6cuA2LNg8pgAgwLo3GoT7B83HrnBpyVaE5q5i8ZjwCKjrYTPJdZzsWZL_wXQeIuyLxGI3F1eQbrTWhBNJhKlzG_uuKAZ1bCZDySlYNdqRXa8uMWpCxmcNnLuTIKUfVKut7ilfwan9egvxdbzaHVovaKWzbYO1LDXiRlML9pBzZ9C5dmaM6U2x-OqD8WE_ELQa2u5-Qh0x0WPrgAL_9hB8Jbsk-_s0O6sLUzrre1D5rwg-IuHbiMu9_vgEGr2_iXK8tegGfufdT7quw702xJ6DRnEm6fd9Faunw_SMqRvF238ZtqcAIt_ncPv_zAyOHlJduYIhsjuqdf9KC98jWGsqSzbNXUjCjvZLKLRYeMC4czu2S3yaU6ds9cGwxe456Orsh5rT8vMoES2-_42YCFUWfa_QtXbj5FjvyxcDu9nX46Ij7hdrv-WucTbSpVHq5MXu5KcBjJEZ57NR7U_JkLhBm9CcVlWMwVSGirm62a1bfOia_k1pl3DfUFP85PTgrj_vnT9qw6aLn4ULngzdxlzkLu-7dWkXs4-Mi4pKcSPESTssDxMy7B9v5GWo-URBM46Fv_Tux2nXR0dktvOCopufiRfFJ4YBm2RxreSxy8tJsmZVLfUS0TMXg-iIddruUTWUulxdVfg5-rtg1FTg-H5SAeLlUKtdOrFEi__MHsmegXvqmYy_YFml99GuARGtZl-MmsCzd6zTeGQus7CZgOA_Wm7_zcs8xirLsrc-YLJN9iV-0y1Fyr3dWbiHgVQNJGF10PpndakZysyTY_wC50rbzUYMcAhWOfekcCAcNLzX8sWkJS5ZHeDK6KxJhXNsB3kn6ONBkWxkCoFmtMMiPNEENCZ1ih2NfnHaD5SO_3UnPKcw-PtGP28GMrC0JMXKLoFY5AW9n_a2ZuwoVtD62HpYEPDSmitS1w9plExfMhc8pp14UhLnWqEg17SYRglW2hMnRadn2HyFhFQn_MW8nsOC-qjvYfXrtcPZOBDU_vbwOMdH54vpMv-F_IetfOXSsgIOTmt86cpgVQbBGAk7UnYKgap7KXxDjtmaUIQGBfZDu1_KfTD8bizeaBMTctcY3hCds9CProb1fjyfEPn-ww1j2VHXORSjAmqs6_W8D2x1r8SgYYGQkTFyB6KjUUH8wGv2NN8xrdiyFeyXT7ENDZvr7BsgmLx0Vd09swa2hJFeojvui349qv_YA0qHhBeCG99cvtkoO3tSHFLfNWgUAybDQRpN9UJXhNJ_IweTdQh75zUx6iHJioEWN_1Wd78onOPNtzu8QO8i_xWU5DrY7Z0zp7YTQw5mKzG8U7-E7_-JCHGbZIMu6rE9wXWQw-Av-7La-sWXt6zU6V6fP6vCAx4Y2mnVL6NdJPsCEK3LeVKpm8StOwdyM8VuJGkNV1Vujq2IyQoVI6WHJLEN8HohwAMA7pJLf6-6AS1KWTs_7z6TCzqd0w5ZRvUy_uemWiwDYaE75ITwUWkfLxhrPo8tUoR4tnG60vcoA88inKNTC3Vw0KobMb42Q",
+   "status": null
+  },
+  {
+   "id": "ws_0ec4d8b4ce4e08a2006af762bb38c487d2b39eb7da4708c8b3",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Belgium Brussels foreign diploma recognition higher education equivalence regulated profession official source",
+     "NARIC Vlaanderen Brussels foreign diploma recognition work regulated profession",
+     "Federation Wallonie Bruxelles equivalence diplome enseignement superieur travail Bruxelles profession réglementée"
+    ],
+    "query": "Belgium Brussels foreign diploma recognition higher education equivalence regulated profession official source",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0ec4d8b4ce4e08a2006af762bea42c87d2ab1154d27a8d3cb9",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92LoBDVz4ZIfrOGBG4m7kIc6MNoablLrQ-6X5cymujzb7inUk8TgOAzgEof8tOA54mNpAD-7q_ILnAjBJ9fGBwy1SOHtZME2d_grYMoWlLBVstKqgXU-mOeSQPuQow6WfoAxHWrBVYKcisMAolyCL9N03PJb0lYJwsXZFPAYtE8ZtVTRkArmBTW7UynnTNviKYK9ba1_qP18wFrMm0ajGszdXcEbzms6RCZlLyrhNtJ0-UsGj3Q0hoFLLvwNdloAWj3LqG26Ynk1iU7ielo6V0Q21lASG_-V4mfKkbI3bnk6Z8opxEYw3OJGT9_dtPuI7j1S5T8sNVfZO185Z4eRYALcYfe9yOh6cUU2SwyZlsYUldx6giUHp0F0F4O61Ngf3pZymRO4dnmhBn3PlFCcDtVlMQqpQkazdM6fGfQoCLuhQ0KsPLmm0io0pzeXtJfxd7cr7RWhXXl4XR4view6mKsXDWaQ7ZputuqgmHfz0WrLbIEbwv82qoYQP3U45jjxNTasv7TOCT15YO11fpf1UmVlJNALxnsHRQzhbDWCuQpX5aaFSX-acI6uvzfXY8MBbvgn5Mrq_uVzUzJx2IuTS3pEzU0pqoJgzR-Hm99imBs3P3_ujrWW3j9xTzFnC88cuJx3MtE7hcnRlkkf6nJuzQwdkgf-ixuqSFDhSeGVqi7KIgWnf05jpb94WzFGcWdyKgftvO9SrsEoXWx-WYvP4iFzk_lBnt-yCeR-sC7XKy7SGJ1RczRCnAkJu_q4wQUb0dqySs00fu1dQ5W7yqIo7NCIzg7VuOuO4JgneXrVgC5omclq1XZqejLQHZi4zzfSrtAqH1vF2nd1JA0V535DmR8UtvbqPQrM00qGDg_k0f1WzFObUDNpSCnAhre4s0RNL4yUp6KXfQjc34L2rDigcSKmK9bse8L4tHumiJKTjYQaoV-M26VbELku8AaJE4ws9JmNhoTSVB2qIE86WCLhjCx6wn0UwRZ9SReNZBiVMdIOvaNYGYfJuOTayAtjWhmsPLIZ7Cyuy4sSD06Ns2yJpFir2J_875fzwzdnbUEfrv7rBiJPSUSd58euATN7HLRO0DPzUkM32Zg9lJSMcB9wvVYR43fF1qgr41goZCo0iLqygT_LDYhsO4a-FeuhK8Vwfs08E-PwUDlqYLDJ1w8o61SGnuq4pTFg6EA1_ELD9Qv8W7cIEzm2YqdgxTllv-uK3TY9SmPMgT4CaGmF5dcFkc9wnnp8SZFEng_uNmLHk8uWaDwXRfcD6z633NFVSO-iYD5lb6_mN2VwrzsDzdBODsfyCWm5rpdPoTxWgRnBGnLAhLNM-xO-xGldpwyXsgmF3rNEI2fcaVQ6-AH6vMga4CPwe5ti7vYy0n_PVh8fyhTIZGd6CS8FBZg43xWxDI_12MlPOSV8WnUL_K4yD5CFuqonma8AnWGTbuxT4RtmwcNg1yXfsHXAvPnm0jcUXU6WGUl3qZDN2ow_7V1nJcX9bQObQuN3Yipa22nt9HW-bx5bGKLOPD65oAa7JZUuQFF25lQE2QmRazh15CjSSF15ZNxVdhQ30zPZRs26FoTLaa0A8bGqT9fSEoT348Qs2NLrJBZGduSAhNdQ2I6RMhzwvwm_TuxkRDj5h7k8XofgwidHV30ZumSPL9QZKqZdiutSbq0D1FJzvekkTLdNhRwuHBEghjV9qbsQm4DZfMoVMRZ1WUNF9Zwh8ZK_NRi41LNl3wK3YWi-2xYyNQG4lVev3KMU-sLnWMxRjb3bDPySruPFNz4=",
+   "status": null
+  },
+  {
+   "id": "ws_0ec4d8b4ce4e08a2006af762bf21d887d28f72fe9c028ecae2",
+   "action": {
+    "type": "search",
+    "queries": [
+     "site:mydiploma.be Brussels foreign diploma recognition work public sector regulated profession",
+     "mydiploma.be foreign diploma Belgium work private sector recognition not required"
+    ],
+    "query": "site:mydiploma.be Brussels foreign diploma recognition work public sector regulated profession",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0ec4d8b4ce4e08a2006af762c18f6887d293328cc5486e7739",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92LoMdKeVhSsb5TeAfoDtLsJn_youqu9SY9tW4YnVmt_5p8CZB3-59-aQMCYDm85RqaWIhQSzURyrMoeFnJz_yc0RsycsDNDip1hUm5MQ11YwQkQHwmMCl6yAMniqpTDC6BGIpvlkct3FIaKaSCzskwDg6ONtn5npa74J7ydgWhCNlgCJYH3y-sLEMuDfF73OLHUO-0f2Sl7KBP1poE0EpsE-FaapYaSPoothmEIz5AfJUCS1F8Yp_wU5tmi-NcIKO7Lk62Zbzzr20bwK_V_44KkUOyV0_aSkWvX3SKiHIZc4HDGlbMvtvchOUI60BTXMe_jAg0-9spMJZjTflwa8yp8zU1weX-T4hQptr6YsoWcBB6k8qB2IytmmfHR7uRJnlQo2yEuEzpd85VCukF92BF9Pvhkp88rSJvkk0tfA0yZtI4FPlV5NIxwH9HO52EBkNlZYtGqg1dus5EizD3QyZWaqbG-uOnNUpk9GlzDhtD-gBCMEvIEnl-ANNVUpHcY8vC8_8Sbx4CIziPask-PmsgC1PUDyWgHnJvQpYBK-HhwSoAJvVZVQDz9T761w0jkWf9LX08xn327AVrvWLd6lFg1ncGBp9dIYMISjMvs1mw7MD2m3jZmdHtyQtv6iiDi9BTh7bBahwSZdnigOtiHi8g1Z0YTo9zLRTCUZJOGZh-9EASV7l9GEiqTMTCCJvWw20rvB4ofpYLsVZFlR9WnJW74WyqM_fgWjzWhnmRe8wJlohlDxkTts1WOZZNSXmI1xpnXUwgisf2un3x0n6xplrcNP65DHZkzj8i5KzxgsdxXBcgl0fYyy8EBeOuaJ_ck5mQk30-ap1r8o8z3WkAnD9HHBWRYYEApalKN08QRoK2oQPWWPHRH8ZuOuGzqbsoaaT0gaAK8uOrcKQ1I6IIvxU84aCmIYwOyiQnKS3ylbEesWMi8WYV8YPne2QyKZmPxqdg8b0cGSiW4sfSmC0fpvAV3ACQel61rGqo7NABJJLWIsnA3K1aB0UVTpWmnJFkjlEqfd1a_OvsHgC7wpv5SAICYXHobTORPNXF2DucEDd2BHNLworyLdD4hfKfJIgy1XWFUgt6yo4uM1j_nHe27C0XQGWDUZdCgfeo4bGkcBOqipELwJPd_Ooj6ji6u7xs-4DWpPkBnDMsSOEGzaPmSh56h3xGiho9YdrKPozkp4Y-ghqfC8Y2LjvQ0NN-N8B8KZiD-2vczG405_iVJtW7dBg4OHzzOs9AO8DOMhm69PlCn5V-mVPKx_4kWoohXP-aOzz0gtx710TklaW3i_6ZeZvwr2Qyxb8gpcxiLou8U9AkcMZGP2bOSTzap8dKt5JODzgVhcwB5v9QHKQrHt9Ch52UDvCws5-Jw5O8Im2sHkUoOal19AvFrRoPb8qzo7rpjfkJt8AKUxETHBQckJtpFyC8Pvh8QoMZbAGcyl_Y7LDWsU-CyhVJqfMqZ53Ne6zFUVfaed5c3Kn3TcdNO5FEQmJsGeBXkQDUuA9zjtovuEezx_x3bCVygFwsQAH7a94Q4zCEEwfPjbsI-6ZmQsev-ZAVtJ1vtjAz_NYd_F3207cRu81xLp7fsMzNE5vwq-nNsMrnga9mlQIiuwrWxOnCMyolPR6ne_khvz4LV430jpiIGs-C7kncKLtZQKiQUkguUadiODbjGMKzh41w9A2D3P4AfZ-M1PBs5hPWpTqJx48ePXwjbaGNsxcN9RdWATDdci6WOTQpbJUXPChdNj_092wzk8vKTLI6vHNqCp9PjSuST7FVviqsJau-mWJeAeRB7ub321GkIaFLPEjDCHcbVoo3W82wy4a3WEh8spwFAkUw8mfhXPjioxFjI1w091yv7jyhOVIVxo3E7WVvtzFIy6qF57OaYaEdFru3iawwjMrj5IzSAqhhDq-jQL5FKFojQM_iY-Wdj1YjOBpj7SBgjHqgHI0X_68qxvh5ypK1cUO9YLqnQ1BovEWh_Xfh36k568WRDGjyt7an86SsFPVNXMdk_VnDAJM1sC0NKgMiylInllMz-suda6JqSmUhpAhVtLWNm4i9_KI7EUdvgTeCUUtBgU31432EJ5oTg4RilzxveC90fHG7sqgVPCdMTduAnR_bop7r_Uibxs1szjP2_k7YWTnDq5LDYJ9qdkn-o7fdLbpsCjXa2sFsIEue_sNYf5Wr1gq6mV0LhaBa1Rx4wp6Vwe0_LljDVgH0S_1LrroQG_K5vT2pkpsn4d0936iDFy35wb0fCc8p9kKc4_tz6AHq0Suodx2Fnx5bXi5GJih-K-h78fxRLIV71ZS3BfGXb_wRa9LyBx0HsqZuCp7on0U39kFMZEVrk6FyG-tfaSM2jM7mdy8TGd6mSrJc9SOCheVRSAN87KDQVs2r0jxFPvWHBo8jJ69fxeNWQXf8uMiDqxgBbGj8KNHM_HC-13Yiu6Q6vmuTRETpzfM9LceMTlbVfnyUZ8AL-ib25uaLh_1H2DF-ToKwDRHqApDUEl9NW2L29Yhqe4kWie8Gmj5oukQgHYXV7JO7t2cjNG3NClhHc3-k0Q7nma0uxDWG74WuQd3-Mjp__yrQGSmAbyMqtMu9zYA5lveVy529EDoU5jeSo0ZjroMkOw8c_aKS266ZhYW8nAJ22rs4Pmq9qt-2LoNI9c1Bq_To8WzHrmkrVV4mCPKM9wI3j0VO-Zl2jWsbYxG0efMONIyKwZmyE_b8fhBUY7xoJkFb03BTRMJiKMZX9-slExMSoePOZVXvun73mbiBSG0lHzg5OD45nFxv55bgTw_YGrTWs_b9BNWltcZPW_jMnzwg9n8iN7KiJoh_jJN_U",
+   "status": null
+  },
+  {
+   "id": "msg_0ec4d8b4ce4e08a2006af762c2eda887d2a837904614ad9373",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 805,
+       "start_index": 712,
+       "title": "Frequently Asked Questions - Diplômes de l'Enseignement Supérieur",
+       "type": "url_citation",
+       "url": "https://equisup.cfwb.be/en/frequently-asked-questions/?utm_source=openai"
+      },
+      {
+       "end_index": 1266,
+       "start_index": 1201,
+       "title": "FAQ - Mon Diplome Mydiploma",
+       "type": "url_citation",
+       "url": "https://www.mydiploma.be/faq/?utm_source=openai"
+      },
+      {
+       "end_index": 1915,
+       "start_index": 1765,
+       "title": "Working in Flanders with a foreign diploma | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma?utm_source=openai"
+      },
+      {
+       "end_index": 2538,
+       "start_index": 2441,
+       "title": "Equivalence of diplomas | Brussels-Capital Region",
+       "type": "url_citation",
+       "url": "https://be.brussels/en/education-teaching/equivalence-diplomas?utm_source=openai"
+      },
+      {
+       "end_index": 3045,
+       "start_index": 2904,
+       "title": "Recognition and equivalence of a foreign diploma or certificate in Flanders | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders?utm_source=openai"
+      },
+      {
+       "end_index": 4027,
+       "start_index": 3925,
+       "title": "Qu'est-ce qu'une équivalence ? - Diplômes de l'Enseignement Supérieur",
+       "type": "url_citation",
+       "url": "https://equisup.cfwb.be/equivalence/quest-ce-quune-equivalence/?utm_source=openai"
+      },
+      {
+       "end_index": 4941,
+       "start_index": 4800,
+       "title": "Recognition and equivalence of a foreign diploma or certificate in Flanders | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders?utm_source=openai"
+      },
+      {
+       "end_index": 5371,
+       "start_index": 5196,
+       "title": "Equivalence of foreign diplomas in the three communities of Belgium | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/equivalence-of-foreign-diplomas-in-the-three-communities-of-belgium?utm_source=openai"
+      },
+      {
+       "end_index": 6414,
+       "start_index": 6321,
+       "title": "Frequently Asked Questions - Diplômes de l'Enseignement Supérieur",
+       "type": "url_citation",
+       "url": "https://equisup.cfwb.be/en/frequently-asked-questions/?utm_source=openai"
+      },
+      {
+       "end_index": 7401,
+       "start_index": 7336,
+       "title": "FAQ - Mon Diplome Mydiploma",
+       "type": "url_citation",
+       "url": "https://www.mydiploma.be/faq/?utm_source=openai"
+      },
+      {
+       "end_index": 7718,
+       "start_index": 7584,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/?utm_source=openai"
+      },
+      {
+       "end_index": 9266,
+       "start_index": 9116,
+       "title": "Working in Flanders with a foreign diploma | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma?utm_source=openai"
+      },
+      {
+       "end_index": 9956,
+       "start_index": 9822,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/?utm_source=openai"
+      },
+      {
+       "end_index": 10405,
+       "start_index": 10340,
+       "title": "FAQ - Mon Diplome Mydiploma",
+       "type": "url_citation",
+       "url": "https://www.mydiploma.be/faq/?utm_source=openai"
+      },
+      {
+       "end_index": 11378,
+       "start_index": 11281,
+       "title": "Equivalence of diplomas | Brussels-Capital Region",
+       "type": "url_citation",
+       "url": "https://be.brussels/en/education-teaching/equivalence-diplomas?utm_source=openai"
+      },
+      {
+       "end_index": 11737,
+       "start_index": 11603,
+       "title": "Recognition of foreign degrees - Commissioner Brussels Europe & International",
+       "type": "url_citation",
+       "url": "https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/?utm_source=openai"
+      },
+      {
+       "end_index": 11936,
+       "start_index": 11843,
+       "title": "Equivalence of diplomas | Belgium.be",
+       "type": "url_citation",
+       "url": "https://www.belgium.be/en/education/equivalence_of_diplomas?utm_source=openai"
+      },
+      {
+       "end_index": 12225,
+       "start_index": 12160,
+       "title": "FAQ - Mon Diplome Mydiploma",
+       "type": "url_citation",
+       "url": "https://www.mydiploma.be/faq/?utm_source=openai"
+      },
+      {
+       "end_index": 12617,
+       "start_index": 12476,
+       "title": "Recognition and equivalence of a foreign diploma or certificate in Flanders | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders?utm_source=openai"
+      },
+      {
+       "end_index": 12945,
+       "start_index": 12795,
+       "title": "Working in Flanders with a foreign diploma | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma?utm_source=openai"
+      },
+      {
+       "end_index": 13272,
+       "start_index": 13097,
+       "title": "Equivalence of foreign diplomas in the three communities of Belgium | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/equivalence-of-foreign-diplomas-in-the-three-communities-of-belgium?utm_source=openai"
+      },
+      {
+       "end_index": 13605,
+       "start_index": 13503,
+       "title": "Qu'est-ce qu'une équivalence ? - Diplômes de l'Enseignement Supérieur",
+       "type": "url_citation",
+       "url": "https://equisup.cfwb.be/equivalence/quest-ce-quune-equivalence/?utm_source=openai"
+      },
+      {
+       "end_index": 13825,
+       "start_index": 13732,
+       "title": "Frequently Asked Questions - Diplômes de l'Enseignement Supérieur",
+       "type": "url_citation",
+       "url": "https://equisup.cfwb.be/en/frequently-asked-questions/?utm_source=openai"
+      }
+     ],
+     "text": "Below is the practical position for someone **living in the Brussels-Capital Region** with a **Master’s degree obtained outside the EU/EEA** and wanting to work in Brussels.\n\n## 1) Is official recognition/equivalence always mandatory to work in Brussels?\n\n**No. It is not always mandatory.** For many **non-regulated private-sector jobs**, a Brussels employer may hire you on the basis of your foreign diploma, CV, experience, transcripts, or its own assessment, without any prior Belgian equivalence decision. The French Community’s higher-education equivalence service states that, for private-sector work, an equivalence decision is generally not necessary and an employer can hire without prior recognition. ([equisup.cfwb.be](https://equisup.cfwb.be/en/frequently-asked-questions/?utm_source=openai))\n\nHowever, recognition/equivalence **is commonly required** in two important cases:\n\n1. **Public sector / publicly funded sector**: official diploma recognition is usually required where a Belgian-level diploma is a legal or selection condition. MyDiploma, an official Belgian guidance site, states that diploma recognition is required in the public sector and for certain regulated professions. ([mydiploma.be](https://www.mydiploma.be/faq/?utm_source=openai))  \n2. **Regulated professions**: if access to the profession or use of a protected professional title is legally controlled — for example, doctor, nurse, architect, lawyer, teacher, psychologist, accountant, real-estate agent, etc. — you need the relevant professional/academic recognition before practising or using the title. Flanders’ official guidance says that if you want to practise a regulated profession or use a professional title in Flanders with a foreign diploma, you need recognition. ([vlaanderen.be](https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma?utm_source=openai))\n\nSo the short answer is: **recognition is not automatically required just because your Master’s is non-EU/EEA, but it becomes necessary if the employer/sector/profession legally requires it.**\n\n---\n\n## 2) Which authority is competent for Brussels, and how does the choice work?\n\nBelgium’s diploma-recognition system is organised by **Communities**, not by the Brussels Region itself. The Brussels-Capital Region confirms that the linguistic Communities administer diploma recognition because education is a Community matter. ([be.brussels](https://be.brussels/en/education-teaching/equivalence-diplomas?utm_source=openai))\n\nFor higher-education diplomas used in Brussels, the two practically relevant authorities are:\n\n### A. **NARIC-Vlaanderen** — Flemish Community\n\nYou can apply to **NARIC-Vlaanderen** if you want to work or study in **Flanders or Brussels** with a foreign diploma. Flanders’ official site expressly covers people who want to work or study in “Flanders or Brussels.” ([vlaanderen.be](https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders?utm_source=openai))\n\nNARIC-Vlaanderen can issue, depending on the file and purpose, for example:\n\n- **level recognition** — e.g. recognising that your diploma corresponds to a Master’s level;\n- **specific recognition** — e.g. recognising equivalence with a specific Flemish degree or field;\n- procedures linked to regulated professions, where applicable.\n\n### B. **Fédération Wallonie-Bruxelles — Service des équivalences de l’enseignement supérieur**\n\nFor the French-speaking Community, the competent service is the **Service des équivalences de l’enseignement supérieur** of the **Fédération Wallonie-Bruxelles**. It handles academic equivalence of foreign higher-education diplomas to degrees awarded in the French Community. The official FWB site explains that “équivalence” is the procedure comparing studies completed abroad with higher-education studies in the Fédération Wallonie-Bruxelles. ([equisup.cfwb.be](https://equisup.cfwb.be/equivalence/quest-ce-quune-equivalence/?utm_source=openai))\n\n### How to choose in Brussels\n\nBecause Brussels is bilingual and both Communities operate there, the choice depends mainly on **what you want to do and who is asking for the recognition**:\n\n- If you are applying to a **Dutch-speaking employer, Flemish institution, Flemish public service, or a job linked to Dutch-language rules**, NARIC-Vlaanderen is usually the relevant route.\n- If you are applying to a **French-speaking employer, FWB-linked institution, French-language public service, or a job requiring FWB equivalence**, use the Fédération Wallonie-Bruxelles service.\n- If your future employer is **bilingual Dutch/French**, Flanders’ official guidance says you may apply either to **NARIC-Vlaanderen** or to the **French Community’s NARIC/equivalence service**. ([vlaanderen.be](https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders?utm_source=openai))\n- Be careful: an equivalence decision by one Belgian Community is **not automatically valid in the other Communities**, because there is no general legal rule of mutual recognition between the Communities. Flanders’ official page states this explicitly. ([vlaanderen.be](https://www.vlaanderen.be/en/working-enterprise-and-investment/working/equivalence-of-foreign-diplomas-in-the-three-communities-of-belgium?utm_source=openai))\n\nIn practice, if a particular job vacancy says “equivalence required,” ask the employer **which Community’s decision it accepts** before applying, because the answer may save time and money.\n\n---\n\n## 3) How the concepts and procedures differ by job type\n\n### A. Non-regulated private-sector job\n\nFor a normal private-sector job that is **not legally regulated** — for example many jobs in IT, business, marketing, project management, consultancy, data analysis, communications, administration, etc. — there is usually **no legal obligation** to obtain Belgian equivalence before being hired.\n\nThe employer may simply assess your foreign Master’s itself. You may still choose to apply for recognition because it can help with salary scales, credibility, HR screening, or later public-sector applications, but it is usually not a legal precondition. The FWB FAQ states that for private-sector work, an equivalence decision is generally not necessary. ([equisup.cfwb.be](https://equisup.cfwb.be/en/frequently-asked-questions/?utm_source=openai))\n\n**Typical procedure if you still want recognition:**\n\n- choose NARIC-Vlaanderen or FWB depending on your target employer/language context;\n- submit diploma, transcripts, programme details, proof of identity, translations/legalisation if required;\n- ask for level recognition or specific equivalence, depending on what you need.\n\nFor a non-regulated private-sector job, a **level recognition** may often be enough if the goal is simply to show that your foreign diploma is at Master’s level. If the employer needs a particular field or specific Belgian degree, then **specific recognition/equivalence** may be needed.\n\n---\n\n### B. Public-sector job\n\nFor public-sector jobs, diploma equivalence is much more likely to be required because access to grades, levels and salary scales is often legally tied to a Belgian diploma level or a specific diploma.\n\nMyDiploma states that recognition is required in the public sector. ([mydiploma.be](https://www.mydiploma.be/faq/?utm_source=openai)) The Commissioner for Brussels Europe & International also warns that you will probably need recognition if you want to work in the public sector or in a publicly funded institution. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/?utm_source=openai))\n\n**Procedure in practice:**\n\n1. Read the vacancy carefully.\n2. Check whether it requires:\n   - a Master’s-level equivalence;\n   - equivalence to a specific Belgian/FWB/Flemish degree;\n   - a particular Community’s recognition decision;\n   - language certificates or other Belgian administrative documents.\n3. Apply to the competent Community service accepted by that employer.\n\nFor Brussels public-sector jobs, the right recognition route often depends on the recruiting body:\n\n- **Flemish/Dutch-speaking institution** → usually NARIC-Vlaanderen.\n- **French-speaking/FWB-linked institution** → usually Fédération Wallonie-Bruxelles.\n- **Bilingual/federal/Brussels institution** → check the vacancy; some may accept either, but do not assume.\n\n---\n\n### C. Regulated profession\n\nA regulated profession is different. Here, the issue is not only whether your diploma is “Master’s level,” but whether you are legally allowed to **practise the profession** or use a **protected title** in Belgium.\n\nExamples include many healthcare professions, teachers, architects, lawyers, notaries, accountants, auditors, psychologists, real-estate agents, surveyors, veterinarians, and other professions listed by Belgian/Flemish official sources. Flanders’ official guidance lists examples such as architect, accountant, lawyer, notary, psychologist, real-estate agent, tax adviser, veterinary surgeon and others. ([vlaanderen.be](https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma?utm_source=openai))\n\nFor regulated professions, you may need one or more of the following:\n\n- academic equivalence of the diploma;\n- professional recognition;\n- registration with a professional body or order;\n- authorisation from a federal, Community or regional authority;\n- language requirements;\n- additional exams, traineeship, adaptation period or aptitude test.\n\nThe Commissioner for Brussels Europe & International distinguishes ordinary diploma recognition from **professional recognition** for regulated professions such as nurses, doctors, architects and teachers. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/?utm_source=openai))\n\nBecause your diploma is **non-EU/EEA**, you should not assume that EU automatic-recognition rules apply. For some professions, non-EEA qualifications require a specific equivalence procedure or additional steps. MyDiploma notes that specific recognition of a non-EEA diploma is required for certain regulated professions, especially liberal/intellectual professions and healthcare. ([mydiploma.be](https://www.mydiploma.be/faq/?utm_source=openai))\n\n**Procedure in practice:**\n\n1. Identify whether the profession is regulated in Belgium.\n2. Identify the competent professional authority — this may be federal, Community-based, regional, or a professional order depending on the profession.\n3. Ask whether you first need academic equivalence from NARIC-Vlaanderen or FWB.\n4. Apply for professional recognition/authorisation.\n5. Complete any additional conditions imposed.\n\nFor regulated professions, **do not rely only on general diploma equivalence**. A Master’s-level recognition may not by itself give you the legal right to practise.\n\n---\n\n## 4) Current official sources supporting this answer\n\nKey official sources:\n\n- **Brussels-Capital Region — Equivalence of diplomas**: explains that diploma recognition is handled by the linguistic Communities and directs residents to the relevant Belgian and Community resources. ([be.brussels](https://be.brussels/en/education-teaching/equivalence-diplomas?utm_source=openai))  \n- **Commissioner for Brussels Europe & International — Recognition of foreign degrees**: explains the Brussels context and distinguishes ordinary degree recognition from professional recognition for regulated professions. ([commissioner.brussels](https://www.commissioner.brussels/i-am-an-expat/education/recognition-of-foreign-degrees/?utm_source=openai))  \n- **Belgium.be — Equivalence of diplomas**: federal portal pointing to NARIC and Community procedures. ([belgium.be](https://www.belgium.be/en/education/equivalence_of_diplomas?utm_source=openai))  \n- **MyDiploma.be FAQ**: official guidance stating that recognition can help for employment, training, business or regulated professions, and that it is required in the public sector and for certain regulated professions. ([mydiploma.be](https://www.mydiploma.be/faq/?utm_source=openai))  \n- **NARIC-Vlaanderen / Flanders.be — Recognition and equivalence of foreign diplomas**: confirms that NARIC-Vlaanderen handles recognition for people wanting to work or study in Flanders or Brussels and explains the choice for bilingual employers. ([vlaanderen.be](https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders?utm_source=openai))  \n- **Flanders.be — Working in Flanders with a foreign diploma**: explains that recognition is not always required, but is needed for regulated professions or protected titles. ([vlaanderen.be](https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma?utm_source=openai))  \n- **Flanders.be — Equivalence in the three Communities**: states that recognition by one Belgian Community is not automatically valid in the others. ([vlaanderen.be](https://www.vlaanderen.be/en/working-enterprise-and-investment/working/equivalence-of-foreign-diplomas-in-the-three-communities-of-belgium?utm_source=openai))  \n- **Fédération Wallonie-Bruxelles — Diplômes de l’enseignement supérieur / équivalence**: explains what higher-education equivalence is and the difference between level equivalence and equivalence to a specific academic degree. ([equisup.cfwb.be](https://equisup.cfwb.be/equivalence/quest-ce-quune-equivalence/?utm_source=openai))  \n- **FWB FAQ — higher-education equivalence**: states that, for private-sector work, equivalence is generally not necessary. ([equisup.cfwb.be](https://equisup.cfwb.be/en/frequently-asked-questions/?utm_source=openai))\n\n**Practical recommendation:** before starting a recognition file, identify the exact job or profession and ask the employer or professional authority whether it requires **NARIC-Vlaanderen**, **Fédération Wallonie-Bruxelles**, or a separate **professional recognition** procedure. This is especially important in Brussels because both language-Community systems may be relevant.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794597607.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 17233,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 2876,
+  "output_tokens_details": {
+   "reasoning_tokens": 239
+  },
+  "total_tokens": 20109
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 2
+  }
+ }
+}

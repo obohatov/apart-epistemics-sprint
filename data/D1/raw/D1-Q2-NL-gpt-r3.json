@@ -1,0 +1,381 @@
+{
+ "id": "resp_0afb19582830b029006af768517e8087d2a69f31674d312c3d",
+ "access_programs": null,
+ "created_at": 1794598993.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0afb19582830b029006af76852208c87d293b090f261eadaa8",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92iTvrJ8Dw_iQ9rBSuj_KQ5AQo6ce1w18qC0pjFo9p5IGK-R-YTDa6ZrGMRbnCA0KJ_ATYFEFBOEOZ2ExL3VHjGlK9nmk3FCYOimdfGVQYu4bvFPXfrY5xj0EUGSk0k5ohYMk5_u5cMOCI7YUC2P2SA5i2VbLWqh76TRTvjwF9sxltsagOs8Q4W7qGfjmD19qmnTYYh_5afKekKfApPZ3w0mVBrFD5RvtY1COu_YBrwAbbjoLOXZL7rLh-lGriHKOyftS7GHcM1aJTa55kAffKfSDFSbf1cjM6Sy6DLR9Yx4UBy5vunlxwhEd9-sP9DAaRPzHmlaREnUW6b-VboRUWq3DcRUA7l1T2u4DadgF5NvyENv9ybp9B3PAmC3PLXlshEhTkBgyBEXlbQmi5Gc-Lfe1Uh8U-asD2tXil2ST7_YQuOeBCcH24lciHBARseiEi5kJetrUZ50_lBVgPL7jjUCVq_OkFd6h_UNJTmvbB6oIzNofpVvJfslxdhGQf-2IVcygvtnWbrm8PgJxthYT6O-qFI2hn3tg3BqaTeaRIiYgwRbgJZzfO34q1bH-yDVCB9QST6g1xx7FeyoiJr3dNdA9gU5j190ombVoJMu-o03zzl7UtvwJ-LPL96ZT3IlJwqxQAY5dwE-3Xi68GnfkghYSSeXHonj9-dJs6jzeOU84YoBC0jeocXmYrb02dGdTFOV4FD_KshaWXyGzx_acMKyELZikLz2r66BmSeldfBmt7_7bccqFbjqChyxt5u1cJTO5bbJmBLHhuESdHZvfTaywaRzK_9iAFZpk4Cv-cTWwObJCcJRuy_sj9gFBlKVQM9KCFc0UNcVO8QxDnyO5g0Yurs9xD-F6eGUkVw_9pQxZq1PbhQDdWm_5f2ap890GC0I06416yagsvxDG6JRzkDe_iNj-aA1kjLVoNl-NbWhuGSBk-c4fmEUObnoUa-KijyysyxgU6T9-jVn5NlhMkJfANpfQ3zSmZuaxrZ_kLsKohieUGXfEWicLhywAJnukbWQauFv_zFpFT19CtNnsGpONjW_MBHj_SRWT_x4Oxih9xpSUIfJtpVTe9zTBJF4jqobyyadtyI80TatISvvuzlLein87rMRr7XwZ-dgsE3xuhexblI4rkusItM4e8prm1OUGY0kCy4JF0AmIjoWZZH0VhQM3_KK1EEcY7QcDM4YnwrabA_Xp-k5NNHzv8_bOL2qfT-ALFm5ehk0RhhXVJIm2YSElpcsz53wjqsbVwjpmDypAqIVARPNFW-0sUe_EloLr0cRY47liNBc57BDfEf8sFVuRCA2LZcnu53OFt1NbBkGwDmJijSpqgBJ50qkxToRrXYx2ZSnI7niBzVjcmvYI603kDXJHa20DR_l_FKju5XFRap_EE83NydEOnDUBVY0NsYl4xk1Fe40ACYhrPB91TP5bpqcnkRK-X8wjUXAihPpduwzBgICgV9ejr_3IV_fcZdC1R3LaLJzjvOV_sNIQccfrQofIdm4RF3qrszj1rGtTQlj9flkZIdh0DPtJr6936G27O7rO7o43WWfN0Q28fmSdN0AtRTmu0G8TJt0CFoc2yIa-_kLGPqMOUOGtbkWeHiNVbBC5FarTMZ1rlYjMyrVcNyzRtiZuOjVKpvWOF0eOE7h1Gfzr5esNmJbJpZ4zHLMcTxDFR0adCuUM9IDezh7IyBoxt9KDbyZpeVBDT-2ONywFtifreNpG8OgNZgYUK5bHnPopRpkllo5XXTi9Ew6zIjtrN8FcP2mLtUA2iQ=",
+   "status": null
+  },
+  {
+   "id": "ws_0afb19582830b029006af7685270a487d28c6f43d6f989bcf7",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Brussels werkzoekende inschrijven termijn werkloosheidsuitkering Actiris RVA uitbetalingsinstelling 2026",
+     "ONEM chômage fin contrat délai demande allocation inscription Actiris Bruxelles",
+     "Actiris inscription chercheur emploi délai après préavis allocations chômage Bruxelles",
+     "Bruxelles Formation VDAB Brussel formation chômeur dispense allocations chômage"
+    ],
+    "query": "Brussels werkzoekende inschrijven termijn werkloosheidsuitkering Actiris RVA uitbetalingsinstelling 2026",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0afb19582830b029006af76856e7e087d2ab62511ccb557c82",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92iTD0VemQfL6Chn30O0kQe29oQxKiK4AhNiH5Sr146oEBQPAv9oiypBXYzizdJOj7WZjtmk9fyrqZpC_CzWTAhmx23ECbQB0RrKadr8TscAgHs6US3nb1etf_WgcKGHJmLLStLY5IJncQ45L888K3ckJQ_P63_9o-AJloQF77j-rPEp-gjdckB4Ac_5o2Clf6wWORZlb1bUlZM4ssvmg1ajcf8PR8QQBhkdHBapTNz-cVNlL6Yda3EbGzmV_brod0z0K_Qch2laKiR8UyRB_h6Lo_O0xwT_STRAxuars_lcFg1K-qWd2cjL2cOlIKFobyGwXV400fQyMiLmQOpP1kxMk7OGPJEr7ZLY4cQdt1VwsRVksUf712aY5iWWxQv0DgOvmk1isjyekZFu1Byre9FaA1lo4H4p63gJdzjAfaQJsSEXMI7Z3zhRHBpVi6dTI6_weebPBBs2v7z1IljCqHB2_EeFcACRFIciVnZPZPPmCvQb4LznlIFYfeCCI5htCznVAEnQRz-cP8bX3GTK1SGa6EKou6awdHkoiMPnWY2gn0ku42vZI-rUsNnRw96g1F_VcwX78pr8YqXRKPaDrvy4mBdPyKZmqLGYD_LCPMHKsRfPr6n9_MJOpfK6FY_V2tG5uxjv3rXST1lKRAvd9uy8D00D48A3R_2pK3w7z9jTOqHXmy9670NW8SVwEPssEiMoW-76zNyIS8eaKplR_3ZipT1p_Iy7lB5N2RmISV8ju6ggsWOwHdIgLwCSaJvCW93B6vVLlU8cUyMMDlNzIKKt78JqiLrRacin9apSvMh1-0sQ3p1r2vhq-MO3GEEGMQWmgaRp_M2qF0DDjMzV-wvZLgOyklbFBz2R51LHcDpH1moG7ekNZQwLY61ACZUGJdNOLvzPnihb6YHzHE_YxdI2iQvRUUK1yYqBNBtVMwXmDly8X6vQyJr8SF75OnZUExtQay0aVnEHEOtVFLtVMXsPr7YsapfDNgRyJ2uN3QpazWjh8OQc-Fwn351F4_l7q3Ma9A_B5_L-VkJaryeWpdIRjr3XtfmozZrDSel3NmFOJxjrpYrg1_JfO-ah1VlD-V-zp4UaFbcO45cUJNCAcf3q6pSRDvrSzbi1uxmiSBayiRq1B0p0AbdRM3vr7V7s0sv7UqavE_0fUml-KipNTph2ycqicJYBaxPgoKr7KRYqK_AqaA5q0RA1kS23ttW_bBVQfX56meRjN-7m74TTSqImp0f3yRxHWPK8E7eRNJtd4TRuxns04uvzDe947lyYnjrY-i6somStJEfVgRps1yE2BmmcuWNGZl9D-GL3jxQ7rKVyeTqoTuAXy0mLjcTibbcztfu3xq-95Td9M2_1jtpxeK7iZv94YR4Nzc-IcxiKvgcVVxGRGkxO-IM5gQAtgwVh4FcQgsLalk-wqHbV7eTj26qkzJdoYP2k92GjQdiT47gpJR3vm4iDona7wFUuKSF7OwjB7uQDsJjp3pX4jKM15PCXc4dkrNQ519RPhT585zG8CGa5mFoLkarF1QAk6EV0LVq8MtQV1RZBBJ3Nr1l_ImfLwW2Jxkky_8IGG8DmBKTvIlMjigNizXxw0eZmgXFMwcWUFoEMuLXDyHpPeNZ9NN-AzDHxGC9LC3urgNWKVK_aIoy9G7NPfBnmHWjVvTonIDOziJS3CqgyyGzDe3K-xStDbuczfYUXcMiNvCmBfyuomF61d7UXgMlrzBgAenBJU7-5Q_pxHhgFNdsvH3cwwQ==",
+   "status": null
+  },
+  {
+   "id": "ws_0afb19582830b029006af7685771c887d2a797faa5a1eea44d",
+   "action": {
+    "type": "search",
+    "queries": [
+     "RVA werkloosheidsuitkering duur beperking 2026 volledige werkloosheid onbeperkt",
+     "ONEM durée allocations chômage réforme 2026 limitation Belgique officiel",
+     "RVA volledige werkloosheid hoeveel dagen arbeid 4 jaar recht werknemer"
+    ],
+    "query": "RVA werkloosheidsuitkering duur beperking 2026 volledige werkloosheid onbeperkt",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "ws_0afb19582830b029006af7685b8db887d28983da9d6eac4bf8",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0afb19582830b029006af7685d257c87d2937bd10a82f891e8",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92iTWARZGYwY9Crvhrtuh6ug2C0hqLX2LNV2t8wgzaRRv_iwGENSEEt4Fq1LeAzXqdlK_-hU9Uwbogqorsvn5TWfa13WvhcpXDBeEd4M44gLyFW7kDy6jaXUrneAIt5Ixwuto-0l1dE3Qd2uE16X1QC4APZY1FnJxHtOr3s8N7SXYGrCI5rT_bMDgYxLr_l7BVg-uiQxzZFGN5snP1safoliRGLgkspaydOxX2TmofJ9TLz0gmn3VfFZGMCIrewUWde9O8jsjXv7qnQAi_vFgskigM1Yhf5DwVGHOIYHlcMwS_Mn5T5I6u5jfsqQhRB1_N36I09qDtg1DVMasamD7kP24VyeiJg8YzX36W7HzmvKt6xJflzHo2Ki1Bfh1ICk94yziQAb99MMLsZ7AOK09D1dGD5kYHlTHdde59ioALlRbG1qfAxeCBg_1vBzpB_ZFNcnB2-Md2MBVtAz-daR3zoS7YSa4s0TOeE0aDglenmpQ59QQLbFWBo7y2i_QoMvD-Z3Q7ZdG3putjLYjbauExb9jeiifyw1RyFWEXxnDP_RnjB96rOkDbffiVGsh3YZQK6icn9NepDw5SvVol93QpuGsBFJ29AzGZTg8PYe4oahyz5yzI10gXYX5DD5OPFHLvL4D_biNunLd08FE4jfLXRaxpgljigoAOPcRTFVBB-QIU-J8nNFiV3BbNV2K_GYyu0Jm9d4TDEx7SyosJ3oHItsTnTdpCBUs6QVCY9g7cAvWXGNa0WFbA0r4PJrbUJ99_9B__f4CfLK_SVdpnJUXOnMba_QECGm4WOiMyILJYgtKPjmr4gCA_YANC5Bc1Tm6YGd_fJmlc3KlXYdvwlevU0_3ii7mQ9y54mESXnXALXC7gGCTDa8-u5SxnWTOeaDYMvW8R3Rv5ieLP4VLyJNclOlDDv-_A5sdVyYQ0YBZ_PCARqjvWhyvcU_kwGsbbjfJC1ScPopgrDKDfylMyPUG2JvFKgfERWQTRxmUWGNPHEtfk9M5-Q3voVlODWwNegKdFDAPZUjsOPrQugUYVejuqVQ7ooEDUJXyz3dkkS1qhNPTK8I2hznGb1_709facRa_SP8R3Jj5QMJaKKOfK3uAUVXZB4dU_hIBp2O2mD8LFJ1Vm2gof8tLCX7GdfdyduZKRerUCyQJ1El-t6VtagcUSW9UT8HbYoOQsOKasYe7097He5M0TeXO41JVksohpp3T8MZl4hsgKrUhQ_NMq32ZWF9tQM3wSkGCRq7QCSkqL__H6rQvJM_0vWvYaKa7B8gnosMHaHUbKODqk7Hd2WLsztqhWXCfIu5lcmOyNO-FOSoL84xqnud-UKRY8sXKowihadLW9X1p8GeM9MGOl-m0vValcqJG4edJ0dC8_Du5rzKuVjQyN5Lp6YV71BC9XkofJbgBguVgQ7wdegRT63JrhvrA0LMSBM-x0-VWILYd3pRjvmuIybEMajAoaM_UQqWoeoaFvZUjYzpovWHuNzBxZik9_5NxKGePk96l-kpHY5yBkBP_TpXiRU6A4mta8ynQvXGaKxklk00lgsm-u7eQlN0syhfpREZ9PjNBjQAQ7yaNxgHI3dFABKbtcf8zslLZIRDJ-KXyCSBA4oFgi-787il15HPUNDFn1GW9skkUhsCXZ9NDiz_Ch_OSbEvl0Dk5ud0kvD7pjIqKzC7irxPUO90FN_UJLal6mlk6MvHEsgEnHc8HMpFnxewDSXfFEuUxsZSR1xVwr6Txk3kB17j6U9S2LGGAZRk0OIgQVL_6qaxm0Bapw1jW_m_uJzfmLb7l0JE",
+   "status": null
+  },
+  {
+   "id": "ws_0afb19582830b029006af7685d6dac87d291e794bd776a1751",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Bruxelles Formation formations gratuites demandeurs d'emploi allocation chômage officiel",
+     "VDAB Brussel opleidingen werkzoekenden uitkering vrijstelling Actiris officieel"
+    ],
+    "query": "Bruxelles Formation formations gratuites demandeurs d'emploi allocation chômage officiel",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0afb19582830b029006af768613ac487d2b2a9a5633d3864be",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92iT1ukXp5HhgU-f2GcJLHpXi-aTUrwPzsHAFrFgz6sl8rD3CqGz5ytUTMF8p_5Pf18V2lffxPQQHqpOhffSFu2De4jHTjJ_TNCP8TjLkw22EFSC-ndblW1EkjVvf7zBuRwoETrxpweNyrgImMJEIixGSyjyNuacRj9Avw1VEqXQcwCXax8QR6RjAEcgRXDjHHtSNcJS8PeJeZTm_PbpgKxnCeTGilOmmPuPDJPuWNtWpSkuBUJYmVZUGUnJW_tCfmNtf65_9Jkwn_vcYshxR2RghYSfpkpGfD1oFWu37qzL8Z8KIj14ulpHv2wmdylbQaFYSyTTqVl698Cat0jC67GJoXV8yr3bJgz9PHdGc8ZOdrqYz1UawKzrVv4HTfbNUKAEru_FRQ0z89xaKjYAUvluC2OccuFkm0MVYzrpHN4DM6OkzQBnys5X89jVtdjDCZmnNMOA0AiCqDULsqUhs78tZh-zRmN6yC7--D3Ins31fNFDNzgZlVeXblKfyQm6RtRc74J3qQQh3MBLz_Y6np2KMVNKb4gE_q-hNfOZ1nSGk1ofTLNjiUth5mcvFwR5XhW60QqxzzpEBpaodAFi2r8UinX-gJJ6G52BVjVvv-Zds_hMtBME8bLUIPxDLV-pyimcwVhOktIhNcgHaz9jNhfnfuBTo2P37JELLi-7IzmFdMsle3vfnW3zuc8mQafvLZGksH_o7sL0dc1lT3fgA8x49n2rFVUC3ldcCiCaW2Wq9ksFstO3U3Sdm97KLwUoWOU4vmTkQIDYiSPHVFsiiuaTHTz_ZZ1Qb2IAR_CNv1y2BGLn4tgk1UQ-uocwCkVoH5ilVs0aLNF52vn3yHRFv3fOfCrHRA0SEBQipy6u3FBUzklry-ejzGMmQh0dFazlkJkA67cGG1Y9IG8Mt8u8IyplGdsGnz8OD0IPeD8TYSFVwzsCjHzb1SH94pTpqRJAE5B5nz0ElkRu6CpX8cMdcVWSWswkCHBoF3ITuduPtTcdT-QQxJeQEPBSWzpnXVEdqCCUa9zw_ACB4hhI4heOTq_nz9hF1g_jdKeNd5UB6oiDhuvnaRUl6hjKDX5ir28MtKebU0aeQXqfa9C5lyStVeCM46GAUAvmIFvQjCp_ShY2cxSUpp4NYv1gcnhWIrHFa9zhr7LRfbcQm2c49iqZJsfGq-MX6GjpcdfquZbd_UldJyaFanAE6thdjjqa4O41F6TmSTx95Ztc2MXQmNS4IvhUA40UnUWLtpj8WmuxhiGuD_TjvVjVTNgWNonlNq4XfJdZSQgOanfS_NF1WDWMKNkRx79dwbk2ennvB4ZTo9LSGxuGJhzF0_FL7M3sAk-zWKwAaizNDDFURXvCSYPWhUNwYEj98LQmwzdp6vsdjrOvLd0uNA8VZ1oav_fV4eVAzFMFMMNr8jX67CJ9X1sYHeu07Zq_uwNLkLugt-YfFCdT2jZij-ULmbNR7SSz3HQnsU47MyJtOCD8HwWwEoeIyssy3zg1FCGwU7YEvSlkaKslHXVBbzY8LKhMxWdOVOmZWemR24Wo4qiDG0yCsG1LLe2vp4Hbgxo7Er2uLAyf7Y5cg_J3Diof4tEuAaAMGB8dvM1LUIuU0GsjuVsyK48eRr42If4YrG6Ep64VhgeMXjYchE_AZ7B7HYROFOVwFjJnNIZtMbK10xONBTk5gb1I1qCOksmOb1g0YqyIrR2hr_9xuE60BGSEjlq__SHBRvk-ERLaPlNxewwjKKzL57l8uzed8vpqYjF57KiGjOF3sv0hvO5uaPMMVVv2bIGq1ErRl1rJBN5peEFvWGa-4dPvVBxmGa4VDmwWRMZeyJKsZ8dIWb24KXWdsNI_wOIXS2Ypp9CPHpu8RhbM-vOq4h_7Jb8EOF2yBs_Mzr2KH_gMfs_8OAUT5XlTk41RSB6ojmn71dX0xaa8rc_00C640PZcuVts2uAXWD7l6rJntQgooMiZnVFFPQCUfekOpTWQJGqZ57Nu2xK6as77DNOmcRKvYzB9QfX3IUT1Rsv2rjDnyEi23ZvHvhM4hDYXwyK0UW6hjA5jBLGCeprd4XBQA9Xo6yFJDbq6QbOTUn4WeM5n09mP1bsFkXr2WWswEnzkXWkbex_70DvmfBp7vMpiVer5hAvXiY8nxfI4m0jKSDuE_lvqCgwTnAXXwJFEvUjVUcrk-bnDRb4RiaVP9PmwUvGFvVaYY7vyr0LKPC5qpjMZXN0YcnizLwoKzi_u4w0viY7Vp-vWGaRIh0BT_u43wBFYlSAsLgYR99nOhwMjcSXC7h_ySdjNx4-pwrLQyVvDrYgmVmXMc5AyiPD05ZTDAfa7NBOytwlwT9dtkHhR6Fk5tNiAZ8srLE8n985U3QaN1hKA60fHMl94pgLPOaoaEgwmmm9U5nr8VTYlPMYddeYdXCaO7JLziPuUOnqXBM38X78ghIB5m0h4hvqEO3oFUH_LCqdUgSf5VWGxJGb3qU_oh2cXkHu7b93n3cLpdSOZ8oPU8I6m5hZH95TvyeNCdAIrRBjZ9utYexHymtjLh86V5QRvtlaMV8r_gcWvs-5OkPhpKfrT22M31NSBv_NxQ-4l09K3xBiQSX2rOOCUbMOksb-X16AEFB3pXble33kOXEwq98PAqXr1TFIiLiqrNmL5pCJLRXjDRT1jMmgwSJqKGCurIU7lpuCkNGAm0Bp35Z_-gg2shU9IXuch11axzh53IEIAWAckuAt7A6SO-sjgiQOmL7tgTTOMOMZOQbzPjEzz11-wlZW3ooLMQwjK48vJ1wTKEONlMNJMK3vyplXZi-2-DpjO2eRTdy6_tt0-OUYn4cC3q3L-OHcWbaA_fxGG3z2lXWfTw3FbWFD6AA7KgepuKVx0QnMjeAjN4bM_9_9msVZUZJPIn8IfDXwfKv8mcuxaUpmwTaBwbwVX0zndQWZJF86_etLQr65oAaN1wWQAiKhyLSziahHIRLxn5I7I5VOqy2r1PYUiHGdI9Xgs_xTNMAw0JRXGhLFbH3zi4Ppt8mxz6uD5IbVwqlZkUzolkqDGZNrIasLHHlxBUdXuPeineA8-G77ihxUvvZ65FQLn31Q4QUkj4YwxtTUVB_Vz3gPVuVaczHohP3sFOmTKpjmahCzseZST3QejRKeukL3xv9YG0MbES3z3JXMNHc1qnhzFZS8K1i857ojOLUtx7YIV-4svCDmRw17CRleuUg-UnONZGlr5Wu_9Uu81Qapd9xFlkb1N9a89MAdkQ67iPFYuoC5BrCruRRLAdcApHdtIo3ZRPwYRhnyRf4F-0jGyeMzvQXXDkzGeC3dKi2kOKojBV_COOKISjQFTFADvyg9kYE_1P_21wvfj3JNDVUz_gDLM1FHwIZ_Wl1twMgXL-GCX3sk-kL8nPHmeNBqXa3Wju_NTRO6AT1k6bBymXIABkAhDyv1NGdNk8UXvoW2GgmzjcS_d5G5fNcAjdDs7do5XKQ2DF1TcNlBuJBGH7P_2g-7PodKGW7zBFlssA5rqVbv_hbtcBhB_vD4sur-rGbemebw6QehW6CUv1YL7Wmor0B3y1UabPBCJNbTEcRWVdGrG64VH5sqgYe03BrXIIRa5AE68M3SChGZn0pUyD-wYp5Is70jm6IGhUDH99KELOt53Kx7jJkTQHp4gIq4Kq_QKlt2rjeFv8zXGMLneG_varra3W87GYN326vueDAr1EHw2BIA2BwlCQGZyCv6tQw7sVnhYXZsJeEIDXzpra566JQxsG-h721X_qi3MTZWfu6xeF2Ap1D3XMwQjNKT8PgM0Ke6M02xbLbFZPEYg9GMP2-hX6UfglVmrtOwNdjoJfzsndtREKiEhBVyQvcXCj1LvMddpfDQIR8k-rhhCtIcPZkXHu-av3QO_TTXe9A-U9FwociZtzSz_iuXbf3RtuBrQdOJ5M8_4L0K8LyIpL439JOUbMRaDaerMlQ81TIFfD6OWqvsT3j6REczD466BsZg-Ghh1-p8YV-97TASbjawng9N_m7fY1IUe5ld3VfVQwmHCYbVQyRZroFR9lzyZbzPSju0jmG8fn9BLVlwcZFKsy7QGuMWFALh0OnGchDjPBvKUpwDs_MMYThCMd9zizJDQxLVqNLb72rTklmG_NR4KmlBnmZphRupb77Eqa84dMQ3RlKdXlEEZXEKM_MTNWJkoBtsazpQH3uW--Rietf13LNuHt99cA6uyxzKpnVKqCXJmmXuAsW0Yh9OoHrRZpjzvTtvAD7bmWeeJl5BqhAYSBtsySg==",
+   "status": null
+  },
+  {
+   "id": "msg_0afb19582830b029006af76864fb1c87d28ae6efb937bd43b4",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 749,
+       "start_index": 654,
+       "title": "Werkloos, wat nu? - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu"
+      },
+      {
+       "end_index": 1025,
+       "start_index": 905,
+       "title": "Zich als werkzoekende inschrijven | Brussels Hoofdstedelijk Gewest",
+       "type": "url_citation",
+       "url": "https://be.brussels/nl/werkgelegenheid/werk-brussel/zich-als-werkzoekende-inschrijven?utm_source=openai"
+      },
+      {
+       "end_index": 1690,
+       "start_index": 1595,
+       "title": "Werkloos, wat nu? - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu"
+      },
+      {
+       "end_index": 2118,
+       "start_index": 2023,
+       "title": "Werkloos, wat nu? - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu"
+      },
+      {
+       "end_index": 2694,
+       "start_index": 2563,
+       "title": "T200 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026"
+      },
+      {
+       "end_index": 3616,
+       "start_index": 3463,
+       "title": "T202 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+      },
+      {
+       "end_index": 4392,
+       "start_index": 4239,
+       "title": "T202 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+      },
+      {
+       "end_index": 4803,
+       "start_index": 4708,
+       "title": "Werkloos, wat nu? - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu"
+      },
+      {
+       "end_index": 5089,
+       "start_index": 4994,
+       "title": "Werkloos, wat nu? - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu"
+      },
+      {
+       "end_index": 5544,
+       "start_index": 5449,
+       "title": "Werkloos, wat nu? - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu"
+      },
+      {
+       "end_index": 6179,
+       "start_index": 6044,
+       "title": "Gewestelijke diensten voor arbeidsbemiddeling | Belgium.be",
+       "type": "url_citation",
+       "url": "https://www.belgium.be/nl/werk/werk_zoeken/arbeidsmarkt/gewestelijke_diensten_voor_arbeidsbemiddeling?utm_source=openai"
+      },
+      {
+       "end_index": 6963,
+       "start_index": 6871,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 7557,
+       "start_index": 7465,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 8223,
+       "start_index": 8131,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 8524,
+       "start_index": 8432,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 8994,
+       "start_index": 8797,
+       "title": "U bent een uitkeringsgerechtigd werkloze die onder de overgangsmaatregelen valt en u wil studies, een opleiding of een stage volgen?",
+       "type": "url_citation",
+       "url": "https://www.rva.be/burgers/tewerkstelling---opleiding/beroepsopleiding/u-bent-een-uitkeringsgerechtigd-werkloze-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen?utm_source=openai"
+      },
+      {
+       "end_index": 9509,
+       "start_index": 9402,
+       "title": "Wie en wanneer inschrijven? | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/nl/burgers/wie-en-wanneer-inschrijven/?utm_source=openai"
+      },
+      {
+       "end_index": 9743,
+       "start_index": 9623,
+       "title": "Zich als werkzoekende inschrijven | Brussels Hoofdstedelijk Gewest",
+       "type": "url_citation",
+       "url": "https://be.brussels/nl/werkgelegenheid/werk-brussel/zich-als-werkzoekende-inschrijven?utm_source=openai"
+      },
+      {
+       "end_index": 9939,
+       "start_index": 9844,
+       "title": "Werkloos, wat nu? - Hulpkas voor werkloosheidsuitkeringen",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu"
+      },
+      {
+       "end_index": 10173,
+       "start_index": 10042,
+       "title": "T200 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026"
+      },
+      {
+       "end_index": 10433,
+       "start_index": 10280,
+       "title": "T202 | Office national de l'emploi",
+       "type": "url_citation",
+       "url": "https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-"
+      },
+      {
+       "end_index": 10632,
+       "start_index": 10540,
+       "title": "Région de Bruxelles-Capitale - Caisse auxiliaire de Paiement des Allocations de Chômage",
+       "type": "url_citation",
+       "url": "https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale"
+      },
+      {
+       "end_index": 10853,
+       "start_index": 10718,
+       "title": "Gewestelijke diensten voor arbeidsbemiddeling | Belgium.be",
+       "type": "url_citation",
+       "url": "https://www.belgium.be/nl/werk/werk_zoeken/arbeidsmarkt/gewestelijke_diensten_voor_arbeidsbemiddeling?utm_source=openai"
+      },
+      {
+       "end_index": 11155,
+       "start_index": 10964,
+       "title": "T170 | De Rijksdienst voor Arbeidsvoorziening",
+       "type": "url_citation",
+       "url": "https://www.rva.be/bladzijde/u-bent-een-uitkeringsgerechtigd-werkloze-uitkeringsaanvraag-vanaf-01.03.2026-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen?utm_source=openai"
+      }
+     ],
+     "text": "Hier is het praktische stappenplan voor jouw situatie in **Brussel** — op basis van de officiële regels die actueel online staan op **13 november 2026**.\n\n## 1) Inschrijving, uitkeringsaanvraag, termijn en duur\n\n### A. Schrijf je in als werkzoekende bij **Actiris**\nOmdat je in een gemeente van het **Brussels Hoofdstedelijk Gewest** woont, moet je je als werkzoekende inschrijven bij **Actiris** — niet bij VDAB of Forem als hoofdinschrijving. Je doet dat best **onmiddellijk** en uiterlijk **binnen 8 dagen na je eerste werkloosheidsdag**. De eerste werkloosheidsdag is normaal de dag na het einde van je gepresteerde opzegtermijn/arbeidsovereenkomst. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu))\n\nJe kunt je online inschrijven via Actiris of je aanmelden bij Actiris. Die inschrijving is nodig om daarna je werkloosheidsuitkering te kunnen aanvragen. ([be.brussels](https://be.brussels/nl/werkgelegenheid/werk-brussel/zich-als-werkzoekende-inschrijven?utm_source=openai))\n\n### B. Vraag je werkloosheidsuitkering aan bij een **uitbetalingsinstelling**\nNa of tegelijk met je inschrijving bij Actiris vraag je de uitkering aan bij een uitbetalingsinstelling:\n\n- **HVW/CAPAC** — de openbare Hulpkas, gratis; of\n- de werkloosheidsdienst van een vakbond: **ACV/CSC**, **ABVV/FGTB** of **ACLVB/CGSLB/SYNOVA**.\n\nWacht niet tot je alle documenten hebt: de HVW vermeldt expliciet dat je meteen een afspraak moet maken en dat de uitbetalingsinstelling je dossier bij volledige werkloosheid **binnen 2 maanden na je aanvraag** aan de RVA moet bezorgen. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu))\n\nIn de praktijk heb je meestal nodig: je identiteits-/verblijfsdocument, je **C4** van de werkgever, bewijs van inschrijving bij Actiris en gegevens over je gezinssituatie/bankrekening. De RVA beslist uiteindelijk of je recht hebt; de uitbetalingsinstelling stelt het dossier samen, dient het in en betaalt na positieve beslissing. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu))\n\n### C. Heb je genoeg gewerkt?\nVoor aanvragen vanaf **1 maart 2026** geldt het nieuwe RVA-stelsel. De RVA laat je toe tot werkloosheidsuitkeringen als je voldoende arbeidsdagen of gelijkgestelde dagen bewijst in de referteperiode vóór de aanvraag. Voor een nieuw recht wordt in de RVA-info verwezen naar **312 dagen arbeid/gelijkgestelde dagen in 36 maanden**. Ononderbroken voltijds werk telt bij de RVA als **78 arbeidsdagen per trimester**. ([rva.be](https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026))\n\nMet **4 jaar voltijds werk als werknemer in België** lijk je dus in principe ruimschoots aan de arbeidsvoorwaarde te voldoen, op voorwaarde dat je arbeid onder de Belgische sociale zekerheid/sector werkloosheid viel en dat er geen bijzondere uitsluitingsgrond is. De formele beslissing blijft wel bij de **RVA**.\n\n### D. Hoe lang kan je de uitkering ontvangen?\nSinds de hervorming die geldt voor nieuwe aanvragen vanaf **1 maart 2026**, is het recht op volledige werkloosheidsuitkering in de tijd beperkt, behalve voor bepaalde uitzonderingsgroepen. Het basisprincipe is:\n\n- **12 maanden basisperiode**;  \n- daarna een verlenging met **1 maand per 104 dagen beroepsverleden**, tot maximaal **12 extra maanden**;  \n- dus in de meeste gevallen maximaal **24 maanden**. ([onem.be](https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-))\n\nMet **4 jaar voltijds werk** kan de exacte duur afhangen van hoe de RVA je beroepsverleden berekent en welke dagen al worden gebruikt om het recht te openen. Indicatief kan dit bij enkel 4 jaar voltijds werk neerkomen op ongeveer **12 maanden + een bijkomende periode**, mogelijk niet noodzakelijk de volle 24 maanden. Laat je uitbetalingsinstelling dit concreet simuleren op basis van je C4 en loopbaangegevens.\n\nEr zijn uitzonderingen op de beperking in de tijd, onder meer voor wie bij opening van het recht **55 jaar** is en een zeer lang beroepsverleden bewijst — in 2026: **31 jaar**, oplopend tot 35 jaar na 2029. ([onem.be](https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-))\n\n---\n\n## 2) Welke instanties zijn bevoegd?\n\n### Inschrijving als werkzoekende\nVoor Brusselse inwoners is **Actiris** de bevoegde gewestelijke dienst voor arbeidsbemiddeling. Actiris ontvangt je inschrijving, begeleidt je zoektocht naar werk en speelt ook een rol bij vrijstellingen voor opleidingen/studies/stages. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu))\n\n### Recht op werkloosheidsuitkering\nDe **RVA/ONEM** is federaal bevoegd om te beslissen of je recht hebt op een werkloosheidsuitkering, hoe hoog die is en of je de juiste uitkering krijgt. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu))\n\n### Uitbetaling van de uitkering\nDe uitbetaling gebeurt niet rechtstreeks door Actiris. Je kiest een uitbetalingsinstelling:\n\n- **HVW/CAPAC** — openbare, gratis hulpkas; of\n- een vakbond: **ACV/CSC**, **ABVV/FGTB** of **ACLVB/CGSLB/SYNOVA**.\n\nDie instelling stelt je dossier samen, stuurt het naar de RVA en betaalt de uitkering na een positieve beslissing. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu))\n\n### Beroepsopleiding in Brussel\nVoor beroepsopleiding in Brussel geldt:\n\n- **Bruxelles Formation**: Franstalige beroepsopleidingen voor Brusselse werkzoekenden;\n- **VDAB Brussel**: Nederlandstalige beroepsopleidingen voor Brusselse werkzoekenden;\n- **Actiris**: arbeidsbemiddeling, trajectbegeleiding en in veel gevallen de bevoegde instantie voor vrijstelling van beschikbaarheid;\n- eventueel ook opleidingen via Forem/ADG of erkende partners, afhankelijk van de opleiding en vrijstellingsregels. ([belgium.be](https://www.belgium.be/nl/werk/werk_zoeken/arbeidsmarkt/gewestelijke_diensten_voor_arbeidsbemiddeling?utm_source=openai))\n\n---\n\n## 3) Opleiding volgen in het Frans of Nederlands zonder je uitkering te verliezen\n\nJe mag niet zomaar eender welke opleiding volgen terwijl je werkloosheidsuitkeringen ontvangt. De kernregel is: **zorg dat de opleiding erkend is of dat je vooraf de juiste vrijstelling krijgt**.\n\n### A. Opleiding via Bruxelles Formation of VDAB\nAls Brusselse werkzoekende kan je een beroepsopleiding volgen:\n\n- in het **Frans** via **Bruxelles Formation**;\n- in het **Nederlands** via **VDAB Brussel**.\n\nVolgens de officiële informatie kunnen beroepsopleidingen van onder meer **Bruxelles Formation, VDAB, Forem of ADG** in aanmerking komen voor een vrijstelling zodat je je uitkering kunt behouden. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\n### B. Vraag tijdig een “vrijstelling van beschikbaarheid”\nAls je een opleiding, studie of stage wil volgen en je werkloosheidsuitkering wil behouden, moet je in Brussel een **vrijstelling van beschikbaarheid** hebben. Die betekent dat je tijdens de opleiding niet volledig beschikbaar hoeft te zijn voor de arbeidsmarkt: je blijft ingeschreven als werkzoekende, maar je mag bijvoorbeeld een aangeboden job weigeren en je hoeft niet actief naar werk te zoeken, binnen de grenzen van de vrijstelling. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\nVoor Brussel vermeldt de HVW/CAPAC de voorwaarden onder meer als volgt:\n\n- je bent gedomicilieerd in het Brussels Hoofdstedelijk Gewest;\n- je bent ingeschreven als werkzoekende bij Actiris;\n- je ontvangt werkloosheids- of inschakelingsuitkeringen;\n- je vraagt de vrijstelling **vóór** de start van de opleiding/stage;\n- de opleiding/stage duurt minstens **4 opeenvolgende weken**;\n- ze omvat gemiddeld minstens **20 uur per week** of minstens **27 studiepunten**;\n- ze vindt hoofdzakelijk plaats van maandag tot vrijdag vóór 17 uur;\n- ze past in je individueel actieplan. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\nVoor sommige **erkende beroepsopleidingen** kan de vrijstelling automatisch gebeuren; voor andere studies/opleidingen/stages moet je via je uitbetalingsinstelling de juiste formulieren indienen bij Actiris. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))\n\n### C. Belangrijk risico\nAls je financiële voordelen krijgt in het kader van een opleiding of stage **zonder** dat je de vereiste vrijstelling hebt gekregen van de bevoegde gewestelijke dienst, kan je je recht op uitkeringen verliezen. De RVA vermeldt dit uitdrukkelijk. ([rva.be](https://www.rva.be/burgers/tewerkstelling---opleiding/beroepsopleiding/u-bent-een-uitkeringsgerechtigd-werkloze-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen?utm_source=openai))\n\n**Praktisch advies:** bespreek de opleiding eerst met je Actiris-consulent én je uitbetalingsinstelling. Start pas nadat duidelijk is of de opleiding automatisch erkend is of nadat je vrijstelling formeel geregeld is.\n\n---\n\n## 4) Officiële bronnen\n\nDe belangrijkste officiële bronnen voor dit antwoord zijn:\n\n1. **Actiris** — inschrijving als werkzoekende in Brussel en timing: wie en wanneer inschrijven. ([actiris.brussels](https://www.actiris.brussels/nl/burgers/wie-en-wanneer-inschrijven/?utm_source=openai))  \n2. **Brussels Hoofdstedelijk Gewest / be.brussels** — Brusselse inschrijving als werkzoekende en werkloosheid. ([be.brussels](https://be.brussels/nl/werkgelegenheid/werk-brussel/zich-als-werkzoekende-inschrijven?utm_source=openai))  \n3. **HVW/CAPAC** — stappen na werkloosheid, termijnen, rol van HVW, RVA en gewestelijke diensten. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/nl/uitkeringen/praktische-info/werkloos-wat-nu))  \n4. **RVA/ONEM** — toelatingsvoorwaarden voor werkloosheidsuitkeringen na arbeid vanaf 1 maart 2026. ([rva.be](https://www.rva.be/bladzijde/hebt-u-recht-op-werkloosheidsuitkeringen-na-een-tewerkstelling---situatie-vanaf-01.03.2026))  \n5. **RVA/ONEM** — beperking in de tijd van werkloosheidsuitkeringen voor aanvragen na 28 februari 2026. ([onem.be](https://www.onem.be/page/jai-demande-des-allocations-de-chomage-apres-le-28.02.2026.-mes-allocations-vont-elles-etre-limitees-dans-le-temps-))  \n6. **HVW/CAPAC** — studies, stages en opleidingen in Brussel met behoud van uitkering via vrijstelling. ([hvw-capac.fgov.be](https://hvw-capac.fgov.be/fr/aide/etudes/region-de-bruxelles-capitale))  \n7. **Belgium.be** — bevoegdheden van Actiris, VDAB Brussel en Bruxelles Formation. ([belgium.be](https://www.belgium.be/nl/werk/werk_zoeken/arbeidsmarkt/gewestelijke_diensten_voor_arbeidsbemiddeling?utm_source=openai))  \n8. **RVA/ONEM T170** — opleiding/studie/stage volgen als uitkeringsgerechtigde werkloze vanaf 1 maart 2026. ([rva.be](https://www.rva.be/bladzijde/u-bent-een-uitkeringsgerechtigd-werkloze-uitkeringsaanvraag-vanaf-01.03.2026-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen?utm_source=openai))",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794599057.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 29985,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 3025,
+  "output_tokens_details": {
+   "reasoning_tokens": 559
+  },
+  "total_tokens": 33010
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 3
+  }
+ }
+}

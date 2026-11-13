@@ -1,0 +1,276 @@
+{
+ "id": "resp_00c62786ea6fec07006af76832a54487d2aa596f48c20f05b2",
+ "access_programs": null,
+ "created_at": 1794598962.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_00c62786ea6fec07006af76833ec7887d2a94d2b64b1fa4042",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92hRCge76Ed7y-NV7NTCgA3eZ8eevuopMT5tq_eTUtMzvVkmMIDpKpaYWmdEog0-Pcn383x6YnLNaBGxNz7WQNTAokn6DeFVlH__m_WPB-RfbuAOt2XQsKfx8kC4MqDPRiNRaM_0fETIFrJVfyT88DeI8aWjuY6UWmdiVU_pUxni24eMghK9PMw-tTALe4g4cytnvGWWY6Fah8UnQgMSxGrScJ7yUKqepIB6v69EOw28tyR5S6uISe3qqL3lEtOlnGYjTz4RnGb_dsPCFYiHjc1FiNXmF6AhO0y4spWLZl08WB1MW1Cs8BXwLC3lraD64zFQq-KDSvgICL4G8-dORecGVoMRGHURxvHjmKgqgV9YGJLQ4quufP-9wnO54qR2sMV9SrkPidy-8OeGMOvuKWx8kpKgZYIeSj3yYCYX_5lPTzudjCv4aoEQrhTkCnpyRUOHWZgQo26gL2lUmfWV3VP2Uwb6apr8iaUcHrMwW7fSKXl7ws8GVaF6Hb_wHEJNjaluIRMR3mNr_z2H_on9wnhcmNK43gYQem79ATQdUC8G-W2O_r51lTY7_X-3GMhXX2UyWo0mHvgUEkA8Mu5DDOiqdd_2g8bsjvjdI-qX3HJfBOJQjjOLkaGCNgPb5ewPJpzmAQ-CR3FBmtMMA1Zaag5hpVWWgYeA39kIsexB8pu5gKclhEJzviP5ooRci7dnUGsCYtXYQcFMs4Th700OE9ea_rfg9D5hbHeELXzS7_BnjCemRNLI4xsT-mO3LzAM0VQUwmPSd0lkmKF35lluGUZhZN3MlUPbX7-4Yg5ZgFAWbR8mzejo5az3u2eKPnGj_oCYpck65zar4F1xPKaE-ApEZVi0XZMrluD7OWbrQC-fwhaq0arwN8VsZuXL9Am92PcXEygmXdLvhcKYThY4sbzXy-q36_XBNqoemTwb2s-ov-IVH-Uup6vu0ruhzdLcdKZgILEeJHhP5IxpMijHbc1ez_CEeOQVmmshKlMa9Q4hpRzMS2ZREhK_VBdRDLKcQl8WdszjxicbK3dOKLCK2BxQrhIdweX8C8gSZ92qLCnJXqvME18SS6gr3E_Nk1K0gESWo6Sh4o1AhZyft3J_PHNqcUebeSfcINrV0O7WT9iZ1LRTmfSWs-9oEu5MTe9sDW4W0D38CtBxZX29t3-YE3zJh_10Yq8I8mDXCZ5ygzOd-MhHR6Gif5sAg1q6TR5F5P4xonUelmZr1zVjpHrYbCwzCft_QB5VZ_V63WUf3tMrMifcnFBAQFjlv0YqMAMxSdDgz59Lri0kboV_ikG6Y2aloIuGt0jlO_BDKJiO_maozuHdzthiRjYvdsxtn5p1iqC2T8-21cdJs7O-5BXYYszFaslRPQ_TFE459laLewsAM_2UKHqLCjPXj4af0jCZTOs6ArEfTMGOpUrQo8OjB0JbAStYni0jMlR-ygpWUDB9HAOzH5eLN8bxGqRtvYo3M0IY-MjRdAFePDmJJzxvd255LbP6nzmyzn_18Em0oNbqe-DmU0R1FC_jS5YCiHGLiCOJ-q13K95temirx8jqxWjkcilFCLDEBj6m0j7SFBcAuYb80g9vOxn5qEr0Pty-UvErJxgtmL55wzoZ8PZiWb9HEKh7lKh8nL3CS27pc4gCRn2394XPuO8h0Ws0nEFdhe2pYxXU2oe0Hs1XeBBhn5UXN2y73Po50FSjSMpk6YQEbX54tzFKLCcpVqBwuKY5kskLtslhn9A3P0LEwHzRn-mgfoGA0TCBpvFVq-UUU2L0W0WeutnUapprePXq8av-dheM",
+   "status": null
+  },
+  {
+   "id": "ws_00c62786ea6fec07006af76834300087d2b97ace0c4e6caa56",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Bruxelles parcours accueil obligatoire primo-arrivants ressortissant pays tiers moins de trois ans délai inscription 2026 officiel",
+     "Bruxelles inburgering verplicht nieuwkomers derde land minder dan drie jaar termijn aanmelden 2026 officieel",
+     "commission communautaire commune parcours accueil primo-arrivants obligatoire Bruxelles exemptions"
+    ],
+    "query": "Bruxelles parcours accueil obligatoire primo-arrivants ressortissant pays tiers moins de trois ans délai inscription 2026 officiel",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_00c62786ea6fec07006af768379ecc87d2bb5806ddcb883d23",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92hR9JT_sMNlIHILuiZNd4zgR-TmLienO8CaifxRdnylU8N0Zwa-5GlIh-neCMYtve95mOIXT-OeOXeZXPiMJgoee4RwqPrQsp4N4dIh-pDVGWDiriysXeoCTWYWE_tMEKCeHelJjxQua-oSBe11IaB6iKbcjCzlAvTIEi8AJJp9eC-F84_7uowmY_dxRWJ3tuzNiMO0MxOv5NzE63CPFm0IEXgpChEANaFeD1Fk53FgavEhSekVkcjC5Mn3yHeG9EPScXGODBRCsNG3s4TYx2i4V_jM6c8ZNoc7xBnseM7uW4e18S1TfwtRlbciOL1vqKrmhggI6PoieLVR-nCN9v-jbH3a3665Sd5Cgv_M-cLZhNC05vmWgFHnnygH5VmoFvpSJEXDbkc5YXypEvMAwIrTmeg_2h3oJhQCu1EjJ3zx7YLE9etmL7GColdurBIOB0yTDFtePIFdkbqqsavBKh7iKfCbcydACteQek1q7cij9U-6TnN7PGZakrpLb7txjn5PFthQN4--PMLwJocK9Lahq7pRmwQKOW9Z7u_zKuF7IukovPkOEojZxZenr5ZxM0ylEBqwFygmurI_DTUCuz_a-puaCqxGQ9QrVN5fpS7Pj_vbSdDApS_RUcBReFrCyhD4C1C9SkvbhJDK_M9NQhEmwD_TBf-yci6moMirnvSagJxjrTapvrtGLfdl3p_egRUmZNIyLkychzyi7V-Z6KAVnRWals2sxQa-d1PBIx7Lg5PVcxjlpppmG9Gjn5sYmk8fviFB4r-zchnEZ7xEb1uo_GO6S9srw3T-t5ESkTzmYcdQ57s4zS8qNWA1KVihFc3g_grNr9uVawotab2NzDnwMWgZN9w0buKTk3rufySkdcKSeJRpr-herTIROOBJqU-wwzOL3TxDVo-efy1lF7F2wHSqZLJoHqTYHkiMuC-ryic9b1OBRs6R3FNksK7HJr2OHBxvrw7BPTuA3O5f6d0QDDVS6ymKjwFJ6pIfDbCu48LuwATJKNuGZuhYqHRi331MoNy1V8PG5ZH_ZgLMduCKWJUCfB40Uki40hNqIO0TNetccRfkDszyCZ-VWw9OD6rfnKnM3d5K0CJON-MIOzlOti9OiI1RBiSJAoeM-zrTazjy_6_OkRzh70OMDi97SvvzUxbY6KEh0qcd-KnuGmJuEYz8icEzrGIvSEvhbj7-OWjdwc1dQfql8HYGD_D7m7NVa813K_5IZDFwJIJiEtzaDJajlYiqLsDlOEz_6_Zwl6XwSL3BLsn92JRAjGBZMq6trNVU1JhlZ45ytqci6i52ecB5lGCbUm-vHygb9YbRY1675DEBS29czKKSQSkmtk8jepfNrleIicZai27r93jjquoHBhELh56WwuhQft6naM4G9EFriJwPwkYg2chsTZUqJQF6inE1ll2Q4BEad_InwnSaHgef_mPI3owqv2bL_bYNF_yoAaGJ1F5jSXx-moPSj_cHD6hGM2VBXmo3UsldICT6v0JZ9uvy-ZTV5SbftT_lyVg5Y9YBvCm6TVEYQgTF-DElZzfD3FKi5kvHqLIZhvz18XrSolwoHw23IxbiBliUh60pSg2dZaysGYuGaH07-tn9ZPrRNodfWzms5TKhguzqDukKXtylKr62GdUQytc0x7DnyyOQPgFeS9jyP3jYzChVJv7t8qP-a0iucbGSzRadVejac7jdmcfmDMrHm182xIddpzlNdkSbGOtXY42jx1tpKlYne2ZVBZaFjiTednyUCD8_V-m_4zEF7lAy5x9tdcrVLDH_RXDNDT4PldFT6RSASBaSgneCz-aHZh-bFg==",
+   "status": null
+  },
+  {
+   "id": "ws_00c62786ea6fec07006af76837aab887d29faece7e5b528602",
+   "action": {
+    "type": "open_page",
+    "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_00c62786ea6fec07006af7683909ec87d2863c127d686e50b2",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92hRVRzWryznnba4z-DZBULRvDCQ_BvZaFLdWAPCLOEDKfZv-awAscBJx79YwUGt4dtej7G8pP_yOnktXqfqh074RQgZu0fDPVdLdMUwrzeVxp9CE6MSn1RNIxgaaP1k2Rf6G4gJzHTLr5pVLd3Ei_LsdocQiR8475WTFIy3K208YxXZdFhP5uEkcdXf-E-NTrQKQ-AR4yM77EyYz9ZM1aQ5XGMYdoEdMs8HU4kLWBDKqFi1lsBXzAkFcEgqWI475feN9hpQyYM-Q8jd03IJXNLGsURU3lhqB-uQxo3h4XJN2BBDNxqKOo9xoy4pqonneE8OJspmwnVZ2GHB2f2qMwG_T3r3A4mGzPiuqL-1h61LhcAN6dQNU4zc1hc1V77IAloQrh_ltJRKzllaSgPSx3uPNmoHmx3qAz-hotqiRC10hYm2xL4OmpuMni6nDvQFXBs9QGof1H91fAhMW4_swE13W9X-VC-i4EMjEhtB0dAW8SrRm3ol2zpQK6k01DlBObJ0zaT93V_hcUQ9NSu2bFy1AwCvyUMszRKwS0i8Sq4nQFXf2hSAuGD3qV6mGTJB24gIBMblvNGHAAdc4pw09Ccg1lEzneNN72YpF17fBWwlRktdHWcEdK6GYIl_ALe44HpWayDWf6t8zXVAC-eFrw5f6TOecd4DvhOkLxhe-ckQNfNogWuSwPK9rRl01RHVm6YSmws2I7-LaGKC2PS2iDRmIFUJRR0PTtQZ3nwEAM1NzjuNWvVmNZck2qnGkOZMasCSePgnBVXasyFhEzIuua0836kbwtMTcvoVK1UDYhBjkXpHa-GpUlShyw_c576GaJdho69nZnyPKu2MXD50WarH0BENYnDq3bbDtsyUZuzF3NrBLYyJ_gO1YNUfcMe8Fgk1SGMT9lIJ830NuRRC5D5kYzRGTOyMSCCNiG8vkLHcucmte78giQ_877KKhK1tmJKuIrpgj2oeJia_tBBVkiFQLWIGV0JnOoCH_phJzq705iKFD3HMiUGyN20S6LYUS3xvmaPjNMvxoOQ-qHC5j0Lt9UZsCrnnETNDvJbbCYFszQF4U4YYXG5uYPMc9yijulSXWwFasPhUAC9i7TjnbTnYPP6CRMqMQMv7qg1wghZCNUx_13w1ijSchGocacGzAJvRLlQLqqX2zp4i7nDq4KlwDvT1nOl_tzVBnNg0SKV87Bo1PUh7S0v5oyGayaXeE6kiXu4vXT-wAjc_0TeR5XpVnYyF-wLsJ_omY2t4nG4FeNHLGOHsa3QjGFhPCKZgUZwcAW_85MZAkGWtc1UJ2Ftu9myZbEImDKAB6yt96Xxp209c481PTJBap6RBK-LAOXdWsSmd2OJRlM8NcHb4cWGN4xU5z1yzyH1hDfYZe4YIC3_3mBwSpwgbInuNH3x9Ib0KphxNgb3_JhBKTs3DYd6ezjYErJjXMX_fpgoR4tqPdclJGKbZ0DylxdD1R0oZEYNptLv44xdnpmOm2khrin-82aSHWwA_3S1TJWa1kg_dFElQJH2eQbJS_40NtAFgSRcYE875GW4HNmEJw0QkcFqOmb7-fD89lRe1KvjRGokQCTFgqjou7wwFnho243qP70AwK4UNveckKHfFbZ0rx608KoEHf1mZ_QcqFIzgmFnVaYvjFGyfKD5KOlrIVunulc7zh87R8KfOHaspLLbRQq-lIhdLd4ORn7NsnoGyaqMvlxXubIcafhHTBwoM5kaPFsvtfTLOLCPO20SZWQRkaa9l25_Hu-ojuie1ESwAe_LNQ70k2NvHCSFhxXwPEfgE6LzusmQzQo6PhZU57aNLqMF426M42EZuybcTom2GijpDqSz5zVhUVFgELziUa5wuQDIH",
+   "status": null
+  },
+  {
+   "id": "ws_00c62786ea6fec07006af76839861887d29296ec1c542ca428",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.newcomersin.brussels/fr/trajectory"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_00c62786ea6fec07006af7683aa26c87d2b439c757e84f0db9",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92hRNLT3Yug2ZgzlMqVcnMHFeINMjpuRMMTxRNEdAQFi6HAYrtWiaSpNIRUgplRiQhJzWd2Uc5V8E1bx8kboPYOStcuXAhVnoYUXIW-PPuFqsKVQLJzrqTHJhGxbMVNgtG-6ui6at28Vsa2AYESjYA5Lns1_TkgX6MaH__o2-raUVSILi4FPkChuh_RrM5w0fxcNlQu9tWksfHvM-JYgHdoARw3tjgdL7mh4Bb2XyepuhLqyCp11jGbsLHB9xNfRliUbwj2f4IZpEcq2_BAnmyU00365XkGR8TqS3ZDtNwvaz1_fhBCllQLblqZIdjfFg0iJsM1bcNrIpSq1hY2HJQb6bFTR52JHEh5TusqLzd_ecxduZnCz61vqxqkkik2aWk7BNWjkl1lZGNgdFwJAC9bk1Im9a1VuYiLCmBwXwLAdkNKV76AIXBpUaV6h-OOeQMSgLxPngKFcfWSp2u-7Jchl7zE88tpSKOyWvGT2LVfXqd-kFeT7WQ9MlU2De2el39PFfmlXqNqAcYD9JQIrgQevKepXtJWQwwQVVEIfe3qxhcvI9JifFr1ej8iaUIuEXxEgU86pRv5YRlFCkLGWPAIlJ0OCiK-vlXobRy0ZPOHiHEHZKi1Z5gJ9DLqBLrVpNdrMwGRD8YD9bPOnlSpvKyywbCHB6XMnaWbP7Cn5JfvdvYwXVFtDEPZC9nUtu-fq1h-CuLz6Kl1OfHH1leS2dlFyu__0qac6FM_J1b-pilukY34bv7BMPj1uBB1sbJ_PbXMcdPL2RwSFYkMv18M3l9L9kB3Z1SOJokjNy6nvYZEkhcce48DndkMuTUz633sF_793Vc7C5o3xXGIIZQXjGHFQKZI7HrEhjbYUH7wu5RgXWBxDHXkuBJD78GjUQOrX1eILBSJvrDj57Af3tOl5iefIMV6WoUJb-S64-ZbnwJpRuBPLARmQccaz6OP461Ml1QB98sVJxUf3RiiE5MqIDS8M244IP54ohUTF3vKkvrpw_-jy7QIZwLN03v4GsXEm92Sxf-C_qUA4jaWr2NO3ezGZOFEmhvfMNAIi7cX1zv5FrlFdM_MFsTcKNqNxyGgWVUjjAnaLfPB6_wB3fvbrgTdn3bFGG6LK5ry2v4huMDCqB0EjVxmLb7JsoLcMNqvf_FeXZRMt9AF4O8rYkqtuTkotMbXNz-0U5IDWI-iUaox2WprvqJURoWvw773JLmyxC9bXGg_7bvMwzMjKwl1tx7mbztjmCrmClfQyR-IvYANP1v8d3piFYrIy96spqQIqir7H7Z_KpElcYj_66um8_bWlZO6eARHO1HukuG10FwGUFGLRkEpb1N2FQYrDJ2ylpMDHzw94S7MIj9tIAxdDVcOyOCBJg8HkUA2UoMKhAWTADK0PjXL7MxTdTHvGsFrlL35MwDxW1_FJhRfOcdhY4UUZioQHkSbSyao3K8uFgESLouWXzPhfyZw6ffN95gUkl7OxsQHhXnnIhLcH7ZthkU6xZxV68RoEKQSjBY2VpFAWtzK4NSU28xty7cPa7r0sFR1dDVpgNQk5TdHYVoAC9B4U6K-4WIjqpaYmgpbKmNJInadtWmFG4vBXqfPXW1g0Zz13gp0pGOeELA5dw48viWmQIoYhevVjUs8P07La0LNZ3CxkW3bBRe7yn8y1i9GSTKPHoFPmK2Jj0-FhbuuvfAS6idCI7dT6E-ceTMzAcYgrDwKBDlTzVlugh_8OFRprmaPXfDsa7A9pR66dMczcqzEnqmI_mR13x-ffDnhStpe4rL8=",
+   "status": null
+  },
+  {
+   "id": "ws_00c62786ea6fec07006af7683ada7c87d2ab813491b400c32b",
+   "action": {
+    "type": "search",
+    "queries": [
+     "site:vivalis.brussels accueil primo-arrivants Bruxelles parcours obligatoire COCOM Bon BAPA délais 6 mois 18 mois"
+    ],
+    "query": "site:vivalis.brussels accueil primo-arrivants Bruxelles parcours obligatoire COCOM Bon BAPA délais 6 mois 18 mois",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_00c62786ea6fec07006af7683d174487d2b0eddd348b29e9b0",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92hRX1tuU9lB6hjb9zFhYKdOQp6b25o5xITu7zPHYbM6LnwaqEKEbj0jphoBlmF34v0YI5mj2lsEdEi6VOwEpeGTfUBFd8SRnPfLwXd_t9dAv2kB4OLMrlvpXweILUaioWgeKddiI2HWjNNe87Qt90i0QipA3ErRN1_zAOFjX2e7csMntCo-hYVoWxaE8dEaw76VxfWf7bBlMTnESO4hnAk2_nRO_dn_ebr7P0j10KAdjkCpduaiGKF7x2GZIIH5cg74Za4CEl-2_osgtRwvGsVx0SXJlnf8xmhvIZBKv-E_SiM3CEOzlKlYKE97IiPY69gzNZOu91yuNDCJJn51SJr_Da754-iteEyhtMvFn_vc_UfBKwsuYjy_lDMwwuaeTr6MN0wbAFI3vAukJ4fdXYco6WOCGzroasgoWyWNAcF9um1ORtlfj29MLO3yGsM2uulqEp-qh67KrW5VhDkHLGTyUEecEP3wE9nlPmD_yxJJ4FFYDhfAc2GRYi6p8TjxX0prLmJPzZtqEcq5gQhXRHgqmYEXrJFrw4NXUZ6zuIFFsweHHyLe2ftVmuL1xwdk7OFiFS2Nbn-W01hXpFv_JIQzu3HExeltCbirVc3z1wRwEInkSDywDdgXC4d6OpVqsk2Ik4xvyC71-VAjrclcyv_g23NqryzmCJC5goDXu2rjv1D7bEy4yZi58DM8OK5L-Q8V7eSnu0kAPBd39d4HShUC-VPhUQbpi7KDUnQEoZvpWBw9KCuobXUHxDeK-pd84pVI2M2e6-uY_evk0MI7Ip_lQ05dOCc_DZCoVqvRZEf1I4tjcx3AoWulfpFrlNcK9ZXPalxgn2uhSX-aM_ISHKCpMJorFRQLZK7r3irgdDCYGYVKCBtNvwnOlwSybNDledN8FBp-v6y_NWVZqDYyyNKmIZa6GJufGdy0qnDIpaYbfRUAiG5_2-LNw_afgEjJ37DLuIScKZjQb_Tsri0KdbasYgJN6zUwUCTPcaMEDYluBB0ahfNLC5BTmBubGvtzevz-z59uYXHGNlTfGIr_l8_60sF6zXjxLIhnJrdPeltV3jVG58eVK_Ae2ZWeYyU3yn3WAPnrDVvZHzDvwQwl9aSQUxcgVuZLNA3rF78ygECCHG5GtQPwzxei8RjYTCn1FhqYaOS2jsTyxjxLmPMU6oe8zUH-yPQIEZXcFsUoNW1xbbfo0_7p0P4as5GgCc00ibJvw-38iXqIPJDXsUiyv3c90lBQzMF0asSsnTc5tp_tid_s_g0CaAjp6sl4ZSM21kOgHNV8JL_1UudcSO3cV9ojX-V0is7hqP3nDkD9Pd7fmgNJ8oJPINuLc0yM72sy5g6rli2c-SyRq1Vk4hK1lCrPIcdJoQBSjy1YdKZyUZsMqju5pJb-ZZqmeLxBSKnrVgbMHeGT6J7tQLYMtL8hejJCTS0jK_dAyG3uQMF0kvPRcjBX4QY9c7y7U-s-9o6c3ey9RMgHEXl7_yJaQJzgH41QyV3MDnYjlQdiuDjR5YlSaweJJxlqbr3MbD9cPbNXvw_rt2TXGRY-KVClFiMsd2afjuk9H0_a3Oi0HzG6PYZ7m5ucs4K_mFdmPIBaQKh3s5C_Ecze36Q8G-ZQ79IuM4mSErea9E0hDHJnA-bYFR-CrTWd2cYAqTOzRXK2jdHQjbzbRmHxErSCjdVndU2xLZBR3rpU5yPRN4HVdc2qXVo3vY0WDQugR7xWz0DwGqWLJTjPXKX7CWwMGuFDJro7n7N2R5PuOLI0RYoX_1aO0OEJJ7FgLmbxMLKGAkSO23gK9iD5TAYFMWXo27rjDWOrds_RzCjRJ3chs1NFwaW0A2sBRuIjh-wG2j9hDvzWWjKlpuklRSkHMEdkM-JzRWTri4nH6EfUOqKglBm7Q2lAcJTjHRb27NYyiw3Ioi61Sn8RkMINXJq-1ZGwpWdK4NNrXlzPUmWHwRxLg1uo81nZ_RaS8iQ7CkJksvMbrh2Wsdak0nTuWi5ctEbi3Rg92oHFdQ_PWmfatAUj75n7gxTP23mFZYI=",
+   "status": null
+  },
+  {
+   "id": "msg_00c62786ea6fec07006af7683db8e487d2bdba3e6211182e41",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 844,
+       "start_index": 738,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 1635,
+       "start_index": 1529,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      },
+      {
+       "end_index": 2076,
+       "start_index": 2028,
+       "title": "18 JANVIER 2024. - Arrêté du Collège réuni de la Commission communautaire commune portant exécution de l'Ordonnance du 20 juillet 2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes étrangères",
+       "type": "url_citation",
+       "url": "https://refli.be/fr/lex/2024000670"
+      },
+      {
+       "end_index": 2496,
+       "start_index": 2424,
+       "title": "Déroulé du parcours - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/trajectory"
+      },
+      {
+       "end_index": 3075,
+       "start_index": 2858,
+       "title": "L’intégration des primo-arrivants | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants?utm_source=openai"
+      },
+      {
+       "end_index": 3510,
+       "start_index": 3438,
+       "title": "Déroulé du parcours - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/trajectory"
+      },
+      {
+       "end_index": 4061,
+       "start_index": 4013,
+       "title": "18 JANVIER 2024. - Arrêté du Collège réuni de la Commission communautaire commune portant exécution de l'Ordonnance du 20 juillet 2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes étrangères",
+       "type": "url_citation",
+       "url": "https://refli.be/fr/lex/2024000670"
+      },
+      {
+       "end_index": 4478,
+       "start_index": 4412,
+       "title": "Bapa - Newcomers in Brussels",
+       "type": "url_citation",
+       "url": "https://www.newcomersin.brussels/fr/bapa"
+      },
+      {
+       "end_index": 5264,
+       "start_index": 5158,
+       "title": "Ordonnance du 20/07/2023 concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes etrangeres",
+       "type": "url_citation",
+       "url": "https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html"
+      }
+     ],
+     "text": "Oui — **d’après les critères que vous décrivez, le parcours d’accueil / d’intégration à Bruxelles est obligatoire pour vous**, sauf si vous tombez dans une exemption spécifique.\n\n## 1) Obligation et exemptions pertinentes\n\nVous correspondez à la définition du **« primo-arrivant visé par l’obligation »** à Bruxelles : étranger majeur, **moins de 65 ans**, séjournant légalement en Belgique depuis **moins de 3 ans**, inscrit pour la première fois au registre des étrangers d’une commune bruxelloise avec un titre de séjour de **plus de 3 mois**, et sans exemption. À 40 ans, ressortissant hors UE, dans votre première inscription bruxelloise et avec séjour légal de moins de 3 ans, vous êtes donc en principe dans le groupe obligatoire. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nLes exemptions importantes à vérifier sont notamment : citoyenneté d’un pays **UE/EEE/Suisse** ; certains **membres de famille** de citoyens UE/EEE/Suisse bénéficiant du droit de séjour européen ; séjour temporaire limité à **maximum 1 an** ; certains séjours liés uniquement au travail, études, formation, stage, échange ou volontariat lorsque le droit de séjour est limité à cette activité ; protection temporaire ; maladie grave ou handicap rendant la participation définitivement impossible ; possession d’une attestation d’un parcours similaire ; certains diplômes/certificats d’études belges ; ou statut de résident longue durée UE avec conditions d’intégration déjà remplies. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\nIl existe aussi des **suspensions** — ce ne sont pas des exemptions définitives — par exemple si votre horaire de travail ou de formation vous empêche de suivre le parcours, en cas de maladie temporaire, naissance d’un enfant, soins à un proche, décès d’un proche, liste d’attente faute de places, ou absence de solution de garde pour un jeune enfant. Ces suspensions prolongent les délais. ([refli.be](https://refli.be/fr/lex/2024000670))\n\n## 2) Autorité ou bureau à contacter\n\nLa commune de votre domicile vérifie votre situation lors de l’inscription au registre des étrangers et, si vous êtes soumis à l’obligation, elle vous remet une brochure et une **attestation d’obligation**. Ensuite, vous devez vous inscrire auprès d’un bureau d’accueil agréé : **BON** ou l’un des **BAPA**. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/trajectory))\n\nLes bureaux indiqués officiellement par Vivalis sont :\n\n- **BON** — parcours néerlandophone, à Bruxelles, Schaerbeek ou Anderlecht — tél. 02 701 73 80 ;\n- **BAPA BXL** — Bruxelles — tél. 02 279 49 70 ;\n- **BAPA Convivial** — Forest tél. 02 315 39 00 ; Anderlecht tél. 02 315 40 50 ;\n- **BAPA VIA** — Schaerbeek tél. 02 563 52 50 ; Molenbeek tél. 02 563 52 51. ([vivalis.brussels](https://www.vivalis.brussels/fr/piloter-la-sante-et-le-social-a-bruxelles/quelles-sont-les-politiques-sociales-sante-que-nous/aide-aux-personnes/lintegration-des-primo-arrivants?utm_source=openai))\n\n## 3) Délais d’inscription et d’achèvement\n\nAprès réception de votre titre de séjour et de l’attestation d’obligation, vous avez **6 mois pour vous inscrire** auprès de BON ou d’un BAPA. Une fois inscrit, vous avez **18 mois pour terminer** le parcours. L’attestation d’inscription puis l’attestation de fin de parcours doivent être transmises à votre commune. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/trajectory))\n\nLe contrôle communal est prévu comme suit : la commune vérifie après 6 mois si vous avez remis une attestation d’enregistrement régulier ; si ce n’est pas le cas, elle vous adresse une sommation vous donnant 2 mois pour vous mettre en règle. Elle vérifie ensuite, 18 mois après votre enregistrement auprès d’un organisateur, si vous avez remis l’attestation de fin de parcours. En cas de non-respect, une amende administrative peut s’appliquer ; Vivalis indique une fourchette de **100 € à 2.500 €**. ([refli.be](https://refli.be/fr/lex/2024000670))\n\n## 4) Choix entre français et néerlandais\n\nOui. À Bruxelles, vous pouvez suivre le parcours **en français ou en néerlandais**. Les BAPA proposent un parcours francophone ou néerlandophone, et BON propose le parcours néerlandophone. Les cours de langue peuvent viser le français ou le néerlandais, selon votre profil et la réglementation applicable. ([newcomersin.brussels](https://www.newcomersin.brussels/fr/bapa))\n\n## 5) Sources officielles actuelles\n\nLes principales sources officielles actuelles sont :\n\n- **Ordonnance COCOM du 20 juillet 2023** sur le parcours d’accueil et d’accompagnement des primo-arrivants et personnes étrangères — définition du public obligatoire et exemptions ;\n- **Arrêté du Collège réuni du 18 janvier 2024**, entré en vigueur le 1er janvier 2024 — modalités pratiques, inscriptions, attestations, suspensions, contrôle et sanctions ;\n- **Vivalis / COCOM** — page officielle « L’intégration des primo-arrivants » avec critères, bureaux agréés, délais et contacts ;\n- **Newcomers in Brussels** — site d’information pratique sur le déroulé, les délais, BON et BAPA. ([etaamb.openjustice.be](https://etaamb.openjustice.be/fr/ordonnance-du-20-juillet-2023_n2023044135.html))\n\n**Conclusion :** sur la base des éléments que vous donnez, vous devez vous inscrire dans les 6 mois auprès de BON ou d’un BAPA, puis terminer le parcours dans les 18 mois suivant cette inscription, sauf si vous pouvez prouver une exemption ou obtenir une suspension.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794598992.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 28693,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 1687,
+  "output_tokens_details": {
+   "reasoning_tokens": 331
+  },
+  "total_tokens": 30380
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 2
+  }
+ }
+}

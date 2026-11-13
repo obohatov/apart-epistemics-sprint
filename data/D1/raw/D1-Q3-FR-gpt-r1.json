@@ -1,0 +1,238 @@
+{
+ "id": "resp_0b73bb7563cff057006af76479991487d28e23a2de463a7db4",
+ "access_programs": null,
+ "created_at": 1794598009.0,
+ "error": null,
+ "incomplete_details": null,
+ "instructions": null,
+ "metadata": {},
+ "model": "gpt-5.5-2026-04-23",
+ "object": "response",
+ "output": [
+  {
+   "id": "rs_0b73bb7563cff057006af7647a44b487d2a3c85477dbc55df4",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92SkZ59zRRRptkEsn3OSel33BK1LJTHotFNiy6tClG96t8eeVry1qtXHEdnZ9oF7yDRmRcP14tMy4dp-2c788zMPeEqewKu1jxh6KTc3Al7UP5LOgU4lzMjTFMkKEahTfWMaUsfm6RfQQW3WTnplTIzi51oR833Bee2PZG6PNCcg37tJi2r0gUrg0pb9d4tN-9QG81I5Bfq1Kc7pMACgpKGAXtxf-KN2hsnTl8R99oODMv3b4TqiiPRXEEdBb3WVIyjQHLfv2x-eEEyTkirbHXBadvOVpCHn5B48O0QuH9sKs3a5SDMRQgbDWhRs8Jfv0ws0wEBigKs_za5da4rk0sc_ax2n83ZybpBN0R-7aqFmKZBTnEBNIFgWxlJTohHVJsT6bwfKK76ZM7vu8yN99NccGg8DWZer9w-A8ju4Ip3h_HmSQUg2BMF-ujYXU-VBDuCZOCbIlA3tLtqGglDkjqRVIr0FYdysgiPnw6GvwGDwh9pTqwb-N5Pkn2aYNvEIDz3Gj3xggw8SrOZPgRxwuAH-ZM6T-hGzxdet0qVIDN0WtuSDe7HT0thm-F0tUNyyt22DmSxBSZr6BEtFRb9iqy3LWFE11vXB2EBMmzYU1y9Ql-4Wm808y7H-ePsR4BG7k4z4wDdqBt4tfcCDntNcSUG1nqZ3-hJnJHYB1lWUZV2Bj1WrhhCUs2rLFcej6OR5NuVRPww_4mxeioJ1_CWS052FwLj50358xvaIhUH-cV36W1ihcjH52StZJOy0-8lPIpbSsdgR_8sgdjV41qVMu8ekdvjjZEPuG2ZU21QmgTs7uiGsET3csSlmAM3o4tKAZL_lAG8A-gw3r9ZEk_TfJLnvA_nRKSCLCGnNUURa9E9U68htQ0IQSBcTb3vFbPWh88Fj3GoaN8cLQ_a-oA_i9cXNxvdeElKE0rOXyKhQALTcQKVkyvvYoHqhqEPh7e2pJ9PsQ_UT_jonESvOnmpbxI0d5wJzguBnMENZ4PxEpi7Z1Sxh-7cjmYto_XwxYUxJNIubB_S41lnUvz0RRUGFddpDeVhNI1P_GRtJRVu_SLhuwInYoBgruhhZwFcDby1iLZMHm09nkZ8ZvQRMRYz1_694DfgsgngphQuvcZ7vfJXTi-jofxnBDG0vyfDsS22VWMZA2Xfm2509MYo-k-2eCoEQiVL_GfzMzgZV0mUjACLs2HA72WxO5fHMyK73ZP0J1QQ_ESkyDuMJZcC5hIDqno6d6xT9gL0zndiwIjrWBtLM7br0ZjtoTx6nv3hYxyQad6NfidJRJJc8zXwtDd3gGSPKqN7JMqOSQswQ_PQ59OkWqm9jeRHL_OEIGd0vqhpeU6OE7QT5_9Fezmkrz9FxUGFtSK4Rv25kmVjP87pYjMBYK-vKnLvaT0TYnCW1uRZGquvdW4TxGD035GEoi236Ehlcvd5xBzQgEiYlDkU2JfO0OydRVKZVIDqigGvCT978Tou3CK0QuAIXkJpvvXO9suCDgH7HeHAm9hBCx0_FVnks2QI8TxRdVr2iCRCEQ7SQQ9pjhuFyv24UsZj4Wzp_mgPxYM5V1RiTvwPStrrfnnr9BFFgTqJFfrN0JKSPlIlFsGKzkglXzaZzyQHA6oVCkiX7Hbt83UBXmwp8Ehgi-Yf1Hk7VJ07lCZY4EeJ--uEZgoiiMchAQ2J3f1MU0NvTxSYVbLGIHLReBljNz_OS0_HzWXrWLLkwyKjRsS4fO8XIrRQz5MI-aX6sCNMqs0P-2FYsSghmdvUn8OI5oD7kEXeLLw6hmh2NZwqa1siGooeKEWcM",
+   "status": null
+  },
+  {
+   "id": "ws_0b73bb7563cff057006af7647aa2d487d2a1fdfbd659711b67",
+   "action": {
+    "type": "search",
+    "queries": [
+     "Belgique Bruxelles reconnaissance diplôme étranger profession réglementée équivalence diplôme supérieur Fédération Wallonie Bruxelles NARIC Vlaanderen official",
+     "Bruxelles diplôme étranger travailler équivalence obligatoire secteur privé public profession réglementée official",
+     "Fédération Wallonie Bruxelles équivalence diplôme enseignement supérieur étranger emploi public privé profession réglementée",
+     "NARIC Vlaanderen recognition foreign diploma Brussels official"
+    ],
+    "query": "Belgique Bruxelles reconnaissance diplôme étranger profession réglementée équivalence diplôme supérieur Fédération Wallonie Bruxelles NARIC Vlaanderen official",
+    "sources": null
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "rs_0b73bb7563cff057006af7647e70d487d28c4054b39299e84d",
+   "summary": [],
+   "type": "reasoning",
+   "content": [],
+   "encrypted_content": "gAAAAABq92SkT_660uigkiDmpYvZ4M3F3Scm9qVDefmGzU7DkGHXneMJfw8kfiu4J8ZJA_XF9NLRcJxzlRZVnmPH1AXuklQg0tk9gzdqqyDbPL4vPQKuPBC8J2FEmLMJteRJbGtawG6y0UgRWkijaB6OCIzE1sLPW1DAj4rCjmiehvcUFEu1VanULp-SNT7S8p9Dc9WTy2uaJoiWI8NBHYKtfVUYtfao8Fc69k1uPu7s3D_XlECNwNM0sCj-dBhkyLfXAxz_n7k2GnxEHxGReYUGEDyj_CakiVNMtj3JU6e5iRJmrCWw76VafhNou6h6irh6tgtFTx-JGfVa6mBxLp41ZktK3N4s_v8oG-KcLgm_n1H8GQMpR_0hzYjyJiSPjLx0K9cIwwvHIc59svkgVTFFXi11MR-ehi2jVE28rBaOos_WoXhHpFqJMj6FmeB7a0DGAryFbyVZ2Ur1tYb7HIcNgVj75fEBDvQODIULHTUSjOuiKSVRMVy3HvU4GaDMY1FFXaxoIdvo_phnnVvxejoJ96Qxem1zT9JUtRaRtaS9bAeh5pVJmr0fpvx6Oma4hMJKTVgK55H-KKlhpst-jmWgEQFn6L3iNMrtV8VO1kS6feJki5zFR9HySJpTgcN0TTf2uuCSVSlj8d7o3NjSlm0Ed3VLAnJCnzVDOwqWG2jlH2eor4iVr-uDseqUw_Bdjx_-RQYOwIy__SL4ivW8gu9cA9ku5qEbdNbCh9UCTb7tndIocWpc-KCSiKxdzMAqHj0WtdtZ-JfodeI9FQjrYnH7X_TaMMphzG3lKuN6owlVxN6XRRMexhN8gvQNbQ4cICdTsfCJHywUySx2GX2qvZJo5z_yBK1po1izJcfZ5FAqDtkx50IEXAzgjQAsXLnW-iQVualfoAZUrRjla3Jgnop7IPokXIiTQEtwZLNrtwtsLu9l1AgjnatuJMFKiRLVxvSv_kgx7GrI0XA8gvaBJBlr4yw6Tjt_rn_q53atG0dCYluVCj8DG0itSZ84DHkPhlejfJ41w5dgJC33YQvgIr7OfuNkzucIxRUlz5Kcap-7zgiMAi3XRObHa4isuz4oXpmeIhkcqeg0AvQUS3kScaRip7sU7_eztBPgeuHgmdmHzwLfuWu1SSCRmcqQLe2gnHWmJT3PDcDJB0FPU9EWZz6N9GxcTNw_aOJ246y0C5pYaeQbfWWi78-AvdbMe2rDm68JNZf733zBrHL8daddzNVSfXQvrLBskvLeyugO-KGFz5JAndv-EQ8OZ-cp0XQKqmnVfJcAecPHGH2X4Bu59acoID7OyEGG9XEIeKfwhMHYOrHjh9Bl4YB2ZZPrsE3FSfBccF8crfZ6Wgd-zuXdtjGbJYEy11fLBJImEduAgFdS90tiMT1hbnlXEzrL1qm6nlM84c8yChYDF9s3AIgp-pujDWMUlyXPL5kK1EZJYXB8Ktvb3lP-9jkpz4aSHrIEfxTOo7eL670c4qY9QfgLNx9dx83E5rpsLmT_zsAcswdchlSjLQ1-zlnIRLBWDtN7IIx8n9LMzWnscilkDAks7lPvii_uLeQj3vCVUCLstyotlWx0ywo0jTN6cMSn17sL5IaQh1l63aEWSb_MrJlcb4ZBFok6_gJLN3jAqbSk537XbSA1Iz1958cNCyL5SCV7kh18NOj7686ilae3x7eVYHJQMqwZwrP6b5LeGaM0y8L2lCTjQGKLTDnL8cLplOXTxO1CeOJYgS4x6iRR5XT979MHh7wB33nSr7QrcqJjeiZUwVBuKtO2izIO6KzS_aoEJD1dKdBLVsPJvJCaSoFyOulyYrGVrtMdW5hn6uZSDdBUb2nVZ9vu0Lc=",
+   "status": null
+  },
+  {
+   "id": "ws_0b73bb7563cff057006af7647ee1f887d29ec1bda721096c79",
+   "action": {
+    "type": "open_page",
+    "url": "https://www.actiris.brussels/fr/citoyens/equivalence-de-mes-diplomes/"
+   },
+   "status": "completed",
+   "type": "web_search_call"
+  },
+  {
+   "id": "msg_0b73bb7563cff057006af76480859087d2b72c98fe7af9eade",
+   "content": [
+    {
+     "annotations": [
+      {
+       "end_index": 1093,
+       "start_index": 1035,
+       "title": "Profession réglementée : faire reconnaitre vos qualifications professionnelles",
+       "type": "url_citation",
+       "url": "https://business.belgium.be/fr/11"
+      },
+      {
+       "end_index": 1510,
+       "start_index": 1419,
+       "title": "Equivalence de mes diplômes | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/equivalence-de-mes-diplomes/"
+      },
+      {
+       "end_index": 2861,
+       "start_index": 2738,
+       "title": "Recognition and equivalence of a foreign diploma or certificate in Flanders | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders"
+      },
+      {
+       "end_index": 3114,
+       "start_index": 3028,
+       "title": "Equivalence des diplômes | Belgium.be",
+       "type": "url_citation",
+       "url": "https://www.belgium.be/fr/formation/international/diplomes/equivalence"
+      },
+      {
+       "end_index": 4235,
+       "start_index": 4177,
+       "title": "Profession réglementée : faire reconnaitre vos qualifications professionnelles",
+       "type": "url_citation",
+       "url": "https://business.belgium.be/fr/11"
+      },
+      {
+       "end_index": 4921,
+       "start_index": 4830,
+       "title": "Equivalence de mes diplômes | Actiris",
+       "type": "url_citation",
+       "url": "https://www.actiris.brussels/fr/citoyens/equivalence-de-mes-diplomes/"
+      },
+      {
+       "end_index": 6351,
+       "start_index": 6293,
+       "title": "Profession réglementée : faire reconnaitre vos qualifications professionnelles",
+       "type": "url_citation",
+       "url": "https://business.belgium.be/fr/11"
+      },
+      {
+       "end_index": 7249,
+       "start_index": 7171,
+       "title": "Professions réglementées | Vivalis",
+       "type": "url_citation",
+       "url": "https://www.vivalis.brussels/fr/professions-reglementees"
+      },
+      {
+       "end_index": 8689,
+       "start_index": 8566,
+       "title": "Recognition and equivalence of a foreign diploma or certificate in Flanders | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders"
+      },
+      {
+       "end_index": 9599,
+       "start_index": 9391,
+       "title": "Applying for recognition of equivalence of your diploma by NARIC-Vlaanderen | Flanders.be",
+       "type": "url_citation",
+       "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma/applying-for-recognition-of-equivalence-of-your-diploma-by-naric-vlaanderen"
+      }
+     ],
+     "text": "Voici la logique à suivre **à Bruxelles** pour un **master obtenu hors UE/EEE**.\n\n## 1) Une reconnaissance officielle / équivalence est-elle toujours obligatoire pour travailler à Bruxelles ?\n\n**Non, pas toujours.** Cela dépend surtout du **type d’emploi ou de profession**.\n\n- **Secteur privé – emploi non réglementé** : en principe, **pas d’obligation légale générale** d’obtenir une équivalence. L’employeur peut toutefois la demander pour évaluer votre niveau ou comparer votre diplôme à un diplôme belge.\n- **Secteur public** ou **institution subsidiée par les pouvoirs publics** : une équivalence ou reconnaissance est généralement demandée si le poste exige un diplôme déterminé.\n- **Profession réglementée** : oui, il faut une reconnaissance/autorisation appropriée avant d’exercer, car la loi impose certaines qualifications, un titre, une inscription ou une autorisation. Une profession est réglementée lorsqu’un diplôme, une expérience, un examen ou une inscription auprès d’un organisme professionnel est exigé légalement. ([business.belgium.be](https://business.belgium.be/fr/11))\n\nActiris résume la situation ainsi : la reconnaissance d’un diplôme étranger d’enseignement supérieur peut être nécessaire pour travailler dans le privé ou le public, mais précise que, **dans le secteur privé, l’équivalence n’est pas toujours nécessaire**, tandis que, dans le secteur public ou subsidié, elle sera demandée. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/equivalence-de-mes-diplomes/))\n\n---\n\n## 2) Quelles autorités sont compétentes pour Bruxelles, et comment choisir ?\n\nBruxelles est bilingue et les compétences en matière d’enseignement relèvent des **Communautés**. Pour un diplôme d’enseignement supérieur étranger, les deux interlocuteurs principaux sont donc :\n\n1. **Fédération Wallonie-Bruxelles — centre ENIC/NARIC francophone / Service de la reconnaissance académique et professionnelle des diplômes étrangers d’enseignement supérieur**  \n   À privilégier si vous visez un employeur, un ordre, une administration ou une procédure francophone, ou si l’organisme concerné demande une équivalence délivrée par la Fédération Wallonie-Bruxelles.\n\n2. **NARIC-Vlaanderen — Communauté flamande**  \n   À privilégier si vous visez un employeur ou une procédure néerlandophone, ou si l’organisme concerné demande une reconnaissance flamande.\n\nPour Bruxelles, le choix peut dépendre de l’employeur. Le site officiel flamand indique que si vous voulez travailler pour un employeur bilingue néerlandais/français, vous pouvez introduire une demande soit auprès de **NARIC-Vlaanderen**, soit auprès du centre NARIC de la **Fédération Wallonie-Bruxelles**, et recommande de demander à l’employeur futur ce qu’il préfère. ([vlaanderen.be](https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders))\n\nLe portail fédéral Belgium.be confirme que, pour les études supérieures, les centres NARIC des Communautés française et flamande sont les interlocuteurs compétents. ([belgium.be](https://www.belgium.be/fr/formation/international/diplomes/equivalence))\n\n---\n\n## 3) Différences selon le cas\n\n### A. Emploi non réglementé dans le secteur privé\n\nSi le poste n’est **pas réglementé** — par exemple beaucoup de fonctions en entreprise, consultance, marketing, IT, gestion, communication, etc. — il n’existe généralement **pas d’obligation légale** de reconnaissance officielle du diplôme.\n\nDans ce cas :\n\n- l’employeur peut décider lui-même si votre diplôme et votre expérience sont suffisants ;\n- une équivalence peut néanmoins être utile pour rendre votre profil plus lisible ;\n- l’employeur peut la demander dans son processus de recrutement, même si la loi ne l’impose pas toujours ;\n- vous pouvez demander soit une reconnaissance auprès de la Fédération Wallonie-Bruxelles, soit auprès de NARIC-Vlaanderen selon l’environnement linguistique ou la préférence de l’employeur.\n\nLe portail fédéral sur les professions réglementées précise que, pour les **professions non réglementées**, il n’y a pas d’exigence légale de qualification et pas de procédure obligatoire de reconnaissance de qualification professionnelle. ([business.belgium.be](https://business.belgium.be/fr/11))\n\n### B. Emploi dans le secteur public\n\nPour un emploi dans une administration, un organisme public ou une institution subsidiée, la situation est différente : si le poste exige un certain niveau ou type de diplôme belge, l’administration devra pouvoir vérifier que votre diplôme étranger correspond au niveau requis.\n\nEn pratique, cela signifie qu’une **équivalence ou reconnaissance officielle** sera souvent exigée. Actiris indique explicitement que, pour travailler dans le secteur public ou dans une institution subsidiée par les pouvoirs publics, une équivalence de diplôme sera demandée. ([actiris.brussels](https://www.actiris.brussels/fr/citoyens/equivalence-de-mes-diplomes/))\n\nLe type de reconnaissance à demander dépendra de l’exigence du poste :\n\n- **reconnaissance de niveau** : votre diplôme est reconnu comme correspondant à un niveau, par exemple master ;\n- **reconnaissance spécifique** : votre diplôme est reconnu comme correspondant à un diplôme belge précis, par exemple master en droit, master en sciences économiques, master en ingénierie, etc.\n\nIl faut donc lire attentivement l’offre d’emploi ou demander à l’administration recruteuse quel type de reconnaissance elle accepte.\n\n### C. Profession réglementée\n\nUne profession réglementée est une profession pour laquelle la loi impose des conditions : diplôme déterminé, titre protégé, agrément, inscription à un ordre ou autorisation. Exemples typiques : médecin, infirmier, pharmacien, architecte, enseignant, psychologue dans certains cadres, professions de santé, certaines professions juridiques, etc.\n\nDans ce cas, la question n’est pas seulement de savoir si votre diplôme est de niveau master : il faut vérifier si votre formation donne accès à **la profession réglementée belge correspondante**.\n\nLa procédure peut donc comporter plusieurs étapes :\n\n1. **Identifier si la profession est réglementée en Belgique.**  \n   Le portail fédéral indique qu’une profession est réglementée lorsque la loi impose des qualifications professionnelles pour l’exercer ou en porter le titre. ([business.belgium.be](https://business.belgium.be/fr/11))\n\n2. **Identifier l’autorité compétente.**  \n   À Bruxelles, cela peut être :\n   - la Fédération Wallonie-Bruxelles ou NARIC-Vlaanderen pour l’équivalence académique ;\n   - une autorité professionnelle spécifique ;\n   - un ordre professionnel ;\n   - une autorité régionale ou communautaire ;\n   - pour certaines professions de santé à Bruxelles, **Vivalis / Cocom** peut intervenir selon la profession et le régime applicable.\n\n3. **Demander la reconnaissance appropriée.**  \n   Vivalis précise que si vous détenez un diplôme étranger et souhaitez exercer une profession réglementée dans la Région bilingue de Bruxelles-Capitale, vous devez faire reconnaître ce diplôme ; l’endroit où demander la reconnaissance dépend notamment du diplôme, du lieu d’obtention — EEE, hors EEE ou Suisse — et de la profession concernée. ([vivalis.brussels](https://www.vivalis.brussels/fr/professions-reglementees))\n\nComme votre master a été obtenu **hors UE/EEE**, il faut être particulièrement attentif : les procédures simplifiées de reconnaissance professionnelle prévues par la directive européenne 2005/36/CE concernent surtout les qualifications obtenues dans l’UE/EEE ou en Suisse. Pour un diplôme hors UE/EEE, l’autorité belge compétente peut demander une analyse plus complète du programme, des stages, de l’expérience, voire des mesures complémentaires.\n\n---\n\n## 4) Comment procéder concrètement ?\n\n### Étape 1 — Déterminer votre objectif exact\n\nAvant d’introduire une demande, clarifiez :\n\n- le métier visé ;\n- l’employeur visé : privé, public, subsidié ;\n- la langue ou communauté de référence : francophone, néerlandophone, bilingue ;\n- si la profession est réglementée ;\n- si l’on vous demande un **niveau** de diplôme ou un **diplôme spécifique**.\n\n### Étape 2 — Demander à l’employeur ou à l’autorité professionnelle ce qui est accepté\n\nÀ Bruxelles, surtout pour un employeur bilingue, il est utile de demander explicitement :\n\n> « Acceptez-vous une reconnaissance de la Fédération Wallonie-Bruxelles, une reconnaissance de NARIC-Vlaanderen, ou avez-vous une préférence ? »\n\nLe site officiel flamand recommande justement de demander au futur employeur quel centre NARIC il préfère lorsque l’employeur est bilingue. ([vlaanderen.be](https://www.vlaanderen.be/en/recognition-and-equivalence-of-a-foreign-diploma-or-certificate-in-flanders))\n\n### Étape 3 — Choisir la procédure\n\n- Pour une reconnaissance côté francophone : introduire une demande auprès du service compétent de la **Fédération Wallonie-Bruxelles**.\n- Pour une reconnaissance côté néerlandophone : introduire une demande auprès de **NARIC-Vlaanderen**.\n- Pour une profession réglementée : vérifier d’abord l’autorité compétente spécifique ; la reconnaissance académique ne suffit pas toujours à elle seule.\n\nNARIC-Vlaanderen indique que la demande se fait via son portail en ligne et que l’assistant de demande aide à déterminer si une reconnaissance est nécessaire, où introduire la demande, quel type de reconnaissance demander, quels documents fournir, le coût et le délai. ([vlaanderen.be](https://www.vlaanderen.be/en/working-enterprise-and-investment/working/working-in-flanders-with-a-foreign-diploma/applying-for-recognition-of-equivalence-of-your-diploma-by-naric-vlaanderen))\n\n---\n\n## En résumé\n\n| Situation | Équivalence / reconnaissance obligatoire ? | Autorité probable |\n|---|---:|---|\n| Emploi privé non réglementé | Pas toujours obligatoire ; dépend de l’employeur | FWB ou NARIC-Vlaanderen si utile ou demandé |\n| Emploi public ou subsidié | Généralement oui si le diplôme est une condition d’accès | FWB ou NARIC-Vlaanderen selon l’employeur |\n| Profession réglementée | Oui, reconnaissance/autorisation nécessaire | Autorité professionnelle compétente + éventuellement FWB/NARIC-Vlaanderen |\n| Employeur bilingue à Bruxelles | Choix possible selon préférence de l’employeur | Demander à l’employeur : FWB ou NARIC-Vlaanderen |\n\n**Conseil pratique :** ne commencez pas automatiquement par une équivalence générale. Identifiez d’abord l’emploi ou la profession visée, puis demandez à l’employeur ou à l’autorité professionnelle quelle reconnaissance est exigée. Cela évite de payer ou d’attendre pour une procédure qui ne serait pas celle réellement nécessaire.",
+     "type": "output_text",
+     "logprobs": []
+    }
+   ],
+   "role": "assistant",
+   "status": "completed",
+   "type": "message",
+   "phase": "final_answer"
+  }
+ ],
+ "parallel_tool_calls": true,
+ "temperature": 1.0,
+ "tool_choice": "auto",
+ "tools": [
+  {
+   "type": "web_search",
+   "external_web_access": null,
+   "filters": null,
+   "search_context_size": "medium",
+   "user_location": {
+    "city": "Brussels",
+    "country": "BE",
+    "region": "Brussels",
+    "timezone": null,
+    "type": "approximate"
+   },
+   "return_token_budget": "default",
+   "search_content_types": [
+    "text"
+   ]
+  }
+ ],
+ "top_p": 0.98,
+ "background": false,
+ "completed_at": 1794598051.0,
+ "conversation": null,
+ "max_output_tokens": null,
+ "max_tool_calls": null,
+ "moderation": null,
+ "previous_response_id": null,
+ "prompt": null,
+ "prompt_cache_diagnostics": null,
+ "prompt_cache_key": null,
+ "prompt_cache_options": null,
+ "prompt_cache_retention": "24h",
+ "reasoning": {
+  "context": "current_turn",
+  "effort": "low",
+  "generate_summary": null,
+  "mode": "standard",
+  "summary": null
+ },
+ "safety_identifier": null,
+ "service_tier": "default",
+ "status": "completed",
+ "text": {
+  "format": {
+   "type": "text"
+  },
+  "verbosity": "medium"
+ },
+ "top_logprobs": 0,
+ "truncation": "disabled",
+ "usage": {
+  "input_tokens": 17295,
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3712,
+   "cache_write_tokens_details": {
+    "ttl_12h_tokens": 0,
+    "ttl_30m_tokens": 0
+   }
+  },
+  "output_tokens": 2473,
+  "output_tokens_details": {
+   "reasoning_tokens": 225
+  },
+  "total_tokens": 19768
+ },
+ "user": null,
+ "billing": {
+  "payer": "openai"
+ },
+ "frequency_penalty": 0.0,
+ "image": {
+  "context_compression": "disabled"
+ },
+ "input_transformations": [],
+ "presence_penalty": 0.0,
+ "store": true,
+ "tool_usage": {
+  "image_gen": {
+   "input_tokens": 0,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "output_tokens": 0,
+   "output_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 0
+   },
+   "total_tokens": 0
+  },
+  "web_search": {
+   "num_requests": 1
+  }
+ }
+}
